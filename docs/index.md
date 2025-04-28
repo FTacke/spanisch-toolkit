@@ -8,7 +8,7 @@ Die Idee zu diesem digitalen Sachbuchprojekt ist nicht aus dem Nichts entstanden
 
 *Besonderer Dank gebührt daher Rolf Kreyer!*
 
-!!! details "📚 Bibliographische Angabe"
+!!! details "📚 Referenzwerk"
     **Rolf Kreyer (2023):** *The Linguistic Toolkit for Teachers of English: Discovering the Value of Linguistics for Foreign Language Teaching.*  Tübingen: Narr Francke Attempto Verlag. [Zum eBook](https://www.narr.de/the-linguistic-toolkit-for-teachers-of-english-18611/)
 
 Eine ausführlichere Darstellung der Grundidee findest Du in der [Einleitung](einleitung.md). Wenn du sofort starten möchtest, kannst Du über die Navigation auch direkt in eines der Kapitel springen.
