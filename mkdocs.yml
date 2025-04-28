@@ -1,0 +1,52 @@
+site_name: Spanische Linguistik @ School
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue     # Material-Design-Standardfarbe für hellen Modus
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Wechsel zu Dunkelmodus
+    - scheme: slate
+      primary: blue     # Auch im Dunkelmodus bleibt es konsistent
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Wechsel zu Hellmodus
+
+nav:
+  - Start: index.md
+  - Vorwort: vorwort.md
+  - Kapitel 1 Einleitung: einleitung.md
+  - Kapitel 2 Aussprache:
+      - 2.1 Laute des Spanischen: aussprache/laute.md
+      - 2.2 Varianten der Laute: aussprache/varianten.md
+  - Kapitel 3 Wortbildung:
+      - 3.1 Formen und Kombinationen: wortbildung/formen.md
+      - 3.2 Innovationen: wortbildung/innovationen.md
+  - Kapitel 4 Normen:
+      - 4.1 Richtig und falsch: normen/korrektheit.md
+      - 4.2 Angemessen und unangemessen: normen/angemessenheit.md
+      - 4.3 Spanien und Amerika: normen/plurizentrik.md
+  - Kapitel 5 Wandel:
+      - 5.1 Woher kommt das Spanische?: wandel/sprachgeschichte.md
+      - 5.2 Wandel heute: wandel/wandel_heute.md
+      - 5.3 Vergleich Wandel im Deutschen, Wandel im Spanischen: wandel/wandel_vergleich.md
+  - Kapitel 6 Typologie:
+      - 6.1 Sprachstrukturen: typologie/sprachstrukturen.md
+      - 6.2 Kontrast und Vergleich: typologie/kontrastive_linguistik.md
+  - Über dieses Projekt: projekt.md
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/creative-commons
+      link: https://creativecommons.org/licenses/by-nc/4.0/
+
+markdown_extensions:
+  - footnotes
+  - admonition
+  - toc:
+      permalink: true
+
