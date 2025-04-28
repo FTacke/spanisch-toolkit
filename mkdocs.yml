@@ -1,5 +1,10 @@
 site_name: Spanische Linguistik @ School
 theme:
+  features:
+    - content.tabs
+    - content.code.annotate
+    - content.action.edit
+    - content.details
   name: material
   palette:
     - scheme: default
@@ -45,8 +50,11 @@ extra:
       link: https://creativecommons.org/licenses/by-nc/4.0/
 
 markdown_extensions:
-  - footnotes
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
   - toc:
       permalink: true
+
 
