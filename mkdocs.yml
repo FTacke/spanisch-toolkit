@@ -6,6 +6,7 @@ theme:
     - content.action.edit
     - content.details
   name: material
+  logo: assets/images/logo.svg
   palette:
     - scheme: default
       primary: blue     # Material-Design-Standardfarbe für hellen Modus
@@ -53,6 +54,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.extra
   - footnotes
   - toc:
       permalink: true
