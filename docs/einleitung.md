@@ -2,11 +2,11 @@
 
 > "Good linguists are better teachers!"[^kreyer_good]
 
-Die zentrale Idee, die diesem Projekt *Spanische Linguistik @ School* zugrunde liegt, lässt sich in einem Satz zusammenfassen: Lehrkräfte, die die sprachwissenschaftlichen Grundlagen ihres Faches beherrschen, **unterrichten erfolgreicher**. Rolf Kreyer formuliert diesen Gedanken pointiert für das Englische – aber er gilt ebenso für den Spanischunterricht.
+Die zentrale Idee, die diesem Projekt *Spanische Linguistik @ School* zugrunde liegt, lässt sich in einem Satz zusammenfassen: Lehrkräfte, die die sprachwissenschaftlichen Grundlagen ihres Faches beherrschen, **unterrichten besser**. Rolf Kreyer formuliert diesen Gedanken pointiert für das Englische – aber er gilt natürlich für jeglichen Fremdsprachenunterricht und eben auch für das Spanische als Fremdsprache.
 
 !!! quote "Stimmen aus Studium und Schule"
-    > *„It hasn’t been made clear at uni, why it should be useful to study linguistics at such depth and how I can incorporate it in my lessons.“*  
-    > *„After years of practice, I see linguistics as the centre of lessons, especially when teaching pronunciation, grammar and usage.“*[^kreyer_stimmen]
+    *„It hasn’t been made clear at uni, why it should be useful to study linguistics at such depth and how I can incorporate it in my lessons.“*  
+    *„After years of practice, I see linguistics as the centre of lessons, especially when teaching pronunciation, grammar and usage.“*[^kreyer_stimmen]
 
 Diese beiden Kommentare zeigen ein häufiges Spannungsfeld: **Studierende** zweifeln an der Relevanz linguistischer Module, während **erfahrene Lehrkräfte** ihren Wert rückblickend kaum überschätzen können. Unsere Einleitung greift die wichtigsten Argumente aus Kreyers Text auf – allerdings stark verdichtet und auf den Spanischunterricht übertragen.
 
@@ -19,7 +19,7 @@ Kreyer vergleicht Linguistik mit einem **Werkzeugkasten**, der vier Grundfunktio
 3. **Analysieren** – Probleme präzise vermessen und benennen.
 4. **Reparieren** – ermittelte Schwachstellen gezielt beseitigen.
 
-Für den Spanischunterricht bedeutet das: Phonetik, Wortbildung, Syntax, Pragmatik u. a. liefern genau die Werkzeuge, die nötig sind, um gängige Lernschwierigkeiten (z. B. den Unterschied zwischen *ser* und *estar* oder die Aussprache des /θ/) aufzudecken und zu beheben.
+Für den Spanischunterricht bedeutet das: Phonetik, Wortbildung und Syntax, aber auch ein fundiertes Verständnis über Sprachnormen und den ständigen Wandel von Sprachen im Sprachgebrauch liefern genau die Werkzeuge, die nötig sind, um auf jegliche Schwierigkeiten, die Lehrenden und Lernenden im Fremdsprachenunterricht begegnen, vorbereitet zu sein, egal ob es sich um gängige Lernschwierigkeiten (z. B. den Unterschied zwischen *ser* und *estar* oder die Aussprache des /θ/) oder um ganz neue Herausforderungen handelt.
 
 ## Fehler als Fenster ins Lernen
 
@@ -50,7 +50,6 @@ Die folgenden Kapitel sind daher nicht nach traditionellen Teildisziplinen geord
 
 Jedes Kapitel endet mit **konkreten Unterrichtsideen** und einer kompakten *Tool-Liste*, damit Sie Ihr persönliches Repertoire systematisch erweitern können.
 
----
 [^kreyer_good]: Preface in Kreyer 2023: *“Good linguists are better teachers!”*  
 [^kreyer_stimmen]: Kreyer 2023, S. 15 f.  
 [^kreyer_toolkit]: Vgl. Kreyer 2023, Kap. 2 „A toolkit and what’s in it“.  
