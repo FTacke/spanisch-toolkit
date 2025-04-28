@@ -23,7 +23,6 @@ theme:
 
 nav:
   - Start: index.md
-  - Vorwort: vorwort.md
   - Kapitel 1 Einleitung: einleitung.md
   - Kapitel 2 Aussprache:
       - 2.1 Laute des Spanischen: aussprache/laute.md
