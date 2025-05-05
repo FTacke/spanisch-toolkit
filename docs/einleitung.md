@@ -1,58 +1,33 @@
-# Einleitung
+# Einleitung[^*]
 
 > "Good linguists are better teachers!"[^kreyer_good]
 
-Die zentrale Idee, die diesem Projekt *Spanische Linguistik @ School* zugrunde liegt, lässt sich in einem Satz zusammenfassen: Lehrkräfte, die die sprachwissenschaftlichen Grundlagen ihres Faches beherrschen, **unterrichten besser**. Rolf Kreyer formuliert diesen Gedanken pointiert für das Englische – aber er gilt natürlich für jeglichen Fremdsprachenunterricht und eben auch für das Spanische als Fremdsprache.
+Die Idee eines *Linguistic Toolkit* ist es, entlang einer Reihe von Themen aus dem Bereich der Sprachwissenschaft zu demonstrieren, wo und in welcher Weise grundlegende linguistische Kompetenz hilfreich und gewinnbringend, wenn nicht sogar notwendig ist, wenn es darum geht, eine Fremdsprache zu unterrichten. Natürlich stellt sich hier die Frage, ob es denn nicht ausreicht, die Sprache als angehende Lehrkraft in der Universität zu studieren wie eh und je. Die Antwort darauf ist: "Ja und nein". Wie Rolf Kreyer pointiert diagnostiziert – und die Studierenden, die an diesem digitalen Buch mitarbeiten, bestätigen dies – lassen die anderen Bestandteile des Studiums des Englischen, Französischen und Spanischen unmittelbar erkennen, warum und wo man sie für die Schulpraxis benötigt: In der Sprachpraxis erwirbt und vertieft man die sprachliche Kompetenz, die man selbst einmal vermitteln soll; in der Literaturwissenschaft setzt man sich – idealerweise auf höherem Niveau – mit der Analyse literarischer Werke auseinander, die man zum Teil auch in der Schule thematisiert. Nur der Sprachwissenschaft scheint ein unmittelbares Pendant zu fehlen. Das macht sie aber nicht unnütz für die (spätere) Unterrichtspraxis. Im Gegenteil: Als Kompetenz betrachtet helfen linguistische Fähigkeiten bei jeglicher Beschäftigung mit einer Sprache, ihrer Verwendung in verschiedenen Kontexten, ihrem Wortschatz, ihren grammatischen Besonderheiten, ihrer Kultur und ihrer Literatur (Literatur ist schließlich auch nichts anderes als eine besonders elaborierte Form der Sprachverwendung!). In diesem Sinne eignet sich der von Kreyer angebrachte *Toolkit*-Gedanke (eine Metapher!) sehr gut, um über den (späteren) Nutzen der Linguistik zu reflektieren.
 
-!!! quote "Stimmen aus Studium und Schule"
-    *„It hasn’t been made clear at uni, why it should be useful to study linguistics at such depth and how I can incorporate it in my lessons.“*  
-    *„After years of practice, I see linguistics as the centre of lessons, especially when teaching pronunciation, grammar and usage.“*[^kreyer_stimmen]
+!!! details "Was ist eine Metapher linguistisch betrachtet eigentlich?"
+    Metaphern in der Sprache spiegeln lediglich das dahinterliegende Denken. Sie dienen dazu komplexe Sachverhalte anschaulich mithilfe von einfacheren Sachverhalten darzustellen. Konzepte aus einem konkreten Quellbereich werden auf einen abstrakten Zielbereich übertragen.  
 
-Diese beiden Kommentare zeigen ein häufiges Spannungsfeld: **Studierende** zweifeln an der Relevanz linguistischer Module, während **erfahrene Lehrkräfte** ihren Wert rückblickend kaum überschätzen können. Unsere Einleitung greift die wichtigsten Argumente aus Kreyers Text auf – allerdings stark verdichtet und auf den Spanischunterricht übertragen.
+Woraus besteht so ein linguistischer Werkzeugkasten? Hier wird es natürlich Konsens unter Linguist:innen jeglicher Sprachen geben – zumindest bei einigen grundlegenden Themen wie der Phonetik, der Wortbildung, Grundlagen des Satzbaus (dem also was man in der Sprachwissenschaft manchmal als 'Systemlinguistik' oder als die 'Kernthemen' bezeichnet, was aber noch nichts über ihre Relevanz für die Schule aussagt).
 
-## Linguistik als Werkzeugkasten
+Aber Linguistik – und das ist mir ein besonderes Anliegen – umfasst so viel mehr als Lautung und Grammatik. Jede/r Linguist/in wird entsprechend seiner (Forschungs-)Interessen, Neigungen und Erfahrungen also nämlich ganz unterschiedliche Themengebiete einbringen wollen (und für essentiell halten). Und wie ein echter Werkzeugkasten kann auch so ein *Toolkit* daher ganz unterschiedlich aussehen: Neben dem üblichen Inventar – hier sind das Kapitel zur Lautung und Wortbildung – gibt es dann je nach Vorliebe und Anwendungsfall ganz andere weitere Themengebiete. Und auch die Besonderheiten der spanischen Sprache (gegenüber der englischen und französischen zum Beispiel) mag andere Konzepte und Theorien als Instrumente für einen kompetenten Umgang mit ihnen nahelegen.
 
-Kreyer vergleicht Linguistik mit einem **Werkzeugkasten**, der vier Grundfunktionen erfüllt[^kreyer_toolkit]:
-
-1. **Konstruieren** – Sprachkompetenz bei Lernenden systematisch aufbauen.
-2. **Demontieren** – komplexe Strukturen in ihre Einzelteile zerlegen.
-3. **Analysieren** – Probleme präzise vermessen und benennen.
-4. **Reparieren** – ermittelte Schwachstellen gezielt beseitigen.
-
-Für den Spanischunterricht bedeutet das: Phonetik, Wortbildung und Syntax, aber auch ein fundiertes Verständnis über Sprachnormen und den ständigen Wandel von Sprachen im Sprachgebrauch liefern genau die Werkzeuge, die nötig sind, um auf jegliche Schwierigkeiten, die Lehrenden und Lernenden im Fremdsprachenunterricht begegnen, vorbereitet zu sein, egal ob es sich um gängige Lernschwierigkeiten (z. B. den Unterschied zwischen *ser* und *estar* oder die Aussprache des /θ/) oder um ganz neue Herausforderungen handelt.
-
-## Fehler als Fenster ins Lernen
-
-> *„Errors can be very helpful […] often they can tell you what your students do already know.“*[^kreyer_errors]
-
-Kreyer führt das Konzept der **Interlanguage** ein: Lernende bauen aus Input ein eigenes, vorläufiges Sprachsystem auf. Fehler sind keine bloßen Defizite, sondern **Diagnosewerkzeuge**: Sie verraten, welche Regeln bereits verankert sind und welche noch fehlen.  
-Ein spanisches Beispiel wäre die Form *yo sabo* statt *yo sé*. Der Fehler zeigt, dass das Kind die Regularität des ‑**o**‑Endungssuffixes beherrscht, aber die Irregularität des Verbs *saber* noch nicht gespeichert hat.
-
-!!! tip "Praktische Konsequenz"
-    Fehler gezielt **sichtbar** machen, analysieren und gemeinsam überarbeiten – das ist wirkungsvoller als reines Vorsagen der „richtigen“ Lösung.
-
-## Mehr als Grammatik
-
-Eine umfassende Kompetenzdefinition berücksichtigt nicht nur Orthografie und Morphosyntax, sondern auch **Diskurs‑, Situations‑ und Soziolinguistik**. Ein Ausruf wie *¡Ni de coña!* ist kontextabhängig: Im vertrauten Freundeskreis angemessen, in einer Klassenarbeit unangebracht.  
-Folgt man Lennons weiter Fehlerdefinition[^lennon_error], rücken diese Ebenen in den Fokus erfolgreich(er) Sprachvermittlung.
+Vor diesem Hintergrund knüpft dieses digitale Sachbuch an Rolf Kreyers Grundideen an und entwickelt ein *Toolkit*, das sich an angehende Spanischlehrer:innen richtet. Und natürlich gilt auch hier Kreyers Ansatz, dass Lehrkräfte, die die sprachwissenschaftlichen Grundlagen ihres Faches beherrschen, **besser unterrichten**. Rolf Kreyer formuliert diesen Gedanken pointiert für das Englische – aber er gilt natürlich für jeglichen Fremdsprachenunterricht und eben auch für das Spanische als Fremdsprache.
 
 ## Aufbau dieses digitalen Sachbuchs
 
-Die folgenden Kapitel sind daher nicht nach traditionellen Teildisziplinen geordnet, sondern nach **typischen Handlungsfeldern des Spanischunterrichts**:
+Die hier zunächst einmal geplanten Kapitel sollen die folgenden – von uns persönlich für besonders relevant gehaltene – Themen behandeln:
 
 | Teil | Leitfrage | Linguistische Werkzeuge |
 |------|-----------|-------------------------|
 | Aussprache | Wie vermeide ich Interferenzfehler zwischen Deutsch und Spanisch? | Artikulationswissen, Phonologie |
 | Wortbildung | Wie können Wortschatz und kreative Sprachproduktion gefördert werden? | Morphologie, Derivation, Neologismenforschung |
-| Normen | Was ist „richtig“ oder „angemessen“ im Spanischen – und wie unterscheiden sich Normen? | Varietätenlinguistik, Sprachpolitik, Soziolinguistik |
-| Wandel | Wie hat sich das Spanische historisch entwickelt, und wie wandelt es sich heute? | Sprachgeschichte, Sprachwandeltheorien, kontrastive Perspektiven |
-| Typologie & Kontrast | Wie lässt sich Spanisch systematisch mit anderen Sprachen vergleichen? | Funktionale Typologie, kontrastive Linguistik |
+| Normen | Was ist „richtig“ oder „angemessen“ im Spanischen – welches Spanische ist das richtige und im Schulunterricht zulässig? | Varietätenlinguistik, Sprachpolitik, Soziolinguistik |
+| Wandel | Was kann ich aus der Vergangenheit des Spanischen lernen und wie wandelt sich die Sprache heute? | Sprachgeschichte, kontrastive Perspektiven |
+| Typologie & Kontrast | Wie lässt sich Spanisch systematisch mit anderen Sprachen vergleichen? Welche Gemeinsamkeiten gibt es mit anderen Sprachen? | Funktionale Typologie, kontrastive Linguistik |
 
-Jedes Kapitel endet mit **konkreten Unterrichtsideen** und einer kompakten *Tool-Liste*, damit Sie Ihr persönliches Repertoire systematisch erweitern können.
 
+
+
+[^*]: Autor:innen: Prof. Dr. Felix Tacke
 [^kreyer_good]: Preface in Kreyer 2023: *“Good linguists are better teachers!”*  
-[^kreyer_stimmen]: Kreyer 2023, S. 15 f.  
-[^kreyer_toolkit]: Vgl. Kreyer 2023, Kap. 2 „A toolkit and what’s in it“.  
-[^kreyer_errors]: Kreyer 2023, S. 28 f.  
-[^lennon_error]: Lennon 1991: 182 – „a linguistic form … which […] would, in all likelihood, not be produced by the speakers’ native speaker counterparts.“
 
