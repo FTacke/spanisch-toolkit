@@ -1,0 +1,16 @@
+:root {
+    --md-default-bg-color: #F2F2F2;
+    --md-surface-bg-color: #E8E8E8;
+    --md-on-surface: #2E2E2E;
+  }
+  
+
+.md-header__button.md-logo img {
+  /* Höhe komplett aufheben und flexibel größer machen */
+  height: auto !important;
+  max-height: none !important;
+  height: 80px !important;
+  width: auto !important;
+  max-width: none !important;
+}
+
