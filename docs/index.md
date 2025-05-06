@@ -17,4 +17,7 @@ Die Arbeit an diesem digitalen Sachbuch wurde zu Beginn des Sommersemesters 2025
     **Rolf Kreyer (2023):** *The Linguistic Toolkit for Teachers of English: Discovering the Value of Linguistics for Foreign Language Teaching.*  Tübingen: Narr Francke Attempto Verlag. [Zum eBook](https://www.narr.de/the-linguistic-toolkit-for-teachers-of-english-18611/)
 
 !!! info "Zitier mich!"
-    Hier werden bald DOIs über Zenodo angegeben.
+    Dieses Sachbuch verfügt über einen DOI (Digital Object Identifier): [![DOI](https://zenodo.org/badge/974128729.svg)](https://doi.org/10.5281/zenodo.15348687).
+    Wenn Du es zitieren willst, dann z.B. wie folgt:
+
+    Tacke, Felix et al. (2025–): *Spanische Linguistik @ School*. Marburg: Universität Marburg. DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687)
