@@ -27,4 +27,3 @@ Die spanischen Laute lassen sich grob in Vokale und Konsonanten unterteilen:
 
 ## Fußnote
 
-[^1]: In Lateinamerika kann die Lautung regional stark variieren.
