@@ -7,7 +7,7 @@ theme:
     - content.details
 
   name: material
-  logo: assets/images/toolkit_logo2.png
+  logo: assets/images/toolkit_logo.png
   favicon: assets/images/toolkit_favicon.png
   palette:
     - scheme: default
