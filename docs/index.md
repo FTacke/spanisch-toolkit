@@ -17,10 +17,7 @@ Die Arbeit an diesem digitalen Sachbuch wurde zu Beginn des Sommersemesters 2025
     **Rolf Kreyer (2023):** *The Linguistic Toolkit for Teachers of English: Discovering the Value of Linguistics for Foreign Language Teaching.*  Tübingen: Narr Francke Attempto Verlag. [Zum eBook](https://www.narr.de/the-linguistic-toolkit-for-teachers-of-english-18611/){target="_blank" rel="noopener noreferrer"}
 
 !!! info "Zitier mich!"
-    Dieses Sachbuch verfügt über einen DOI (Digital Object Identifier):
-    
-    [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15348687.svg)](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
-    
-    Wenn Du es zitieren willst, dann z.B. wie folgt:
+    So kann dieses Sachbuch zitiert werden:  
+    Tacke, Felix et al. (2025–): *Spanische Linguistik @ School*. Marburg: Universität Marburg. DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"} Online: [https://ftacke.github.io/spanisch-toolkit/](https://ftacke.github.io/spanisch-toolkit/){target="_blank" rel="noopener noreferrer"}  
 
-    Tacke, Felix et al. (2025–): *Spanische Linguistik @ School*. Marburg: Universität Marburg. DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"} Online: [https://ftacke.github.io/spanisch-toolkit/](https://ftacke.github.io/spanisch-toolkit/){target="_blank" rel="noopener noreferrer"}
+    [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15348687.svg)](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
