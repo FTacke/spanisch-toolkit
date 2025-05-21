@@ -2,7 +2,7 @@
 
 Du befindest Dich auf der Startseite eines digitalen Sachbuchs, das sich an (zukünftige) Spanischlehrer:innen richtet. Es soll die wichtigsten Themen der spanischen Sprachwissenschaft behandeln und dabei – hier liegt der besondere Fokus! – die Relevanz und Nützlichkeit linguistischer Kompetenz für den Spanischunterricht beleuchten.
 
-Die Idee zu diesem digitalen Sachbuchprojekt ist nicht aus dem Nichts entstanden, sondern wurde inspiriert durch viele Unterhaltungen mit meinem Kollegen **Rolf Kreyer**, Professor für englische Sprachwissenschaft an der Philipps-Universität Marburg und anerkannter Spezialist für eine linguistisch fundierte Lehrkräftebildung. Sein 2023 publiziertes Lehrbuch (sein *Linguistic Toolkit*) ist das Vorbild und bildet den Hintergrund, vor dem hier an einem digitalen "Toolkit" für (angehende) Spanischlehrkräfte arbeiten.
+Die Idee zu diesem digitalen Sachbuchprojekt ist nicht aus dem Nichts entstanden, sondern wurde inspiriert durch viele Unterhaltungen mit meinem Kollegen **Rolf Kreyer**, Professor für englische Sprachwissenschaft an der Philipps-Universität Marburg und anerkannter Spezialist für eine linguistisch fundierte Lehrkräftebildung. Sein 2023 publiziertes Lehrbuch (sein *Linguistic Toolkit*) ist das Vorbild und bildet den Hintergrund, vor dem hier an einem digitalen "Toolkit" für (angehende) Spanischlehrkräfte gearbeitet wird.
 
 Eine ausführlichere Darstellung der Grundidee findest Du in der [Einleitung](einleitung.md). Wenn du sofort starten möchtest, kannst Du über die Navigation auch direkt in eines der Kapitel springen.
 
@@ -13,7 +13,7 @@ Die Arbeit an diesem digitalen Sachbuch wurde zu Beginn des Sommersemesters 2025
 
 *Prof. Dr. Felix Tacke*
 
-!!! details "📚 Referenzwerk"
+!!! details "📚 Referenzwerk für das Englische"
     **Rolf Kreyer (2023):** *The Linguistic Toolkit for Teachers of English: Discovering the Value of Linguistics for Foreign Language Teaching.*  Tübingen: Narr Francke Attempto Verlag. [Zum eBook](https://www.narr.de/the-linguistic-toolkit-for-teachers-of-english-18611/){target="_blank" rel="noopener noreferrer"}
 
 !!! info "Zitier mich!"

@@ -29,9 +29,10 @@ extra_css:
 nav:
   - Start: index.md
   - Kapitel 1 Einleitung: einleitung.md
-  - Kapitel 2 Aussprache (Beta):
-      - 2.1 Laute des Spanischen (Beta): aussprache/laute.md
-      - 2.2 Variation der Lautung (Beta): aussprache/varianten.md
+  - Kapitel 2 Fehlerlinguistik: fehlerlinguistik.md
+  - Kapitel 3 Aussprache (Beta):
+      - 3.1 Laute des Spanischen (Beta): aussprache/laute.md
+      - 3.2 Variation der Lautung (Beta): aussprache/varianten.md
   - Über dieses Projekt: projekt.md
 
 
