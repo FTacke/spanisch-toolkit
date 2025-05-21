@@ -6,5 +6,5 @@ Im Zentrum steht die enge Verzahnung von Sprachwissenschaft und Unterrichtspraxi
 
 Ziel ist ein lebendiges, offenes Inventar linguistischer Werkzeuge, das gemeinsam mit den Beteiligten wächst. Studierende gewinnen so nicht nur vertiefte Einblicke in die Linguistik, sondern üben zugleich wissenschaftliches Schreiben, Peer-Review und digitales Publizieren. Die Version hier spiegelt den aktuellen Stand – weitere Themen und Kapitel werden in den kommenden Semestern folgen.
 
-*Marburg, Mai 2025*  
+*Marburg, April 2025*  
 Prof. Dr. Felix Tacke
