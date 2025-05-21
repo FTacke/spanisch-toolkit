@@ -39,6 +39,7 @@ nav:
 
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/creative-commons
       link: https://creativecommons.org/licenses/by-nc/4.0/
@@ -48,6 +49,26 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.extra
+  - attr_list
   - footnotes
   - toc:
       permalink: true
+      title: "Struktur des Kapitels"
+
+copyright: >
+  Spanische Linguistik @ School<span style="color:var(--md-footer-fg-color--lighter)">
+  &nbsp;wurde&nbsp;mit&nbsp;</span>
+  <a href="https://squidfunk.github.io/mkdocs-material/"
+     target="_blank" rel="noopener noreferrer"
+     style="text-decoration:none">
+    Material&nbsp;for&nbsp;MkDocs
+  </a>
+  <span style="color:var(--md-footer-fg-color--lighter)">
+  erstellt&nbsp;und&nbsp;ist&nbsp;Teil&nbsp;von&nbsp;</span>
+  <a href="https://hispanistica.online.uni-marburg.de"
+     target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hispanistica-@%20Marburg-4287f5?style=flat"
+         alt="Hispanistica – @ Marburg"
+         style="vertical-align:middle" />
+  </a>
+

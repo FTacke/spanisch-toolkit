@@ -1,3 +1,5 @@
+![Spanisch Toolkit Logo](assets/images/toolkit_logo.png){width=400px}
+
 ## Worum geht es hier?
 
 Du befindest Dich auf der Startseite eines digitalen Sachbuchs, das sich an (zukünftige) Spanischlehrer:innen richtet. Es soll die wichtigsten Themen der spanischen Sprachwissenschaft behandeln und dabei – hier liegt der besondere Fokus! – die Relevanz und Nützlichkeit linguistischer Kompetenz für den Spanischunterricht beleuchten.
