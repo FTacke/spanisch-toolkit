@@ -13,12 +13,3 @@
   width: auto !important;
   max-width: none !important;
 }
-
-/* Linke Navi-Überschrift umbenennen */
-.md-nav--primary .md-nav__title {
-  visibility: hidden;
-}
-.md-nav--primary .md-nav__title:after {
-  visibility: visible;
-  content: "Inhaltsverzeichnis";
-}
