@@ -19,6 +19,7 @@ Die folgenden Kapitel sind aktuell vorgesehen (vorläufige Liste und Reihung):
 
 | Kapitel | Leitfrage(n) | Linguistische Werkzeuge |
 |------|-----------|-------------------------|
+| Fehlerlinguistik | Welche Rolle spielen Fehler im Sprachlernprozess? Wie können Fehler analysiert und produktiv genutzt werden? Welche Arten von Fehlern gibt es? | Fehleranalyse, Lernendensprache, Sprachbewusstheit |
 | Aussprache | Welche Besonderheiten weist das Spanische in der Aussprache auf? Wie umgehen mit der Aussprachevariation in der spanischsprachigen Welt? Welche Aussprachevarianten sollten im Schulunterricht vermittelt werden? | Artikulationswissen, Phonologie, Variation |
 | Wortbildung | Wie können Wortschatz und kreative Sprachproduktion gefördert werden? | Morphologie, Derivation, Neologismen |
 | Normen | Welches Spanische ist das richtige und im Schulunterricht zulässig? Was ist „richtig“ oder „angemessen“ im Spanischen? | Varietätenlinguistik, Sprachpolitik, Soziolinguistik |

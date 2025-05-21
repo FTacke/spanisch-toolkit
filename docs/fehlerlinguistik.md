@@ -1,1 +1,8 @@
-# Fehlerlinguistik[^*]
+# Fehlerlinguistik[^*]  
+
+
+
+
+
+
+[^*]: Autor:innen: Gloria Gabriel
