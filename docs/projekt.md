@@ -1,6 +1,6 @@
 # Über dieses Projekt
 
-Dieses digitale Sachbuch entsteht ab dem Sommersemester 2025 an der Philipps-Universität Marburg im Rahmen eines von Prof. Dr. Felix Tacke geleiteten Lehrprojekts. Es richtet sich an (angehende) Spanischlehrer:innen und adaptiert den *Toolkit*-Gedanken aus Rolf Kreyers *Linguistic Toolkit* (2023) für den Englischunterricht auf das Spanische.
+Dieses digitale Sachbuch entsteht ab dem Sommersemester 2025 an der Philipps-Universität Marburg im Rahmen eines von Prof. Dr. Felix Tacke geleiteten Lehrprojekts. Es richtet sich an (angehende) Spanischlehrer:innen und adaptiert den *Toolkit*-Gedanken aus Rolf Kreyers *Linguistic Toolkit* (2023) und überträgt ihn auf den Spanischunterricht.
 
 Im Zentrum steht die enge Verzahnung von Sprachwissenschaft und Unterrichtspraxis: Studierende erarbeiten in kollaborativer Textarbeit fachliche Beiträge, die zeigen, wie linguistische Kompetenzen – von der Phonetik über Morphologie bis hin zu Sozio- und Typolinguistik – konkret im Klassenzimmer nutzbar sind. Alle Kapitel tragen den Zusatz **(Beta)**, um den Arbeitscharakter zu betonen: Texte werden laufend ergänzt, überarbeitet und durch Querverweise und neue Ressourcen angereichert.
 
