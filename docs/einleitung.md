@@ -26,7 +26,7 @@ Die folgenden Kapitel sind aktuell vorgesehen (vorläufige Liste und Reihung):
 | Wandel | Was kann ich aus der Vergangenheit des Spanischen lernen und wie wandelt sich die Sprache heute? | Sprachgeschichte, kontrastive Perspektiven |
 | Typologie & Kontrast | Welche Gemeinsamkeiten gibt es mit anderen Sprachen? Worin liegt die Besonderheit des Spanischen im Vergleich zum Deutschen, zum Türkischen, etc.? | Funktionale Typologie, kontrastive Linguistik |
 
-Wie schon erwähnt handelt es sich bei diesem digitalen Buch um „work in progress“. Die sich jeweils in Arbeit befindlichen Kapitel tragen daher den Zusatz „(Beta)“, um darauf hinzuweisen, dass es sich zunächst noch um zur (internen) Diskussion stehende Texte handelt.
+Wie schon erwähnt handelt es sich bei diesem digitalen Buch um „work in progress“. Die sich jeweils in Arbeit befindlichen Kapitel tragen daher den Zusatz „(Beta)“, um darauf hinzuweisen, dass es sich zunächst noch um zur (internen) Diskussion stehende Texte handelt. Ein [Template](template.md) gibt Orientierung zu Gestaltungsmöglichkeiten und Layout.
 
 
 [^*]: Autor:innen: Prof. Dr. Felix Tacke
