@@ -5,4 +5,4 @@
 
 
 
-[^*]: Autor:innen: Gloria Gabriel
+[^*]: Autor:innen: ...
