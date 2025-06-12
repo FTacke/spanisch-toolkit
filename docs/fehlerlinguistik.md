@@ -1,8 +1,0 @@
-# Fehlerlinguistik[^*]  
-
-
-
-
-
-
-[^*]: Autor:innen: ...
