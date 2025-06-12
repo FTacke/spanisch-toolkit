@@ -9,7 +9,7 @@ Fehler – egal ob sie die Aussprache, Wortwahl, Wortbildung oder die Wortstellu
 <details>
 <summary>Sprachkritik – ein anthropologisches Grundmuster</summary>
 
-<p>Kritik und Bewertung sind übrigens universelle Phänomene. Menschen bewerten Sprache überall dort, wo sie zwischen verschiedenen Ausdrucksformen wählen können. Diese Neigung, Varianten zu vergleichen, zu bewerten und zu ordnen, gilt als universales sprachliches Verhalten (von Polenz 1991). Aus genau diesem Muster entstanden historisch auch die sogenannten Standardsprachen (vgl. Kapitel [Normen](nromen.md)): Über längere Zeiträume wurden bestimmte Varianten gegenüber anderen bevorzugt, sie setzten sich sozial, politisch oder kulturell durch – und bildeten schließlich die Grundlage dessen, was später als „richtig“ oder „falsch“ galt. Erst durch diese Prozesse der Selektion und Hierarchisierung sind auch präskriptive Schulgrammatiken erst entstanden.</p>
+<p>Kritik und Bewertung sind übrigens universelle Phänomene. Menschen bewerten Sprache überall dort, wo sie zwischen verschiedenen Ausdrucksformen wählen können. Diese Neigung, Varianten zu vergleichen, zu bewerten und zu ordnen, gilt als universales sprachliches Verhalten (von Polenz 1991). Aus genau diesem Muster entstanden historisch auch die sogenannten Standardsprachen (vgl. Kapitel Kapitel <a href="#">Normen</a>): Über längere Zeiträume wurden bestimmte Varianten gegenüber anderen bevorzugt, sie setzten sich sozial, politisch oder kulturell durch – und bildeten schließlich die Grundlage dessen, was später als „richtig“ oder „falsch“ galt. Erst durch diese Prozesse der Selektion und Hierarchisierung sind auch präskriptive Schulgrammatiken erst entstanden.</p>
 
 <p>Fehlerkorrektur im Fremdsprachenunterricht knüpft an dieses allgemeine Muster an. Sie macht die zugrunde liegenden Normvorstellungen explizit und lenkt die Aufmerksamkeit gezielt auf Abweichungen – nicht aus sprachpuristischer Absicht, sondern mit dem Ziel, sprachliches Lernen nachvollziehbar zu strukturieren.</p>
 
@@ -67,7 +67,7 @@ Ein weiteres Beispiel verdeutlicht, wie eng Fehlerurteil und Kontext zusammenhä
 
 Der oben genannte Ausruf „¡No jodas!“ weist übrigens ebenfalls geographische Unterschiede auf: Unter Freunden in Madrid gilt er als locker-umgangssprachlich, in Mexiko würde er aber möglicherweise ganz anders, nämlich negativ verstanden (vgl. das [DEM, s.v. *joder*](https://dem.colmex.mx/Ver/joder){:target="_blank" rel="noopener noreferrer"}). Auch hier entscheidet also *wer* miteinander spricht und *wo*. Statt pauschal von richtig oder falsch zu sprechen, lohnt es sich deshalb, die Vielfalt des Spanischen zu berücksichtigen und Lernende dafür zu sensibilisieren – zumindest in fortgeschrittenen Kursen.
 
-Wie mit solchen Varietäten-Fragen und mehreren gleichberechtigten Referenznormen umzugehen ist, vertiefen wir im Kapitel „Normen“ – dort geht es nicht um ein einziges „richtiges“ Spanisch, sondern um das Spanische als *plurizentrische Sprache* sowie die didaktischen Chancen, die sich daraus ergeben.
+Wie mit solchen **Varietäten-Fragen** und „**Varietätenabweichungen**“ und mehreren gleichberechtigten Referenznormen umzugehen ist, vertiefen wir im Kapitel [Normen](normen/normen.md) – dort geht es nicht um ein einziges „richtiges“ Spanisch, sondern um das Spanische als *plurizentrische Sprache* sowie die didaktischen Chancen, die sich daraus ergeben.
 
 ## Umgang mit Fehlern – linguistisch & kompetent
 
