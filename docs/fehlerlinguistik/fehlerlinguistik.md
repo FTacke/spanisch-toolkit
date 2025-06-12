@@ -67,7 +67,7 @@ Ein weiteres Beispiel verdeutlicht, wie eng Fehlerurteil und Kontext zusammenhä
 
 Der oben genannte Ausruf „¡No jodas!“ weist übrigens ebenfalls geographische Unterschiede auf: Unter Freunden in Madrid gilt er als locker-umgangssprachlich, in Mexiko würde er aber möglicherweise ganz anders, nämlich negativ verstanden (vgl. das [DEM, s.v. *joder*](https://dem.colmex.mx/Ver/joder){:target="_blank" rel="noopener noreferrer"}). Auch hier entscheidet also *wer* miteinander spricht und *wo*. Statt pauschal von richtig oder falsch zu sprechen, lohnt es sich deshalb, die Vielfalt des Spanischen zu berücksichtigen und Lernende dafür zu sensibilisieren – zumindest in fortgeschrittenen Kursen.
 
-Wie mit solchen **Varietäten-Fragen** und „**Varietätenabweichungen**“ und mehreren gleichberechtigten Referenznormen umzugehen ist, vertiefen wir im Kapitel [Normen](normen/normen.md) – dort geht es nicht um ein einziges „richtiges“ Spanisch, sondern um das Spanische als *plurizentrische Sprache* sowie die didaktischen Chancen, die sich daraus ergeben.
+Wie mit solchen **Varietäten-Fragen** oder „**Varietätenabweichungen**“ und mehreren gleichberechtigten Referenznormen umzugehen ist, vertiefen wir im Kapitel [Normen](normen/normen.md) – dort geht es nicht um ein einziges „richtiges“ Spanisch, sondern um das Spanische als *plurizentrische Sprache* sowie die didaktischen Herausforderungen und Chancen, die sich daraus ergeben.
 
 ## Umgang mit Fehlern – linguistisch & kompetent
 
@@ -148,6 +148,6 @@ Natürlich bleibt es eine Frage der Situation: Manchmal ist eine direkte Korrekt
 
 - von Polenz, Peter (1991): „Sprachkritik – Untersuchungen zu ihrer Geschichte und Funktion“. *Muttersprache* 101, 81–94.
 
-[^*]: Autor:innen: Gloria Gabriel, Marlon Merte, Prof. Dr. Felix Tacke  
+[^*]: Autor:innen: Gloria Gabriel, Marlon Merte, Felix Tacke  
       Beiträge von: [Angabe folgt]  
       Letzte Änderung: 12.06.2025

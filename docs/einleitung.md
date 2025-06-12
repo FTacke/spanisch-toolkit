@@ -5,8 +5,8 @@
 Die Idee eines *Linguistic Toolkit* ist es, entlang einer Reihe von Themen aus dem Bereich der Sprachwissenschaft zu demonstrieren, wo und in welcher Weise grundlegende linguistische Kompetenz hilfreich und gewinnbringend, wenn nicht sogar notwendig ist, wenn es darum geht, eine Fremdsprache zu unterrichten. Natürlich stellt sich hier die Frage, ob es denn nicht ausreicht, die Sprache als angehende Lehrkraft in der Universität zu studieren wie eh und je. Die Antwort darauf ist: „Ja und nein“. Wie Rolf Kreyer pointiert diagnostiziert – und die Studierenden, die an diesem digitalen Buch mitarbeiten, bestätigen dies – lassen die anderen Bestandteile des Studiums des Englischen, Französischen und Spanischen unmittelbar erkennen, warum und wo man sie für die Schulpraxis benötigt: In der Sprachpraxis erwirbt und vertieft man die sprachliche Kompetenz, die man selbst einmal vermitteln soll; in der Literaturwissenschaft setzt man sich – idealerweise auf höherem Niveau – mit der Analyse literarischer Werke auseinander, die man zum Teil auch in der Schule thematisiert. Nur der Sprachwissenschaft scheint ein unmittelbares Pendant zu fehlen. Das macht sie aber nicht unnütz für die (spätere) Unterrichtspraxis. Im Gegenteil: Als Kompetenz betrachtet helfen linguistische Fähigkeiten bei jeglicher Beschäftigung mit einer Sprache, ihrer Verwendung in verschiedenen Kontexten, ihrem Wortschatz, ihren grammatischen Besonderheiten, ihrer Kultur und ihrer Literatur (Literatur ist schließlich auch nichts anderes als eine besonders elaborierte Form der Sprachverwendung!). In diesem Sinne eignet sich der von Kreyer angebrachte *Toolkit*-Gedanke (eine Metapher!) sehr gut, um über den (späteren) Nutzen der Linguistik zu reflektieren.
 
 <details>
-<summary><strong>„Was ist eine Metapher linguistisch betrachtet eigentlich?“ &hellip;</strong></summary>
-Metaphern in der Sprache spiegeln lediglich das dahinterliegende Denken. Sie dienen dazu komplexe Sachverhalte anschaulich mithilfe von einfacheren Sachverhalten darzustellen. Konzepte aus einem konkreten Quellbereich werden auf einen abstrakten Zielbereich übertragen.
+<summary>Was ist eine Metapher (linguistisch betrachtet)?</summary>
+<p>Metaphern in der Sprache spiegeln lediglich das dahinterliegende Denken. Sie dienen dazu komplexe Sachverhalte anschaulich mithilfe von einfacheren Sachverhalten darzustellen. Konzepte aus einem konkreten Quellbereich werden auf einen abstrakten Zielbereich übertragen.</p>
 </details>
 
 Woraus besteht so ein linguistischer Werkzeugkasten? Hier wird es natürlich Konsens unter Linguist:innen jeglicher Sprachen geben – zumindest bei einigen grundlegenden Themen wie der Phonetik, der Wortbildung, Grundlagen des Satzbaus (also Bereiche, die man in der Sprachwissenschaft manchmal als 'Systemlinguistik' oder als die 'Kernthemen' bezeichnet).
@@ -31,6 +31,6 @@ Die folgenden Kapitel sind aktuell vorgesehen (vorläufige Liste und Reihung):
 Wie schon erwähnt handelt es sich bei diesem digitalen Buch um „work in progress“. Die sich jeweils in Arbeit befindlichen Kapitel tragen daher den Zusatz „(Beta)“, um darauf hinzuweisen, dass es sich zunächst noch um zur (internen) Diskussion stehende Texte handelt. Ein [Template](template.md) gibt Orientierung zu Gestaltungsmöglichkeiten und Layout.
 
 
-[^*]: Autor:innen: Prof. Dr. Felix Tacke
+[^*]: Autor:innen: Felix Tacke
 [^kreyer_good]: Preface in Kreyer 2023: *“Good linguists are better teachers!”*  
 
