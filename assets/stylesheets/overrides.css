@@ -13,3 +13,84 @@
   width: auto !important;
   max-width: none !important;
 }
+
+.logo-container {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #2094F3;
+}
+
+.logo-image {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.logo-caption {
+  color: white;
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+  padding: 8px 0;
+  box-sizing: border-box;
+  margin: 0;
+  border: none;
+  line-height: 1;
+  background-color: inherit;
+}
+
+.logo-caption .subtitle,
+.logo-caption .coordination,
+.logo-caption .authors {
+  margin: 0;
+  padding: 4;
+  font-weight: normal;
+}
+
+.logo-caption .subtitle {
+  font-size: 1.4em;
+  font-style: italic;
+  font-weight: normal;
+  margin-top: 12px;
+  margin-bottom: 36px;
+}
+
+.logo-caption .coordination {
+  font-size: 1.0em;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.logo-caption .coordination-name {
+  font-size: 1.0em;
+  font-weight: normal;
+  margin-bottom: 24px;
+}
+
+.logo-caption .authors {
+  font-weight: bold;
+  font-size: 1.0em;
+  margin-bottom: 6px;
+}
+
+.logo-caption .author-names {
+  font-size: 1.0em;
+  font-weight: normal;
+  margin-bottom: 24px;
+}
+
+.logo-caption .place {
+  font-size: 0.75em;
+  font-weight: normal;
+  margin-top: 48px;
+  margin-bottom: 12px;
+  color: #ffffff;
+}
+
+.logo-caption .badge {
+  margin-bottom: 18px;
+}
