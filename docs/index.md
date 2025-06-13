@@ -1,4 +1,22 @@
-![Spanisch Toolkit Logo](assets/images/toolkit_logo.png){width=400px}
+<div class="logo-container">
+  <img src="assets/images/toolkit_logo.png" alt="Spanisch Toolkit Logo" class="logo-image"/>
+  <div class="logo-caption">
+    <div class="subtitle">Ein digitales Sachbuch für Spanischlehrkräfte</div>
+    <div class="coordination">Koordination</div>
+    <div class="coordination-name">Prof. Dr. Felix Tacke</div>
+    <div class="authors">Autor:innen</div>
+    <div class="author-names">Gloria Gabriel, Marlon Merte, Felix Tacke</div>
+    <div class="place">Philipps-Universität Marburg, 2025</div>
+    <div class="badge">
+      <a href="https://hispanistica.online.uni-marburg.de"
+      target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Hispanistica-@%20Marburg-4287f5?style=flat"
+          alt="Hispanistica – @ Marburg"
+          style="vertical-align:middle" />
+      </a>
+    </div>
+  </div>
+</div>
 
 ## Worum geht es hier?
 
