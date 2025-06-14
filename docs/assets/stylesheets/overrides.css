@@ -14,7 +14,7 @@
   max-width: none !important;
 }
 
-.logo-container {
+.cover-container {
   width: 100%;
   max-width: 400px;
   margin: 0 auto;
@@ -30,7 +30,7 @@
   border: none;
 }
 
-.logo-caption {
+.cover-caption {
   color: white;
   width: 100%;
   max-width: 400px;
@@ -44,54 +44,53 @@
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.185);
 }
 
-.logo-caption .subtitle,
-.logo-caption .coordination,
-.logo-caption .authors {
+.cover-caption .subtitle,
+.cover-caption .coordination,
+.cover-caption .authors {
   margin: 0;
   padding: 4;
   font-weight: normal;
 }
 
-.logo-caption .subtitle {
-  font-size: 1.4em;
-  font-style: italic;
+.cover-caption .subtitle {
+  font-size: 1.25em;
+  font-style: normal;
   font-weight: normal;
-  margin-top: 12px;
-  margin-bottom: 36px;
+  margin-top: 24px;
+  margin-bottom: 56px;
 }
 
-.logo-caption .coordination {
-  font-size: 1.0em;
+.cover-caption .coordination {
+  font-size: 0.9em;
   font-weight: bold;
   margin-bottom: 6px;
 }
 
-.logo-caption .coordination-name {
-  font-size: 1.0em;
+.cover-caption .coordination-name {
+  font-size: 0.9em;
   font-weight: normal;
   margin-bottom: 24px;
 }
 
-.logo-caption .authors {
+.cover-caption .authors {
   font-weight: bold;
-  font-size: 1.0em;
+  font-size: 0.9em;
   margin-bottom: 6px;
 }
 
-.logo-caption .author-names {
-  font-size: 1.0em;
+.cover-caption .author-names {
+  font-size: 0.9em;
   font-weight: normal;
-  margin-bottom: 24px;
+  margin-bottom: 56px;
 }
 
-.logo-caption .place {
-  font-size: 0.75em;
+.cover-caption .place {
+  font-size: 0.70em;
   font-weight: normal;
-  margin-top: 48px;
-  margin-bottom: 12px;
+  margin-bottom: 6px;
   color: #ffffff;
 }
 
-.logo-caption .badge {
+.cover-caption .badge {
   margin-bottom: 18px;
 }
