@@ -122,6 +122,8 @@ Natürlich bleibt es eine Frage der Situation: Manchmal ist eine direkte Korrekt
 
 ## Literatur
 
+<div class="literatur" markdown="1">
+
 - Bechtel, Mark (2016): „Mündliche Fehlerkorrektur als Bestandteil eines fachdidaktischen Moduls in der Französisch-, Spanisch- und Italienischlehrerausbildung“. In: Brunetti, Simona u. a. (Hrsg.): *Versprachlichung von Welt. Festschrift zum 60. Geburtstag von Maria Lieber.* Tübingen: Stauffenburg, S. 589–607.
 
 - Bitchener, John & Ferris, Dana R. (2012): *Written Corrective Feedback in Second Language Acquisition and Writing.* London / New York: Routledge.
@@ -142,11 +144,13 @@ Natürlich bleibt es eine Frage der Situation: Manchmal ist eine direkte Korrekt
 
 - Schlaak, Claudia (2020): „Fehlertoleranz bei und von Fremdsprachenlernern im ersten Lernjahr“. In: Ossenkop, Christiane & Veldre-Gerner, Gabriele (Hrsg.): *Fehler – Abweichung – Variation*. Frankfurt a. M.: Lang, S. 209–223.
 
-- Schlobinski, Peter (2017): *Sprachkritik*. Tübingen: Narr Francke Attempto.
+- Schlobinski, Peter (2017): *Sprachkritik*. Tübingen: Narr Francke Attempto.  
 
 - Selinker, Larry (1972): „Interlanguage“. *International Review of Applied Linguistics* 10 (3), 209–231.
 
 - von Polenz, Peter (1991): „Sprachkritik – Untersuchungen zu ihrer Geschichte und Funktion“. *Muttersprache* 101, 81–94.
+
+</div>
 
 [^*]: Autor:innen: Gloria Gabriel, Marlon Merte, Felix Tacke  
       Beiträge von: [Angabe folgt]  
