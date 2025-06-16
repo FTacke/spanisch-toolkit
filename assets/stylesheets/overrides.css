@@ -94,3 +94,8 @@
 .cover-caption .badge {
   margin-bottom: 18px;
 }
+
+div.literatur {
+  font-size: 0.85em;
+  line-height: 1.35;
+}
