@@ -155,5 +155,5 @@ Natürlich bleibt es eine Frage der Situation: Manchmal ist eine direkte Korrekt
 </div>
 
 [^*]: Autor:innen: Gloria Gabriel, Marlon Merte, Felix Tacke  
-      Beiträge von: [Angabe folgt]  
+      Beiträge von: Renata Freyre Castro, Jamaa Khodja, Büşra Özen, Selina Scholz und Teodora Teodorescu  
       Letzte Änderung: 18.06.2025
