@@ -30,11 +30,11 @@ Bevor wir uns den verschiedenen Dimensionen sprachlicher Fehler widmen, klären 
 !!! info "Lernendensprache"
     Die sogenannte Lernendensprache (auch: Interimsprache oder engl. *Interlanguage*) bezeichnet das individuelle, sich entwickelnde Sprachsystem von Lernenden. Es basiert auf dem Zusammenspiel von Elementen der Erst- und Zielsprache und folgt eigenen, teils systematischen Regeln. Fehler sind in diesem System nicht bloß Störungen, sondern Hinweise auf den jeweiligen Stand des Sprachlernprozesses. Ziel des Unterrichts ist es, diese Lernendensprache schrittweise an die Zielsprache heranzuführen.  
       
-    Eine ausführlichere Darstellung dieses Konzepts und seiner didaktischen Relevanz findet sich bei Kreyer (2023, S. 30–32), weitere Literatur zum Thema findest Du unten.
+    Eine ausführlichere Darstellung dieses Konzepts und seiner didaktischen Relevanz findet sich bei Kreyer (2023, 30–32), weitere Literatur zum Thema findest Du unten.
 
 ## Was ist ein Fehler?
 
-In der Fehlerlinguistik gilt als Fehler jede systematische, unbeabsichtigte Abweichung von den Regeln und Gebrauchskonventionen der Zielsprache, die unter vergleichbaren Umständen von Erstsprachler:innen nicht produziert würde. Fehler können auf jeder Sprachebene auftreten – von Aussprache über Grammatik bis zur Wortwahl oder situativen Angemessenheit. Denn sprachliche Kompetenz heißt auch: Kontext, Register und Gesprächspartner im Blick haben.
+In der Fehlerlinguistik gilt als Fehler jede systematische, unbeabsichtigte Abweichung von den Regeln und Gebrauchskonventionen der Zielsprache. Als Vergleichsbasis dienen immer Erstsprachler:innen: Würde jemand mit Spanisch als Erstsprache sich so in einer vergleichbaren Situation ausdrücken? Wenn die Antwort „nein“ oder „wahrscheinlich nicht“ ist, dann handelt es sich um einen Fehler. Mit *Fehler* ist damit übrigens nicht nur der Grammatikfehler gemeint, sondern jegliche Form der Abweichung – von der Aussprache über die Grammatik bis hin zur situativen Angemessenheit und der entsprechenden Wortwahl. Denn sprachliche Kompetenz heißt auch: Kontext, Register und Gesprächspartner im Blick haben.
 
 Im Gegensatz zu einmaligen Versprechern oder Tippfehlern (sog. *mistakes*) spiegeln Fehler den jeweiligen Entwicklungsstand der Lernendensprache wider und sind deshalb diagnostisch wertvoll: Sie zeigen nicht nur, was Lernende noch nicht beherrschen, sondern oft auch, worauf ihre aktuelle Kompetenz bereits aufbaut. Im oben erwähnten Beispiel – *teno* statt *tengo* – erkennt man also, dass die Flexionsendung der 1. Person Singular beherrscht wird, auch wenn noch nicht alle unregelmäßigen Formen ausreichend verinnerlicht sind. Wir können Fehler im Sinne der Fehlerlinguistik wie folgt definieren:
 
@@ -140,6 +140,8 @@ Natürlich bleibt es eine Frage der Situation: Manchmal ist eine direkte Korrekt
 
 - Li, Shaofeng (2010): „The Effectiveness of Corrective Feedback in SLA: A Meta-Analysis“. *Language Learning* 60 (2), 309–365.
 
+- Kreyer, Rolf (2023): *The Linguistic Toolkit for Teachers of English: Discovering the Value of Linguistics for Foreign Language Teaching.*  Tübingen: Narr Francke Attempto.
+
 - Lyster, Roy & Ranta, Leila (1997): „Corrective Feedback and Learner Uptake: Negotiation of Form in Communicative Classrooms“. *Studies in Second Language Acquisition* 19 (1), 37–66.
 
 - Schlaak, Claudia (2020): „Fehlertoleranz bei und von Fremdsprachenlernern im ersten Lernjahr“. In: Ossenkop, Christiane & Veldre-Gerner, Gabriele (Hrsg.): *Fehler – Abweichung – Variation*. Frankfurt a. M.: Lang, S. 209–223.
@@ -154,4 +156,4 @@ Natürlich bleibt es eine Frage der Situation: Manchmal ist eine direkte Korrekt
 
 [^*]: Autor:innen: Gloria Gabriel, Marlon Merte, Felix Tacke  
       Beiträge von: [Angabe folgt]  
-      Letzte Änderung: 13.06.2025
+      Letzte Änderung: 18.06.2025
