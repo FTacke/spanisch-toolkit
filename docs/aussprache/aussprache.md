@@ -11,36 +11,39 @@ Darüber hinaus soll es in diesem Kapitel auch um die Verbindungen zwischen (gut
 
 Aussprache linguistisch fundiert zu unterrichten umfasst darüber hinaus aber auch die Herausforderung, kompetent mit Fragen der Variation, der Norm und manchmal mit Klischees oder (dummen) Vorurteilen umzugehen: Wie klingt das Spanische eigentlich in den verschiedenen Ländern? Was ist der seseo? Wo wird `<ll>` heute noch als /ʎ/ ausgesprochen? Muss die für Madrid oder Salamanca typische Aussprache unterrichtet werden? Ist die Aussprache Chiles weniger korrekt? Muss man als Lehrkraft und müssen die Schüler:innen den Interdental /θ/ erlernen und verwenden? Oder umgekehrt: Dürfen Schüler:innen aufgrund ihrer Herkunft, ihrer Biographie oder ihren Vorlieben auch „mexikanisch“ oder „argentinisch“ aussprechen? Muss ich als Lehrkraft konsequent dieselbe Aussprachevarietät verwenden?
 
-## Laute des Spanischen: Herausforderungen
-
-Mini-Hinführung: Vokale unproblematisch (kurz auf Diphthone wie in fuego zu sprechen kommen), v.a. Konsonanten herausfordernd.
-
-### Anders artikulierte Laute  
-
-- „r“  
- 
-
-### Neue Laute  
-
-- Interdental, ll, ñ, x  
-
-### Kein(e) Laut(ung)  
-
+## Laute des Spanischen: Herausforderungen (Merte?)
+Mini-Hinführung: Vokale unproblematisch (kurz auf Diphthone wie in fuego zu sprechen kommen; ggf. darauf, dass Vokale nie entspannt sind wie im Dt.), v.a. Konsonanten herausfordernd.
+### Anders artikulierte Laute
+- „r“
+- Theorie, die sich am „r“ erklären lässt: Phon – Phonem, Allophonie/Varianten
+Unterscheidung Phonem - Phon einführen: beide Sprachen, Dt. und Sp., besitzen abstrakte Vorstellung eines R-Lautes, aber die Realisierung ist unterschiedlich a) zwischen beiden Sprachen, b) innerhalb der Sprachen je nach Kontext (Sp.) und c) innerhalb der Sprachen dialektal. All die Möglichkeiten der Realisierung sind Varianten. 
+### Neue Laute
+- Interdental (+ Querverweis auf Abschnitt Variation unten), ll (+ heutige Relevanz gegenüber yeísmo), ñ, x
+- Theorie hier: Neutralisierung mancher Oppositionen (seseo, yeísmo; Vertiefung aber erst unten [Variation, …])
+### „Mal so, mal so“-Laute
+- Plosive /b/, /d/, /g/ und ihre Approximanten [β], [ð], [ɣ]
+- Theorie hier: kontextabhängige Allophonie
+### Kein(e) Laut(ung)
 - `<h>`
-  
-### „Mal so, mal so“-Laute  
+- v.a. als Übergang zum nächsten Abschnitt, wo vertieft wird
 
-- /b/ - `<b>` vs. `<v>`
+## „Se escribe (casi) como se habla“ – Aussprache vs. Orthographie (Merte?)  
+### Graphem-Phonem-Korrespondenzen
+- `<h>` (wieder aufgreifen, vertiefen)
+- `<x>` in México
+- `<b>` vs. `<v>` für /b/
+- Theorie hier: Phonographie, flache vs. tiefe Orthographie
+- Vgl. Hausarbeit Prukop für Theorie und Beispiele
 
-## Gute Aussprache und richtige Schreibung  
-
-### Wortakzent  
-
-### Orthographischer Akzent/Tilde  
+### Wortakzent
+### Orthographischer Akzent/Tilde
 
 
-## Variation, Normen, Stereotypen  
 
-- siehe Einleitung
-- Interdental
+## Variation, Normen, Stereotypen
+- distinción vs. seseo (wo), yeísmo + rehilamiento, Abschwächung /s/ im Silbenauslaut
+- unterschiedliche Konfiguration der Merkmale je Land, sogar je Region (tierras altas vs. tierras bajas)
+- unterschiedliche Bewertung der Merkmale je Land (distinción/Interdental außerhalb Nord- und Zentralspaniens)
+- Umgang mit Variation/Merkmalen im Unterricht: Interdental unterrichten/verwenden? Seseo ebenso akzeptiert. Stereotype bzgl. Interdental? Stigmatisierung durch Status des „Lispelns“ im Deutschen? Vergleich mit th-Laut im Englischen
+- konkrete Empfehlungen?
 
