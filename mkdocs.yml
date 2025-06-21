@@ -32,9 +32,8 @@ nav:
   - Start: index.md
   - Kapitel 1 Einleitung: einleitung.md
   - Kapitel 2 Fehlerlinguistik: fehlerlinguistik/fehlerlinguistik.md
-  - Kapitel 3 Aussprache: aussprache/aussprache.md
+  - Kapitel 3 Aussprache (Beta): aussprache/aussprache.md
   - Über dieses Projekt: projekt.md
-
 
 extra:
   generator: false
@@ -69,4 +68,3 @@ copyright: >
          alt="Hispanistica – @ Marburg"
          style="vertical-align:middle" />
   </a>
-
