@@ -40,7 +40,7 @@ Unterscheidung Phonem - Phon einführen: beide Sprachen, Dt. und Sp., besitzen a
 
 
 
-## Variation, Normen, Stereotypen
+## „Muss man sprechen wie die Spanier:innen?“ – Variation, Normen, Stereotypen
 - distinción vs. seseo (wo), yeísmo + rehilamiento, Abschwächung /s/ im Silbenauslaut
 - unterschiedliche Konfiguration der Merkmale je Land, sogar je Region (tierras altas vs. tierras bajas)
 - unterschiedliche Bewertung der Merkmale je Land (distinción/Interdental außerhalb Nord- und Zentralspaniens)
