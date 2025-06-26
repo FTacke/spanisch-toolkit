@@ -23,10 +23,10 @@ Die folgenden Kapitel sind aktuell vorgesehen (vorläufige Liste und Reihung):
 |------|-----------|-------------------------|
 | [Fehlerlinguistik](fehlerlinguistik/fehlerlinguistik.md) | Welche Rolle spielen Fehler im Sprachlernprozess? Wie können Fehler analysiert und produktiv genutzt werden? Welche Arten von Fehlern gibt es? | Fehleranalyse, Lernendensprache, Sprachbewusstheit |
 | [Aussprache](aussprache/aussprache.md) | Welche Besonderheiten weist das Spanische in der Aussprache auf? Wie umgehen mit der Aussprachevariation in der spanischsprachigen Welt? Welche Aussprachevarianten sollten im Schulunterricht vermittelt werden? | Artikulationswissen, Phonologie, Variation |
-| Wortbildung | Wie können Wortschatz und kreative Sprachproduktion gefördert werden? | Morphologie, Derivation, Neologismen |
-| Normen | Welches Spanische ist das richtige und im Schulunterricht zulässig? Was ist „richtig“ oder „angemessen“ im Spanischen? | Varietätenlinguistik, Sprachpolitik, Soziolinguistik |
-| Wandel | Was kann ich aus der Vergangenheit des Spanischen lernen und wie wandelt sich die Sprache heute? | Sprachgeschichte, kontrastive Perspektiven |
-| Typologie & Kontrast | Welche Gemeinsamkeiten gibt es mit anderen Sprachen? Worin liegt die Besonderheit des Spanischen im Vergleich zum Deutschen, zum Türkischen, etc.? | Funktionale Typologie, kontrastive Linguistik |
+| [Lexikalische Kreativität](lexik/kreativitaet.md) | Wie können Wortschatz und kreative Sprachproduktion gefördert werden? | Morphologie, Derivation, Neologismen |
+| [Normen](normen/normen.md) | Welches Spanische ist das richtige und im Schulunterricht zulässig? Was ist „richtig“ oder „angemessen“ im Spanischen? | Varietätenlinguistik, Sprachpolitik, Soziolinguistik |
+| [Wandel](wandel/wandel.md) | Was kann ich aus der Vergangenheit des Spanischen lernen und wie wandelt sich die Sprache heute? | Sprachgeschichte, kontrastive Perspektiven |
+| [Herkunftssprachen & Spanisch](typologie/typologie.md) | Welche Gemeinsamkeiten gibt es mit anderen Sprachen? Worin liegt die Besonderheit des Spanischen im Vergleich zum Deutschen, zum Türkischen, etc.? | Funktionale Typologie, kontrastive Linguistik |
 
 Wie schon erwähnt handelt es sich bei diesem digitalen Buch um „work in progress“. Die sich jeweils in Arbeit befindlichen Kapitel tragen daher den Zusatz „(Beta)“, um darauf hinzuweisen, dass es sich zunächst noch um zur (internen) Diskussion stehende Texte handelt. Ein [Template](template.md) gibt Orientierung zu Gestaltungsmöglichkeiten und Layout.
 
