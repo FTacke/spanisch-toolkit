@@ -31,6 +31,14 @@ Die folgenden Kapitel sind aktuell vorgesehen (vorläufige Liste und Reihung):
 Wie schon erwähnt handelt es sich bei diesem digitalen Buch um „work in progress“. Die sich jeweils in Arbeit befindlichen Kapitel tragen daher den Zusatz „(Beta)“, um darauf hinzuweisen, dass es sich zunächst noch um zur (internen) Diskussion stehende Texte handelt. Ein [Template](template.md) gibt Orientierung zu Gestaltungsmöglichkeiten und Layout.
 
 
-[^*]: Autor:innen: Felix Tacke
+[^*]: **Autor:innen:** Felix Tacke  
+      **Beiträge:** Renata Freyre Castro, Jamaa Khodja, Büşra Özen, Selina Scholz und Teodora Teodorescu  
+        
+      **Letzte Änderung:** 27.06.2025  
+
+      **Dieses Kapitel zitieren:**  
+        
+      Tacke, Felix (2025): „Einleitung“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg. DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
+      
 [^2]: Kreyer (2023, Preface).  
 
