@@ -154,12 +154,12 @@ Natürlich bleibt es eine Frage der Situation: Manchmal ist eine direkte Korrekt
 
 </div>
 
+---
+
+!!! info "Dieses Kapitel zitieren" 
+    Gabriel, Gloria / Merte, Marlon / Tacke, Felix (2025): „Fehlerlinguistik“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg. DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
+
 [^*]: **Autor:innen:** Gloria Gabriel, Marlon Merte, Felix Tacke  
       **Beiträge:** Renata Freyre Castro, Jamaa Khodja, Büşra Özen, Selina Scholz und Teodora Teodorescu  
         
       **Letzte Änderung:** 18.06.2025  
-
-      **Dieses Kapitel zitieren:**  
-        
-      Gabriel, Gloria / Merte, Marlon / Tacke, Felix (2025): „Fehlerlinguistik“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg. DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
-
