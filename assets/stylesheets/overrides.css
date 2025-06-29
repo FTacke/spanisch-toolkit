@@ -1,19 +1,25 @@
+/* ─────────────────────────
+   Farbvorgaben (helles Grau)
+   ───────────────────────── */
 :root {
-    --md-default-bg-color: #F2F2F2;
-    --md-surface-bg-color: #E8E8E8;
-    --md-on-surface: #2E2E2E;
-  }
-  
-
-.md-header__button.md-logo img {
-  /* Höhe komplett aufheben und flexibel größer machen */
-  height: auto !important;
-  max-height: none !important;
-  height: 80px !important;
-  width: auto !important;
-  max-width: none !important;
+  --md-default-bg-color:  #F2F2F2;
+  --md-surface-bg-color:  #E8E8E8;
+  --md-on-surface:        #2E2E2E;
 }
 
+/* ─────────────────────────
+   Toolkit-Logo in der Kopfzeile
+   ───────────────────────── */
+.md-header__button.md-logo img {
+  height: 80px !important;      /* feste Höhe */
+  width:  auto  !important;
+  max-height: none !important;
+  max-width:  none !important;
+}
+
+/* ─────────────────────────
+   Cover-Block auf Startseite
+   ───────────────────────── */
 .cover-container {
   width: 100%;
   max-width: 400px;
@@ -30,72 +36,102 @@
   border: none;
 }
 
+/* ─────────────────────────
+   Cover-Beschriftung
+   ───────────────────────── */
 .cover-caption {
-  color: white;
+  color: #fff;
   width: 100%;
   max-width: 400px;
   text-align: center;
   padding: 8px 0;
   box-sizing: border-box;
   margin: 0;
-  border: none;
   line-height: 1;
   background-color: inherit;
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.185);
+  text-shadow: 1px 1px 1px rgba(0,0,0,.18);
 }
 
 .cover-caption .subtitle,
 .cover-caption .coordination,
 .cover-caption .authors {
   margin: 0;
-  padding: 4;
+  padding: 4px;
   font-weight: normal;
 }
 
 .cover-caption .subtitle {
   font-size: 1.25em;
-  font-style: normal;
-  font-weight: normal;
-  margin-top: 24px;
-  margin-bottom: 56px;
+  margin: 24px 0 56px;
 }
 
 .cover-caption .coordination {
-  font-size: 0.9em;
+  font-size: .9em;
   font-weight: bold;
   margin-bottom: 6px;
 }
 
 .cover-caption .coordination-name {
-  font-size: 0.9em;
-  font-weight: normal;
+  font-size: .9em;
   margin-bottom: 24px;
 }
 
 .cover-caption .authors {
+  font-size: .9em;
   font-weight: bold;
-  font-size: 0.9em;
   margin-bottom: 6px;
 }
 
 .cover-caption .author-names {
-  font-size: 0.9em;
-  font-weight: normal;
+  font-size: .9em;
   margin-bottom: 56px;
 }
 
 .cover-caption .place {
-  font-size: 0.70em;
-  font-weight: normal;
+  font-size: .7em;
   margin-bottom: 6px;
-  color: #ffffff;
 }
 
 .cover-caption .badge {
   margin-bottom: 18px;
 }
 
+/* ─────────────────────────
+   Literatur-Absätze kleiner
+   ───────────────────────── */
 div.literatur {
-  font-size: 0.85em;
+  font-size: .85em;
   line-height: 1.35;
+}
+
+/* ─────────────────────────
+   WeasyPrint-Work-around  +  Unicode-Ersatz-Icons
+   ───────────────────────── */
+@media print {
+
+  /* ➊ Flex-Fix – verhindert leere Seite 1 */
+  .md-main,
+  .md-content,
+  .md-main__inner,
+  .md-content__inner {
+    display: block !important;
+    flex: none !important;
+    height: auto !important;
+    overflow: visible !important;
+  }
+  body { margin: 0 !important; }
+
+  /* ➋ Pseudo-Icons auf echte Unicode-Zeichen umbiegen */
+  /* Pfeile der <details>-Klappboxen */
+  .md-typeset details summary::before            { content: "▶"; }
+  .md-typeset details[open] summary::before      { content: "▼"; }
+
+  /* Hamburger-Menü (oben links) – als ≡ */
+  .md-header__button.md-icon::before,
+  .md-header__button.md-icon::after              { content: "≡"; }
+
+  /* Admonition-Symbole */
+  .mdx-admonition-icon::before                   { content: "ℹ"; }
+  .mdx-admonition-icon--warning::before          { content: "⚠"; }
+  .mdx-admonition-icon--note::before             { content: "✎"; }
 }
