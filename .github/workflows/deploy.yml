@@ -2,41 +2,42 @@ name: Deploy MkDocs (HTML + PDF) to GitHub Pages
 
 on:
   push:
-    branches: [ main ]       # Workflow läuft bei jedem Push auf main
+    branches: [ main ]            # Workflow läuft bei jedem Push auf main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # 1 Repo auschecken
+      # 1. Repository auschecken
       - uses: actions/checkout@v4
 
-      # 2 Python einrichten
+      # 2. Python einrichten
       - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      # 3 Abhängigkeiten installieren
-      - name: Install Python deps
+      # 3. Abhängigkeiten installieren
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt          # <-- falls vorhanden
-          # oder: pip install mkdocs-material mkdocs-exporter
-          playwright install-deps                  # System-Libs für Chromium
-          playwright install chromium              # Chromium-Binary
+          # falls requirements.txt existiert, sonst direkt Pakete installieren
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install mkdocs-material mkdocs-exporter
+          fi
+          # Playwright-Runtime (System-Libs + Chromium) installieren
+          playwright install-deps
+          playwright install chromium
 
-      # 4 HTML-Site bauen
-      - name: Build MkDocs HTML
-        run: mkdocs build --clean
+      # 4. HTML- und PDF-Site in einem Rutsch bauen
+      - name: Build MkDocs (HTML + PDF)
+        run: mkdocs build --clean      # PDFs werden vom Exporter-Plugin automatisch erzeugt
 
-      # 5 PDFs exportieren (liegen danach ebenfalls in ./site)
-      - name: Export PDFs with Playwright
-        run: mkdocs exporter
-
-      # 6 Deploy nach gh-pages
+      # 5. Deploy nach gh-pages
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4       # aktuelle Version
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
