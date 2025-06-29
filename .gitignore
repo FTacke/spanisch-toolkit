@@ -1,5 +1,6 @@
-# MkDocs build directory
+# MkDocs build artefacts
 site/
+pdf/
 
 # Python cache
 __pycache__/
@@ -9,4 +10,14 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Virtuelle Umgebung
+.venv/
 .vscode/
+
+# Playwright/pyppeteer Downloads
+.playwright/
+.local/share/pyppeteer/
+
+# Editor & OS
+*.log
+.DS_Store

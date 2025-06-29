@@ -1,30 +1,42 @@
-name: Deploy MkDocs to GitHub Pages
+name: Deploy MkDocs (HTML + PDF) to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]       # Workflow läuft bei jedem Push auf main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      # 1 Repo auschecken
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      # 2 Python einrichten
+      - uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install mkdocs-material
+      # 3 Abhängigkeiten installieren
+      - name: Install Python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt          # <-- falls vorhanden
+          # oder: pip install mkdocs-material mkdocs-exporter
+          playwright install-deps                  # System-Libs für Chromium
+          playwright install chromium              # Chromium-Binary
 
-      - name: Build the documentation
-        run: mkdocs build
+      # 4 HTML-Site bauen
+      - name: Build MkDocs HTML
+        run: mkdocs build --clean
 
+      # 5 PDFs exportieren (liegen danach ebenfalls in ./site)
+      - name: Export PDFs with Playwright
+        run: mkdocs exporter
+
+      # 6 Deploy nach gh-pages
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4       # aktuelle Version
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site

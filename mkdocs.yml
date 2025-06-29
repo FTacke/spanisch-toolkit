@@ -1,16 +1,13 @@
 site_name: Spanische Linguistik @ School
-theme:
-  features:
-    - content.tabs
-    - content.code.annotate
-    - content.action.edit
-    - content.details
-    - navigation.footer
 
+theme:
   name: material
   language: de
   logo: assets/images/toolkit_logo.png
   favicon: assets/images/toolkit_favicon.png
+  icon:
+    repo: fontawesome
+    logo: material/library
   palette:
     - scheme: default
       primary: blue     # Material-Design-Standardfarbe für hellen Modus
@@ -19,11 +16,38 @@ theme:
         icon: material/weather-night
         name: Wechsel zu Dunkelmodus
     - scheme: slate
-      primary: blue     # Auch im Dunkelmodus bleibt es konsistent
+      primary: blue 
       accent: light blue
       toggle:
         icon: material/weather-sunny
         name: Wechsel zu Hellmodus
+  features:
+    - content.tabs
+    - content.code.annotate
+    - content.action.edit
+    - content.details
+    - navigation.footer
+    - content.action.print
+    - icons
+    - icons.inline        
+
+plugins:
+  - search
+  - exporter:            
+      buttons:                
+        - title: Als PDF herunterladen
+          icon: material-file-pdf-box
+          enabled: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.enabled
+          attributes: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.attributes
+
+      formats:
+        pdf:
+          enabled: true       
+          concurrency: 2      
+          browser:            
+            headless: true
+            args:
+              - --no-sandbox
 
 extra_css:
   - assets/stylesheets/overrides.css
@@ -35,8 +59,8 @@ nav:
   - Kap. 2 Aussprache (Beta): aussprache/aussprache.md
   - Kap. 3 Lexikalische Kreativität (Beta): lexik/kreativitaet.md
   - Kap. 4 Variation & Plurizentrik (Beta):
-    - Variation: variation/variation.md
-    - Ideen: variation/ideen.md
+      - Variation: variation/variation.md
+      - Ideen: variation/ideen.md
   - Kap. 5 Sprachwandel (Beta): wandel/wandel.md
   - Kap. 6 Herkunftssprachen & Spanisch (Beta): typologie/typologie.md
   - Über dieses Projekt: projekt.md
@@ -61,16 +85,11 @@ markdown_extensions:
 copyright: >
   Spanische Linguistik @ School<span style="color:var(--md-footer-fg-color--lighter)">
   &nbsp;wurde&nbsp;mit&nbsp;</span>
-  <a href="https://squidfunk.github.io/mkdocs-material/"
-     target="_blank" rel="noopener noreferrer"
-     style="text-decoration:none">
+  <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
     Material&nbsp;for&nbsp;MkDocs
   </a>
   <span style="color:var(--md-footer-fg-color--lighter)">
   erstellt&nbsp;und&nbsp;ist&nbsp;Teil&nbsp;von&nbsp;</span>
-  <a href="https://hispanistica.online.uni-marburg.de"
-     target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Hispanistica-@%20Marburg-4287f5?style=flat"
-         alt="Hispanistica – @ Marburg"
-         style="vertical-align:middle" />
+  <a href="https://hispanistica.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hispanistica-@%20Marburg-4287f5?style=flat" alt="Hispanistica – @ Marburg" style="vertical-align:middle" />
   </a>

@@ -1,0 +1,4 @@
+mkdocs-material>=9.6
+mkdocs-exporter>=6.2
+playwright>=1.53
+beautifulsoup4>=4.13
