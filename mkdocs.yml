@@ -33,7 +33,12 @@ theme:
 
 plugins:
   - search
-  - exporter:            
+  - exporter:
+      exporter_type: pdf
+      chromium_args: ["--no-sandbox"]
+      timeout: 0              # unendlich
+      wait_until: load        # genügt für statische Seiten
+      enabled: !ENV ["EXPORT_PDF", true]   #  ← Schalter           
       buttons:                
         - title: Als PDF herunterladen
           icon: material-file-pdf-box
@@ -56,13 +61,14 @@ nav:
   - Start: index.md
   - Einleitung: einleitung.md
   - Kap. 1 Fehlerlinguistik: fehlerlinguistik/fehlerlinguistik.md
-  - Kap. 2 Aussprache (Beta): aussprache/aussprache.md
+  - Kap. 2 Aussprache & Orthographie (Beta): aussprache/aussprache.md
   - Kap. 3 Lexikalische Kreativität (Beta): lexik/kreativitaet.md
   - Kap. 4 Variation & Plurizentrik (Beta):
       - Variation: variation/variation.md
       - Ideen: variation/ideen.md
-  - Kap. 5 Sprachwandel (Beta): wandel/wandel.md
-  - Kap. 6 Herkunftssprachen & Spanisch (Beta): typologie/typologie.md
+  - Kap. 5 Herkunftssprachen & Spanisch (Beta): typologie/typologie.md
+  - Kap. 6 Sprachwandel (Beta): wandel/wandel.md
+
   - Über dieses Projekt: projekt.md
 
 extra:

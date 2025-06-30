@@ -12,7 +12,9 @@ Thumbs.db
 
 # Virtuelle Umgebung
 .venv/
+.venv-win
 .vscode/
+lokal.txt
 
 # Playwright/pyppeteer Downloads
 .playwright/

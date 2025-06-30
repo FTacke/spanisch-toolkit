@@ -15,6 +15,11 @@ Aber Linguistik – und das ist mir ein besonderes Anliegen – umfasst so viel 
 
 Vor diesem Hintergrund knüpft dieses digitale Sachbuch an Rolf Kreyers Grundideen an und entwickelt ein *Toolkit*, das sich an angehende Spanischlehrer:innen richtet. Und natürlich gilt auch hier Kreyers Ansatz, dass Lehrkräfte, die die sprachwissenschaftlichen Grundlagen ihres Faches beherrschen, **besser unterrichten**. Was hier pointiert auf Englisch formuliert wird, gilt natürlich für jeglichen Fremdsprachenunterricht und eben auch für das Spanische als Fremdsprache.
 
+## "Work in Progress & Peer Review"
+Die Arbeit an diesem digitalen Sachbuch wurde zu Beginn des Sommersemesters 2025 im Rahmen eines von mir geleiteten Lehrprojekts an der Philipps-Universität Marburg aufgenommen. Es wird **in kollaborativer Textarbeit** gemeinsam mit Studierenden geschrieben. Im Unterschied zu statischen Lehrbüchern soll es kontinuierlich überarbeitet, verbessert und um weitere Themen erweitert werden. In den nächsten Monaten (und vielleicht Jahren) werden also *peu à peu* neue Textstücke hinzukommen, gemeinsam überarbeitet und dabei immer weiter durch nützliche (digitale) Ressourcen ergänzt. Die hier behandelten Themen sind als **offenes Inventar** gedacht. Sie entsprechen zum Teil den von Professor Kreyer behandelten Bereichen, greifen aber entsprechend der Schwerpunktsetzungen und Interessen aller Beteiligten auch andere Gebiete auf. In diesem Sinne soll hier eine Reise beginnen, deren exaktes Ende noch nicht vorbestimmt ist.
+
+Die einzelnen Kapitel werden meist zunächst in der Gruppe im Rahmen des wissenschaftlichen Seminardiskurses konzipiert. Ausgehend von explorativen und häufig auch durch generative KI unterstützten Recherchen wird eine Kapitelstruktur erarbeitet und in Ansätzen formuliert, welche Inhalte die einzelnen Abschnitte enthalten sollten. Im Anschluss wird die Redaktion des Kapitels bzw. konkreter Abschnitte ein bis zwei Studierenden übertragen, die dann federführend verantwortlich sind und als Autor:innen firmieren. Die redigierten Kapitelentwürfe werden schließlich Gegenstand eines **Peer Reviews** im besten Sinne, d.h. die Studierenden sind sich gegenseitig *peers* und begutachten sich gegenseitig als gleichberechtigte Fachkolleg:innen. Eine letzte Kontrolle, inhaltliche und stilistische, manchmal noch Ergänzung des Textes übernehme ich als Koordinator und Mitautor, um die inhaltliche Konsistenz und kapitelübergreifende Kohärenz zu gewährleisten. In einem letzten Schritt überlegen wir in der Gruppe auf Grundlage des fertigen Kapitels, wo genau sich **digitale Ressourcen** sinnvoll integrieren ließen und welche Infoboxen, Querverweise, Referenzen den Leser:innen einen Gewinn bieten könnten.
+
 ## Aufbau dieses Buches
 
 Die folgenden Kapitel sind aktuell vorgesehen (vorläufige Liste und Reihung):
@@ -22,19 +27,16 @@ Die folgenden Kapitel sind aktuell vorgesehen (vorläufige Liste und Reihung):
 | Kapitel | Leitfrage(n) | Linguistische Werkzeuge |
 |------|-----------|-------------------------|
 | [Fehlerlinguistik](fehlerlinguistik/fehlerlinguistik.md) | Welche Rolle spielen Fehler im Sprachlernprozess? Wie können Fehler analysiert und produktiv genutzt werden? Welche Arten von Fehlern gibt es? | Fehleranalyse, Lernendensprache, Sprachbewusstheit |
-| [Aussprache](aussprache/aussprache.md) | Welche Besonderheiten weist das Spanische in der Aussprache auf? Wie umgehen mit der Aussprachevariation in der spanischsprachigen Welt? Welche Aussprachevarianten sollten im Schulunterricht vermittelt werden? | Artikulationswissen, Phonologie, Variation |
+| [Aussprache & Orthographie](aussprache/aussprache.md) | Welche Herausforderungen weist das Spanische in der Aussprache auf? Welche Aussprachevarianten sollten im Schulunterricht vermittelt werden? Wie umgehen mit der Aussprachevariation in der spanischsprachigen Welt? | Phonetik/Phonologie, Kontrast Spanisch-Deutsch, Variation |
 | [Lexikalische Kreativität](lexik/kreativitaet.md) | Wie können Wortschatz und kreative Sprachproduktion gefördert werden? | Morphologie, Derivation, Neologismen |
-| [Normen](variation/variation.md) | Welches Spanische ist das richtige und im Schulunterricht zulässig? Was ist „richtig“ oder „angemessen“ im Spanischen? | Varietätenlinguistik, Sprachpolitik, Soziolinguistik |
+| [Variation & Plurizentrik](variation/variation.md) | Welche Variationsphänomene des Spanischen sind besonders relevant? Wie geht man mit Variation um? Welches Spanische ist das richtige und im Schulunterricht zulässig? | Varietätenlinguistik, Soziolinguistik, Standardologie |
+| [Herkunftssprachen & Spanisch](typologie/typologie.md) | Wie bereichern verschiedene Herkunftssprachen und –familien den Spanischunterricht? Welche besonderen Vorteile und Herausforderungen sind zu berücksichtigen? Wie nutze ich 'herkunftssprachliche Ressourcen' gezielt? | Mehrsprachigkeit, Sprachfamilien, Kontrastive Linguistik, Funktionale Typologie, Unterrichtsdidaktik |
 | [Wandel](wandel/wandel.md) | Was kann ich aus der Vergangenheit des Spanischen lernen und wie wandelt sich die Sprache heute? | Sprachgeschichte, kontrastive Perspektiven |
-| [Herkunftssprachen & Spanisch](typologie/typologie.md) | Welche Gemeinsamkeiten gibt es mit anderen Sprachen? Worin liegt die Besonderheit des Spanischen im Vergleich zum Deutschen, zum Türkischen, etc.? | Funktionale Typologie, kontrastive Linguistik |
-
-Wie schon erwähnt handelt es sich bei diesem digitalen Buch um „work in progress“. Die sich jeweils in Arbeit befindlichen Kapitel tragen daher den Zusatz „(Beta)“, um darauf hinzuweisen, dass es sich zunächst noch um zur (internen) Diskussion stehende Texte handelt. Ein [Template](template.md) gibt Orientierung zu Gestaltungsmöglichkeiten und Layout.
 
 ---
 
 !!! info "Dieses Kapitel zitieren" 
-    Tacke, Felix (2025): „Einleitung“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg. DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
-
+    Tacke, Felix (2025): „Einleitung“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg. Online: [https://linguistik.online.uni-marburg.de/](https://linguistik.online.uni-marburg.de/) DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
 
 [^*]: **Autor:innen:** Felix Tacke  
         
