@@ -16,6 +16,7 @@ Aber Linguistik – und das ist mir ein besonderes Anliegen – umfasst so viel 
 Vor diesem Hintergrund knüpft dieses digitale Sachbuch an Rolf Kreyers Grundideen an und entwickelt ein *Toolkit*, das sich an angehende Spanischlehrer:innen richtet. Und natürlich gilt auch hier Kreyers Ansatz, dass Lehrkräfte, die die sprachwissenschaftlichen Grundlagen ihres Faches beherrschen, **besser unterrichten**. Was hier pointiert auf Englisch formuliert wird, gilt natürlich für jeglichen Fremdsprachenunterricht und eben auch für das Spanische als Fremdsprache.
 
 ## "Work in Progress & Peer Review"
+
 Die Arbeit an diesem digitalen Sachbuch wurde zu Beginn des Sommersemesters 2025 im Rahmen eines von mir geleiteten Lehrprojekts an der Philipps-Universität Marburg aufgenommen. Es wird **in kollaborativer Textarbeit** gemeinsam mit Studierenden geschrieben. Im Unterschied zu statischen Lehrbüchern soll es kontinuierlich überarbeitet, verbessert und um weitere Themen erweitert werden. In den nächsten Monaten (und vielleicht Jahren) werden also *peu à peu* neue Textstücke hinzukommen, gemeinsam überarbeitet und dabei immer weiter durch nützliche (digitale) Ressourcen ergänzt. Die hier behandelten Themen sind als **offenes Inventar** gedacht. Sie entsprechen zum Teil den von Professor Kreyer behandelten Bereichen, greifen aber entsprechend der Schwerpunktsetzungen und Interessen aller Beteiligten auch andere Gebiete auf. In diesem Sinne soll hier eine Reise beginnen, deren exaktes Ende noch nicht vorbestimmt ist.
 
 Die einzelnen Kapitel werden meist zunächst in der Gruppe im Rahmen des wissenschaftlichen Seminardiskurses konzipiert. Ausgehend von explorativen und häufig auch durch generative KI unterstützten Recherchen wird eine Kapitelstruktur erarbeitet und in Ansätzen formuliert, welche Inhalte die einzelnen Abschnitte enthalten sollten. Im Anschluss wird die Redaktion des Kapitels bzw. konkreter Abschnitte ein bis zwei Studierenden übertragen, die dann federführend verantwortlich sind und als Autor:innen firmieren. Die redigierten Kapitelentwürfe werden schließlich Gegenstand eines **Peer Reviews** im besten Sinne, d.h. die Studierenden sind sich gegenseitig *peers* und begutachten sich gegenseitig als gleichberechtigte Fachkolleg:innen. Eine letzte Kontrolle, inhaltliche und stilistische, manchmal noch Ergänzung des Textes übernehme ich als Koordinator und Mitautor, um die inhaltliche Konsistenz und kapitelübergreifende Kohärenz zu gewährleisten. In einem letzten Schritt überlegen wir in der Gruppe auf Grundlage des fertigen Kapitels, wo genau sich **digitale Ressourcen** sinnvoll integrieren ließen und welche Infoboxen, Querverweise, Referenzen den Leser:innen einen Gewinn bieten könnten.
@@ -40,8 +41,7 @@ Die folgenden Kapitel sind aktuell vorgesehen (vorläufige Liste und Reihung):
 
 [^*]: **Autor:innen:** Felix Tacke  
         
-      **Letzte Änderung:** 27.06.2025  
+      **Letzte Änderung:** 30.06.2025  
     
-      
 [^2]: Kreyer (2023, Preface).  
 

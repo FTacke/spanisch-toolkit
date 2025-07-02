@@ -61,7 +61,9 @@ nav:
   - Start: index.md
   - Einleitung: einleitung.md
   - Kap. 1 Fehlerlinguistik: fehlerlinguistik/fehlerlinguistik.md
-  - Kap. 2 Aussprache & Orthographie (Beta): aussprache/aussprache.md
+  - Kap. 2 Aussprache & Orthographie (Beta):
+      - Aussprache: aussprache/aussprache.md
+      - Orthographie: aussprache/orthographie.md 
   - Kap. 3 Lexikalische Kreativität (Beta): lexik/kreativitaet.md
   - Kap. 4 Variation & Plurizentrik (Beta):
       - Variation: variation/variation.md
