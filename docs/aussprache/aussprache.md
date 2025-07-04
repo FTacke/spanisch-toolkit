@@ -29,37 +29,62 @@ Im Spanischen werden die R-Laute dagegen immer vorne am Zahndamm durch Zungensch
     In ihrer Artikulation ähneln sich die spanischen Vibranten viel eher dem deutschen [d] oder [t], da die Zungenspitze ebenfalls den Zahndamm berührt und dort zusätzlich eine Vibration erzeugt. Um dies zu üben, kann man sich beim spanischen Wort *claro* zunächst ein `<d>` statt des `<r>` vorstellen – also *cla**d**o* – und versuchen, dieses `<d>` zunehmend schneller auszusprechen. Mit etwas Übung löst sich der Verschluss am Zahndamm dabei so schnell, dass eine Vibration entsteht.
   
 <details>
-<summary>Vertiefung & Audiobeispiele</summary>
+<summary>Audiobeispiele</summary>
 
-<p>Es existieren jedoch sowohl im Deutschen als auch im Spanischen weitere unterschiedliche Realsierungen des R-Lauts, die jedoch nicht bedeutungsunterscheidend sind, sondern lediglich Variationen der Standard-R-Laute darstellen. Man spricht dann von freien Varianten oder Allophonen, die unabhängig von der Lautumgebung gesprochen werden und meist regional auftreten. So ähnelt etwa in der bairischen Aussprache der R-Laut im Wort Gras eher dem spanischen R-Laut, ohne dabei die Bedeutung des Wortes zu verändern. Ähnlich finden sich regionale Abweichungen vom spanischen Standard-R, wie etwa eine assibilierte Variante [ř] (ein [r] mit weniger Vibration), die in bestimmten hispanoamerikanischen Varietäten – etwa im Norden Mexikos oder Teilen Argentiniens – belegt ist.</p>
-
-<p>Hörbeispiele lassen sich etwa auf der Website der Universidad Nacional de Córdoba finden (Argentinien): (https://lashablasdecordoba.lenguas.unc.edu.ar/fonetica-marcos-juarez-pronunciacion-articulacion-de-la-r-y-rr/ (Abrufdatum: 30.06.2025)) sowie in der Aussprache hispanoamerikanischer Sänger:innen. Ein gutes Beispiel bietet hier die mexikanische Sängerin Carla Morris, bei der die Assibilierung insbesondere am Wortende gut hörbar ist (https://www.youtube.com/watch?v=AfvOP1X7umQ&t=9s (Abrufdatum: 30.06.2025)).</p>
+<p>Neben den genannten Varianten existieren regional natürlich noch viele weitere Varianten der Aussprache, die für den Unterricht zwar nicht unmittelbar relevant sind, aber zeigen, welche Diversität allein ein einzelnes Phonem aufweisen kann. Hierzu gehört beispielsweise eine assibilierte Variante [ř] (ein [r] mit weniger Vibration), die man etwa im Norden Mexikos oder in Teilen Argentiniens hören kann. Einen Höreindruck erhält man auf der Website der Universidad Nacional de Córdoba (Argentinien): <a href="https://lashablasdecordoba.lenguas.unc.edu.ar/fonetica-marcos-juarez-pronunciacion-articulacion-de-la-r-y-rr/" target="_blank" rel="noopener noreferrer">Las hablas de Córdoba</a> (letzter Zugriff: 30.06.2025). Wenn man genau hinhört, bemerkt man diese Artikulation auch im Gesang der Mexikanerin Carla Morris, vor allem am Wortende: Beispiel bei <a href="https://youtu.be/AfvOP1X7umQ?feature=shared&t=38" target="_blank" rel="noopener noreferrer">YouTube</a> (letzter Zugriff: 30.06.2025).</p>
 
 </details>
 
-Fortsetzung folgt ...
-
 ### Neue Laute
-- Interdental (+ Querverweis auf Abschnitt Variation unten), ll (+ heutige Relevanz gegenüber *yeísmo*), ñ, x
-- Theorie hier: Neutralisierung mancher Oppositionen (*seseo*, *yeísmo*; Vertiefung aber erst unten [Variation, …])
+
+Neben Lauten, die im Deutschen anders artikuliert werden als im Spanischen, besitzt das Spanische natürlich auch einige wenige Laute, die im Deutschen gar nicht vorkommen. Hierzu gehört der umgangssprachlich als ‚Lispellaut‘ bezeichnete Interdentallaut /θ/, der mit der Zungenspitze zwischen den Schneidezähnen artikuliert wird. Die Schüler:innen werden ihn bereits kennen, denn er ist identisch mit dem im Englischen als *th* bekannten Laut. Im Spanischen ist er allerdings nicht universell: Er gehört zwar zur Aussprachenorm Spaniens, wird jedoch fast ausschließlich in Zentral- und Nordspanien verwendet. Ansonsten kommt er aber in der spanischsprachigen Welt nirgendwo vor und stellt somit global betrachtet nur die Aussprache einer Minderheit der spanischsprechenden Menschen dar. Mehr dazu und zu der Frage, wie man damit im Unterricht umgeht, liest Du im Abschnitt [Varianten](varianten.md). Hier ist zunächst nur wichtig, dass diejenigen, die zwischen /s/ und /θ/ (z.B. in *casa* vs. *caza*) unterscheiden, in der spanischsprachigen Welt als *distinguidores* bezeichnet werden. Die Mehrheit der Sprecher, die keinen Unterschied macht und nur das Phonem /s/ kennt (Teile Spaniens und ganz Hispanoamerika), werden dagegen als seseantes bezeichnet, das Phänomen als *seseo* (mehr dazu [hier](https://www.rae.es/dpd/seseo){:target="_blank" rel="noopener noreferrer"}). Der *seseo* – das ist für den Unterricht wichtig – gilt in der spanischsprachigen Welt als genauso korrekt wie die Unterscheidung.
+
+<details>
+<summary>Seseo vs. Distinción</summary>
+
+<p>Wie beim yeísmo (s.u.) wird beim seseo zwar ebenfalls von der Neutralisierung der Lautopposition von /θ/ und /s/ gesprochen, allerdings sollte man wissen, dass die Gebiete, in denen der seseo vorherrscht (und somit Sprecher:innen, die nur /s/ kennen), der Interdentallaut nie existiert hat. In Zentral- und Nordspanien hat er sich historisch aus der Reduktion der Affrikaten /ts/ und /dz/ (Graphien waren <ç> wie in asp. caça und <z> wie in asp. dezir) entwickelt, während diese Laute in südlichen Gebieten zu /s/ wurden.
+In vielen Lehrwerken – und manchmal selbst in der Fachliteratur – wird fälschlicherweise suggeriert, es handle sich um eine Lautopposition, die verloren gegangen sei. Falsch erklärt es einleitend die aktuelle Ausgabe der Ortografía von 2010, obwohl direkt im Anschluss eine durchaus empfehlenswerte, historisch korrekte Erläuterung des Lautwandels folgt: RAE, Ortografía de la lengua española (RAE/ASALE 2010).
+Die für die gesamte spanischsprachige Welt geltende Orthographie spiegelt die Opposition natürlich wider. Dort wird sie durch die Graphien <z>, <ci> und <ce> abgebildet und stellt für seseantes seit jeher eine größere Herausforderung dar als für Lernende in Zentral- und Nordspanien.
+
+</details>
+
+Ein weiterer ‚neuer‘ Konsonant im Spanischunterricht ist der am harten Gaumen gebildete Palatallaut /ʎ/, der in der Schrift mit `<ll>` wie in *caba**ll**ero* wiedergegeben wird. Die Aussprache des Lautes ist für deutschsprachige Lernende unproblematisch, da man sich einfach die Aussprache der Buchstabenkombination `<lj>` vorstellt (oder `<gl>` in italienischen Wörtern wie *Tagliatelle*), die dem spanischen Laut sehr nahekommt. Wichtig ist allerdings der Hinweis, dass dieser Laut im heutigen Spanisch kaum noch vorkommt – auch nicht in Zentral- und Nordspanien und auch nicht bei gebildeten Sprecher:innen. Man hört ihn eigentlich nur noch in bestimmten ländlichen Gegenden Spaniens oder in der Anden-Region Südamerikas, v.a. Bolivien (dort bedingt durch den Einfluss indigener Sprachen). Die phonologische Unterscheidung zwischen /ʎ/ und /ʝ/, etwa in Wortpaaren wie *pollo* ‘Hühnchen’ und *poyo* ‘Steinbank’, spielt also heute praktisch keine Rolle mehr. Beinahe überall hat sich der *yeísmo*, also die Neutralisierung zugunsten des /ʝ/ (in etwa wie /j/ in dt. *ja*), durchgesetzt. In der Schreibung muss man dennoch wissen, wann `<ll>` und wann `<y>` geschrieben wird – Orthographien sind konservativer.  
+
+Ein spanischer Laut, der dagegen das Spanische der gesamten Hispanophonie kennzeichnet, ist das sogenannte *eñe* [ɲ], das durch den für das Spanische typischen Buchstaben <ñ> repräsentiert wird. Die Aussprache ist bekanntlich keine große Herausforderung: Man stellt sich die Buchstabenfolge `<nj>` vor und liegt in der Artikulation nah am Spanischen, wo er jedoch als einzelner Konsonant realisiert wird. Alle anderen romanischen Sprachen besitzen diesen Laut auch (mal mit `<gn>` geschrieben wie in it. *Gnocchi* oder fr. *Bretagne*, mal mit `<nh>` wie in pt. *Piranha*).
+
+    **[der Laut /x/ fehlt in der Darstellung noch!]**
+
+
 ### „Mal so, mal so“-Laute
-- Plosive /b/, /d/, /g/ und ihre Approximanten [β], [ð], [ɣ]
-- Theorie hier: kontextabhängige Allophonie
+
+Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen möchte, muss sich ein wenig mehr mit kontextabhängiger Variation auseinandersetzen. Wir haben bereits gesehen, dass die R-Laute in der Zielsprache anders artikuliert werden, je nachdem ob sie am Wortanfang oder -ende stehen (s.o.); die Laute /b, d, g/ weisen ebenfalls eine markante Allophonie auf, die den Unterschied zwischen einem ‚deutschem Akzent‘ und einer typisch spanischen Aussprache macht. Fortgeschrittene Schüler:innen sollte man also auf jeden Fall dafür sensibilisieren, dass die Aussprache als ‚hartes‘ [b, d, g] in *be**b**edor*, *olvi**d**ar* und *ami**g**o* sehr ‚deutsch‘ klingt und die drei Konsonanten hier stattdessen ‚weicher‘, nämlich als sogenannte Approximanten [β, ð, ɣ] artikuliert werden sollten als [beβeˈðoɾ], [olβiˈðaɾ] und [aˈmiɣo].  
+
+    **AUDIOBEISPIEL aus MAR.ELE folgt.**  
+  
+Die ‚Kontextregeln‘ hinter dieser zielsprachlichen Aussprache der stimmhaften Plosive /b/, /d/ und /g/ ist, dass diese nur am Wortanfang und nach einem Nasallaut (also /m/ oder /n/) wie im Deutschen realisiert werden. In allen anderen Positionen werden sie stattdessen als stimmhafte Approximanten [β, ð, ɣ] artikuliert. Der Unterschied zu [b, d, g] liegt nur darin, dass hier kein vollständiger Verschluss beim Artikulieren gebildet wird, sondern man nur *annähert* (daher die Bezeichnung *Approximanten*), sodass fast Reibelaute (Frikative) entstehen. Die Artikulation wirkt daher etwas ‚weicher‘ und nicht so ‚explosiv‘ wie bei den Verschlusslauten (oder *Plosiven*).  
+
+Für den Schulunterricht wird es übrigens genügen, dass man die Regel darauf reduziert, dass man ‚weicher‘ ausspricht, sobald die Laute *zwischen Vokalen vorkommen* (also *inervokalisch*). Einüben sollte man das auch im Kontext, wenn ein mit /b, d, g/ beginnendes Wort direkt auf einen Vokal folgt wie in *la **b**usca*, *lo **d**ijo*, *te **g**usta*.
+
+!!! tip "Tipp zum Üben"
+    **[β]:** Klingt wie ein weiches [b], nur ohne vollständigen Verschluss der Lippen (niemals als [v] wie in dt. Wasser!). Dieser Laut entsteht, wenn man bei der Aussprache des /b/ in aber eine kleine Öffnung zwischen den Lippen freilässt, sodass Luft entweichen kann. Beim Vorhalten der Handfläche sollte ein leichter Lufthauch spürbar sein. 
+       
+    **[ð]:** Entspricht fast dem englischen th-Laut wie er in father oder this vorkommt. Die Zunge liegt locker an den oberen Schneidezähnen an, ohne vollen Verschluss. 
+       
+    **[ɣ]:** Dieser Laut erinnert an eine Mischung aus dem deutschen Ach-Laut [x] und einem ‚harten‘ [g]. Der Zungenrücken wird dabei wie beim [g] an den weichen Gaumen (Velum) geführt, allerdings ohne vollständigen Verschluss. Stattdessen entsteht durch eine leichte Annäherung Reibung, die jedoch deutlich schwächer als beim Ach-Laut ist. Wenn man agua ganz schnell aussprechen lässt, entsteht er fast automatisch.
+
 ### Kein(e) Laut(ung)
-- `<h>`
-- v.a. als Übergang zum nächsten Abschnitt, wo vertieft wird
+
+Ein reiner Anfängerfehler ist bekanntlich das im Spanischen geschriebene, aber immer ‚stumme‘ `<h>` auszusprechen. Der Buchstabe hat also keinen Lautwert, weder am Wortanfang (z.B. *hay*, *hombre*), noch innerhalb des Wortes (z.B. *deshonra*, *prohibir*). Das `<h>` ist dabei manchmal etymologisch motiviert, wie in *haber* (< lat. *habēre*) oder *hombre* (< lat. *hominem*), manchmal wurde es zur Differenzierung von uneindeutigen Lautwerten vor Diphthongen eingeführt wie in *hueso* (< lat. *ossium*/*ossum*) oder es dient zur Kennzeichnung des Silbenbeginns wie in *cacahuete*. In jedem Fall bleibt es stumm. Wer mehr über das <h> im Spanischen wissen möchte, als die Schüler:innen wissen müssen, liest [hier](https://www.rae.es/ortograf%C3%ADa/la-h-muda){:target="_blank" rel="noopener noreferrer"} weiter.  
+
+Warum die spanische Orthographie dennoch – mit nur wenigen Ausnahmen – zu den besten Schriftsystemen überhaupt gehört, wenn man als Ideal die 1:1-Entsprechung von Buchstaben und Lauten zugrunde legt, und worauf aus linguistischer Perspektive zu achten ist, erfährst Du im Abschnitt [Orthographie](orthographie.md).
 
 
 
 
 
-## „Muss man sprechen wie die Spanier:innen?“ – Variation, Normen, Stereotypen
-- distinción vs. seseo (wo), yeísmo + rehilamiento, Abschwächung /s/ im Silbenauslaut
-- unterschiedliche Konfiguration der Merkmale je Land, sogar je Region (tierras altas vs. tierras bajas)
-- unterschiedliche Bewertung der Merkmale je Land (distinción/Interdental außerhalb Nord- und Zentralspaniens)
-- Umgang mit Variation/Merkmalen im Unterricht: Interdental unterrichten/verwenden? Seseo ebenso akzeptiert. Stereotype bzgl. Interdental? Stigmatisierung durch Status des „Lispelns“ im Deutschen? Vergleich mit th-Laut im Englischen
-- konkrete Empfehlungen?
+
+
 
 [^*]: **Autor:innen:** Marlon Merte, Felix Tacke  
         
-      **Letzte Änderung:** 02.07.2025  
+      **Letzte Änderung:** 04.07.2025

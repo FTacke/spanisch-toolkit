@@ -1,6 +1,6 @@
-# Orthographie (Beta)
+# Orthographie (Beta)[^*]
 
-## „Se escribe (casi) como se habla“ – Aussprache vs. Orthographie (Merte?)  
+## „Se escribe (casi) como se habla“ – Aussprache vs. Orthographie
 ### Graphem-Phonem-Korrespondenzen
 - `<h>` (wieder aufgreifen, vertiefen)
 - `<x>` in México
@@ -10,3 +10,8 @@
 
 ### Wortakzent
 ### Orthographischer Akzent/Tilde
+
+
+[^*]: **Autor:innen:** Marlon Merte, Felix Tacke
+        
+      **Letzte Änderung:** 04.07.2025
