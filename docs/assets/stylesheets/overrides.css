@@ -135,3 +135,27 @@ div.literatur {
   .mdx-admonition-icon--warning::before          { content: "⚠"; }
   .mdx-admonition-icon--note::before             { content: "✎"; }
 }
+
+/* Basisfarben direkt aus dem Theme übernehmen */
+:root {
+  /* Hintergrund / Schrift – funktioniert in Light- und Dark-Mode,
+     weil die Variablen von Material selbst umgeschaltet werden */
+  --md-meta-bg-color: var(--md-code-bg-color);
+  --md-meta-fg-color: var(--md-code-fg-color);
+}
+
+/* Styling für <span class="meta"> … </span> */
+.md-typeset .meta {
+  font: 500 0.95em var(--md-code-font-family, SFMono-Regular, Consolas, monospace);
+  background-color: var(--md-meta-bg-color);
+  color: var(--md-meta-fg-color);
+  padding: 0 .05em;
+  border-radius: .1rem;
+  white-space: nowrap;           /* verhindert Umbruch in Tabellen usw. */
+  vertical-align: baseline;      /* sitzt wie Inline-Code im Textfluss */
+}
+
+.md-typeset code {
+  font: 500 0.95em var(--md-code-font-family, SFMono-Regular, Consolas, monospace);
+  padding: 0 .05em;
+}
