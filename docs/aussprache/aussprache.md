@@ -24,15 +24,18 @@ Die Vokale <span class="meta">/a e i o u/</span>, ebenfalls fünf an der Zahl, s
     <p>Anhand der folgenden Audios kannst Du die Aussprache der Sequenz <i>o hay</i> (z.B. in Äußerungen wie <i>¿Está bien o hay un problema?</i>) eines Modellsprechers und einer Lernenden vergleichen:</p>
 
     <div class="audio-comparison">
-    <div class="audio-block">
-        <h4>Zielaussprache: <span class="meta">[o.ˈai]</span></h4>
-        <audio controls preload="metadata" src="/assets/audiofiles/marele/glottis_l1.mp3"></audio>
+        <div class="audio-block">
+            <h4>Zielaussprache: <span class="meta">[o.ˈai]</span></h4>
+            <audio controls preload="metadata" src="/assets/audiofiles/marele/glottis_l1.mp3"></audio>
+        </div>
+        <div class="audio-block">
+            <h4>Lernendenaussprache: <span class="meta">[ʔo.ʔai]</span></h4>
+            <audio controls preload="metadata" src="/assets/audiofiles/marele/glottis_ele.mp3"></audio>
+        </div>
     </div>
-    <div class="audio-block">
-        <h4>Lernendenaussprache: <span class="meta">[ʔo.ʔai]</span></h4>
-        <audio controls preload="metadata" src="/assets/audiofiles/marele/glottis_ele.mp3"></audio>
-    </div>
-    </div>
+
+    <div class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></div>
+
 </details>
 
 Sobald man (fortgeschrittene) Lernende also für diese Details sensibilisiert hat, ist zielsprachliche Kompetenz leicht erreicht. Etwas größere Herausforderungen liegen dagegen im Bereich der Konsonanten. Auf die wichtigsten Aussprachehürden auf dem Weg zu einer nahezu zielsprachlichen Kompetenz gehen wir kurz ein.
@@ -56,6 +59,8 @@ Es ist wohl allgemein bekannt, dass sowohl das Deutsche als auch das Spanische �
             <audio controls preload="metadata" src="/assets/audiofiles/marele/r_ele.mp3"></audio>
         </div>
     </div>
+    <div class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></div>
+
 </details>
 
 Im Spanischen werden die R-Laute dagegen immer vorne am Zahndamm durch Zungenschlag bzw. -vibration gebildet. Je nachdem, woher die Schüler:innen aus dem deutschsprachigen Raum kommen oder mit welcher Herkunftssprache sie aufgewachsen sind, fällt es den Lernenden also leichter oder schwerer die spanischen R-Laute zu artikulieren (vgl. [Herkunftssprachen](../herkunftssprachen/herkunftssprachen.md)). Wenn man das ‚gerollte‘ R also als Herausforderung bezeichnet, dann gilt das in erster Linie im Vergleich zur standarddeutschen Aussprache. Unabhängig davon ist zu beachten, dass das Spanische zwei ‚gerollte‘ R-Laute besitzt – ein einfaches <span class="meta">/ɾ/</span> und ein mehrfach vibrierendes <span class="meta">/r/</span> – die in bestimmten lautlichen Kontexten bedeutungsunterscheidend sind und somit den Status eigenständiger Phoneme haben. Der Kontrast wird besonders deutlich in (Minimal-)Paaren wie *pero* <span class="meta">[ˈpeɾo]</span> und *perro* <span class="meta">[ˈpero]</span> oder *caro* <span class="meta">[ˈkaɾo]</span> und *carro* <span class="meta">[ˈkaro]</span>. Dieser Unterschied ist allerdings nur innerhalb von Wörtern relevant, in allen anderen Positionen gibt es nur Präferenzen für bestimmte Varianten: Zielsprachlich normal – und mit fortgeschrittenen Schüler:innen einzuüben – ist das mehrfache Vibrieren am Wortanfang, während am Wortende einfaches Anschlagen der Zungenspitze üblich ist (Erstsprachler:innen vibrieren nur in besonders emphatischer Rede mehrfach). Die Orthographie spiegelt also nur den relevanten Unterschied im Wort wider und unterschlägt die übrigen Feinheiten (vgl. [Orthographie](orthographie.md)).
@@ -70,7 +75,7 @@ Im Spanischen werden die R-Laute dagegen immer vorne am Zahndamm durch Zungensch
 
 </details>
 
-### Neue Laute
+### Neu zu erlernende Laute
 
 Neben Lauten, die im Deutschen anders artikuliert werden als im Spanischen, besitzt das Spanische natürlich auch einige wenige Laute, die im Deutschen gar nicht vorkommen. Hierzu gehört der umgangssprachlich als ‚Lispellaut‘ bezeichnete Interdentallaut <span class="meta">/θ/</span>, der mit der Zungenspitze zwischen den Schneidezähnen artikuliert wird. Die Schüler:innen werden ihn bereits kennen, denn er ist identisch mit dem im Englischen als *th* bekannten Laut. Im Spanischen ist er allerdings nicht universell: Er gehört zwar zur Aussprachenorm Spaniens, wird jedoch fast ausschließlich in Zentral- und Nordspanien verwendet. Ansonsten kommt er aber in der spanischsprachigen Welt nirgendwo vor und stellt somit global betrachtet nur die Aussprache einer Minderheit der spanischsprechenden Menschen dar. Mehr dazu und zu der Frage, wie man damit im Unterricht umgeht, liest Du unter [2.3 Varianten](varianten.md). Hier ist zunächst nur wichtig, dass diejenigen, die zwischen <span class="meta">/s/</span> und <span class="meta">/θ/</span> (z.B. in *casa* vs. *caza*) unterscheiden, in der spanischsprachigen Welt als *distinguidores* bezeichnet werden. Die Mehrheit der Sprecher, die keinen Unterschied macht und nur das Phonem <span class="meta">/s/</span> kennt (Teile Spaniens und ganz Hispanoamerika), werden dagegen als seseantes bezeichnet, das Phänomen als *seseo* (mehr dazu [hier](https://www.rae.es/dpd/seseo){:target="_blank" rel="noopener noreferrer"}). Der *seseo* – das ist für den Unterricht wichtig – gilt in der spanischsprachigen Welt als genauso korrekt wie die Unterscheidung.
 
@@ -119,6 +124,9 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
             <audio controls controlsList="nodownload" preload="metadata" src="/assets/audiofiles/marele/agua_ele.mp3"></audio>
         </div>
     </div>
+
+    <div class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></div>
+
 </details>
   
 Die ‚Kontextregeln‘ hinter dieser zielsprachlichen Aussprache der stimmhaften Plosive <span class="meta">/b/</span>, <span class="meta">/d/</span> und <span class="meta">/g/</span> ist, dass diese nur am Wortanfang und nach einem Nasallaut (also <span class="meta">/m/</span> oder <span class="meta">/n/</span>) wie im Deutschen realisiert werden. In allen anderen Positionen werden sie stattdessen als stimmhafte Approximanten <span class="meta">[β ð ɣ]</span> artikuliert. Der Unterschied zu <span class="meta">[b d g]</span> liegt nur darin, dass hier kein vollständiger Verschluss beim Artikulieren gebildet wird, sondern man nur *annähert* (daher die Bezeichnung *Approximanten*), sodass fast Reibelaute (Frikative) entstehen. Die Artikulation wirkt daher etwas ‚weicher‘ und nicht so ‚explosiv‘ wie bei den Verschlusslauten (oder *Plosiven*).  
