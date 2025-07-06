@@ -1,4 +1,4 @@
-# Variation in der Aussprache (Beta)
+# 2.3 Aussprachevarianten (Beta)
 
 ### „Muss man sprechen wie die Spanier:innen?“ – Variation, Normen, Stereotypen
 - distinción vs. seseo (wo), yeísmo + rehilamiento, Abschwächung /s/ im Silbenauslaut

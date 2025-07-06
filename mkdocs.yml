@@ -60,17 +60,17 @@ extra_css:
 nav:
   - Start: index.md
   - Einleitung: einleitung.md
-  - Kap. 1 Fehlerlinguistik: fehlerlinguistik/fehlerlinguistik.md
-  - Kap. 2 Aussprache & Orthographie:
+  - 1 Fehlerlinguistik: fehlerlinguistik/fehlerlinguistik.md
+  - 2 Aussprache & Orthographie:
       - 2.1 Aussprache: aussprache/aussprache.md
       - 2.2 Orthographie (Beta): aussprache/orthographie.md 
       - 2.3 Varianten (Beta): aussprache/varianten.md
-  - Kap. 3 Lexikalische Kreativität (Beta): lexik/kreativitaet.md
-  - Kap. 4 Variation & Plurizentrik (Beta):
-      - Variation: variation/variation.md
-      - Ideen: variation/ideen.md
-  - Kap. 5 Herkunftssprachen & Spanisch (Beta): typologie/typologie.md
-  - Kap. 6 Sprachwandel (Beta): wandel/wandel.md
+  - 3 Lexikalische Kreativität (Beta): lexik/lexik.md
+  - 4 Variation & Plurizentrik (Beta):
+      - 4.1 Variation: variation/variation.md
+      - 4.2 Ideen: variation/ideen.md
+  - 5 Herkunftssprachen (Beta): herkunftssprachen/herkunftssprachen.md
+  - 6 Sprachwandel (Beta): wandel/wandel.md
 
   - Über dieses Projekt: projekt.md
 

@@ -1,1 +1,0 @@
-# Lexikalische Kreativität (Beta)

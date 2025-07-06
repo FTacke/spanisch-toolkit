@@ -29,7 +29,7 @@ Die Idee zu diesem digitalen Sachbuchprojekt ist nicht aus dem Nichts entstanden
 
 Eine ausführlichere Darstellung der Grundidee findest Du in der [Einleitung](einleitung.md). Wenn Du sofort starten möchtest, kannst Du über die Navigation auch direkt in eines der Kapitel springen.
 
-Bei diesem digitalen Buch handelt es sich um „work in progress“. Die sich jeweils in Arbeit befindlichen Kapitel tragen daher den Zusatz „(Beta)“, um darauf hinzuweisen, dass es sich zunächst noch um zur (internen) Diskussion stehende Texte handelt. Ein [Template](template.md) gibt Orientierung zu Gestaltungsmöglichkeiten und Layout.
+Bei diesem digitalen Buch handelt es sich um „work in progress“. Die sich jeweils in Arbeit befindlichen Kapitel tragen daher den Zusatz „(Beta)“, um darauf hinzuweisen, dass es sich zunächst noch um zur (internen) Diskussion stehende Texte handelt.
 
 *Marburg, im April 2025*
 

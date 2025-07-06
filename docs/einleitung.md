@@ -29,9 +29,9 @@ Die folgenden Kapitel sind aktuell vorgesehen (vorläufige Liste und Reihung):
 |------|-----------|-------------------------|
 | [Fehlerlinguistik](fehlerlinguistik/fehlerlinguistik.md) | Welche Rolle spielen Fehler im Sprachlernprozess? Wie können Fehler analysiert und produktiv genutzt werden? Welche Arten von Fehlern gibt es? | Fehleranalyse, Lernendensprache, Sprachbewusstheit |
 | [Aussprache & Orthographie](aussprache/aussprache.md) | Welche Herausforderungen weist das Spanische in der Aussprache auf? Welche Aussprachevarianten sollten im Schulunterricht vermittelt werden? Wie umgehen mit der Aussprachevariation in der spanischsprachigen Welt? | Phonetik/Phonologie, Kontrast Spanisch-Deutsch, Variation |
-| [Lexikalische Kreativität](lexik/kreativitaet.md) | Wie können Wortschatz und kreative Sprachproduktion gefördert werden? | Morphologie, Derivation, Neologismen |
+| [Lexikalische Kreativität](lexik/lexik.md) | Wie können Wortschatz und kreative Sprachproduktion gefördert werden? | Morphologie, Derivation, Neologismen |
 | [Variation & Plurizentrik](variation/variation.md) | Welche Variationsphänomene des Spanischen sind besonders relevant? Wie geht man mit Variation um? Welches Spanische ist das richtige und im Schulunterricht zulässig? | Varietätenlinguistik, Soziolinguistik, Standardologie |
-| [Herkunftssprachen & Spanisch](typologie/typologie.md) | Wie bereichern verschiedene Herkunftssprachen und –familien den Spanischunterricht? Welche besonderen Vorteile und Herausforderungen sind zu berücksichtigen? Wie nutze ich 'herkunftssprachliche Ressourcen' gezielt? | Mehrsprachigkeit, Sprachfamilien, Kontrastive Linguistik, Funktionale Typologie, Unterrichtsdidaktik |
+| [Herkunftssprachen](herkunftssprachen/herkunftssprachen.md) | Wie bereichern verschiedene Herkunftssprachen und –familien den Spanischunterricht? Welche besonderen Vorteile und Herausforderungen sind zu berücksichtigen? Wie nutze ich 'herkunftssprachliche Ressourcen' gezielt? | Mehrsprachigkeit, Sprachfamilien, Kontrastive Linguistik, Funktionale Typologie, Unterrichtsdidaktik |
 | [Wandel](wandel/wandel.md) | Was kann ich aus der Vergangenheit des Spanischen lernen und wie wandelt sich die Sprache heute? | Sprachgeschichte, kontrastive Perspektiven |
 
 ---
