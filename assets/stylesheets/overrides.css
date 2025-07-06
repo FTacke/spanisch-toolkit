@@ -194,4 +194,14 @@ audio::-webkit-media-controls-timeline {
     margin-bottom: .5em;
 }
 
+.audio-source {
+  font-size: 0.9em;
+  font-weight: 400;
+  text-align: right;
+  color: var(--md-meta-fg-color);
+  margin-top: 0.8em;
+  margin-right: 0.6em;
+  font-style: none;
+}
+
 
