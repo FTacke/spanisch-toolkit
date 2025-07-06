@@ -21,7 +21,7 @@ Die Vokale <span class="meta">/a e i o u/</span>, ebenfalls fünf an der Zahl, s
 <details>
 <summary>Hör mal</summary>
 
-    <p>Anhand der folgenden Audios kannst Du die Aussprache der Sequenz <i>o hay</i> (z.B. in Äußerungen wie <i>¿Está bien o hay un problema?</i>) eines Modellsprechers und einer Lernenden vergleichen:</p>
+    <p>Anhand der folgenden Audios kannst Du die Aussprache der Sequenz <i><b>o hay</b></i> (z.B. in Äußerungen wie <i>¿Está bien <b>o hay</b> un problema?</i>) eines Modellsprechers und einer Lernenden vergleichen:</p>
 
     <div class="audio-comparison">
         <div class="audio-block">
@@ -47,7 +47,7 @@ Es ist wohl allgemein bekannt, dass sowohl das Deutsche als auch das Spanische �
 <details>
 <summary>Hör mal</summary>
 
-    <p>Vergleiche /r-/ am Wortanfang und /-r/ am Ende in <i>reír</i>:</p>
+    <p>Vergleiche /r-/ am Wortanfang und /-r/ am Ende in <i><b>reír</b></i>:</p>
 
     <div class="audio-comparison">
         <div class="audio-block">
@@ -69,7 +69,7 @@ Im Spanischen werden die R-Laute dagegen immer vorne am Zahndamm durch Zungensch
     In ihrer Artikulation ähneln sich die spanischen Vibranten viel eher dem deutschen <span class="meta">[d]</span> oder <span class="meta">[t]</span>,da die Zungenspitze ebenfalls den Zahndamm berührt und dort zusätzlich eine Vibration erzeugt. Um dies zu üben, kann man sich beim spanischen Wort *claro* zunächst ein `<d>` statt des `<r>` vorstellen – also *cla**d**o* – und versuchen, dieses `<d>` zunehmend schneller auszusprechen. Mit etwas Übung löst sich der Verschluss am Zahndamm dabei so schnell, dass eine Vibration entsteht.
   
 <details>
-<summary>Regionale Dive<u>r</u>sität </summary>
+<summary><u>R</u>egionale Dive<u>r</u>sität </summary>
 
 <p>Neben den genannten Varianten existieren regional natürlich noch viele weitere Varianten der Aussprache, die für den Unterricht zwar nicht unmittelbar relevant sind, aber zeigen, welche Diversität allein ein einzelnes Phonem aufweisen kann. Hierzu gehört beispielsweise eine assibilierte Variante <span class="meta">[ř]</span> (ein <span class="meta">[r]</span> mit weniger Vibration), die man etwa im Norden Mexikos oder in Teilen Argentiniens hören kann. Einen Höreindruck erhält man auf der Website der Universidad Nacional de Córdoba (Argentinien): <a href="https://lashablasdecordoba.lenguas.unc.edu.ar/fonetica-marcos-juarez-pronunciacion-articulacion-de-la-r-y-rr/" target="_blank" rel="noopener noreferrer">Las hablas de Córdoba</a> (letzter Zugriff: 30.06.2025). Wenn man genau hinhört, bemerkt man diese Artikulation auch im Gesang der Mexikanerin Carla Morris, vor allem am Wortende: Beispiel bei <a href="https://youtu.be/AfvOP1X7umQ?feature=shared&t=38" target="_blank" rel="noopener noreferrer">YouTube</a> (letzter Zugriff: 30.06.2025).</p>
 
@@ -82,9 +82,9 @@ Neben Lauten, die im Deutschen anders artikuliert werden als im Spanischen, besi
 <details>
 <summary><i>Seseo</i> vs. <i>Distinción</i></summary>
 
-<p>Wie beim <i>yeísmo</i> (s.u.) wird beim seseo zwar ebenfalls von der Neutralisierung der Lautopposition von <span class="meta">/θ/</span> und <span class="meta">/s/</span> gesprochen, allerdings sollte man wissen, dass die Gebiete, in denen der <i>seseo</i> vorherrscht (und somit Sprecher:innen, die nur <span class="meta">/s/</span> kennen), der Interdentallaut nie existiert hat. In Zentral- und Nordspanien hat er sich historisch aus der Reduktion der Affrikaten <span class="meta">/ts/</span> und <span class="meta">/dz/</span> (Graphien waren <span class="meta">&lt;ç&gt;</span> wie in asp. <i>caça</i> und <span class="meta">&lt;z&gt;</span> wie in asp. <i>dezir</i>) entwickelt, während diese Laute in südlichen Gebieten zu <span class="meta">/s/</span> wurden.</p>
-<p>In vielen Lehrwerken – und manchmal selbst in der Fachliteratur – wird fälschlicherweise suggeriert, es handle sich um eine Lautopposition, die verloren gegangen sei. Falsch erklärt es einleitend die aktuelle Ausgabe der Ortografía von 2010, obwohl direkt im Anschluss eine durchaus empfehlenswerte, historisch korrekte Erläuterung des Lautwandels folgt: <a href="https://www.rae.es/ortograf%C3%ADa/subsistemas-conson%C3%A1nticos-del-espa%C3%B1ol-los-fen%C3%B3menos-del-seseo-el-ceceo-y-el-ye%C3%ADsmo" target="_blank" rel="noopener noreferrer">Ortografía de la lengua española</a> (RAE/ASALE 2010).</p>
-<p>Die für die gesamte spanischsprachige Welt geltende Orthographie spiegelt die Opposition natürlich wider. Dort wird sie durch die Graphien <span class="meta">&lt;z&gt;</span>, <span class="meta">&lt;ci&gt;</span> und <span class="meta">&lt;ce&gt;</span> abgebildet und stellt für seseantes seit jeher eine größere Herausforderung dar als für Lernende in Zentral- und Nordspanien.</p>
+<p>Wie beim <i>yeísmo</i> (s.u.) wird beim seseo zwar ebenfalls von der Neutralisierung der Lautopposition von <span class="meta">/θ/</span> und <span class="meta">/s/</span> gesprochen, allerdings sollte man wissen, dass der Interdentallaut in den Gebieten, in denen der <i>seseo</i> vorherrscht (also dort, wo die meisten Sprecher:innen <i>seseantes</i> sind, nie existiert hat. In Zentral- und Nordspanien hat sich der Interdental /θ/ historisch aus der Reduktion der Affrikaten <span class="meta">/ts/</span> und <span class="meta">/dz/</span> (Graphien waren <span class="meta">&lt;ç&gt;</span> wie in asp. <i>caça</i> und <span class="meta">&lt;z&gt;</span> wie in asp. <i>dezir</i>) entwickelt, während diese Laute in südlichen Gebieten zu <span class="meta">/s/</span> wurden.</p>
+<p>In vielen Lehrwerken – und manchmal selbst in der Fachliteratur – wird fälschlicherweise suggeriert, es handle sich um eine Lautopposition, die verloren gegangen sei. Falsch erklärt es einleitend sogar die aktuelle Ausgabe der <i>Ortografía</i> von 2010, obwohl direkt im Anschluss eine durchaus empfehlenswerte, historisch korrekte Erläuterung des Lautwandels folgt: <a href="https://www.rae.es/ortograf%C3%ADa/subsistemas-conson%C3%A1nticos-del-espa%C3%B1ol-los-fen%C3%B3menos-del-seseo-el-ceceo-y-el-ye%C3%ADsmo" target="_blank" rel="noopener noreferrer">Ortografía de la lengua española</a> (RAE/ASALE 2010).</p>
+<p>Die für die gesamte spanischsprachige Welt geltende Orthographie spiegelt die Opposition natürlich wider. Dort wird sie durch die Graphien <span class="meta">&lt;z&gt;</span>, <span class="meta">&lt;ci&gt;</span> und <span class="meta">&lt;ce&gt;</span> abgebildet und stellt für <i>seseantes</i> seit jeher eine größere Herausforderung dar als für Lernende in Zentral- und Nordspanien.</p>
 
 </details>
 
@@ -99,7 +99,7 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
 <details>
 <summary>Hör mal</summary>
 
-    <p>Vergleiche die Artikulation der Phoneme /b/ und /d/ in <i>el bebedor</i>:</p>
+    <p>Vergleiche die Artikulation der Phoneme /b/ und /d/ in <i><b>el bebedor</b></i>:</p>
 
     <div class="audio-comparison">
         <div class="audio-block">
@@ -112,7 +112,7 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
         </div>
     </div>
 
-    <p>Vergleiche die Artikulation des Phonems /g/ in <i>con agua</i>:</p>
+    <p>Vergleiche die Artikulation des Phonems /g/ in <i><b>con agua</b></i>:</p>
 
     <div class="audio-comparison">
         <div class="audio-block">
