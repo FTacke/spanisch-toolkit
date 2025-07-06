@@ -49,7 +49,7 @@ Es ist wohl allgemein bekannt, dass sowohl das Deutsche als auch das Spanische �
     <div class="audio-comparison">
         <div class="audio-block">
             <h4>Zielaussprache: <span class="meta">[re.ˈiɾ]</span></h4>
-            <audio controls controlsList="nodownload" preload="metadata" src="/assets/audiofiles/marele/r_l1.mp3"></audio>
+            <audio controls preload="metadata" src="/assets/audiofiles/marele/r_l1.mp3"></audio>
         </div>
         <div class="audio-block">
             <h4>Lernendenaussprache: <span class="meta">[ʁe.ˈɪɐ]</span></h4>
