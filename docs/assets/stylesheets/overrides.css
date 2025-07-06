@@ -155,7 +155,43 @@ div.literatur {
   vertical-align: baseline;      /* sitzt wie Inline-Code im Textfluss */
 }
 
+body[data-md-color-scheme="slate"] .md-typeset .meta {
+  background-color: rgb(39, 42, 53);
+  color: rgba(213, 216, 226, 0.82);
+}
+
 .md-typeset code {
   font: 500 0.95em var(--md-code-font-family, SFMono-Regular, Consolas, monospace);
   padding: 0 .05em;
 }
+
+audio::-webkit-media-controls-timeline {
+  display: 1;
+}
+
+.audio-comparison {
+  display: flex;
+  gap: 0rem;
+  flex-wrap: wrap;
+  font-size: .64rem;
+}
+
+.audio-block {
+  flex: 1 1 10px;
+  min-width: 280px;
+}
+
+@media (max-width: 600px) {
+  .audio-comparison {
+    flex-direction: column;
+  }
+}
+
+.md-typeset h4 {
+    font-weight: 700;
+    letter-spacing: -.01em;
+    margin-top: 0.5em;
+    margin-bottom: .5em;
+}
+
+
