@@ -6,6 +6,9 @@ pdf/
 __pycache__/
 *.pyc
 
+# Python work scripts
+*.py
+
 # OS-specific
 .DS_Store
 Thumbs.db

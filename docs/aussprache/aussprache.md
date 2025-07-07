@@ -24,14 +24,23 @@ Die Vokale <span class="meta">/a e i o u/</span>, ebenfalls fünf an der Zahl, s
     <p>Anhand der folgenden Audios kannst Du die Aussprache der Sequenz <i><b>o hay</b></i> (z.B. in Äußerungen wie <i>¿Está bien <b>o hay</b> un problema?</i>) eines Modellsprechers und einer Lernenden vergleichen:</p>
 
     <div class="audio-comparison">
-        <div class="audio-block">
-            <h4>Zielaussprache: <span class="meta">[o.ˈai]</span></h4>
-            <audio controls preload="metadata" src="/assets/audiofiles/marele/glottis_l1.mp3"></audio>
-        </div>
-        <div class="audio-block">
-            <h4>Lernendenaussprache: <span class="meta">[ʔo.ʔai]</span></h4>
-            <audio controls preload="metadata" src="/assets/audiofiles/marele/glottis_ele.mp3"></audio>
-        </div>
+
+    <div class="audio-block">
+        <h4>Zielaussprache: <span class="meta">[o.ˈai]</span></h4>
+        <audio controls preload="metadata">
+            <source src="/assets/audiofiles/marele/glottis_l1.mp3" type="audio/mpeg">
+            <source src="/assets/audiofiles/marele/glottis_l1.m4a" type="audio/mp4">
+            Dein Browser unterstützt das Audio-Format nicht.
+        </audio>
+    </div>
+    <div class="audio-block">
+        <h4>Lernendenaussprache: <span class="meta">[ʔo.ʔai]</span></h4>
+        <audio controls preload="metadata">
+            <source src="/assets/audiofiles/marele/glottis_ele.mp3" type="audio/mpeg">
+            <source src="/assets/audiofiles/marele/glottis_ele.m4a" type="audio/mp4">
+            Dein Browser unterstützt das Audio-Format nicht.
+        </audio>
+    </div>
     </div>
 
     <div class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></div>
@@ -52,11 +61,19 @@ Es ist wohl allgemein bekannt, dass sowohl das Deutsche als auch das Spanische �
     <div class="audio-comparison">
         <div class="audio-block">
             <h4>Zielaussprache: <span class="meta">[re.ˈiɾ]</span></h4>
-            <audio controls preload="metadata" src="/assets/audiofiles/marele/r_l1.mp3"></audio>
+            <audio controls preload="metadata">
+                <source src="/assets/audiofiles/marele/r_l1.mp3" type="audio/mpeg">
+                <source src="/assets/audiofiles/marele/r_l1.m4a" type="audio/mp4">
+                Dein Browser unterstützt das Audio-Format nicht.
+            </audio>
         </div>
         <div class="audio-block">
             <h4>Lernendenaussprache: <span class="meta">[ʁe.ˈɪɐ]</span></h4>
-            <audio controls preload="metadata" src="/assets/audiofiles/marele/r_ele.mp3"></audio>
+            <audio controls preload="metadata">
+                <source src="/assets/audiofiles/marele/r_ele.mp3" type="audio/mpeg">
+                <source src="/assets/audiofiles/marele/r_ele.m4a" type="audio/mp4">
+                Dein Browser unterstützt das Audio-Format nicht.
+            </audio>
         </div>
     </div>
     <div class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></div>
@@ -104,11 +121,19 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
     <div class="audio-comparison">
         <div class="audio-block">
             <h4>Zielaussprache: <span class="meta">[el.βe.βe.ˈðoɾ]</span></h4>
-            <audio controls preload="metadata" src="/assets/audiofiles/marele/bebedor_l1.mp3"></audio>
+            <audio controls preload="metadata">
+                <source src="/assets/audiofiles/marele/bebedor_l1.mp3" type="audio/mpeg">
+                <source src="/assets/audiofiles/marele/bebedor_l1.m4a" type="audio/mp4">
+                Dein Browser unterstützt das Audio-Format nicht.
+            </audio>
         </div>
         <div class="audio-block">
             <h4>Lernendenaussprache: <span class="meta">[el.be.be.ˈdoɐ]</span></h4>
-            <audio controls preload="metadata" src="/assets/audiofiles/marele/bebedor_ele.mp3"></audio>
+            <audio controls preload="metadata">
+                <source src="/assets/audiofiles/marele/bebedor_ele.mp3" type="audio/mpeg">
+                <source src="/assets/audiofiles/marele/bebedor_ele.m4a" type="audio/mp4">
+                Dein Browser unterstützt das Audio-Format nicht.
+            </audio>
         </div>
     </div>
 
@@ -117,11 +142,19 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
     <div class="audio-comparison">
         <div class="audio-block">
             <h4>Zielaussprache: <span class="meta">[ko.ˈna.ɣwa]</span></h4>
-            <audio controls controlsList="nodownload" preload="metadata" src="/assets/audiofiles/marele/agua_l1.mp3"></audio>
+            <audio controls controlsList="nodownload" preload="metadata">
+                <source src="/assets/audiofiles/marele/agua_l1.mp3" type="audio/mpeg">
+                <source src="/assets/audiofiles/marele/agua_l1.m4a" type="audio/mp4">
+                Dein Browser unterstützt das Audio-Format nicht.
+            </audio>
         </div>
         <div class="audio-block">
             <h4>Lernendenaussprache: <span class="meta">[kon.ˈa.gwa]</span></h4>
-            <audio controls controlsList="nodownload" preload="metadata" src="/assets/audiofiles/marele/agua_ele.mp3"></audio>
+            <audio controls controlsList="nodownload" preload="metadata">
+                <source src="/assets/audiofiles/marele/agua_ele.mp3" type="audio/mpeg">
+                <source src="/assets/audiofiles/marele/agua_ele.m4a" type="audio/mp4">
+                Dein Browser unterstützt das Audio-Format nicht.
+            </audio>
         </div>
     </div>
 
@@ -131,7 +164,7 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
   
 Die ‚Kontextregeln‘ hinter dieser zielsprachlichen Aussprache der stimmhaften Plosive <span class="meta">/b/</span>, <span class="meta">/d/</span> und <span class="meta">/g/</span> ist, dass diese nur am Wortanfang und nach einem Nasallaut (also <span class="meta">/m/</span> oder <span class="meta">/n/</span>) wie im Deutschen realisiert werden. In allen anderen Positionen werden sie stattdessen als stimmhafte Approximanten <span class="meta">[β ð ɣ]</span> artikuliert. Der Unterschied zu <span class="meta">[b d g]</span> liegt nur darin, dass hier kein vollständiger Verschluss beim Artikulieren gebildet wird, sondern man nur *annähert* (daher die Bezeichnung *Approximanten*), sodass fast Reibelaute (Frikative) entstehen. Die Artikulation wirkt daher etwas ‚weicher‘ und nicht so ‚explosiv‘ wie bei den Verschlusslauten (oder *Plosiven*).  
 
-Für den Schulunterricht wird es übrigens genügen, dass man die Regel darauf reduziert, dass man ‚weicher‘ ausspricht, sobald die Laute *zwischen Vokalen vorkommen* (also *inervokalisch*). Einüben sollte man das auch im Kontext, wenn ein mit <span class="meta">/b d g/</span> beginnendes Wort direkt auf einen Vokal folgt wie in *la **b**usca*, *lo **d**ijo*, *te **g**usta*.
+Für den Schulunterricht wird es übrigens genügen, dass man die Regel darauf reduziert, dass man ‚weicher‘ ausspricht, sobald die Laute *zwischen Vokalen vorkommen* (also *intervokalisch*). Einüben sollte man das auch im Kontext, wenn ein mit <span class="meta">/b d g/</span> beginnendes Wort direkt auf einen Vokal folgt wie in *la **b**usca*, *lo **d**ijo*, *te **g**usta*.
 
 !!! tip "Tipp zum Üben"
     <span class="meta">**[β]**</span>: Klingt wie ein weiches <span class="meta">[b]</span>, nur ohne vollständigen Verschluss der Lippen (niemals als <span class="meta">[v]</span> wie in dt. *<u>W</u>asser*!). Dieser Laut entsteht, wenn man bei der Aussprache des <span class="meta">/b/</span> in aber eine kleine Öffnung zwischen den Lippen freilässt, sodass Luft entweichen kann. Beim Vorhalten der Handfläche sollte ein leichter Lufthauch spürbar sein. 
@@ -139,6 +172,15 @@ Für den Schulunterricht wird es übrigens genügen, dass man die Regel darauf r
     <span class="meta">**[ð]**</span>: Entspricht fast dem englischen *th*-Laut wie er in father oder this vorkommt. Die Zunge liegt locker an den oberen Schneidezähnen an, ohne vollen Verschluss. 
        
     <span class="meta">**[ɣ]**</span>: Dieser Laut erinnert an eine Mischung aus dem deutschen Ach-Laut <span class="meta">[x]</span> und einem ‚harten‘ <span class="meta">[g]</span>. Der Zungenrücken wird dabei wie beim <span class="meta">[g]</span> an den weichen Gaumen (Velum) geführt, allerdings ohne vollständigen Verschluss. Stattdessen entsteht durch eine leichte Annäherung Reibung, die jedoch deutlich schwächer als beim Ach-Laut ist. Wenn man agua ganz schnell aussprechen lässt, entsteht er fast automatisch.
+
+<details>
+<summary>Kaum hörbar: <span class="meta">/p t k/</span> im Deutschen mit, im Spanischen ohne Luftstoß</summary>
+
+<p>Die stimmlosen Plosive <span class="meta">/p t k/</span> unterscheiden sich zwischen dem Deutschen und dem Spanischen darin, dass man sie im Deutschen oft ‚intensiver‘ ausspricht, nämlich verstärkt durch eine Aspiration bzw. Behauchung als <span class="meta">[pʰ]</span>, <span class="meta">[tʰ]</span> und <span class="meta">[kʰ]</span>. Das bedeutet, dass beim Lösen des Verschlusses zwischen den Artikulatoren ein Luftstoß entweicht. Dies lässt sich leicht überprüfen, indem man die Hand vor den Mund hält: Ist ein Luftstoß zu spüren, handelt es sich um einen aspirierten Laut. Die spanischen Plosive sind jedoch nie aspiriert. Für diese Aussprache kann man sich an der Artikulation in den Wörtern <i>S<u>p</u>ort</i>, <i>S<u>t</u>ern</i> und <i>S<u>k</u>ala</i> orientieren, wo man auch im Deutschen nicht aspiriert.</p>
+
+<p>Das Phänomen fällt deutlich weniger auf als die anderen hier genannten Aussprachekontraste, aber für fortgeschrittene Lernende lohnt sich ein Hinweis und eine kleine Übung.</p> 
+
+</details>
 
 Der stimmlose Reibelaut <span class="meta">/x/</span>, der den Graphien `<g>` (nur in `<ge>` und `<gi>`) sowie `<j>` entspricht, ist ein interessanter Fall. Im Deutschen ist dieser Laut zwar bekannt, wird dort jedoch mit der Schreibung `<ch>` assoziiert. Das Phonem <span class="meta">/x/</span> wird im Deutschen kontextabhängig an ganz unterschiedlichen Stellen im Mundraum artikuliert: vorne in *ich* (transkribiert als <span class="meta">[ç]</span>), weiter hinten als <span class="meta">[x]</span> in *och* und ganz hinten als <span class="meta">[χ]</span> in *ach*.
 Im Spanischen gibt es dieselben Varianten, allerdings hängen sie dort nicht vom lautlichen Kontext ab, sondern sind jeweils typisch für bestimmte regionale oder nationale Varietäten (mehr dazu unter [2.3 Varianten](varianten.md)).
@@ -196,4 +238,4 @@ Ein reiner Anfängerfehler ist es bekanntlich, das im Spanischen geschriebene, a
 
 [^*]: **Autor:innen:** Marlon Merte, Felix Tacke  
         
-      **Letzte Änderung:** 06.07.2025
+      **Letzte Änderung:** 07.07.2025
