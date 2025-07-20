@@ -130,19 +130,89 @@ Auch hier kann die Thematisierung der Variation mit fortgeschrittenen Schüler:i
 
 Die oben behandelten Phänomene sind bereits die wichtigsten und auffälligsten, wenn es um Aussprachevariation und ihre Thematisierung im Unterricht geht. Es gibt natürlich noch weitere Merkmale, aber wir sprechen sie hier nur kurz an, falls sie einmal in authentischem Material auftauchen. Sicherlich wird es nur in seltenen Fällen möglich sein, so tief in die Aussprachevariation einzutauchen.  
 
-Zu nennen ist hier die sogenannte Velarisierung des /n/, bei der das /n/ weiter hinten artikuliert wird, wie in engl. *si**ng*** <span class="meta">[sɪ<b>ŋ</b>]]</span>. Das passiert vor allem am Wortende, z.B. in *pan* <span class="meta">[pa<b>ŋ</b>]</span> anstelle von <span class="meta">[pan]</span>. Teilweise wird der Laut sogar abgeschwächt, sodass nur eine Nasalisierung des Vokals bleibt (wie im Französischen übrigens!). Das Phänomen kommt in verschiedenen Teilen Spaniens vor und hat sich aus dem südspanischen Spanisch auch in Hispanoamerika verbreitet, wo es ein Kennzeichen besonders ‚progressiver‘ Varietäten ist, also wieder vor allem die Karibik und Küstenregionen betrifft.
+Zu nennen ist hier die sogenannte Velarisierung des /n/, bei der das /n/ weiter hinten artikuliert wird, wie in engl. *si**ng*** <span class="meta">[sɪ<b>ŋ</b>]</span>. Das passiert vor allem am Wortende, z.B. in *pan* <span class="meta">[pa<b>ŋ</b>]</span> anstelle von <span class="meta">[pan]</span>. Teilweise wird der Laut sogar abgeschwächt, sodass nur eine Nasalisierung des Vokals bleibt (wie im Französischen übrigens!). Das Phänomen kommt in verschiedenen Teilen Spaniens vor und hat sich aus dem südspanischen Spanisch auch in Hispanoamerika verbreitet, wo es ein Kennzeichen besonders ‚progressiver‘ Varietäten ist, also wieder vor allem die Karibik und Küstenregionen betrifft.
 Typisch für karibische Varietäten sowie Teile Andalusiens ist auch die Vertauschung oder Angleichung von <span class="meta">/l/</span> und <span class="meta">/r/</span> am Silbenende. So kann etwa *amor* als *amo**l*** <span class="meta">[a.ˈmo<b>l</b>]</span> oder *soldado* als *so**r**dado* <span class="meta">[so<b>ɾ</b>.ˈda.ðo]</span> ausgesprochen werden. Ein bekanntes Beispiel ist auch die Aussprache von Nueva York als <span class="meta">[ˈnwe.βa.ˈʝol]</span> (vgl. den [Song von Bad Bunny](https://youtu.be/KU5V5WZVcVE?feature=shared&t=36){:target="_blank" rel="noopener noreferrer"}).
 
 
 
 ## Aussprache im Unterricht: Praktisch und ‚anhörlich‘
 
-Als zukünftige Lehrkräfte für Spanisch tragen wir Verantwortung dafür, nicht nur Sprache, sondern auch sprachliche Vorstellungen zu vermitteln – insbesondere, was als ‚richtige‘ oder ‚gute‘ Aussprache gilt.  
+Der Spanischunterricht in Deutschland orientiert sich traditionell stark am peninsularen Spanisch, doch Spanisch ist eine plurizentrische Weltsprache, die in über 20 Ländern mit unterschiedlichen Aussprachemustern gesprochen wird. Als zukünftige Lehrkräfte für Spanisch tragen wir Verantwortung dafür, nicht nur Sprache, sondern auch sprachliche Vorstellungen zu vermitteln – insbesondere, was als ‚richtige‘ oder ‚gute‘ Aussprache gilt. Im schulischen Alltag lässt sich Aussprachevielfalt auf einfache und wirksame Weise integrieren:  
 
-Der Spanischunterricht in Deutschland orientiert sich traditionell stark am peninsularen Spanisch, doch Spanisch ist eine plurizentrische Weltsprache, die in über 20 Ländern mit unterschiedlichen Aussprachemustern gesprochen wird. Diese Vielfalt sollte im Unterricht hörbar werden – oben im Kapitel finden sich dazu zahlreiche Beispiele zum Anhören, und unter [3.1 Plurizentrik im Klassenzimmer](../variation/ideen.md) finden sich weitere Anregungen, wie man anschauliches und anhörliches Material gezielt einsetzen kann.
+- **Transparenz von Anfang an:**
+Von Beginn an deutlich machen, dass es im Spanischen mehrere korrekte Aussprachen gibt – und dass regionale Unterschiede normal sind.  
 
-Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernende eine passive Aussprachekompetenz entwickeln – also etwa erkennen, dass *Barcelona* mit oder ohne [θ] gesprochen werden kann, dass *pollo* in Argentinien anders klingt als in Mexiko oder dass *comer* in Kuba auch mal als *come**l*** ausgesprochen wird.
+- **Reflexion statt Korrektur:**
+Wenn eine Schülerin z. B. seseo statt distinción verwendet, bietet sich ein kurzer sprachreflexiver Moment an, statt vorschnell zu „korrigieren“.  
 
+- **Sprechvielfalt sichtbar machen:**
+Etwa durch kleine Projektformate, in denen verschiedene Varietäten vorgestellt werden – z. B. über Videos, Interviews oder eine interaktive Aussprache-Weltkarte im Klassenzimmer.  
+
+- **Stereotype ansprechen und dekonstruiere:**
+Gerade beim Interdentallaut <span class="meta">[θ]</span> lohnt sich ein sprachvergleicher Blick (z. B. mit dem Englischen) – und ein Gespräch darüber, warum manche Schüler:innen diesen Laut ‚komisch‘ finden.  
+
+Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernende eine passive Aussprachekompetenz entwickeln – also etwa erkennen, dass *Barcelona* mit oder ohne <span class="meta">[θ]</span> gesprochen werden kann, dass *pollo* in Argentinien anders klingt als in Mexiko oder dass *comer* in Kuba auch mal als *come**l*** ausgesprochen wird.  
+
+Diese Ansätze lassen sich individuell und flexibel in den eigenen Unterricht integrieren – je nach Sprachniveau, Thema oder Klassenzusammensetzung.
+Diese Vielfalt sollte im Unterricht hörbar werden – oben im Kapitel finden sich dazu zahlreiche Beispiele zum Anhören, und unter [3.2 Plurizentrik im Klassenzimmer](../variation/ideen.md) finden sich weitere Anregungen, wie man anschauliches und anhörliches Material gezielt einsetzen kann.
+
+!!! tip "Wir fassen noch einmal zusammen"
+    Plurizentrik ist die Basis – eine einzige „richtige“ Aussprache gibt es nicht. Spanisch wird in mehr als 20 Ländern gesprochen; regionale, soziale und situationsabhängige Varianten gehören zum Normalfall. Deshalb sollte Unterricht immer auch Haltung vermitteln: Variation anerkennen statt stigmatisieren.  
+
+    Die wichtigsten Unterschiede:  
+
+    - *Distinción* vs. *Seseo* – Unterscheidung (<span class="meta">/θ/</span>–<span class="meta">/s/</span>) nur in Teilen Spaniens; in der Mehrheit der Hispanophonie ist ­seseo Norm.
+
+    - *Yeísmo* (inkl. *žeísmo/šeísmo*) – <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span> sind fast überall zusammengefallen; im Río de la Plata-Raum häufig als *sh*-Laut: <span class="meta">[ʃ]</span>.
+
+    - <span class="meta">/s/</span>-Abschwächung oder -Schwund am Silben- bzw. Wortende (Aspirierung <span class="meta">[h]</span> oder Elision Ø) prägt Karibik, Tiefland-Amerika, Südandalusien, Kanaren und gehört immer öfter zur Normaussprache dieser Gebiete.
+
+    Didaktischer Kern:
+
+    Bewusst entscheiden, welche Variante man selbst modelliert, Unterschiede transparent machen und Audio­beispiele nutzen. Fortgeschrittene Lernende sollen passive Aussprachekompetenz entwickeln – also Varianten erkennen, einordnen und wertschätzen, auch wenn sie aktiv nur eine Variante produzieren. 
+
+<details>
+<summary>Wer mehr wissen will (klickt hier)</summary>
+
+<p>Wer mehr über die Aussprachevariation wissen will, findet grobe Übersichten zu <i>seseo</i> und <i>yeísmo</i> im <i>Diccionario panhispánico de dudas</i> (RAE/ASALE 2025; oben bereits verlinkt). In den unter „Literatur“ angegebenen Büchern und Überblicksdarstellungen werden die hier betrachteten Variationsphänomene ebenfalls in mehr oder weniger übersichtlicher Weise dargestellt und vertieft. Wer es ganz genau wissen will, der kommt um Band 3 der <i>Nueva gramática de la lengua española</i> (RAE/ASALE 2011) nicht herum. Für wissenschaftliches Arbeiten sind die genannten Titel natürlich nur der Ausgangspunkt für weitere Literaturrecherchen.</p>
+
+<p>Studien belegen, dass Aussprachevariation im ELE-Unterricht zwar anerkannt, aber unterschiedlich umgesetzt wird: Die ASELE-Akten <i>¿Qué español enseñar?</i> (Martín Zorraquino/Díez Pelegrín 2000) protokollieren erste Befragungen zur Wahl der Ziellautung; Leitzke-Ungerer/Polzin-Haumann (2017) zeigen für den deutschsprachigen Unterricht, dass Lehrwerke und Prüfungen regionale Lautmerkmale nur punktuell einbauen; Andión (2013) weist nach, dass Lehrkräfte ihre eigene Variante nutzen, sich jedoch bei der Vermittlung mehrerer Lautbilder oft unsicher fühlen.</p>
+
+<p>Konkrete Antworten liefert Moreno Fernández (2000) mit Kriterien für ein bewusst gewähltes Varietäten-Modell. Das Handbuch <i>La diversidad del español y su enseñanza</i> (Hernández Muñoz et al. 2021) ergänzt kommentierte Unterrichtsbeispiele zu <i>seseo</i>, <i>yeísmo</i> & Co., während Poch Olivé (2024) eine komplette Sequenz zur Wahrnehmung und Produktion verschiedener Lautvarianten vorlegt.</p>
+
+<p>Authentische Hörbelege zu nationalen Standardvarietäten bietet das <a href="https://corapan.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">CO.RA.PAN</a>-Korpus (Tacke 2025ff.). Die Sammlung umfasst Radioaufnahmen professioneller Sprecher:innen aus allen hispanophonen Ländern und macht so typische lautliche Merkmale (z.&nbsp;B. <i>seseo</i>, Aspiration von /s/) in quasi-standardnahen Kontexten vergleichbar. Nach Registrierung („Acceso“) lassen sich die Audiodaten nach Land, Sendungs- und Sprechsituation filtern, anhören und zusammen mit Transkripten für Unterricht oder Forschung nutzen.</p>
+
+</details>
+
+---
+
+## Literatur
+
+<div class="literatur" markdown="1">
+
+- Andión, María Antonieta (2013): „Los profesores de español L2/LE y las variedades: Identidad dialectal, actitudes y prácticas docentes“. *Revista Signos. Estudios de Lingüística*, 46 (82), 155–189.
+- Gabriel, Christoph / Meisenburg, Trudel / Selig, Maria (2025): *Spanisch: Phonetik und Phonologie. Eine Einführung*. 2. überarbeitete Auflage. Tübingen: Narr Francke Attempto.
+- Hernández Muñoz, Natividad / Muñoz-Basols, Javier / Soler Montes, Carlos (Hg.) (2021): *La diversidad del español y su enseñanza*. London/New York: Routledge.
+- Hualde, José Ignacio (2014): *Los sonidos del español*. Cambridge: Cambridge University Press.
+- Kubarth, Hugo (1987): *Das lateinamerikanische Spanisch. Ein Panorama*. München: Hueber.
+- Leitzke-Ungerer, Eva / Polzin-Haumann, Claudia (Hg.) (2017): *Varietäten des Spanischen im Fremdsprachenunterricht. Ihre Rolle in Schule, Hochschule, Lehrerbildung und Sprachenzertifikaten*. Stuttgart: ibidem.
+- Lipski, John M. (1994): *Latin American Spanish*. London/New York: Longman.
+- Lipski, John M. (2020): „Spanish Phonological Variation“. In: Sonia Colina / Fernando Martínez-Gil (Hg.): *The Routledge Handbook of Spanish Phonology*. London/New York: Routledge, 455–469.
+- Martín Zorraquino, M. Antonia / Díez Pelegrín, Cristina (Hg.) (2000): *¿Qué español enseñar? Norma y variación lingüísticas en la enseñanza del español a extranjeros. Actas del XI Congreso Internacional de ASELE (Zaragoza, 13.–16. 9. 2000)*. Zaragoza: Universidad de Zaragoza.
+- Moreno Fernández, Francisco (2000): *¿Qué español enseñar?* Madrid: Arco Libros.
+- Poch Olivé, Dolors (2024): „Variación fonética y enseñanza del español“. *Variación. Revista de variación y cambio lingüístico*, 1 (2), 18–30.
+- Pustka, Elissa / Schwegler, Armin (2021): „Fonética y fonología: vocalismo y consonantismo“. In: Eva Martha Eckkrammer (Hg.): *Manual del español en América*. Berlin/Boston: De Gruyter, 451–464.
+- Real Academia Española / Asociación de Academias de la Lengua Española (2011): *Nueva gramática de la lengua española*. Band 3: *Fonética y fonología*. Madrid: Espasa Calpe.
+- Real Academia Española / Asociación de Academias de la Lengua Española (2005): *Diccionario panhispánico de dudas*. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/){:target="_blank" rel="noopener noreferrer"}
+- Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Franz Lebsanft / Felix Tacke (Hg.): *Manual of Standardization in the Romance Languages*. Berlin/Boston: De Gruyter, 559–579.
+- Tacke, Felix (2025): *CO.RA.PAN – Corpus Radiofónico Panhispánico*. Marburg. Online: [https://corapan.online.uni-marburg.de](https://corapan.online.uni-marburg.de){:target="_blank" rel="noopener noreferrer"}
+
+</div>
+
+---
+
+!!! info "Dieses Kapitel zitieren" 
+    Freyre Castro, Renata / Tacke, Felix (2025): „Aussprachevariation“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg. Online: [https://linguistik.online.uni-marburg.de/](https://linguistik.online.uni-marburg.de/) DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
 
 
 [^*]: **Autor:innen:** Renata Freyre Castro, Felix Tacke  
