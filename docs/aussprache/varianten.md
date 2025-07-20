@@ -110,8 +110,6 @@ Die Abschwächung ist kein Zufall. Dass sie am Silben- und Wortende vorkommt lie
 
 Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreitet, sondern gilt selbst in formelleren Kontexten als gute Aussprache, d.h. die Abschwächung gehört dort zur regionalen oder manchmal sogar nationalen Norm (z.B. Kanaren, Chile, Argentinien).  
 
-    AUDIOBEISPIELE aus CO.RA.PAN  ES-CANe8498, ES-CAN97373, ES-CAN3a6b4,ARG7a5fc, ARG1a934, CHI6efa6, CHI110eb, CHId3d9e, CHI6e85d0, CHI4b4dd, CHI124b8, CHIee3ac
-
 <details>
 <summary>Hör mal</summary>
 
