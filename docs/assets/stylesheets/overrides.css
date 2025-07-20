@@ -190,7 +190,12 @@ audio::-webkit-media-controls-timeline {
 .audio-block {
   flex: 1 1 10px;
   min-width: 280px;
-  margin-bottom: 0.8rem;
+  margin-bottom: 1.2rem;
+  text-align: center;
+}
+.audio-block audio {
+  display: inline-block;
+  margin-top: 0.5em;
 }
 
 @media (max-width: 600px) {

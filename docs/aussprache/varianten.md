@@ -111,7 +111,7 @@ Die Abschwächung ist kein Zufall. Dass sie am Silben- und Wortende vorkommt lie
 Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreitet, sondern gilt selbst in formelleren Kontexten als gute Aussprache, d.h. die Abschwächung gehört dort zur regionalen oder manchmal sogar nationalen Norm (z.B. Kanaren, Chile, Argentinien).  
 
 <details>
-<summary>Hör mal</summary>
+<summary>Hör mal (Abschwächung des /s/)</summary>
 
 <p>Die folgenden Ausschnitte aus Radiosendungen veranschaulichen das Phänomen. Wenn doch ein silben- oder wortfinales <span class="meta">/s/</span> als <span class="meta">[s]</span> artikuliert wird, dann weil es vor einer Pause oder vor Vokal vorkommt. Vor Konsonant hört man (auch im Wort) entweder nichts oder eine Aspiration <span class="meta">[h]</span>. Beachte, dass hier Radiomoderator:innen sprechen, es handelt sich also um eine Aussprache, die der ‚guten Aussprache‘ des jeweiligen Landes (oder der Region) entspricht:</p>
 
@@ -119,7 +119,7 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
 
 <div class="audio-block">
     <h4>Kanaren (Spanien), Bsp. 1:</h4>
-    <span class="example">„(...) el reparto de lo<b>s</b> menore<b>s</b> no acompañado<b>s</b> entre toda<b>s</b> la<b>s</b> comunidade<b>s</b> autónoma<b>s</b> (...)“ <br>(ES-CAN3a6b4)</span>
+    <span class="example">„(...) el reparto de lo<b>s</b> menore<b>s</b> no acompañado<b>s</b> entre toda<b>s</b> la<b>s</b> comunidade<b>s</b> autónoma<b>s</b> (...)“ (ES-CAN3a6b4)</span>
     <audio controls preload="metadata">
         <source src="/assets/audiofiles/corapan/ES-CAN3a6b4.mp3" type="audio/mpeg">
         <source src="/assets/audiofiles/corapan/ES-CAN3a6b4.m4a" type="audio/mp4">
@@ -128,7 +128,7 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
 </div>
 <div class="audio-block">
     <h4>Kanaren (Spanien), Bsp. 2:</h4>
-    <span class="example">„Ademá<b>s</b>, la<b>s</b> temperatura<b>s</b> media<b>s</b> que han llegado a ser de un grado y medio (...)“ <br>(ES-CANe8498)</span>
+    <span class="example">„Ademá<b>s</b>, la<b>s</b> temperatura<b>s</b> media<b>s</b> que han llegado a ser de un grado y medio (...)“ (ES-CANe8498)</span>
     <audio controls preload="metadata">
         <source src="/assets/audiofiles/corapan/ES-CANe8498.mp3" type="audio/mpeg">
         <source src="/assets/audiofiles/corapan/ES-CANe8498.m4a" type="audio/mp4">
@@ -137,7 +137,7 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
 </div>
 <div class="audio-block">
     <h4>Chile, Bsp. 1:</h4>
-    <span class="example">„(...) revisamo<b>s</b> alguna<b>s</b> de la<b>s</b> informacione<b>s</b> internacionale<b>s</b> que han marcado la<b>s</b> última<b>s</b> hora<b>s</b> (...)“ <br>(CHI124b8)</span>
+    <span class="example">„(...) revisamo<b>s</b> alguna<b>s</b> de la<b>s</b> informacione<b>s</b> internacionale<b>s</b> que han marcado la<b>s</b> última<b>s</b> hora<b>s</b> (...)“ (CHI124b8)</span>
     <audio controls preload="metadata">
         <source src="/assets/audiofiles/corapan/CHI124b8.mp3" type="audio/mpeg">
         <source src="/assets/audiofiles/corapan/CHI124b8.m4a" type="audio/mp4">
@@ -146,7 +146,7 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
 </div>
 <div class="audio-block">
     <h4>Chile, Bsp. 2:</h4>
-    <span class="example">„Cinco delincuente<b>s</b>, todo<b>s</b> menore<b>s</b> de edad, serían lo<b>s</b> re<b>s</b>ponsable<b>s</b> de e<b>s</b>ta agresión.“ <br>(CHI4b4dd)</span>
+    <span class="example">„Cinco delincuente<b>s</b>, todo<b>s</b> menore<b>s</b> de edad, serían lo<b>s</b> re<b>s</b>ponsable<b>s</b> de e<b>s</b>ta agresión.“ (CHI4b4dd)</span>
     <audio controls preload="metadata">
         <source src="/assets/audiofiles/corapan/CHI4b4dd.mp3" type="audio/mpeg">
         <source src="/assets/audiofiles/corapan/CHI4b4dd.m4a" type="audio/mp4">
@@ -155,7 +155,7 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
 </div>
 <div class="audio-block">
     <h4>Argentinien, Bsp. 1:</h4>
-    <span class="example">„(...) para las má<b>s</b> pre<b>s</b>tigiosa<b>s</b>	marca<b>s</b> y a iluminar la<b>s</b> portada<b>s</b> de revi<b>s</b>ta<b>s</b> de moda (...)“ <br>(ARG1a934)</span>
+    <span class="example">„(...) para las má<b>s</b> pre<b>s</b>tigiosa<b>s</b>	marca<b>s</b> y a iluminar la<b>s</b> portada<b>s</b> de revi<b>s</b>ta<b>s</b> de moda (...)“ (ARG1a934)</span>
     <audio controls preload="metadata">
         <source src="/assets/audiofiles/corapan/ARG1a934.mp3" type="audio/mpeg">
         <source src="/assets/audiofiles/corapan/ARG1a934.m4a" type="audio/mp4">
@@ -164,7 +164,7 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
 </div>
 <div class="audio-block">
     <h4>Argentinien, Bsp. 2:</h4>
-    <span class="example">„Mucho<b>s</b> de lo<b>s</b> votante<b>s</b> de Javier Milei no e<b>s</b>tán de acuerdo con su negacioni<b>s</b>mo del cambio climático (...)“ <br>(ARG7a5fc)</span>
+    <span class="example">„Mucho<b>s</b> de lo<b>s</b> votante<b>s</b> de Javier Milei no e<b>s</b>tán de acuerdo con su negacioni<b>s</b>mo del cambio climático (...)“ (ARG7a5fc)</span>
     <audio controls preload="metadata">
         <source src="/assets/audiofiles/corapan/ARG7a5fc.mp3" type="audio/mpeg">
         <source src="/assets/audiofiles/corapan/ARG7a5fc.m4a" type="audio/mp4">
@@ -179,7 +179,19 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
 
 Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito oder La Paz – zeichnen sich durch eine klare Artikulation des <span class="meta">/s/</span> auch am Silbenende aus. Dies steht nicht nur in geographischem, sondern oft auch in historischem Zusammenhang: Diese Städte waren während der Kolonialzeit enger mit den spanischen Zentren verbunden, in denen das <span class="meta">/s/</span> ebenfalls deutlich gesprochen wird. Dort wird die Abschwächung des <span class="meta">/s/</span> daher eher als Abweichung von der Norm bewertet. Die Abschwächung wird hier im Vergleich vor allem mit informelleren Redesituationen akzeptiert und manchmal sogar mit einem niedrigeren Bildungsgrad assoziiert, besitzt also eine situationelle und soziale Dimension. Die Bewertung desselben Phänomens kann also je nach Ort, Region und Land ganz anders ausfallen!  
 
-    AUDIOBEISPIELE aus CO.RA.PAN  
+<details>
+<summary>Hör mal (Realisierung des /s/)</summary>
+
+<p>Die folgenden Ausschnitte aus Radiosendungen veranschaulichen, dass das /s/ im hispanoamerikanischen Hochland typischerweise in jeglichem Kontext als <span class="meta">[s]</span> realisiert wird und eindeutig zur jeweils nationalen Aussprachenorm gehört. Auch hier sprechen Radiomoderator:innen, die ‚gute Aussprache‘ des Landes (oder der Region) repräsentieren:</p>
+
+<div class="audio-comparison">
+
+
+
+</div>
+
+<div class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">CO.RA.PAN</a></div>
+</details>
 
 #### Und was bedeutet das für den Unterricht?
 
@@ -226,8 +238,8 @@ Diese Vielfalt sollte im Unterricht hörbar werden – oben im Kapitel finden si
 
     Die wichtigsten Unterschiede:  
 
-    - *Distinción* vs. *Seseo* – Unterscheidung (<span class="meta">/θ/</span>–<span class="meta">/s/</span>) nur in Teilen Spaniens; in der Mehrheit der Hispanophonie ist ­seseo Norm.
-    - *Yeísmo* (inkl. *žeísmo/šeísmo*) – <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span> sind fast überall zusammengefallen; im Río de la Plata-Raum häufig als *sh*-Laut: <span class="meta">[ʃ]</span>.
+    - *Distinción* vs. *Seseo* – Unterscheidung (<span class="meta">/θ/</span> vs. <span class="meta">/s/</span>) nur in Teilen Spaniens; in der Mehrheit der Hispanophonie ist ­seseo Norm.
+    - *Yeísmo* (inkl. *žeísmo/šeísmo*) – <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span> werden heute fast nirgendwo mehr unterschieden, fast überall wird <span class="meta">[ʝ]</span> ausgesprochen; der *Río de la Plata*-Raum weist die Besonderheit auf, dass hier ein ‚*sch*-Laut‘ <span class="meta">[ʃ]</span> gesprochen wird.
     - <span class="meta">/s/</span>-Abschwächung oder -Schwund am Silben- bzw. Wortende (Aspirierung <span class="meta">[h]</span> oder Elision Ø) prägt Karibik, Tiefland-Amerika, Südandalusien, Kanaren und gehört immer öfter zur Normaussprache dieser Gebiete.
 
     Bewusst entscheiden, ob *seseo* oder nicht, Unterschiede transparent machen und Audio­beispiele nutzen. Fortgeschrittene Lernende sollen passive Aussprachekompetenz entwickeln – also Varianten erkennen, einordnen und wertschätzen, auch wenn sie aktiv nur eine Variante produzieren. 
@@ -235,13 +247,13 @@ Diese Vielfalt sollte im Unterricht hörbar werden – oben im Kapitel finden si
 <details>
 <summary>Wer mehr wissen will (klickt hier)</summary>
 
-<p>Wer mehr über die Aussprachevariation wissen will, findet grobe Übersichten zu <i>seseo</i> und <i>yeísmo</i> im <i>Diccionario panhispánico de dudas</i> (RAE/ASALE 2025; oben bereits verlinkt). In den unter „Literatur“ angegebenen Büchern und Überblicksdarstellungen werden die hier betrachteten Variationsphänomene ebenfalls in mehr oder weniger übersichtlicher Weise dargestellt und vertieft. Wer es ganz genau wissen will, der kommt um Band 3 der <i>Nueva gramática de la lengua española</i> (RAE/ASALE 2011) nicht herum. Für wissenschaftliches Arbeiten sind die genannten Titel natürlich nur der Ausgangspunkt für weitere Literaturrecherchen.</p>
+<p>Wer mehr über die Aussprachevariation wissen will, findet grobe Übersichten zu <i>seseo</i> und <i>yeísmo</i> im <i>Diccionario panhispánico de dudas</i> (RAE/ASALE 2025; oben bereits verlinkt). In den unter „Literatur“ angegebenen Büchern und Überblicksdarstellungen werden die hier betrachteten Variationsphänomene ebenfalls in mehr oder weniger übersichtlicher Weise dargestellt und vertieft. Wer es ganz genau wissen will, der kommt um Band 3 der <i>Nueva gramática de la lengua española</i> (RAE/ASALE 2011) nicht herum. Tacke (2020) gibt einen kompakten Überblick zur Aussprache­norm im Spanischen und zeigt, dass diese plurizentrisch selbstreguliert ist, weshalb Variation der Normalfall bleibt. Für wissenschaftliche Arbeiten über das Thema sind die genannten Titel natürlich nur der Ausgangspunkt.</p>
 
 <p>Studien belegen, dass Aussprachevariation im ELE-Unterricht zwar anerkannt, aber unterschiedlich umgesetzt wird: Die ASELE-Akten <i>¿Qué español enseñar?</i> (Martín Zorraquino/Díez Pelegrín 2000) protokollieren erste Befragungen zur Wahl der Ziellautung; Leitzke-Ungerer/Polzin-Haumann (2017) zeigen für den deutschsprachigen Unterricht, dass Lehrwerke und Prüfungen regionale Lautmerkmale nur punktuell einbauen; Andión (2013) weist nach, dass Lehrkräfte ihre eigene Variante nutzen, sich jedoch bei der Vermittlung mehrerer Lautbilder oft unsicher fühlen.</p>
 
 <p>Konkrete Antworten liefert Moreno Fernández (2000) mit Kriterien für ein bewusst gewähltes Varietäten-Modell. Das Handbuch <i>La diversidad del español y su enseñanza</i> (Hernández Muñoz et al. 2021) ergänzt kommentierte Unterrichtsbeispiele zu <i>seseo</i>, <i>yeísmo</i> & Co., während Poch Olivé (2024) eine komplette Sequenz zur Wahrnehmung und Produktion verschiedener Lautvarianten vorlegt.</p>
 
-<p>Authentische Hörbelege zu nationalen Standardvarietäten bietet das <a href="https://corapan.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">CO.RA.PAN</a>-Korpus (Tacke 2025ff.). Die Sammlung umfasst Radioaufnahmen professioneller Sprecher:innen aus allen hispanophonen Ländern und macht so typische lautliche Merkmale (z.&nbsp;B. <i>seseo</i>, Aspiration von /s/) in quasi-standardnahen Kontexten vergleichbar. Nach Registrierung („Acceso“) lassen sich die Audiodaten nach Land, Sendungs- und Sprechsituation filtern, anhören und zusammen mit Transkripten für Unterricht oder Forschung nutzen.</p>
+<p>Authentische Hörbelege zu nationalen Standardvarietäten bietet das <a href="https://corapan.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">CO.RA.PAN</a>-Korpus (Tacke 2025ff.). Die Sammlung umfasst Radioaufnahmen professioneller Sprecher:innen aus allen hispanophonen Ländern und macht so typische lautliche Merkmale (z.&nbsp;B. <i>seseo</i>, Aspiration von /s/) in standardnahen Kontexten vergleichbar. Nach Registrierung („Acceso“) lassen sich die Audiodaten nach Land, Sendungs- und Sprechsituation filtern, anhören und (auch für den Schulunterricht) nutzen. Mehr dazu im folgenden Kapitel.</p>
 
 </details>
 
