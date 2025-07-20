@@ -1,4 +1,4 @@
-# 2.3 Aussprachevariation[^*] (Beta)
+# 2.3 Aussprachevariation[^*]
 
 ## Welche Aussprache(n) im Unterricht?
 
@@ -136,7 +136,13 @@ Typisch für karibische Varietäten sowie Teile Andalusiens ist auch die Vertaus
 
 
 ## Aussprache im Unterricht: Praktisch und ‚anhörlich‘
-Zusammenfassen, wie man mit den Unterschieden umgehen kann; wo und wie eine passive Kompetenz (Bewusstsein) genügen. Wo und wie Anschauungsmaterial gefunden und eingesetzt werden könnte.
+
+Als zukünftige Lehrkräfte für Spanisch tragen wir Verantwortung dafür, nicht nur Sprache, sondern auch sprachliche Vorstellungen zu vermitteln – insbesondere, was als ‚richtige‘ oder ‚gute‘ Aussprache gilt.  
+
+Der Spanischunterricht in Deutschland orientiert sich traditionell stark am peninsularen Spanisch, doch Spanisch ist eine plurizentrische Weltsprache, die in über 20 Ländern mit unterschiedlichen Aussprachemustern gesprochen wird. Diese Vielfalt sollte im Unterricht hörbar werden – oben im Kapitel finden sich dazu zahlreiche Beispiele zum Anhören, und unter [3.1 Plurizentrik im Klassenzimmer](../variation/ideen.md) finden sich weitere Anregungen, wie man anschauliches und anhörliches Material gezielt einsetzen kann.
+
+Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernende eine passive Aussprachekompetenz entwickeln – also etwa erkennen, dass *Barcelona* mit oder ohne [θ] gesprochen werden kann, dass *pollo* in Argentinien anders klingt als in Mexiko oder dass *comer* in Kuba auch mal als *come**l*** ausgesprochen wird.
+
 
 
 [^*]: **Autor:innen:** Renata Freyre Castro, Felix Tacke  

@@ -65,10 +65,10 @@ nav:
       - 2.1 Aussprache: aussprache/aussprache.md
       - 2.2 Orthographie (Beta): aussprache/orthographie.md 
       - 2.3 Aussprachevariation: aussprache/varianten.md
-  - 3 Lexikalische Kreativität (Beta): lexik/lexik.md
-  - 4 Variation & Plurizentrik (Beta):
-      - 4.1 Variation: variation/variation.md
-      - 4.2 Ideen: variation/ideen.md
+  - 3 Variation & Plurizentrik (Beta):
+      - 3.1 Variation: variation/variation.md
+      - 3.2 Plurizentrik im Klassenraum: variation/ideen.md
+  - 4 Lexikalische Kreativität (Beta): lexik/lexik.md
   - 5 Herkunftssprachen (Beta): herkunftssprachen/herkunftssprachen.md
   - 6 Sprachwandel (Beta): wandel/wandel.md
 

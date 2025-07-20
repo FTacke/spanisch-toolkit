@@ -5,7 +5,7 @@
     <div class="coordination">Koordination</div>
     <div class="coordination-name">Prof. Dr. Felix Tacke</div>
     <div class="authors">Autor:innen</div>
-    <div class="author-names">Gloria Gabriel, Marlon Merte, Felix Tacke</div>
+    <div class="author-names">Renata Freyre Castro, Gloria Gabriel,<br> Marlon Merte, Felix Tacke</div>
     <div class="place">Philipps-Universität Marburg, 2025</div>
     <div class="badge">
       <a href="https://hispanistica.online.uni-marburg.de"
