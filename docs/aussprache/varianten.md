@@ -174,7 +174,7 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
 
 </div>
 
-<div class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></div>
+<div class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">CO.RA.PAN</a></div>
 </details>
 
 Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito oder La Paz – zeichnen sich durch eine klare Artikulation des <span class="meta">/s/</span> auch am Silbenende aus. Dies steht nicht nur in geographischem, sondern oft auch in historischem Zusammenhang: Diese Städte waren während der Kolonialzeit enger mit den spanischen Zentren verbunden, in denen das <span class="meta">/s/</span> ebenfalls deutlich gesprochen wird. Dort wird die Abschwächung des <span class="meta">/s/</span> daher eher als Abweichung von der Norm bewertet. Die Abschwächung wird hier im Vergleich vor allem mit informelleren Redesituationen akzeptiert und manchmal sogar mit einem niedrigeren Bildungsgrad assoziiert, besitzt also eine situationelle und soziale Dimension. Die Bewertung desselben Phänomens kann also je nach Ort, Region und Land ganz anders ausfallen!  
