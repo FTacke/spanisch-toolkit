@@ -108,9 +108,76 @@ Ein Beispiel: *los mismos* kann ausgesprochen werden als
 
 Die Abschwächung ist kein Zufall. Dass sie am Silben- und Wortende vorkommt liegt daran, dass in allen romanischen Sprachen offene Silben bevorzugt werden (CV statt CVC) und Konsonanten am Silbenende daher häufiger ‚in Gefahr sind‘ (vgl. z.B. *se**p**tiembre* vs. *setiembre*). Der Prozess, der im Französischen schon vor vielen Jahrhunderten abgeschlossen wurde (z.B. *dan**s*** *le**s*** *maison**s*** → <span class="meta">[dɑ̃.le mɛ.zɔ̃]</span>), lässt sich in Teilen der Hispanophonie heute gut beobachten. Typisch ist die Abschwächung des <span class="meta">/s/</span> in den sogenannten Tieflandvarietäten – also in Regionen in Küstenlage oder auf Inseln. Dazu zählen etwa die Karibik (z. B. Kuba, Dominikanische Republik), die Küstengebiete Kolumbiens, Perus und Ekuadors, große Teile Venezuelas, aber auch der südliche Teil Andalusiens sowie die Kanarischen Inseln. Auch für das Tiefland Argentiniens (Buenos Aires) und für Chile ist das Phänomen charakteristisch.  
 
-Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreitet, sondern gilt selbst in formelleren Kontexten als gute Aussprache, d.h. die Abschwächung gehört dort zur regionalen oder manchmal sogar nationalen Norm (z.B. Venuzela, Argentinien).  
+Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreitet, sondern gilt selbst in formelleren Kontexten als gute Aussprache, d.h. die Abschwächung gehört dort zur regionalen oder manchmal sogar nationalen Norm (z.B. Kanaren, Chile, Argentinien).  
 
-    AUDIOBEISPIELE aus CO.RA.PAN  
+    AUDIOBEISPIELE aus CO.RA.PAN  ES-CANe8498, ES-CAN97373, ES-CAN3a6b4,ARG7a5fc, ARG1a934, CHI6efa6, CHI110eb, CHId3d9e, CHI6e85d0, CHI4b4dd, CHI124b8, CHIee3ac
+
+<details>
+<summary>Hör mal</summary>
+
+<p>Die folgenden Ausschnitte aus Radiosendungen veranschaulichen das Phänomen. Wenn doch ein silben- oder wortfinales /s/ artikuliert wird, dann weil es vor einer Pause oder vor Vokal vorkommt. Beachte, dass hier Radiomoderator:innen sprechen, es handelt sich also um eine Aussprache, die der Norm des jeweiligen Landes (oder der Region) entspricht:</p>
+
+<div class="audio-comparison">
+
+<div class="audio-block">
+    <h4>Kanaren (Spanien), Beispiel 1:</h4>
+    <span class="example">„(...) el reparto de lo<b>s</b> menore<b>s</b> no acompañado<b>s</b> entre toda<b>s</b> la<b>s</b> comunidade<b>s</b> autónoma<b>s</b> (...)“ <br>(ES-CAN3a6b4)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ES-CAN3a6b4.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ES-CAN3a6b4.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Kanaren (Spanien), Beispiel 2:</h4>
+    <span class="example">„Ademá<b>s</b>, la<b>s</b> temperatura<b>s</b> media<b>s</b> que han llegado a ser de un grado y medio (...)“ <br>(ES-CANe8498)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ES-CANe8498.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ES-CANe8498.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Chile, Beispiel 1:</h4>
+    <span class="example">„(...) revisamo<b>s</b> alguna<b>s</b> de la<b>s</b> informacione<b>s</b> internacionale<b>s</b> que han marcado la<b>s</b> última<b>s</b> hora<b>s</b> (...)“ <br>(CHI124b8)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/CHI124b8.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/CHI124b8.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Chile, Beispiel 2:</h4>
+    <span class="example">„Cinco delincuente<b>s</b>, todo<b>s</b> menore<b>s</b> de edad, serían lo<b>s</b> re<b>s</b>ponsable<b>s</b> de e<b>s</b>ta agresión.“ <br>(CHI4b4dd)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/CHI4b4dd.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/CHI4b4dd.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Argentinien, Beispiel 1:</h4>
+    <span class="example">„(...) para las má<b>s</b> pre<b>s</b>tigiosa<b>s</b>	marca<b>s</b> y a iluminar la<b>s</b> portada<b>s</b> de revi<b>s</b>ta<b>s</b> de moda (...)“ <br>(ARG1a934)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ARG1a934.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ARG1a934.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Argentinien, Beispiel 2:</h4>
+    <span class="example">„Mucho<b>s</b> de lo<b>s</b> votante<b>s</b> de Javier Milei no e<b>s</b>tán de acuerdo con su negacioni<b>s</b>mo del cambio climático (...)“ <br>(ARG7a5fc)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ARG7a5fc.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ARG7a5fc.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+
+</div>
+
+<div class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></div>
+</details>
 
 Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito oder La Paz – zeichnen sich durch eine klare Artikulation des <span class="meta">/s/</span> auch am Silbenende aus. Dies steht nicht nur in geographischem, sondern oft auch in historischem Zusammenhang: Diese Städte waren während der Kolonialzeit enger mit den spanischen Zentren verbunden, in denen das <span class="meta">/s/</span> ebenfalls deutlich gesprochen wird. Dort wird die Abschwächung des <span class="meta">/s/</span> daher eher als Abweichung von der Norm bewertet. Die Abschwächung wird hier im Vergleich vor allem mit informelleren Redesituationen akzeptiert und manchmal sogar mit einem niedrigeren Bildungsgrad assoziiert, besitzt also eine situationelle und soziale Dimension. Die Bewertung desselben Phänomens kann also je nach Ort, Region und Land ganz anders ausfallen!  
 
@@ -162,14 +229,10 @@ Diese Vielfalt sollte im Unterricht hörbar werden – oben im Kapitel finden si
     Die wichtigsten Unterschiede:  
 
     - *Distinción* vs. *Seseo* – Unterscheidung (<span class="meta">/θ/</span>–<span class="meta">/s/</span>) nur in Teilen Spaniens; in der Mehrheit der Hispanophonie ist ­seseo Norm.
-
     - *Yeísmo* (inkl. *žeísmo/šeísmo*) – <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span> sind fast überall zusammengefallen; im Río de la Plata-Raum häufig als *sh*-Laut: <span class="meta">[ʃ]</span>.
-
     - <span class="meta">/s/</span>-Abschwächung oder -Schwund am Silben- bzw. Wortende (Aspirierung <span class="meta">[h]</span> oder Elision Ø) prägt Karibik, Tiefland-Amerika, Südandalusien, Kanaren und gehört immer öfter zur Normaussprache dieser Gebiete.
 
-    Didaktischer Kern:
-
-    Bewusst entscheiden, welche Variante man selbst modelliert, Unterschiede transparent machen und Audio­beispiele nutzen. Fortgeschrittene Lernende sollen passive Aussprachekompetenz entwickeln – also Varianten erkennen, einordnen und wertschätzen, auch wenn sie aktiv nur eine Variante produzieren. 
+    Bewusst entscheiden, ob *seseo* oder nicht, Unterschiede transparent machen und Audio­beispiele nutzen. Fortgeschrittene Lernende sollen passive Aussprachekompetenz entwickeln – also Varianten erkennen, einordnen und wertschätzen, auch wenn sie aktiv nur eine Variante produzieren. 
 
 <details>
 <summary>Wer mehr wissen will (klickt hier)</summary>

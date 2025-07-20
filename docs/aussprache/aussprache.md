@@ -26,7 +26,7 @@ Die Vokale <span class="meta">/a e i o u/</span>, ebenfalls fünf an der Zahl, s
     <div class="audio-comparison">
 
     <div class="audio-block">
-        <h4>Zielaussprache: <span class="meta">[o.ˈai]</span></h4>
+        <h4>Zielaussprache:</h4> <span class="example">[o.ˈai]</span>
         <audio controls preload="metadata">
             <source src="/assets/audiofiles/marele/glottis_l1.mp3" type="audio/mpeg">
             <source src="/assets/audiofiles/marele/glottis_l1.m4a" type="audio/mp4">
@@ -34,7 +34,7 @@ Die Vokale <span class="meta">/a e i o u/</span>, ebenfalls fünf an der Zahl, s
         </audio>
     </div>
     <div class="audio-block">
-        <h4>Lernendenaussprache: <span class="meta">[ʔo.ʔai]</span></h4>
+        <h4>Lernendenaussprache:</h4> <span class="example">[ʔo.ʔai]</span>
         <audio controls preload="metadata">
             <source src="/assets/audiofiles/marele/glottis_ele.mp3" type="audio/mpeg">
             <source src="/assets/audiofiles/marele/glottis_ele.m4a" type="audio/mp4">
@@ -60,7 +60,7 @@ Es ist wohl allgemein bekannt, dass sowohl das Deutsche als auch das Spanische �
 
     <div class="audio-comparison">
         <div class="audio-block">
-            <h4>Zielaussprache: <span class="meta">[re.ˈiɾ]</span></h4>
+            <h4>Zielaussprache:</h4> <span class="example">[re.ˈiɾ]</span>
             <audio controls preload="metadata">
                 <source src="/assets/audiofiles/marele/r_l1.mp3" type="audio/mpeg">
                 <source src="/assets/audiofiles/marele/r_l1.m4a" type="audio/mp4">
@@ -68,7 +68,7 @@ Es ist wohl allgemein bekannt, dass sowohl das Deutsche als auch das Spanische �
             </audio>
         </div>
         <div class="audio-block">
-            <h4>Lernendenaussprache: <span class="meta">[ʁe.ˈɪɐ]</span></h4>
+            <h4>Lernendenaussprache:</h4> <span class="example">[ʁe.ˈɪɐ]</span>
             <audio controls preload="metadata">
                 <source src="/assets/audiofiles/marele/r_ele.mp3" type="audio/mpeg">
                 <source src="/assets/audiofiles/marele/r_ele.m4a" type="audio/mp4">
@@ -120,7 +120,7 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
 
     <div class="audio-comparison">
         <div class="audio-block">
-            <h4>Zielaussprache: <span class="meta">[el.βe.βe.ˈðoɾ]</span></h4>
+            <h4>Zielaussprache:</h4> <span class="example">[el.βe.βe.ˈðoɾ]</span>
             <audio controls preload="metadata">
                 <source src="/assets/audiofiles/marele/bebedor_l1.mp3" type="audio/mpeg">
                 <source src="/assets/audiofiles/marele/bebedor_l1.m4a" type="audio/mp4">
@@ -128,7 +128,7 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
             </audio>
         </div>
         <div class="audio-block">
-            <h4>Lernendenaussprache: <span class="meta">[el.be.be.ˈdoɐ]</span></h4>
+            <h4>Lernendenaussprache:</h4> <span class="example">[el.be.be.ˈdoɐ]</span>
             <audio controls preload="metadata">
                 <source src="/assets/audiofiles/marele/bebedor_ele.mp3" type="audio/mpeg">
                 <source src="/assets/audiofiles/marele/bebedor_ele.m4a" type="audio/mp4">
@@ -141,7 +141,7 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
 
     <div class="audio-comparison">
         <div class="audio-block">
-            <h4>Zielaussprache: <span class="meta">[ko.ˈna.ɣwa]</span></h4>
+            <h4>Zielaussprache:</h4> <span class="example">[ko.ˈna.ɣwa]</span>
             <audio controls controlsList="nodownload" preload="metadata">
                 <source src="/assets/audiofiles/marele/agua_l1.mp3" type="audio/mpeg">
                 <source src="/assets/audiofiles/marele/agua_l1.m4a" type="audio/mp4">
@@ -149,7 +149,7 @@ Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen m
             </audio>
         </div>
         <div class="audio-block">
-            <h4>Lernendenaussprache: <span class="meta">[kon.ˈa.gwa]</span></h4>
+            <h4>Lernendenaussprache:</h4> <span class="example">[kon.ˈa.gwa]</span>
             <audio controls controlsList="nodownload" preload="metadata">
                 <source src="/assets/audiofiles/marele/agua_ele.mp3" type="audio/mpeg">
                 <source src="/assets/audiofiles/marele/agua_ele.m4a" type="audio/mp4">
