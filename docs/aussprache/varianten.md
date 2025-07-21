@@ -515,4 +515,4 @@ Diese Vielfalt sollte im Unterricht hörbar werden – oben im Kapitel finden si
 [^*]: **Autor:innen:** Renata Freyre Castro, Felix Tacke  
       **Beiträge:** Marlon Merte  
         
-      **Letzte Änderung:** 20.07.2025
+      **Letzte Änderung:** 21.07.2025
