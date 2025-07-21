@@ -1,4 +1,4 @@
-# 2.3 Aussprachevariation[^*]
+# 2.2 Aussprachevariation[^*]
 
 ## Welche Aussprache(n) im Unterricht?
 

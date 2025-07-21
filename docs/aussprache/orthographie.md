@@ -1,4 +1,4 @@
-# 2.2 Orthographie (Beta)[^*]
+# 2.3 Orthographie (Beta)[^*]
 
 Warum die spanische Orthographie – mit nur wenigen Ausnahmen – zu den besten Schriftsystemen überhaupt gehört, wenn man als Ideal die 1:1-Entsprechung von Buchstaben und Lauten zugrunde legt, und worauf aus linguistischer Perspektive zu achten ist, erfährst hier.
 
