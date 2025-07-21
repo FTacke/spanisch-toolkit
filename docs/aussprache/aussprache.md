@@ -237,6 +237,6 @@ Ein reiner Anfängerfehler ist es bekanntlich, das im Spanischen geschriebene, a
 
 
 [^*]: **Autor:innen:** Marlon Merte, Felix Tacke  
-      **Beiträge:** Gloria Gabriel
+      **Beiträge & Peer Review:** Gloria Gabriel
         
       **Letzte Änderung:** 10.07.2025
