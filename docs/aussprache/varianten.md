@@ -59,7 +59,73 @@ Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bew
 
 In jedem Fall sollte ich, wenn ich – vor allem fortgeschrittenen Lernende – für diese Unterschiede sensibilisiere, dabei klarstellen, dass der *seseo* – genauso korrekt ist wie die Unterscheidung von <span class="meta">/s/</span> und <span class="meta">/θ/</span>. Anschauliche Audiobeispiele wie die folgenden sind dafür hilfreich. Ein Hinweis ist auch wert, dass man mit der Aussprache von *zapato* als <span class="meta">[θa.pa.to]</span> außerhalb Spaniens sogar auffallen kann, denn Spanier:innen werden nicht zuletzt durch den Interdentallaut sofort erkannt.  
 
-    AUDIOBEISPIELE aus CO.RA.PAN  
+<details>
+<summary>Hör mal (<i>seseo</i> vs. <i>distinción</i>)</summary>
+
+<p>Die folgenden Ausschnitte aus Radiosendungen veranschaulichen einerseits den <i>seseo</i> in Hispanoamerika und andererseits die Verwendung des Interdentallautes <span class="meta">/θ/</span> in Spanien. Beachte, dass hier Radiomoderator:innen sprechen, es handelt sich also um eine Aussprache, die der ‚guten Aussprache‘ des jeweiligen Landes (oder der Region) entspricht:</p>
+
+<div class="audio-comparison">
+
+
+<div class="audio-block">
+    <h4>Mexiko:</h4>
+    <span class="example">„(...) esta mujer que se hi<b>z</b>o famosa en 2017 gra<b>c</b>ias a un video que se hi<b>z</b>o viral.“ (MEXc5bc0)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/MEXc5bc0.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/MEXc5bc0.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Costa Rica:</h4>
+    <span class="example">„Gana una	<b>c</b>ena para cuatro personas (...)“ (CRce1ef)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/CRce1ef.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/CRce1ef.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Chile:</h4>
+    <span class="example">„Se ve espectacular y está más <b>c</b>erca.“ (CHI052bc)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/CHI052bc.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/CHI052bc.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Argentinien:</h4>
+    <span class="example">„(...) <b>c</b>erca de Miami.“ (ARG-Cba2154c)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ARG-Cba2154c.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ARG-Cba2154c.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Spanien, Bsp. 1:</h4>
+    <span class="example">„(...) los que conectan la propia capital con Gali<b>c</b>ia, Bar<b>c</b>elona o <b>Z</b>arago<b>z</b>a y el resto del corredor del Levante.“ (ES-MADaa126)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ES-MADaa126.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ES-MADaa126.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Spanien, Bsp. 2:</h4>
+    <span class="example">„El pla<b>z</b>o	para ha<b>c</b>erlo acaba el tre<b>c</b>e de septiembre.“ (ES-MAD759f8)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ES-MAD759f8.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ES-MAD759f8.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+
+</div>
+
+<div class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">CO.RA.PAN</a></div>
+</details>
 
 Es gibt verschiedene Pro und Contra für beide Möglichkeiten, die man bedenken sollte:  
 
@@ -84,7 +150,92 @@ Wer *pollo* und *poyo* gleich ausspricht, liegt damit in der Mehrheit – zumind
 
 Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien hört man meist <span class="meta">[ʝ]</span>, in der Karibik oder in Zentralamerika dagegen oft nur ein sanftes <span class="meta">[j]</span>. Im *Río de la Plata*-Raum, vor allem in Buenos Aires und Montevideo, ist die Aussprache besonders markant, da dort <span class="meta">[ʒ]</span> (bezeichnet als *žeísmo*) und mittlerweile noch häufiger stimmlos <span class="meta">[ʃ]</span> (bzeichnet als *šeísmo*) ausgesprochen wird (z.B. *llamar* als <span class="meta">[ʒaˈmar]</span> oder <span class="meta">[ʃaˈmar]</span>).  
 
-    AUDIOBEISPIELE aus CO.RA.PAN  
+<details>
+<summary>Hör mal (<i>yeísmo</i>, <i>žeísmo</i> und <i>šeísmo</i>)</summary>
+
+<p>Die folgenden Ausschnitte aus Radiosendungen veranschaulichen, dass der <i>yeísmo</i>, d.h. die Realisierung von <span class="meta">[ʝ]</span> auch für <span class="meta"><ll></span>, heute überall normal ist. Die Beispiele aus Argentinien veranschaulichen darüber hinaus <i>žeísmo</i> und <i>šeísmo</i>. Beachte, dass hier Radiomoderator:innen sprechen, es handelt sich also um eine Aussprache, die der ‚guten Aussprache‘ des jeweiligen Landes (oder der Region) entspricht:</p>
+
+<div class="audio-comparison">
+
+
+<div class="audio-block">
+    <h4>Spanien:</h4>
+    <span class="example">„Se <b>ll</b>amaba Raquel, tenía 54 años y su cuerpo ha aparecido en un domicilio de Vi<b>ll</b>albi<b>ll</b>a.“ (ES-MAD7d2fe)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ES-MAD7d2fe.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ES-MAD7d2fe.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Nicaragua:</h4>
+    <span class="example">„(...) estamos experimentando este tipo de <b>ll</b>uvias	en distintas partes del país (...)“ (NICa941c)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/NICa941c.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/NICa941c.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Chile:</h4>
+    <span class="example">„Todos los deta<b>ll</b>es los conocemos con Daniela Forero Ortiz.“ (CHIf24b4)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/CHIf24b4.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/CHIf24b4.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Peru:</h4>
+    <span class="example">„En RPP nos sentimos orgu<b>ll</b>osos de nuestros líderes (...).“ (PER44938)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/PER44938.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/PER44938.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Argentinien, Bsp. 1:</h4>
+    <span class="example">„El sábado 22 de abril, <b>ll</b>egó la policía.“ (ARG90e51)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ARG90e51.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ARG90e51.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Argentinien, Bsp. 2:</h4>
+    <span class="example">„(...) gente que nos <b>ll</b>ena de orgu<b>ll</b>o (...)“ (ARGa2403)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ARGa2403.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ARGa2403.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Argentinien, Bsp. 2:</h4>
+    <span class="example">„Friedrich Merz es el próximo	canci<b>ll</b>er alemán (...)“ (ARG4a55e)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ARG4a55e.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ARG4a55e.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Argentinien, Bsp. 3:</h4>
+    <span class="example">„Bueno, mañana también está previsto que <b>ll</b>ueva todo el día, mañana miércoles (...)“ (ARG5e590)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ARG5e590.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ARG5e590.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+
+
+</div>
+
+<div class="audio-source">Audios aus <a href="https://corapan.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">CO.RA.PAN</a></div>
+</details>  
 
 Für den Unterricht bedeutet das: Man kann dem *yeísmo* ganz entspannt begegnen. Wenn Lehrwerke noch die traditionelle lautliche Unterscheidung zwischen <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span> erwähnen, lohnt es sich, das einzuordnen und kurz zu erklären, dass diese Unterscheidung in der Realität kaum noch vorkommt. Unterrichtet wird schließlich eine lebendige Sprache, keine reine „Schulbuchsprache“.
 
@@ -118,24 +269,6 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
 <div class="audio-comparison">
 
 <div class="audio-block">
-    <h4>Kanaren (Spanien), Bsp. 1:</h4>
-    <span class="example">„(...) el reparto de lo<b>s</b> menore<b>s</b> no acompañado<b>s</b> entre toda<b>s</b> la<b>s</b> comunidade<b>s</b> autónoma<b>s</b> (...)“ (ES-CAN3a6b4)</span>
-    <audio controls preload="metadata">
-        <source src="/assets/audiofiles/corapan/ES-CAN3a6b4.mp3" type="audio/mpeg">
-        <source src="/assets/audiofiles/corapan/ES-CAN3a6b4.m4a" type="audio/mp4">
-        Dein Browser unterstützt das Audio-Format nicht.
-    </audio>
-</div>
-<div class="audio-block">
-    <h4>Kanaren (Spanien), Bsp. 2:</h4>
-    <span class="example">„Ademá<b>s</b>, la<b>s</b> temperatura<b>s</b> media<b>s</b> que han llegado a ser de un grado y medio (...)“ (ES-CANe8498)</span>
-    <audio controls preload="metadata">
-        <source src="/assets/audiofiles/corapan/ES-CANe8498.mp3" type="audio/mpeg">
-        <source src="/assets/audiofiles/corapan/ES-CANe8498.m4a" type="audio/mp4">
-        Dein Browser unterstützt das Audio-Format nicht.
-    </audio>
-</div>
-<div class="audio-block">
     <h4>Chile, Bsp. 1:</h4>
     <span class="example">„(...) revisamo<b>s</b> alguna<b>s</b> de la<b>s</b> informacione<b>s</b> internacionale<b>s</b> que han marcado la<b>s</b> última<b>s</b> hora<b>s</b> (...)“ (CHI124b8)</span>
     <audio controls preload="metadata">
@@ -153,9 +286,10 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
         Dein Browser unterstützt das Audio-Format nicht.
     </audio>
 </div>
+
 <div class="audio-block">
     <h4>Argentinien, Bsp. 1:</h4>
-    <span class="example">„(...) para las má<b>s</b> pre<b>s</b>tigiosa<b>s</b>	marca<b>s</b> y a iluminar la<b>s</b> portada<b>s</b> de revi<b>s</b>ta<b>s</b> de moda (...)“ (ARG1a934)</span>
+    <span class="example">„(...) para las má<b>s</b> pre<b>s</b>tigiosa<b>s</b>	marca<b>s</b> y a iluminar la<b>s</b> portada<b>s</b> de revi<b>s</b>ta<b>s</b> de moda internacionale<b>s</b>.“ (ARG1a934)</span>
     <audio controls preload="metadata">
         <source src="/assets/audiofiles/corapan/ARG1a934.mp3" type="audio/mpeg">
         <source src="/assets/audiofiles/corapan/ARG1a934.m4a" type="audio/mp4">
@@ -168,6 +302,25 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
     <audio controls preload="metadata">
         <source src="/assets/audiofiles/corapan/ARG7a5fc.mp3" type="audio/mpeg">
         <source src="/assets/audiofiles/corapan/ARG7a5fc.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+
+<div class="audio-block">
+    <h4>Kanaren (Spanien), Bsp. 1:</h4>
+    <span class="example">„(...) el reparto de lo<b>s</b> menore<b>s</b> no acompañado<b>s</b> entre toda<b>s</b> la<b>s</b> comunidade<b>s</b> autónoma<b>s</b> (...)“ (ES-CAN3a6b4)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ES-CAN3a6b4.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ES-CAN3a6b4.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Kanaren (Spanien), Bsp. 2:</h4>
+    <span class="example">„Ademá<b>s</b>, la<b>s</b> temperatura<b>s</b> media<b>s</b> que han llegado a ser de un grado y (...)“ (ES-CANe8498)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ES-CANe8498.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ES-CANe8498.m4a" type="audio/mp4">
         Dein Browser unterstützt das Audio-Format nicht.
     </audio>
 </div>
@@ -186,7 +339,81 @@ Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito 
 
 <div class="audio-comparison">
 
+<div class="audio-block">
+    <h4>Mexiko, Bsp. 1:</h4>
+    <span class="example">„Ha<b>s</b>ta aquí lo<b>s</b> e<b>s</b>pectáculo<b>s</b>, regresamo<b>s</b> al e<b>s</b>tudio.“ (MEXa9322)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/MEXa9322.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/MEXa9322.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Mexiko, Bsp. 2:</h4>
+    <span class="example">„¿Quiere<b>s</b> anunciarte en e<b>s</b>te y en mucho<b>s</b> otro<b>s</b> podca<b>s</b>t<b>s</b>?“ (MEX23a52)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/MEX23a52.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/MEX23a52.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
 
+<div class="audio-block">
+    <h4>Kolumbien, Bsp. 1:</h4>
+    <span class="example">„Queremo<b>s</b> que e<b>s</b>té<b>s</b> informado en todo momento.“ (COL3a2b4)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/COL3a2b4.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/COL3a2b4.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Kolumbien, Bsp. 2:</h4>
+    <span class="example">„La ONU e<b>s</b>tá pidiendo la inve<b>s</b>tigación internacional sobre la<b>s</b> vulneracione<b>s</b> a lo<b>s</b> derecho<b>s</b> humano<b>s</b> en la guerra entre Hama<b>s</b> e I<b>s</b>rael.“ (COL807c6)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/COL807c6.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/COL807c6.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+
+<div class="audio-block">
+    <h4>Ecuador, Bsp. 1:</h4>
+    <span class="example">„Li<b>s</b>to<b>s</b>, entonce<b>s</b>, para llevarle<b>s</b> a u<b>s</b>tede<b>s</b> toda<b>s</b> las noticia<b>s</b> del Ecuador y del mundo.“ (ECU73261)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ECU73261.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ECU73261.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Ecuador, Bsp. 2:</h4>
+    <span class="example">„Lo<b>s</b> di<b>s</b>paro<b>s</b> se e<b>s</b>cucharon mientra<b>s</b> Trump e<b>s</b>taba criticando la inmigración ilegal.“ (ECU46847)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/ECU46847.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/ECU46847.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+
+<div class="audio-block">
+    <h4>Bolivien, Bsp. 1:</h4>
+    <span class="example">„Bienvenido<b>s</b> a la<b>s</b> noticia<b>s</b> de la hora.“ (BOLc1dbc)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/BOLc1dbc.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/BOLc1dbc.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
+<div class="audio-block">
+    <h4>Bolivien, Bsp. 2:</h4>
+    <span class="example">„(...) un bochorno que pasaría a la hi<b>s</b>toria del abuso	de la ju<b>s</b>ticia con<b>s</b>titucional.“ (BOLe17df)</span>
+    <audio controls preload="metadata">
+        <source src="/assets/audiofiles/corapan/BOLe17df.mp3" type="audio/mpeg">
+        <source src="/assets/audiofiles/corapan/BOLe17df.m4a" type="audio/mp4">
+        Dein Browser unterstützt das Audio-Format nicht.
+    </audio>
+</div>
 
 </div>
 
@@ -199,8 +426,6 @@ Wie bei anderen Aussprachevarianten gilt auch hier: Nicht bewerten, nicht korrig
 
 Die Variation der *s*-Aussprache bietet eine hervorragende Gelegenheit, um über regionale Vielfalt, Sprachregister und die sozial bedingte Bewertung von Sprachgebrauch ins Gespräch zu kommen. Lernende begegnen dieser Form früher oder später – sei es in Liedern, Serien, Videos oder auf Reisen. Wer z. B. *estos amigos* als <span class="meta">[ˈeh.toh.a.ˈmi.ɣoh]</span> hört, sollte verstehen, dass es sich nicht um eine ‚fehlerhafte‘ oder ‚schlechte‘ Artikulation handelt, sondern um eine regionale und kontextabhängige Aussprachevariante.  
 
-    BEISPIELE / Musik, Film etc.  
-
 Auch hier kann die Thematisierung der Variation mit fortgeschrittenen Schüler:innen zur Sprachbewusstheit beitragen und den plurizentrischen Blick auf das Spanische im Unterricht fördern.  
 
 ### Weitere Phänomene
@@ -209,7 +434,6 @@ Die oben behandelten Phänomene sind bereits die wichtigsten und auffälligsten,
 
 Zu nennen ist hier die sogenannte Velarisierung des /n/, bei der das /n/ weiter hinten artikuliert wird, wie in engl. *si**ng*** <span class="meta">[sɪ<b>ŋ</b>]</span>. Das passiert vor allem am Wortende, z.B. in *pan* <span class="meta">[pa<b>ŋ</b>]</span> anstelle von <span class="meta">[pan]</span>. Teilweise wird der Laut sogar abgeschwächt, sodass nur eine Nasalisierung des Vokals bleibt (wie im Französischen übrigens!). Das Phänomen kommt in verschiedenen Teilen Spaniens vor und hat sich aus dem südspanischen Spanisch auch in Hispanoamerika verbreitet, wo es ein Kennzeichen besonders ‚progressiver‘ Varietäten ist, also wieder vor allem die Karibik und Küstenregionen betrifft.
 Typisch für karibische Varietäten sowie Teile Andalusiens ist auch die Vertauschung oder Angleichung von <span class="meta">/l/</span> und <span class="meta">/r/</span> am Silbenende. So kann etwa *amor* als *amo**l*** <span class="meta">[a.ˈmo<b>l</b>]</span> oder *soldado* als *so**r**dado* <span class="meta">[so<b>ɾ</b>.ˈda.ðo]</span> ausgesprochen werden. Ein bekanntes Beispiel ist auch die Aussprache von Nueva York als <span class="meta">[ˈnwe.βa.ˈʝol]</span> (vgl. den [Song von Bad Bunny](https://youtu.be/KU5V5WZVcVE?feature=shared&t=36){:target="_blank" rel="noopener noreferrer"}).
-
 
 
 ## Aussprache im Unterricht: Praktisch und ‚anhörlich‘

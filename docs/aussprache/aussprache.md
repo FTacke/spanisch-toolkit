@@ -19,7 +19,7 @@ Im Vergleich mit dem Deutschen ist das Lautinventar des Spanischen sogar etwas �
 Die Vokale <span class="meta">/a e i o u/</span>, ebenfalls fünf an der Zahl, sind in beiden Sprachen fast identisch. Die kleinen Unterschiede, die es natürlich immer gibt, werden leicht überhört: So werden die spanischen Vokale immer gespannt ausgesprochen (z.B. <span class="meta">[**i**sla]</span>), wohingegen es im Deutschen auch ungespannt artikulierte Vokale gibt, wie man an der Gegenüberstellung von *bieten* <span class="meta">[ˈb**iː**tn̩]</span> und *bitten* <span class="meta">[ˈb**ɪ**tn̩]</span> hört. Wenn man also sp. *ilegal* als <span class="meta">[**ɪ**leˈgal]</span> ausspricht anstelle von zielsprachlich <span class="meta">[**i**leˈɣal]</span>, dann wird man das mit einem ‚deutschen Akzent‘ assoziieren. Einen weiteren Fall von ‚deutschem Akzent‘ vernimmt man, wenn Lernende die spanischen Diphthonge <span class="meta">/je/</span> (wie in *t**ie**rra*) und <span class="meta">/we/</span> (wie in *p**ue**rta*) über zwei Silben verteilt aussprechen, also einen sogenannten Hiat artikulieren – wie es bei dem auch im Deutschen immer häufiger verwendeten Wort *fuego* zu beobachten ist: Im Unterricht sollte man auf die Aussprache <span class="meta">[ˈfwe.ɣo]</span> achten, während man es in der deutschen Jugendsprache oft als <span class="meta">[fu.ˈe.go]</span> ausgesprochen hört. Ein Grund dafür, warum das Deutsche oft als ‚abgehackt‘ und weniger melodisch empfunden wird, liegt übrigens darin, dass vor Vokalen am Wort- und am Silbenanfang oft ein Knacklaut (oder Glottisverschluss) <span class="meta">/ʔ/</span> artikuliert wird, im Spanischen jedoch nie. Vergleiche dt. *die **E**nte* <span class="meta">[di.ˈʔɛn.tə]</span> mit sp. *si **e**ntiendo bien* <span class="meta">[si.en.ˈtjen.do.βjen]</span>. 
 
 <details>
-<summary>Hör mal</summary>
+<summary>Hör mal (Vokale am Wortanfang)</summary>
 
     <p>Anhand der folgenden Audios kannst Du die Aussprache der Sequenz <i><b>o hay</b></i> (z.B. in Äußerungen wie <i>¿Está bien <b>o hay</b> un problema?</i>) eines Modellsprechers und einer Lernenden vergleichen:</p>
 
@@ -54,9 +54,9 @@ Sobald man (fortgeschrittene) Lernende also für diese Details sensibilisiert ha
 Es ist wohl allgemein bekannt, dass sowohl das Deutsche als auch das Spanische über einen R-Laut verfügen. Genau genommen gibt es in beiden Sprachen sogar mehrere R-Laute. Im Deutschen ist es dabei nicht relevant, wie man das Phonem <span class="meta">/r/</span> ausspricht, ob als uvularen Frikativ <span class="meta">[ʁ]</span> (also einen Reibelaut, der am Zäpfchen entsteht), wie er im Standarddeutschen normal ist, als alveolaren Vibranten <span class="meta">[r]</span>, wie im südlichen Sprachraum, Österreich und der Schweiz, oder auch als sogenanntes Tiefenschwa im Auslaut wie in *Lehrer* <span class="meta">[ˈleːʁɐ]</span>. Phonologisch betrachtet handelt es sich um bloße Varianten desselben Phonems, sogenannte Allphone.  
 
 <details>
-<summary>Hör mal</summary>
+<summary>Hör mal (/r/)</summary>
 
-    <p>Vergleiche /r-/ am Wortanfang und /-r/ am Ende in <i><b>reír</b></i>:</p>
+    <p>Vergleiche <span class="meta">/r-/</span> am Wortanfang und <span class="meta">/-r/</span> am Ende in <i><b>reír</b></i>:</p>
 
     <div class="audio-comparison">
         <div class="audio-block">
@@ -114,9 +114,9 @@ Ein spanischer Laut, der dagegen das Spanische der gesamten Hispanophonie kennze
 Wer seine Schüler:innen zu einer besonders zielsprachlichen Kompetenz führen möchte, muss sich ein wenig mehr mit kontextabhängiger Variation auseinandersetzen. Wir haben bereits gesehen, dass die R-Laute in der Zielsprache anders artikuliert werden, je nachdem, ob sie am Wortanfang oder -ende stehen (s.o.); die Laute <span class="meta">/b d g/</span> weisen ebenfalls eine markante Allophonie auf, die den Unterschied zwischen einem ‚deutschem Akzent‘ und einer typisch spanischen Aussprache macht. Fortgeschrittene Schüler:innen sollte man also auf jeden Fall dafür sensibilisieren, dass die Aussprache als ‚hartes‘ <span class="meta">[b d g]</span> in *be**b**edor*, *olvi**d**ar* und *ami**g**o* sehr ‚deutsch‘ klingt und die drei Konsonanten hier stattdessen ‚weicher‘, nämlich als sogenannte Approximanten <span class="meta">[β ð ɣ]</span> artikuliert werden sollten als <span class="meta">[beβeˈðoɾ]</span>, <span class="meta">[olβiˈðaɾ]</span> und <span class="meta">[aˈmiɣo]</span>.  
 
 <details>
-<summary>Hör mal</summary>
+<summary>Hör mal (/b d g/)</summary>
 
-    <p>Vergleiche die Artikulation der Phoneme /b/ und /d/ in <i><b>el bebedor</b></i>:</p>
+    <p>Vergleiche die Artikulation der Phoneme <span class="meta">/b/</span> und <span class="meta">/d/</span> in <i><b>el bebedor</b></i>:</p>
 
     <div class="audio-comparison">
         <div class="audio-block">
@@ -174,7 +174,7 @@ Für den Schulunterricht wird es übrigens genügen, dass man die Regel darauf r
     <span class="meta">**[ɣ]**</span>: Dieser Laut erinnert an eine Mischung aus dem deutschen Ach-Laut <span class="meta">[x]</span> und einem ‚harten‘ <span class="meta">[g]</span>. Der Zungenrücken wird dabei wie beim <span class="meta">[g]</span> an den weichen Gaumen (Velum) geführt, allerdings ohne vollständigen Verschluss. Stattdessen entsteht durch eine leichte Annäherung Reibung, die jedoch deutlich schwächer als beim Ach-Laut ist. Wenn man agua ganz schnell aussprechen lässt, entsteht er fast automatisch.
 
 <details>
-<summary>Kaum hörbar: <span class="meta">/p t k/</span> im Deutschen mit, im Spanischen ohne Luftstoß</summary>
+<summary>Kaum hörbar: /p t k/ im Deutschen mit, im Spanischen ohne Luftstoß</summary>
 
 <p>Die stimmlosen Plosive <span class="meta">/p t k/</span> unterscheiden sich zwischen dem Deutschen und dem Spanischen darin, dass man sie im Deutschen oft ‚intensiver‘ ausspricht, nämlich verstärkt durch eine Aspiration bzw. Behauchung als <span class="meta">[pʰ]</span>, <span class="meta">[tʰ]</span> und <span class="meta">[kʰ]</span>. Das bedeutet, dass beim Lösen des Verschlusses zwischen den Artikulatoren ein Luftstoß entweicht. Dies lässt sich leicht überprüfen, indem man die Hand vor den Mund hält: Ist ein Luftstoß zu spüren, handelt es sich um einen aspirierten Laut. Die spanischen Plosive sind jedoch nie aspiriert. Für diese Aussprache kann man sich an der Artikulation in den Wörtern <i>S<u>p</u>ort</i>, <i>S<u>t</u>ern</i> und <i>S<u>k</u>ala</i> orientieren, wo man auch im Deutschen nicht aspiriert.</p>
 
