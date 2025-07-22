@@ -269,7 +269,7 @@ body[data-md-color-scheme="slate"] .audio-source {
     top: 100px !important;          /* Headerhöhe, anpassen falls nötig */
     left: 0;
     width: 100vw !important;
-    height: calc(100vh - 64px) !important;
+    height: calc(100vh - 100px) !important;
     max-width: none !important;
     max-height: none !important;
     border-radius: 0 !important;
@@ -279,7 +279,23 @@ body[data-md-color-scheme="slate"] .audio-source {
     border: none !important;
     box-shadow: none !important;
   }
-
+@media (max-width: 600px) {
+  #map-container.fullscreen {
+    position: fixed !important;
+    top: 49px !important;          /* Headerhöhe, anpassen falls nötig */
+    left: 0;
+    width: 100vw !important;
+    height: calc(100vh - 49px) !important;
+    max-width: none !important;
+    max-height: none !important;
+    border-radius: 0 !important;
+    z-index: 9999 !important;
+    margin: 0 !important;
+    background: white;
+    border: none !important;
+    box-shadow: none !important;
+  }
+}
   /* Popup Layout */
   .popup-sprachenkarte {
     font-size: 0.85em;
