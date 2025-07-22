@@ -388,7 +388,7 @@ Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito 
 </div>
 <div class="audio-block">
     <h4>Ecuador, Bsp. 2:</h4>
-    <span class="example">„Lo<b>s</b> di<b>s</b>paro<b>s</b> se e<b>s</b>cucharon mientra<b>s</b> Trump e<b>s</b>taba criticando la inmigración ilegal.“ (ECU46847)</span>
+    <span class="example">„Lo<b>s</b> di<b>s</b>paro<b>s</b> se e<b>s</b>cucharon mientra<b>s</b> Trump e<b>s</b>taba criticando la migración ilegal.“ (ECU46847)</span>
     <audio controls preload="metadata">
         <source src="/assets/audiofiles/corapan/ECU46847.mp3" type="audio/mpeg">
         <source src="/assets/audiofiles/corapan/ECU46847.m4a" type="audio/mp4">
