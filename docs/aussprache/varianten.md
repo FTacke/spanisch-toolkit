@@ -441,16 +441,16 @@ Typisch für karibische Varietäten sowie Teile Andalusiens ist auch die Vertaus
 Der Spanischunterricht in Deutschland orientiert sich traditionell stark am peninsularen Spanisch, doch Spanisch ist eine plurizentrische Weltsprache, die in über 20 Ländern mit unterschiedlichen Aussprachemustern gesprochen wird. Als zukünftige Lehrkräfte für Spanisch tragen wir Verantwortung dafür, nicht nur Sprache, sondern auch sprachliche Vorstellungen zu vermitteln – insbesondere, was als ‚richtige‘ oder ‚gute‘ Aussprache gilt. Im schulischen Alltag lässt sich Aussprachevielfalt auf einfache und wirksame Weise integrieren:  
 
 - **Transparenz von Anfang an:**
-Von Beginn an deutlich machen, dass es im Spanischen mehrere korrekte Aussprachen gibt – und dass regionale Unterschiede normal sind.  
+Von Beginn an deutlich machen, dass es im Spanischen mehrere korrekte Aussprachen gibt – und dass nationale und regionale Unterschiede normal sind.  
 
 - **Reflexion statt Korrektur:**
-Wenn eine Schülerin z. B. seseo statt distinción verwendet, bietet sich ein kurzer sprachreflexiver Moment an, statt vorschnell zu „korrigieren“.  
+Wenn eine Schülerin z.B. *seseo* verwendet, bietet es sich an, den Unterschied zur *distinción* kurz zu thematisieren.  
 
-- **Sprechvielfalt sichtbar machen:**
-Etwa durch kleine Projektformate, in denen verschiedene Varietäten vorgestellt werden – z. B. über Videos, Interviews oder eine interaktive Aussprache-Weltkarte im Klassenzimmer.  
+- **Einblick in Diversität:**
+Etwa durch kleine Projektformate, in denen verschiedene Varietäten vorgestellt werden (z.B. über Songs, Audiobeispiele, Videos).  
 
-- **Stereotype ansprechen und dekonstruiere:**
-Gerade beim Interdentallaut <span class="meta">[θ]</span> lohnt sich ein sprachvergleicher Blick (z. B. mit dem Englischen) – und ein Gespräch darüber, warum manche Schüler:innen diesen Laut ‚komisch‘ finden.  
+- **Stereotype ansprechen und dekonstruieren:**
+Gerade beim Interdentallaut <span class="meta">[θ]</span> lohnt sich ein sprachvergleichender Blick (z.B. mit dem Englischen) – und ein Gespräch darüber, warum manche Schüler:innen diesen Laut ‚komisch‘ finden.  
 
 Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernende eine passive Aussprachekompetenz entwickeln – also etwa erkennen, dass *Barcelona* mit oder ohne <span class="meta">[θ]</span> gesprochen werden kann, dass *pollo* in Argentinien anders klingt als in Mexiko oder dass *comer* in Kuba auch mal als *come**l*** ausgesprochen wird.  
 
