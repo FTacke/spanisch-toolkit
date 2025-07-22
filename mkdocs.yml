@@ -56,6 +56,11 @@ plugins:
 
 extra_css:
   - assets/stylesheets/overrides.css
+  - https://unpkg.com/leaflet/dist/leaflet.css
+
+extra_javascript:
+  - https://unpkg.com/leaflet/dist/leaflet.js
+  - assets/javascripts/map.js
 
 nav:
   - Start: index.md
