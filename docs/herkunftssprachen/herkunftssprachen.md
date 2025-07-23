@@ -16,7 +16,7 @@ Für einen gewinnbringenden Umgang mit Mehrsprachigkeit ist es dabei keineswegs 
 <p>Wer sich etwa fragt, in welchen Sprachen das berühmte gerollte r vorkommt, wie unterschiedlich Artikel funktionieren oder wo es besonders viele Vokale gibt, findet im WALS präzise Antworten – anschaulich auf Karten visualisiert und mit Hintergrundwissen ergänzt.
 </p>
 
-<p>Jeder Eintrag im WALS widmet sich einem bestimmten sprachlichen Phänomen (wie etwa "Taps and Trills" oder "Definite Articles"), erläutert es fachlich, gibt Beispiele aus ganz verschiedenen Sprachen und macht so globale Unterschiede wie Gemeinsamkeiten direkt sichtbar. Für Neugierige ist der WALS damit eine hervorragende Möglichkeit, gezielt nachzuschlagen, wie sich einzelne Merkmale im weltweiten Sprachvergleich verteilen – und welche Leistungen die Sprachenvielfalt unseres Planeten bereithält.</p>
+<p>Jeder Eintrag im WALS widmet sich einem bestimmten sprachlichen Phänomen (wie etwa "Definite Articles"), erläutert es fachlich, gibt Beispiele aus ganz verschiedenen Sprachen und macht so globale Unterschiede wie Gemeinsamkeiten direkt sichtbar. Für Neugierige ist der WALS damit eine hervorragende Möglichkeit, gezielt nachzuschlagen, wie sich einzelne Merkmale im weltweiten Sprachvergleich verteilen – und welche Leistungen die Sprachenvielfalt unseres Planeten bereithält.</p>
 
 <p>Zum <a href="https://wals.info/" target="_blank" rel="noopener noreferrer">WALS</a>.</p>
 
@@ -97,7 +97,7 @@ Für den Unterricht heißt das: Herkunftssprachler:innen können gerade zu Begin
 
 **Arabisch:** In den meisten arabischen Dialekten ist <span class="meta">/r/</span> ein Zungenspitzenvibrant, meist einfach, manchmal (je nach Region und Sprechstil) auch mehrfach gerollt. In manchen nordafrikanischen Dialekten gibt es Varianten mit stärkerem Trill, während in anderen Dialekten (besonders im Irakischen) das <span class="meta">/r/</span> gelegentlich als emphatisch realisiert wird. Ein systematischer Bedeutungsunterschied wie im Spanischen besteht jedoch nicht.
 
-**Fazit:** In keiner der genannten Herkunftssprachen ist die Unterscheidung zwischen einfachem und mehrfach gerolltem <span class="meta">/r/</span> phonematisch relevant – die genaue Realisierung hängt von Kontext, Sprechtempo oder regionaler Variation ab. Für eine anschauliche Übersicht der <span class="meta">/r/</span>-Typen weltweit siehe auch [WALS Feature 19A: Taps and Trills](https://wals.info/feature/19A).
+**Fazit:** In keiner der genannten Herkunftssprachen ist die Unterscheidung zwischen einfachem und mehrfach gerolltem <span class="meta">/r/</span> phonematisch relevant – die genaue Realisierung hängt von Kontext, Sprechtempo oder regionaler Variation ab.
 
 </details>
 
