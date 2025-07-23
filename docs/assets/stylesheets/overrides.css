@@ -282,10 +282,10 @@ body[data-md-color-scheme="slate"] .audio-source {
 @media (max-width: 600px) {
   #map-container.fullscreen {
     position: fixed !important;
-    top: 49px !important;          /* Headerhöhe, anpassen falls nötig */
+    top: 48px !important;          /* Headerhöhe, anpassen falls nötig */
     left: 0;
     width: 100vw !important;
-    height: calc(100vh - 49px) !important;
+    height: calc(100vh - 48px) !important;
     max-width: none !important;
     max-height: none !important;
     border-radius: 0 !important;
