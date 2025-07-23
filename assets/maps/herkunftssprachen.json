@@ -9,7 +9,7 @@
   {
     "sprache": "Kurdisch",
     "sprachfamilie": "Indoiranisch (Indoeuropäisch)",
-    "herkunft": ["Türkei (Ostanatolien)", "Syrien (Nordosten)", "Irak (Nord)", "Iran (Nordwest)"],
+    "herkunft": ["Türkei (Ostanatolien)", "Syrien (Nordosten)", "Irak (Norden)", "Iran (Nordwesten)"],
     "koordinaten": [
       [38.5, 40.5],
       [36.7, 41.0],
@@ -26,7 +26,7 @@
       [33.5, 36.3],
       [33.3, 44.4],
       [32.0, -6.0],
-      [35.0, 3.0],
+      [36.7, 3.1],
       [30.0, 31.2],
       [36.8, 10.2]
     ],
@@ -57,7 +57,11 @@
     "sprache": "Bosnisch/Kroatisch/Serbisch",
     "sprachfamilie": "Südslawisch (Indoeuropäisch)",
     "herkunft": ["Bosnien", "Kroatien", "Serbien"],
-    "koordinaten": [[44.2, 17.7], [45.1, 15.2], [44.8, 20.5]],
+    "koordinaten": [
+      [44.2, 17.7],
+      [45.1, 15.2],
+      [44.8, 20.5]
+    ],
     "farbe": "#663300"
   },
   {
@@ -68,17 +72,27 @@
     "farbe": "#990000"
   },
   {
-    "sprache": "Persisch (Farsi/Dari)",
+    "sprache": "Farsi (Persisch, Iran)",
     "sprachfamilie": "Indoiranisch (Indoeuropäisch)",
-    "herkunft": ["Iran (zentral)", "Afghanistan (zentral)"],
-    "koordinaten": [[32.5, 51.7], [34.8, 67.8]],
-    "farbe": "#00cccc"
+    "herkunft": ["Iran"],
+    "koordinaten": [[32.5, 51.7]], 
+    "farbe": "#008080"
+  },
+  {
+    "sprache": "Dari (Persisch, Afghanistan)",
+    "sprachfamilie": "Indoiranisch (Indoeuropäisch)",
+    "herkunft": ["Afghanistan"],
+    "koordinaten": [[34.5, 69.2]],     
+    "farbe": "#33ffff"
   },
   {
     "sprache": "Paschtu",
     "sprachfamilie": "Indoiranisch (Indoeuropäisch)",
-    "herkunft": ["Afghanistan (Südost)", "Pakistan (Nordwest)"],
-    "koordinaten": [[32.6, 65.8], [34.0, 71.5]],
+    "herkunft": ["Afghanistan (Südosten)", "Pakistan (Nordwesten)"],
+    "koordinaten": [
+      [32.6, 65.8],      
+      [34.0, 71.5]
+    ],
     "farbe": "#66ccff"
   }
 ]
