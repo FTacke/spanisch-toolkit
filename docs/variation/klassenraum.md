@@ -1,0 +1,1 @@
+# 3.2 Plurizentrik im Klassenraum (Beta)
