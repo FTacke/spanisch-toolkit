@@ -252,7 +252,7 @@ body[data-md-color-scheme="slate"] .audio-source {
   #fullscreen-btn {
     position: absolute;
     right: 12px;
-    top: 12px;
+    top: 24px;
     z-index: 1000;
     padding: 0px 0px;
     border-radius: 5px;
@@ -261,6 +261,12 @@ body[data-md-color-scheme="slate"] .audio-source {
     font-size: 1em;
     cursor: pointer;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  }
+  
+  /* Leaflet Capture kleiner machen */
+  .leaflet-control-capture {
+    transform: scale(0.7);
+    transform-origin: bottom right;
   }
 
   /* Im Fullscreen-Modus */
@@ -322,4 +328,3 @@ body[data-md-color-scheme="slate"] .audio-source {
     color: #444;
     margin-top: 5px;
   }
- 
