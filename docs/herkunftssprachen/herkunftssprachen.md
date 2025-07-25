@@ -1,6 +1,6 @@
 # 5 Herkunftssprachen (Beta)
 
-## Vom Türkischen bis zum Polnischen: Wie Sprachvielfalt den Spanischunterricht bereichert
+## Vom Türkischen bis zum Polnischen: Wie Sprachenvielfalt den Spanischunterricht bereichert
 
 Wer eine Spanischklasse unterrichtet, kennt das Phänomen: Während einige Schüler:innen scheinbar mühelos das ‚gerollte R‘ sprechen, tun sich andere schwer damit. Solche Unterschiede sind kein Zufall – sie spiegeln wider, dass jede:r Lernende seine eigene sprachliche Biographie und unterschiedliche Herkunftssprachen mitbringt. Neben dem Deutschen als Erstsprache weist das Klassenzimmer von heute eine große Vielfalt an weiteren Erstsprachen auf. Für die individuelle Lernkurve im Fremdsprachenunterricht können diese Herkunftssprachen dabei nicht nur beim ‚gerollten R‘ einen Vorteil darstellen, wenn man sie als Lehrkraft zu berücksichtigen weiß. Umgekehrt kann es aber auch besondere Herausforderungen geben – etwa beim Erlernen der Artikelverwendung –, auf die man möglicherweise zum Wohle der Gemeinschaft etwas mehr eingeht.  
 
@@ -46,13 +46,17 @@ Die geographische Nähe oder Distanz sagt jedoch nur bedingt etwas über die spr
   
 Wie man in diesen Übersichten erkennt, sind Türkisch und Arabisch auch nicht entfernt mit dem Spanischen verwandt, Sprachen wie Kurdisch oder Persisch hingegen entfernte Verwandte. Nun stellt sich natürlich die Frage, was das konkret für den Spanischunterricht bedeutet. Da dies kein Lehrbuch über die einzelnen Sprachen und Sprachfamilien ist, werden wir daher im Folgenden ausgehend von den lautlichen und grammatischen Strukturen des Spanischen anschauen, welche Sprachen jeweils Ähnlichkeiten oder Unterschiede aufweisen.
 
-## Abschnitt: Eigenschaften der Herkunftssprachen im Querschnitt  
+## Strukturen im Vergleich: Chancen & Herausforderungen
 
 In diesem Abschnitt werden zentrale Eigenschaften ausgewählter Herkunftssprachen im Vergleich zum Deutschen beleuchtet. Dabei geht es sowohl um Merkmale, die das Spanischlernen erleichtern, als auch um solche, die zu typischen Stolpersteinen werden können. Für jede Eigenschaft wird knapp erklärt, wie sie im Spanischen und Deutschen ausgeprägt ist und in welchen Herkunftssprachen ähnliche oder abweichende Strukturen vorliegen.
 
-### Gerolltes /r/: Ein klarer Vorteil – mit einer kleinen Herausforderung
+### Aussprache: Wo das Spanische (un)gewohnt ist
 
-Wer Spanisch lernt, begegnet schon zu Beginn dem „gerollten R“, das für Lernende mit Deutsch als Erstsprache meist eine Herausforderung darstellt, da das R im Standarddeutschen uvular (hinten) ausgesprochen wird (vgl. Kapitel [2.1 Aussprache](../aussprache/aussprache.md)). Schüler:innen mit den hier betrachteten Herkunftssprachen – egal ob Türkisch, Kurdisch oder Italienisch – bringen hier einen klaren Startvorteil mit, denn das <span class="meta">/r/</span> wird dort an der gleichen Stelle artikuliert wie im Spanischen.  
+In diesem Abschnitt werden typische Ausspracheneigenheiten vorgestellt, die für Lernende mit verschiedenen Herkunftssprachen beim Spanischlernen entweder einen Startvorteil bieten oder zu ungewohnten Stolpersteinen werden können.  
+
+#### Gerolltes /r/: Normal in allen Herkunftssprachen
+
+Wer Spanisch lernt, begegnet schon zu Beginn dem ‚gerollten R‘, das für Lernende mit Deutsch als Erstsprache meist eine Herausforderung darstellt, da das R im Standarddeutschen uvular (hinten) ausgesprochen wird (vgl. Kapitel [2.1 Aussprache](../aussprache/aussprache.md)). Schüler:innen mit den hier betrachteten Herkunftssprachen – egal ob Türkisch, Kurdisch oder Italienisch – bringen hier einen klaren Startvorteil mit, denn das <span class="meta">/r/</span> wird dort an der gleichen Stelle artikuliert wie im Spanischen.  
 
 Sprachvergleichend ist es sogar so, dass in der Mehrzahl der Sprachen der Welt das <span class="meta">/r/</span> alveolar, also mit der Zungenspitze, artikuliert wird. Sprachen wie Deutsch und Französisch, in denen das <span class="meta">/r/</span> uvular ausgesprochen wird, sind weltweit in der Minderheit.  
 
@@ -79,11 +83,43 @@ Allerdings weist das Spanische eine Besonderheit auf – sowohl im Vergleich mit
 
 </details>
   
-Für den Unterricht heißt das: Herkunftssprachler:innen können gerade zu Beginn als authentische Vorbilder für die Zungenspitzenartikulation dienen. Insbesondere für deutschsprachige Lernende, für die das spanische R eine Herausforderung bleibt, ist es lohnend, gezielt mit Vorbild- und Nachsprechübungen zu arbeiten und positives Feedback für gelungene Artikulation zu geben. Gleichzeitig ist die Unterscheidung zwischen <span class="meta">/ɾ/</span> (z.B. *pe**r**o*) und <span class="meta">/r/</span> (z.B. *pe**rr**o*) für alle neu.
+Für den Unterricht heißt das: Herkunftssprachler:innen können gerade zu Beginn als authentische Vorbilder für die Zungenspitzenartikulation dienen. Insbesondere für deutschsprachige Lernende, für die das spanische R eine Herausforderung bleibt, ist es lohnend, gezielt mit Vorbild- und Nachsprechübungen zu arbeiten und positives Feedback für gelungene Artikulation zu geben. Gleichzeitig ist die Unterscheidung zwischen <span class="meta">/ɾ/</span> (z.B. *pe**r**o*) und <span class="meta">/r/</span> (z.B. *pe**rr**o*) für alle neu.  
 
+#### Kein /p/ im Arabischen: (k)eine Hürde  
 
+Eine Besonderheit des Arabischen ist das Fehlen des Lautes <span class="meta">/p/</span>. Es gibt zwar das stimmhafte <span class="meta">/b/</span>, aber kein stimmloses <span class="meta">/p/</span>. Das zeigt sich besonders anschaulich am Wort *baba* ‘Papa’. Arabischsprechende können also dazu neigen, in Fremdsprachen das den Laut <span class="meta">/p/</span> durch <span class="meta">/b/</span> zu ersetzen (ohne es zu merken). So kann es für arabischsprachige Lernende anfangs ungewohnt sein, das <span class="meta">/p/</span> bewusst zu bilden und von <span class="meta">/b/</span> zu unterscheiden.
+
+Solche Verwechslungen sind aber kein reines ‚arabisches‘ Phänomen: Auch im Deutschen gibt es Mundarten, in denen <span class="meta">/p/</span> und <span class="meta">/b/</span> nicht immer klar getrennt oder sogar systematisch ‚vertauscht‘ werden. Ein prägnantes Beispiel findet sich im Hessischen, wo *Pudding* oft als <span class="meta">[ˈ<b>b</b>ʊ.dɪŋ]</span> oder *Brot* als <span class="meta">[<b>p</b>ʁoːt]</span> ausgesprochen wird.
+
+Im deutschen Alltag und in anderen Sprachen begegnen arabischsprachige Schüler:innen dem <span class="meta">/p/</span> aber permanent und haben meist kein Problem (mehr) mit dem Laut. Für den Unterricht reicht es oft, das Problem kurz bewusst zu machen und zum Üben zu motivieren – größere Schwierigkeiten sind selten.  
+
+### Alphabetumstellungen? 
+
+Khodja  
+
+### Genus: Grammatisches Geschlecht im Vergleich
+
+Scholz  
+
+### Sprachen ohne Artikel
+
+Scholz  
+
+### (Yo) aprendo español: Subjektpronomen und Verbendungen im Sprachvergleich  
+
+Khodja
+
+### SVO oder SOV? Satzstellung im Vergleich
+
+Khodja
+
+### Kasus und Präpositionen in den Herkunftssprachen
+
+Khodja
 
 ## Abschnitt: Empfehlungen für den Unterricht  
+
+Khodja + Scholz
 
 - Wie nutze ich die "herkunftssprachlichen Ressourcen" im Unterricht?
 - Wie sensibilisiere ich?
