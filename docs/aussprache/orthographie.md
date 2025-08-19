@@ -5,7 +5,7 @@
 Als Lehrkraft für Spanisch hat man den Vorteil, dass man sich im Unterricht viel weniger mit der Schreibung des Spanischen auseinandersetzen muss als die Kolleg:innen, die Englisch oder Französisch unterrichten. Das Spanische weist bekanntlich eine sehr einfache Orthographie auf. Mehr noch: Das Spanische besitzt im Vergleich mit anderen Sprachkulturen, die ein alphabetisches Schriftsystem zugrunde legen, sogar eine der ‚besten‘ Orthographien. Gemeint ist, dass hier – noch viel mehr als im Deutschen – gilt, dass man schreibt, wie man spricht und spricht, wie man schreibt. Wie phonographisch ein Schriftsystem im Detail ist, kann anhand der sogenannten *Graphem-Phonem-Korrespondenzen* (GPK) bemessen werden, die das Verhältnis zwischen geschriebenem Zeichen (Graphem) und gesprochenem Laut (Phonem) beschreiben. Das schon in der Antike benannte Ideal ist nämlich, dass möglichst ein 1:1-Verhältnis vorliegen soll, d.h. ein Laut entspricht einem Buchstaben und ein Buchstabe entspricht einem Laut. Keine Orthographie entspricht diesem Ideal vollständig, aber in manchen Sprachkulturen liegt sie der Aussprache näher als in anderen, also ‚phonographischer‘ oder ‚phonologisch transparenter‘. Ist das der Fall, spricht man von einem ‚flachen‘ System. Weicht ein Schriftsystem aber stark ab von diesem Ideal und enthält in der Graphie viele Informationen, die morphologisch oder etymologisch motiviert sind, oder spiegeln noch eine viel ältere Aussprache wider, wie das im Englischen und Französischen der Fall ist, so spricht man von ‚tiefen‘ Schriftsystemen. Vergleicht man die romanischen Sprachen mit Deutsch und Englisch, wäre die Reihenfolge wie folgt:  
 
 > Italienisch (am ‚flachsten‘)  
-Spanisch  
+**Spanisch**  
 Portugiesisch  
 Deutsch  
 Französisch  
@@ -22,17 +22,14 @@ Ein Kapitel zur linguistischen Betrachtung der Orthographie des Französischen o
 
 Dieses Kapitel ist dagegen übersichtlich, denn hier gilt es lediglich, die Abweichungen vom Ideal zu beschreiben, also jene Aspekte der spanischen Orthographie, die man als ‚Ausnahmen‘ bezeichnet und hier und da etwas ‚Tiefe‘ aufweisen. Spanischlernende können beim Erlernen der Orthographie schon früh Erfolgserlebnisse haben, wenn sie einige wenige Regeln und noch weniger dieser Ausnahmen beherrschen. Darüber hinaus wird hier auch auf die Akzentsetzung eingegangen, die überaus schnell erlernt werden kann und ebenfalls viel simpler als in anderen Sprachen ist.
 
-## Man schreibt so, wie (in Kastilien) gesprochen wird
-
-Eines sollte man kurz bedenken: Die spanische Orthographie ist zwar nah an der Aussprache, aber die Aussprache ist in der spanischsprachigen Welt natürlich nicht einheitlich (siehe [Aussprachevariation](../aussprache/varianten.md)). Je nachdem, wessen Aussprache man zugrunde legt, kann die Orthographie also doch etwas ‚tiefer‘ sein und damit auch etwas schwieriger zu erlernen. Orthographien variieren viel weniger als die gesprochene Sprache, denn hier gelten besonders konservative, schulisch vermittelte Regeln. Sie sollen für alle Sprecher:innen einheitlich und zeitlich möglichst konstant sein, weshalb selbst kleine Reformen meist auf Widerstand stoßen. Die spanische Orthographie bildet auch heute noch an die traditionelle Aussprache Kastiliens ab, die im Vergleich mit anderen Varietäten ein sogenanntes ‚Maximalsystem‘ aufweist, da dort <span class="meta">/s/</span> und <span class="meta">/θ/</span> sowie <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span> unterschieden werden. Zwar sind weltweit die allermeisten Sprecher:innen *seseantes* und selbst in Kastilien gibt es heute kaum noch *yeístas*, aber die Orthographie spiegelt dies nicht wider. Für die Mehrheit entspricht die graphische Unterscheidung zwischen `<s>`, `<z>`, `<c>` (vor `<e>` und `<i>`) sowie zwischen `<ll>` und `<y>` also nicht der eigenen Aussprache (und ist somit eine potenzielle Fehlerquelle). Frühere Reformversuche und eigene ‚amerikanische‘ Orthographien sind gescheitert oder wurden wieder aufgegeben. Heute gilt die Orthographie allen spanischsprachigen Ländern als Symbol der Einheit, während Aussprache, Wortschatz und Grammatik plurizentrisch variieren.
 
 ## Fast perfekt: Abweichungen vom Ideal
 
-Je genauer man hinschaut, desto mehr Abweichungen vom Ideal der 1:1-Entsprechung von Lauten und Buchstaben fallen im Spanischen auf. Diese kurz unter schriftlinguistischen Gesichtspunkten zu reflektieren, ist auch für den Spanischunterricht nützlich, liegen doch genau hier die Herausforderungen und potenziellen Fehlerquellen, aber auch Erfolgserlebnisse bei guter Vermittlung. Im Folgenden werden nur auf die häufigsten und somit relevantesten Fälle erläutert – vollständige Analysen finden sich in der unten angegebenen Fachliteratur.
+Je genauer man hinschaut, desto mehr Abweichungen vom Ideal der 1:1-Entsprechung von Lauten und Buchstaben fallen im Spanischen auf. Diese kurz unter schriftlinguistischen Gesichtspunkten zu reflektieren, ist auch für den Spanischunterricht nützlich, liegen doch genau hier die Herausforderungen und potenziellen Fehlerquellen. Tatsächlich folgen die meisten Abweichungen aber klaren Prinzipien, die es wiederum möglich machen, eine nachhaltige orthographische Kompetenz zu vermitteln. Im Folgenden werden nur auf die häufigsten und somit relevantesten Fälle erläutert – vollständige Analysen finden sich in der unten angegebenen Fachliteratur.
 
 ### Vokale
 
-Bei den Vokalen gibt es nur wenige Abweichungen. So enden spanische Wörter nie auf unbetontem `<i>`, es sei denn, es handelt sich um Fremdwörter (*bikini*, *taxi*). Wörter die auf Diphthong mit <span class="meta">[i̯]</span> enden, werden am Wortende mit `<y>` geschrieben, wie in *rey* oder *muy*. Auch die Konjunktion *y* wird mit `<y>` geschrieben (im Katalanischen dagegen *rei*, *i* usw.).  
+Bei den Vokalen gibt es nur wenige Abweichungen. So enden spanische Wörter nie auf unbetontem `<i>`, es sei denn, es handelt sich um Fremdwörter (*bikini*, *taxi*). Wörter die auf Diphthong enden wie *rey* oder *muy* (<span class="meta">/i/</span> wird hier als <span class="meta">[i̯]</span> realisiert), werden am Wortende mit `<y>` geschrieben. Auch die Konjunktion *y* wird mit `<y>` geschrieben (u.a. im Katalanischen dagegen mit `<i>` wie in *rei*, *i* usw.).  
 
 Eine kleine Herausforderung stellen geschriebene Vokale dar, die nur diakritische (also unterscheidende) Funktion ohne eigenen Lautwert aufweisen. Das gilt in vielen Sequenzen für `<u>`, nämlich nach `<g>` und in `<qu>`, um zu kennzeichnen, dass diese als Plosive (Verschlusslaute) zu artikulieren sind, wie in ***gu**itarra*, ***gu**erra*, ***qu**eso* und ***qu**itar*. Übrigens ist das in den Orthographien beispielsweise des Französischen und Portugiesischen genauso. Im Italienischen ist das Prinzip identisch, nur der diakritisch verwendete Buchstabe ein anderer, nämlich `<h>`: Dort schreibt man `<ch>` und `<gh>`, wie in ***ch**e* ‘dass’ (statt fr./pt./sp. ***qu**e*), *mac**ch**ina* ‘Auto’, *spag**gh**etti* und *fun**gh**i*.  
 
@@ -43,14 +40,14 @@ In der Herausforderung liegt natürlich eine Chance: Schüler:innen, die diese Z
 
 #### Systematische Alternanzen: `<c>` vs. `<z>`, `<g>` vs. `<j>`
 
-Da es mehr Konsonanten als Vokale gibt, finden sich hier natürlich mehr Abweichungen vom Ideal. Das gerade besprochene diakritische `<u>` wird ja nur benötigt, weil die Buchstaben `<c>` und `<g>` in den romanischen Sprachen (nicht nur im Spanischen!) mehr als einen Lautwert erhalten haben. ‚Eigentlich‘ stehen sie für <span class="meta">/k/</span> und <span class="meta">/g/</span>, aber wenn ein vorderer Vokal, also <span class="meta">/e/</span> oder <span class="meta">/i/</span>, folgt, dann repräsentieren sie per Konvention die Laute <span class="meta">/θ/</span> (bzw. <span class="meta">/s/</span> im *seseo*) und <span class="meta">/x/</span>. Beispiele hierfür sind *ha**ce**r* <span class="meta">[aˈθeɾ]</span> (seseo: <span class="meta">[aˈseɾ]</span>), ***ci**ne* <span class="meta">[ˈθine]</span> bzw. <span class="meta">[ˈsine]</span>, ***ge**nte* <span class="meta">[ˈxente]</span>, ***gi**gante* <span class="meta">[xiˈɣante]</span>.  
+Da es mehr Konsonanten als Vokale gibt, finden sich hier natürlich mehr Abweichungen vom Ideal. Das gerade besprochene diakritische `<u>` wird nur benötigt, weil die Buchstaben `<c>` und `<g>` in den romanischen Sprachen (nicht nur im Spanischen!) mehr als einen Lautwert erhalten haben. ‚Eigentlich‘ stehen sie für <span class="meta">/k/</span> und <span class="meta">/g/</span>, aber wenn ein vorderer Vokal, also <span class="meta">/e/</span> oder <span class="meta">/i/</span>, folgt, dann repräsentieren sie per Konvention die Laute <span class="meta">/θ/</span> (bzw. <span class="meta">/s/</span> im *seseo*) und <span class="meta">/x/</span>. Beispiele hierfür sind *ha**ce**r* <span class="meta">[aˈθeɾ]</span> (seseo: <span class="meta">[aˈseɾ]</span>), ***ci**ne* <span class="meta">[ˈθine]</span> bzw. <span class="meta">[ˈsine]</span>, ***ge**nte* <span class="meta">[ˈxente]</span>, ***gi**gante* <span class="meta">[xiˈɣante]</span>.  
 
 Umgekehrt werden die Laute <span class="meta">/θ/</span> (bzw. <span class="meta">/s/</span> im *seseo*) und <span class="meta">/x/</span> üblicherweise durch `<z>` und `<j>` wiedergegeben, wenn die Vokale <span class="meta">/a o u/</span> darauf folgen wie in ***za**pato* <span class="meta">[θaˈpato]</span> bzw. <span class="meta">[saˈpato]</span> oder ***ju**gar* <span class="meta">[xuˈɣar]</span>.  
 
 !!! question "*México*, *zigzag*"  
     Ausnahme: `<x>` in *Mé**x**ico* ...
 
-Und auch hier liegen Chancen, denn hieraus erklären sich wiederum Alternanzen in vielen Verbformen wie *empe**za**r* – *empe**cé***, *lle**ga**r* – *lle**gué***, *co**ge**r* – *co**jo***.  
+Und auch hier liegen Chancen, denn diese Kombinatorik erklärt wiederum die Alternanzen in Verbformen wie *empe**za**r* – *empe**cé***, *lle**ga**r* – *lle**gué***, *co**ge**r* – *co**jo***.  
 
 #### Unsystematische Alternanzen, gleicher Laut: `<b>` vs. `<v>`
 
@@ -71,6 +68,21 @@ Ein reiner Anfängerfehler ist bekanntlich das im Spanischen geschriebene, aber 
 
 ### Wortakzent
 ### Orthographischer Akzent/Tilde
+
+
+## Einheit der Orthographie und Variation in der Schreibung
+
+Orthographien variieren viel weniger als die gesprochene Sprache, denn ihre Aufgabe ist es, überregionale Einheitlichkeit in der Kommunikation sicherzustellen. Orthographien werden über die Schule tradiert, egal ob für Erstsprachler:innen oder Fremdsprachenlernende. Und da Rechtschreibung von allen Menschen erst (mühsam) erlernt werden muss, lehnen die meisten, die es einmal geschafft haben, Änderungen an den Schreibkonventionen meist ab, selbst dann, wenn sie sinnvolle Vereinfachungen für die nächste Generation versprechen. Als ‚Oberfläche‘ der Schriftsprache ist die Orthographie daher in besonderem Maße konservativ – egal in welcher Sprache. Die spanische Sprachkultur  gilt zwar als vergleichsweise reformfreudig, selbst in der Orthogrpahie; an den Laut-Buchstaben-Korrespondenzen wurde aber auch hier seit der Festlegung im frühen 19. Jahrhundert nichts mehr verändert. Als heutiges Symbol der panhispanischen Einheit ist sie für die gesamte spanischsprachige Welt einheitlich und verbindlich. Und dennoch: In einigen wenigen Bereichen lässt sie Variation zu.  
+
+### Man schreibt so, wie *in Kastilien* gesprochen wird
+
+Die spanische Orthographie ist zwar nah an der Aussprache, aber die Aussprache ist in der spanischsprachigen Welt natürlich nicht einheitlich (siehe [Aussprachevariation](../aussprache/varianten.md)). Je nachdem, wessen Aussprache man zugrunde legt, kann die Orthographie also doch etwas ‚tiefer‘ sein (d.h. nicht Lautung oder nicht die eigene Aussprache abbilden) und damit auch etwas schwieriger zu erlernen. Die spanische Orthographie bildet auch heute noch die traditionelle Aussprache Kastiliens ab, die im Vergleich mit anderen Varietäten ein sogenanntes ‚Maximalsystem‘ aufweist, da dort <span class="meta">/s/</span> und <span class="meta">/θ/</span> sowie <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span> unterschieden werden (bzw. *wurden*, da sich der *yeísmo* ja generalisiert hat). Zwar sind weltweit die allermeisten Sprecher:innen *seseantes* und selbst in Kastilien gibt es heute kaum noch *yeístas*, aber die Orthographie spiegelt nicht den Usus der Mehrheit wider. Für die meisten Sprecher:innen entspricht die graphische Unterscheidung zwischen `<s>`, `<z>`, `<c>` (vor `<e>` und `<i>`) sowie zwischen `<ll>` und `<y>` also nicht der eigenen Aussprache (und ist somit eine potenzielle Fehlerquelle). Frühere Reformversuche und eigene ‚amerikanische‘ Orthographien sind gescheitert oder wurden wieder aufgegeben. Heute gilt die Orthographie allen spanischsprachigen Ländern als Symbol der Einheit, während Aussprache, Wortschatz und Grammatik plurizentrisch variieren.
+
+### Variation in der Schreibung: Wortvarianten
+
+#### Lautwandel im Wortschatz
+#### Fremdwörterintegration
+
 
 
 [^*]: **Autor:innen:** Marlon Merte, Felix Tacke
