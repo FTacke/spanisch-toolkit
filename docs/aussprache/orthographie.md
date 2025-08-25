@@ -81,7 +81,7 @@ Das vielleicht größte ‚Problem‘ der spanischen Orthographie liegt darin, d
     <div class="audio-comparison">
 
     <div class="audio-block">
-        <h4>Zielaussprache:</h4> <span class="example">[baˈɾon] – [baˈɾon]</span>
+        <h4>Zielaussprache:</h4> <span class="example"><i><b>b</b>arón</i> [baˈɾon] – <i><b>v</b>arón</i> [baˈɾon]</span>
         <audio controls preload="metadata">
             <source src="/assets/audiofiles/marele/baron_varon_l1.mp3" type="audio/mpeg">
             <source src="/assets/audiofiles/marele/baron_varon_l1.m4a" type="audio/mp4">
@@ -89,7 +89,7 @@ Das vielleicht größte ‚Problem‘ der spanischen Orthographie liegt darin, d
         </audio>
     </div>
     <div class="audio-block">
-        <h4>Lernendenaussprache:</h4> <span class="example">[baˈʁon] – *[vaˈʁon]</span>
+        <h4>Lernendenaussprache:</h4> <span class="example"><i><b>b</b>arón</i> [baˈʁon] – <i><b>v</b>arón</i> *[vaˈʁon]</span>
         <audio controls preload="metadata">
             <source src="/assets/audiofiles/marele/baron_varon_ele.mp3" type="audio/mpeg">
             <source src="/assets/audiofiles/marele/baron_varon_ele.m4a" type="audio/mp4">
@@ -196,7 +196,7 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten.
 !!! tip "Wir fassen noch einmal zusammen"
     Die spanische Orthographie gilt als regelmäßig, doch einige Punkte verdienen besondere Aufmerksamkeit:  
 
-    - Die Graphem-Phonem-Korrespondenzen sind weitgehend eindeutig. Nur wenige Ausnahmen wie `<b>` vs. `<v>` (beide = /b/), stummes `<h>` oder die alternativen Grapheme für /x/ (`<j>` und `<g>` vor *e, i*) müssen gelernt werden.  
+    - Die Graphem-Phonem-Korrespondenzen sind weitgehend eindeutig. Nur wenige Ausnahmen wie `<b>` vs. `<v>` (beide <span class="meta">/b/</span>), stummes `<h>` oder die alternativen Grapheme für <span class="meta">/x/</span> (`<j>` und `<g>` vor *e, i*) müssen gelernt werden.  
 
     - Der Wortakzent ist zentral: Er wird aber immer nur dann durch die Tilde (`´`) markiert, wenn er nicht dem häufigsten Betonungsmuster folgt. Wer die Regeln kennt, macht nie Fehler.  
 
