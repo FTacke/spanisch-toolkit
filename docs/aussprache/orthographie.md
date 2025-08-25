@@ -158,8 +158,43 @@ Für den Unterricht: Beide Formen gelten als korrekt. Lehrkräfte sollten Lernen
     Beispiel: Beim Lemma [video](https://dle.rae.es/video){:target="_blank" rel="noopener noreferrer"} findet sich die Angabe „también *vídeo*“.  
     Auf diese Weise wird deutlich, dass beide Formen korrekt sind, auch wenn eine als die bevorzugte Normform gilt.
 
+!!! tip "Wir fassen noch einmal zusammen"
+    Die spanische Orthographie gilt als regelmäßig, doch einige Punkte verdienen besondere Aufmerksamkeit:  
 
+    - Die Graphem-Phonem-Korrespondenzen sind weitgehend eindeutig. Nur wenige Ausnahmen wie `<b>` vs. `<v>` (beide = /b/), stummes `<h>` oder die alternativen Grapheme für /x/ (`<j>` und `<g>` vor *e, i*) müssen gelernt werden.  
 
+    - Der Wortakzent ist zentral: Er wird aber immer nur dann durch die Tilde (`´`) markiert, wenn er nicht dem häufigsten Betonungsmuster folgt. Wer die Regeln kennt, macht nie Fehler.  
+
+    Für den Unterricht bedeutet das: Lernende können sich weitgehend auf das „Schreibe, wie du sprichst“-Prinzip verlassen. Gleichzeitig lohnt es sich, auf die systematischen Ausnahmen hinzuweisen, um orthographische Sicherheit zu fördern. Zweifelsfälle kann man als Lehrkraft mithilfe der online frei verfügbaren Wörterbuchressourcen ([DLE](https://dle.rae.es/){:target="_blank" rel="noopener noreferrer"}, [DPD](https://www.rae.es/dpd/){:target="_blank" rel="noopener noreferrer"}) schnell und leicht klären.
+
+<details>
+<summary>Wer mehr wissen will (klickt hier)</summary>
+
+<p>Das grundlegende Referenzwerk ist die <i><a href="https://www.rae.es/ortografia" target="_blank" rel="noopener noreferrer">Ortografía de la lengua española</a></i> (OLE 2010) der Real Academia Española und der Asociación de Academias de la Lengua Española. Sie ist vollständig online verfügbar und bündelt alle Regeln, erläutert Sonderfälle und gibt Hinweise zu Fremdwörtern und Varianten. Ergänzend informiert das <i><a href="https://www.rae.es/dpd/" target="_blank" rel="noopener noreferrer">Diccionario panhispánico de dudas</a></i> (RAE/ASALE 2005) über orthographische Zweifelsfälle, während das <i><a href="https://dle.rae.es" target="_blank" rel="noopener noreferrer">Diccionario de la lengua española</a></i> (DLE) auch alternative Schreibungen angibt (s.o.).</p>
+
+<p>Für einen historischen und systematischen Überblick sind Meisenburgs Studien zu den romanischen Schriftsystemen (1996) besonders empfehlenswert. Tacke (2020) gibt eine aktuelle Gesamtdarstellung zu Orthographie und Orthoepie (Standardaussprache) im Spanischen. Einen praxisorientierten Zugang bietet Martínez de Sousa (2014) mit seinem <i>Manual de estilo de la lengua española</i>. Nützlich sind außerdem die digitalen Beratungsangebote der RAE und der Fundéu (<a href="https://www.fundeu.es" target="_blank" rel="noopener noreferrer">www.fundeu.es</a>), die laufend neue orthographische Empfehlungen bereitstellen.</p>
+
+</details>
+
+---
+
+## Literatur
+
+<div class="literatur" markdown="1">
+
+* Meisenburg, Trudel (1996): *Romanische Schriftsysteme im Vergleich. Eine diachrone Studie*. Tübingen: Narr.
+* Real Academia Española / Asociación de Academias de la Lengua Española (2010): *Ortografía de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/ortografía](https://www.rae.es/ortograf%C3%ADa){:target="_blank" rel="noopener noreferrer"}
+* Real Academia Española / Asociación de Academias de la Lengua Española (2005): *Diccionario panhispánico de dudas*. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/){:target="_blank" rel="noopener noreferrer"}
+* Real Academia Española (online): *Diccionario de la lengua española (DLE)*. Online: [https://dle.rae.es](https://dle.rae.es){:target="_blank" rel="noopener noreferrer"}
+* Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Lebsanft, Franz / Tacke, Felix (Hg.): *Manual of Standardization in the Romance Languages*. Berlin/Boston: De Gruyter, 559–579.
+* Martínez de Sousa, José (³2014): *Ortografía y ortotipografía del español actual*. Gijón: Trea. Online: [http://www.martinezdesousa.net/](http://www.martinezdesousa.net/){:target="_blank" rel="noopener noreferrer"}
+
+</div>
+
+---
+
+!!! info "Dieses Kapitel zitieren" 
+    Tacke, Felix / Merte, Marlon (2025): „Orthographie“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg. Online: [https://linguistik.online.uni-marburg.de/](https://linguistik.online.uni-marburg.de/) DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
 
 
 [^*]: **Autor:innen:** Felix Tacke, Marlon Merte
