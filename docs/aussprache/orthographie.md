@@ -1,4 +1,4 @@
-# 2.3 Orthographie (Beta)[^*]
+# 2.3 Orthographie[^*]
 
 ## „Se escribe (casi) como se habla“  
 
@@ -16,11 +16,21 @@ Ein Kapitel zur linguistischen Betrachtung der Orthographie des Französischen o
 <details>
 <summary>Orthographien im Vergleich: Beispiele aus anderen (Schul-)Sprachen</summary>
 
-<p>Text</p>
+<p>Ein Blick in andere Schulfremdsprachen zeigt, dass Orthographien sehr unterschiedlich eng an die Lautung gebunden sind:</p>
+
+<ul>
+<li><b>Italienisch:</b> Fast ideales 1:1-System. <i>amico</i> wird so gesprochen, wie es geschrieben steht. Selbst Wörter wie <i>avere</i> ‘haben’ und <i>elicottero</i> ‘Hubschrauber’ kommen ohne <i>h</i> aus – im Gegensatz zu sp. <i>haber</i> und <i>helicóptero</i>.</li>
+
+<li><b>Deutsch:</b> Zahlreiche Abweichungen vom 1:1-Ideal. Orthographisch problematisch ist beispielsweise die Kennzeichnung von Vokallänge. Ein langer Vokal kann auf verschiedene Weise erscheinen: durch Verdopplung (<i>Boot</i> <span class="meta">[boːt]</span>), durch Dehnungs-<i>h</i> (<i>sehen</i> <span class="meta">[ˈzeːən]</span>) oder ohne sichtbares Zeichen (<i>Ofen</i> <span class="meta">[ˈoːfn̩]</span>). Kurze Vokale werden oft durch Doppelkonsonanten angezeigt (<i>offen</i> <span class="meta">[ˈɔfn̩]</span>), aber auch das ist nicht durchgängig systematisch. Typische Beispiele sind <i>Staat</i> <span class="meta">[ʃtaːt]</span> vs. <i>Stadt</i> <span class="meta">[ʃtat]</span> sowie <i>Wahl</i> <span class="meta">[vaːl]</span> gegenüber den gleich ausgesprochenen <i>Wal</i> <span class="meta">[vaːl]</span> und <i>Wall</i> <span class="meta">[val]</span>.</li>
+
+<li><b>Französisch:</b> Sehr tiefe Orthographie. Viele Buchstabenfolgen stehen für denselben Laut, z.B. <i>eau</i> und <i>haut</i>, beide <span class="meta">[o]</span>. Hinzu kommt, dass zahlreiche Endungen nicht gesprochen werden: <i>parlent</i> <span class="meta">[paʁl]</span>, <i>grand</i> <span class="meta">[gʁɑ̃]</span>, <i>beaux</i> <span class="meta">[bo]</span>. Die Schrift bewahrt so morphologische und historische Informationen, die in der Aussprache längst verschwunden sind.</li>
+
+<li><b>Englisch:</b> Ebenfalls stark unregelmäßig. <i>read</i> kann <span class="meta">[riːd]</span> oder <span class="meta">[rɛd]</span> bedeuten; <i>though</i> <span class="meta">[ðoʊ]</span>, <i>through</i> <span class="meta">[θruː]</span> und <i>cough</i> <span class="meta">[kɒf]</span> illustrieren dieselbe Graphemkombination mit völlig unterschiedlicher Lautung. Regelhafte Aussprache ist nur eingeschränkt ableitbar.</li>
+</ul>
 
 </details>
 
-Dieses Kapitel ist dagegen übersichtlich, denn hier gilt es lediglich, die Abweichungen vom Ideal zu beschreiben, also jene Aspekte der spanischen Orthographie, die man als ‚Ausnahmen‘ bezeichnet und hier und da etwas ‚Tiefe‘ aufweisen. Spanischlernende können beim Erlernen der Orthographie schon früh Erfolgserlebnisse haben, wenn sie einige wenige Regeln und noch weniger dieser Ausnahmen beherrschen. Darüber hinaus wird hier auch auf die Akzentsetzung eingegangen, die überaus schnell erlernt werden kann und ebenfalls viel simpler als in anderen Sprachen ist.
+Dieses Kapitel ist dagegen übersichtlich, denn hier gilt es lediglich, die Abweichungen vom Ideal zu beschreiben, also jene Aspekte der spanischen Orthographie, die man als ‚Ausnahmen‘ bezeichnet und hier und da etwas ‚Tiefe‘ aufweisen. Spanischlernende können beim Erlernen der Orthographie schon früh Erfolgserlebnisse haben, wenn sie einige wenige Regeln und Ausnahmen beherrschen. Darüber hinaus wird hier auch auf die Akzentsetzung eingegangen, die überaus schnell erlernt werden kann und ebenfalls viel simpler als in anderen Sprachen ist.
 
 
 ## Fast perfekt: Abweichungen vom Ideal
@@ -29,28 +39,28 @@ Je genauer man hinschaut, desto mehr Abweichungen vom Ideal der 1:1-Entsprechung
 
 ### Vokale
 
-Bei den Vokalen gibt es nur wenige Abweichungen. So enden spanische Wörter nie auf unbetontem `<i>`, es sei denn, es handelt sich um Fremdwörter (*bikini*, *taxi*). Wörter die auf Diphthong enden wie *rey* oder *muy* (<span class="meta">/i/</span> wird hier als <span class="meta">[i̯]</span> realisiert), werden am Wortende mit `<y>` geschrieben. Auch die Konjunktion *y* wird mit `<y>` geschrieben (u.a. im Katalanischen dagegen mit `<i>` wie in *rei*, *i* usw.).  
+Bei den Vokalen gibt es nur wenige Abweichungen. So enden spanische Wörter nie auf unbetontem `<i>`, es sei denn, es handelt sich um Fremdwörter (*bikini*, *taxi*). In Wörter, die auf Diphthong mit <span class="meta">/i/</span> enden, wie *rey* oder *muy*, werden am Wortende mit `<y>` geschrieben. Auch die Konjunktion *y* wird mit `<y>` geschrieben (u.a. im Katalanischen dagegen mit `<i>` wie in *rei*, *i* usw.).  
 
 Eine kleine Herausforderung stellen geschriebene Vokale dar, die nur diakritische (also unterscheidende) Funktion ohne eigenen Lautwert aufweisen. Das gilt in vielen Sequenzen für `<u>`, nämlich nach `<g>` und in `<qu>`, um zu kennzeichnen, dass diese als Plosive (Verschlusslaute) zu artikulieren sind, wie in ***gu**itarra*, ***gu**erra*, ***qu**eso* und ***qu**itar*. Übrigens ist das in den Orthographien beispielsweise des Französischen und Portugiesischen genauso. Im Italienischen ist das Prinzip identisch, nur der diakritisch verwendete Buchstabe ein anderer, nämlich `<h>`: Dort schreibt man `<ch>` und `<gh>`, wie in ***ch**e* ‘dass’ (statt fr./pt./sp. ***qu**e*), *mac**ch**ina* ‘Auto’, *spag**gh**etti* und *fun**gh**i*.  
 
-In der Herausforderung liegt natürlich eine Chance: Schüler:innen, die diese Zusammenhänge verstehen, haben auch mit der Verbalmorphologie keine Schwierigkeiten. Beispielsweise erklärt das, warum *llegas* im Subjuntivo *lle**gu**es* mit `<gu>` wird und *tocas* im Subjuntivo *to**qu**es*. Die seltenen Fälle von `<ü>`, also dem Buchstaben mit Trema, hebeln dieses Prinzip aus: Das Trema zeigt an, dass der Buchstabe `<u>` nach `<g>` oder `<q>` ausnahmsweise tatsächlich als <span class="meta">/u/</span> (bzw. als Halbvokal <span class="meta">[w]</span>) ausgesprochen wird, wie in *pin**gü**ino* <span class="meta">[pinˈɡwino]</span>, *ver**gü**enza* <span class="meta">[berˈɣwensa]</span>, *anti*gü*edad* <span class="meta">[antiɣweˈðað]</span> oder auch *lin**gü**ística* <span class="meta">[liŋˈɡwistika]</span>. Der Lautwert entspricht also *nicht* dem deutschen `<ü>`, das für den Vokal <span class="meta">/y/</span> wie in *übel* steht.  
+In der Herausforderung liegt natürlich eine Chance: Schüler:innen, die diese Zusammenhänge verstehen, haben auch mit der Verbalmorphologie keine Schwierigkeiten. Beispielsweise erklärt das, warum *llegas* im Subjuntivo *lle**gu**es* mit `<gu>` wird und *tocas* im Subjuntivo *to**qu**es*. Die seltenen Fälle von `<ü>`, also dem Buchstaben mit Trema, hebeln dieses Prinzip aus: Das Trema zeigt an, dass der Buchstabe `<u>` nach `<g>` oder `<q>` ausnahmsweise tatsächlich als <span class="meta">/u/</span> (bzw. als Halbvokal <span class="meta">[w]</span>) ausgesprochen wird, wie in *pin**gü**ino* <span class="meta">[piŋˈɡwino]</span>, *ver**gü**enza* <span class="meta">[berˈɣwensa]</span>, *anti*gü*edad* <span class="meta">[antiɣweˈðað]</span> oder auch *lin**gü**ística* <span class="meta">[liŋˈɡwistika]</span>. Der Lautwert entspricht also *nicht* dem deutschen `<ü>`, das für den Vokal <span class="meta">/y/</span> wie in *übel* steht.  
 
-Ein weiterer Bereich, der im Unterricht besondere Aufmerksamkeit verdient, sind die Diphthonge. Das Spanische verfügt über deutlich mehr Diphthonge als das Deutsche (ca. 12 vs. 3–4). Für deutsche Lernende ergeben sich häufig Schwierigkeiten durch Transfer aus der Erstsprache. Besonders auffällig ist das Graphem `<eu>`: Wörter wie *Europa* werden oft <span class="meta">[ɔɪ.ˈro.pa]</span> ausgesprochen, analog zum Deutschen *Europa* <span class="meta">[ɔɪ̯.ˈʁoː.pa]</span>. Auch *deuda* wird häufig fehlerhaft als <span class="meta">[de.ˈʔu.da]</span> realisiert, korrekt ist jedoch <span class="meta">[ˈdew̯da]</span>. Lehrkräfte sollten hier kontrastiv arbeiten und Lernende auf die systematische Bildung spanischer Diphthonge hinweisen. Hilfreich ist es, bekannte Wörter als Modell zu nutzen und gezielt gegen deutsche Muster (z.B. `<eu>` → <span class="meta">[ɔɪ]</span>) abzugrenzen.  
+Ein weiterer Bereich, der im Unterricht besondere Aufmerksamkeit verdient, sind die Diphthonge. Das Spanische verfügt über deutlich mehr Diphthonge als das Deutsche (ca. 12 vs. 3–4). Für deutsche Lernende ergeben sich häufig Schwierigkeiten durch Transfer aus der Erstsprache. Besonders auffällig ist das Graphem `<eu>`: Wörter wie *Europa* werden oft <span class="meta">[<b>ɔɪ</b>.ˈro.pa]</span> ausgesprochen, analog zum Deutschen *Europa* <span class="meta">[ɔɪ̯.ˈʁoː.pa]</span>. Auch *d*eu*da* wird häufig fehlerhaft als <span class="meta">[d<b>e.ˈʔu</b>.da]</span> realisiert, korrekt ist jedoch <span class="meta">[ˈd<b>ew̯</b>da]</span>. Lehrkräfte sollten hier kontrastiv arbeiten und Lernende auf die systematische Bildung spanischer Diphthonge hinweisen. Hilfreich ist es, bekannte Wörter als Modell zu nutzen und gezielt gegen deutsche Muster (z.B. `<eu>` → <span class="meta">[ɔɪ]</span>) abzugrenzen.  
 
 ### Konsonanten
 
 #### Systematische Alternanzen: `<c>` vs. `<z>`, `<g>` vs. `<j>`
 
-Da es mehr Konsonanten als Vokale gibt, finden sich hier natürlich mehr Abweichungen vom Ideal. Das gerade besprochene diakritische `<u>` wird nur benötigt, weil die Buchstaben `<c>` und `<g>` in den romanischen Sprachen (nicht nur im Spanischen!) mehr als einen Lautwert erhalten haben. ‚Eigentlich‘ stehen sie für <span class="meta">/k/</span> und <span class="meta">/g/</span>, aber wenn ein vorderer Vokal, also <span class="meta">/e/</span> oder <span class="meta">/i/</span>, folgt, dann repräsentieren sie per Konvention die Laute <span class="meta">/θ/</span> (bzw. <span class="meta">/s/</span> im *seseo*) und <span class="meta">/x/</span>. Beispiele hierfür sind *ha**ce**r* <span class="meta">[aˈθeɾ]</span> (seseo: <span class="meta">[aˈseɾ]</span>), ***ci**ne* <span class="meta">[ˈθine]</span> bzw. <span class="meta">[ˈsine]</span>, ***ge**nte* <span class="meta">[ˈxente]</span>, ***gi**gante* <span class="meta">[xiˈɣante]</span>.  
+Da es mehr Konsonanten als Vokale gibt, finden sich hier natürlich mehr Abweichungen vom Ideal. Das gerade besprochene diakritische `<u>` wird nur benötigt, weil die Buchstaben `<c>` und `<g>` in den romanischen Sprachen (nicht nur im Spanischen!) mehr als einen Lautwert erhalten haben. ‚Eigentlich‘ stehen sie für <span class="meta">/k/</span> und <span class="meta">/g/</span>, aber wenn ein vorderer Vokal, also <span class="meta">/e/</span> oder <span class="meta">/i/</span>, folgt, dann repräsentieren sie per Konvention die Laute <span class="meta">/θ/</span> (bzw. <span class="meta">/s/</span> im *seseo*) und <span class="meta">/x/</span>. Beispiele hierfür sind *ha**ce**r* <span class="meta">[aˈθeɾ]</span> (*seseo*: <span class="meta">[aˈseɾ]</span>), ***ci**ne* <span class="meta">[ˈθine]</span> bzw. <span class="meta">[ˈsine]</span>, ***ge**nte* <span class="meta">[ˈxente]</span>, ***gi**gante* <span class="meta">[xiˈɣante]</span>.  
 
 Umgekehrt werden die Laute <span class="meta">/θ/</span> (bzw. <span class="meta">/s/</span> im *seseo*) und <span class="meta">/x/</span> üblicherweise durch `<z>` und `<j>` wiedergegeben, wenn die Vokale <span class="meta">/a o u/</span> darauf folgen wie in ***za**pato* <span class="meta">[θaˈpato]</span> bzw. <span class="meta">[saˈpato]</span> oder ***ju**gar* <span class="meta">[xuˈɣar]</span>.  
 
 <details>
 <summary><i>México</i> und <i>zigzag</i>: Abweichungen von der Systematik</summary>
 
-<p>Einige Wörter zeigen Abweichungen von der sonstigen Regel: Sie werden mit <code>&lt;z&gt;</code> geschrieben, obwohl sie vor <span class="meta">/e, i/</span> stehen, wo eigentlich <code>&lt;c&gt;</code> erwartbar ist, z.B. <i>zeta</i>, <i>zen</i>, <i>nazi</i>, <i>kamikaze</i>, <i>zepelín</i> oder <i>enzima</i>. Dazu gehört auch <i>zigzag</i>: Hier verstärkt das Zickzack des Buchstabens das Bild der Bewegung selbst, die Schreibung steht also in einem ikonischen Verhältnis zum gemeinten Konzept. Auch viele Eigennamen und ihre Ableitungen weichen ab, etwa <i>Nueva Zelanda</i> – <i>neozelandés</i>, <i>Zimbabue</i> – <i>zimbabuense</i>. Wer mehr über solche Fälle erfahren möchte, findet <a href="https://www.rae.es/ortografia/la-z" target="_blank" rel="noopener noreferrer">hier</a> mehr zur Schreibung von &lt;z&gt;.</p>
+<p>Einige Wörter zeigen Abweichungen von der sonstigen Regel: Sie werden mit <code>&lt;z&gt;</code> geschrieben, obwohl sie vor <span class="meta">/e i/</span> stehen, wo eigentlich <code>&lt;c&gt;</code> erwartbar ist, z.B. <i>zeta</i>, <i>zen</i>, <i>nazi</i>, <i>kamikaze</i>, <i>zepelín</i> oder <i>enzima</i>. Dazu gehört auch <i>zigzag</i>: Hier verstärkt das Zickzack des Buchstabens das Bild der Bewegung selbst, die Schreibung steht also in einem ikonischen Verhältnis zum gemeinten Konzept. Auch viele Eigennamen und ihre Ableitungen weichen ab, etwa <i>Nueva Zelanda</i> – <i>neozelandés</i>, <i>Zimbabue</i> – <i>zimbabuense</i>. Wer mehr über solche Fälle erfahren möchte, findet <a href="https://www.rae.es/ortografia/la-z" target="_blank" rel="noopener noreferrer">hier</a> mehr zur Schreibung von <code>&lt;z&gt;</code>.</p>
 
-<p>Eine weitere Ausnahme bildet <code>&lt;x&gt;</code> mit dem Lautwert <span class="meta">/x/</span> in Eigennamen wie <i>México</i>, <i>Oaxaca</i> oder <i>Texas</i>. Ursprünglich notierte <code>&lt;x&gt;</code> den Laut <span class="meta">[ʃ]</span>, der sich später zu <span class="meta">[x]</span> entwickelte. Im 20. Jh. empfahl die <i>RAE</i> zeitweise die Schreibung <i>Méjico</i>, konnte sich damit aber nicht durchsetzen. Für das Land war die Beibehaltung von <code>&lt;x&gt;</code> wichtig, weil der Buchstabe als Teil der kulturellen Identität gilt. <a href="https://www.rae.es/consultas/mexico-mejico" target="_blank" rel="noopener noreferrer">Mehr</a> zur Schreibung von México.</p>
+<p>Eine weitere Ausnahme bildet <code>&lt;x&gt;</code> mit dem Lautwert <span class="meta">/x/</span> in Eigennamen wie <i>México</i>, <i>Oaxaca</i> oder <i>Texas</i>. Ursprünglich notierte <code>&lt;x&gt;</code> den Laut <span class="meta">[ʃ]</span>, der sich später zu <span class="meta">[x]</span> entwickelte. Im 20. Jh. empfahl die <i>Real Academia Española</i> zeitweise die Schreibung <i>Mé<b>j</b>ico</i>, konnte sich damit aber nicht durchsetzen. Für das Land war die Beibehaltung von <code>&lt;x&gt;</code> wichtig, weil der Buchstabe als Teil der kulturellen Identität gilt. <a href="https://www.rae.es/consultas/mexico-mejico" target="_blank" rel="noopener noreferrer">Mehr</a> zur Schreibung von México.</p>
 
 </details>
 
@@ -61,11 +71,42 @@ Und auch hier liegen Chancen, denn diese Kombinatorik erklärt wiederum die Alte
 
 #### Unsystematische Alternanzen: `<b>` vs. `<v>`
 
-Das vielleicht größte ‚Problem‘ der spanischen Orthographie liegt darin, dass dem Laut <span class="meta">/b/</span> zwei Buchstaben, nämlich `<b>` und `<v>`, entsprechen. Die Schwierigkeit liegt darin, dass sich Lernende von der Idee lösen müssen, dass eine Unterscheidung in der Schrift immer auch eine Unterscheidung in der Aussprache widerspiegelt. Hinzu kommt, dass der Buchstabe `<v>` nicht nur im Deutschen, sondern auch in sämtlichen anderen bekannten Fremdsprachen einen eigenen Lautwert aufweist (meist <span class="meta">/v/</span>, manchmal auch <span class="meta">/f/</span> wie in ***V**ater*).  
+Das vielleicht größte ‚Problem‘ der spanischen Orthographie liegt darin, dass dem Laut <span class="meta">/b/</span> zwei Buchstaben, nämlich `<b>` und `<v>`, entsprechen. Umgekehrt gilt im Spanischen, dass beide Buchstaben exakt denselben Lautwert aufweisen und in der Aussprache keinerlei Unterschied gemacht werden sollte. Das ist gewöhnungsbedürftig, denn der Buchstabe `<v>` weist nicht nur im Deutschen, sondern auch in sämtlichen anderen bekannten Fremdsprachen einen eigenen Lautwert auf (meist <span class="meta">/v/</span>, manchmal auch <span class="meta">/f/</span> wie in ***V**ater*).  
+
+<details>
+<summary>Hör mal (Aussprache von <code>&lt;v&gt;</code>)</summary>
+
+    <p>Anhand der folgenden Audios hörst Du, dass ein spanischer Modellsprecher die Wörter <i><b>b</b>arón</i> und <i><b>v</b>arón</i> genau gleich ausspricht, weil sie im Spanischen trotz der unterschiedlichen Schreibung <i><b>homophon</b></i> sind. Lernende neigen hingegen dazu, das <code>&lt;v&gt;</code> wie im Deutschen und anderen Sprachen auszusprechen, was im Spanischen als Aussprachefehler gilt (das Sternchen kennzeichnet klare Fehler).
+
+    <div class="audio-comparison">
+
+    <div class="audio-block">
+        <h4>Zielaussprache:</h4> <span class="example">[baˈɾon] – [baˈɾon]</span>
+        <audio controls preload="metadata">
+            <source src="/assets/audiofiles/marele/baron_varon_l1.mp3" type="audio/mpeg">
+            <source src="/assets/audiofiles/marele/baron_varon_l1.m4a" type="audio/mp4">
+            Dein Browser unterstützt das Audio-Format nicht.
+        </audio>
+    </div>
+    <div class="audio-block">
+        <h4>Lernendenaussprache:</h4> <span class="example">[baˈʁon] – *[vaˈʁon]</span>
+        <audio controls preload="metadata">
+            <source src="/assets/audiofiles/marele/baron_varon_ele.mp3" type="audio/mpeg">
+            <source src="/assets/audiofiles/marele/baron_varon_ele.m4a" type="audio/mp4">
+            Dein Browser unterstützt das Audio-Format nicht.
+        </audio>
+    </div>
+    </div>
+
+    <div class="audio-source">Audios aus <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE</a></div>
+
+</details>
+
+Die Schwierigkeit liegt darin, dass sich Lernende von der Idee lösen müssen, dass eine Unterscheidung in der Schrift immer auch eine Unterscheidung in der Aussprache widerspiegelt. 
 
 Komplizierter wird es, wenn man bedenkt, dass das Phonem <span class="meta">/b/</span> – unabhängig davon, ob es mit `<b>` oder `<v>` geschrieben wird – je nach Kontext als <span class="meta">[b]</span> oder approximativ als <span class="meta">[β]</span> ausgesprochen wird. Besonders deutlich zeigt das die Gegenüberstellung von *beber* <span class="meta">[beˈβeɾ]</span> (< lat. *bibere*) und *vivir* <span class="meta">[biˈβiɾ]</span> (< lat. *vivere*). Am Wortanfang wird in beiden Wörtern <span class="meta">[b]</span> ausgesprochen, zwischen Vokalen jedoch <span class="meta">[β]</span> (vgl. [Aussprache](../aussprache/#mal-so-mal-so-laute)). Die Schreibung spiegelt hier nicht die Aussprache wider, sondern erklärt sich durch die lateinische Schreibung.  
 
-Die vielen Zweifel, die hier aufkommen können, betreffen nicht nur den Unterricht des Spanischen als Fremdsprache, sondern sind auch in der spanischen Sprachgemeinschaft verbreitet, wo teils noch bis heute (von schlecht informierten Lehrenden) unterrichtet wird, dass der Buchstabe `<b>` eigentlich ein <span class="meta">/v/</span> repräsentiere, auch wenn die Aussprache nicht mehr üblich wäre. Selbst gebildete Erstsprachler:innen sprechen aufgrund dieses Irrtums gelegentlich [v] aus, wenn sie gebeten werden, einen Text vorzulesen. Wenig hilfreich war die *Real Academia Española*, die genau das noch bis ins 20. Jahrhundert hinein in ihre Orthographie-Traktate schrieb. So kommt es immer wieder zu einem Phänomen, das man als *spelling pronunciation* bezeichnet, d.h. eine Aussprache, die sich eng an der Schreibung orientiert und deshalb von der Norm abweicht bzw. zu Hyperkorrekturen führt.  
+Die vielen Zweifel, die hier aufkommen können, betreffen nicht nur den Unterricht des Spanischen als Fremdsprache, sondern sind auch in der spanischen Sprachgemeinschaft verbreitet, wo teils noch bis heute (von schlecht informierten Lehrenden) unterrichtet wird, dass der Buchstabe `<b>` eigentlich ein <span class="meta">/v/</span> repräsentiere, auch wenn die Aussprache nicht mehr üblich wäre. Selbst gebildete Erstsprachler:innen sprechen aufgrund dieses Irrtums gelegentlich <span class="meta">[v]</span> aus, wenn sie gebeten werden, einen Text vorzulesen. Wenig hilfreich war, dass dieser Irrtum sogar noch bis ins 20. Jahrhundert hinein in den Orthographie-Traktaten der *Real Academia Española* behauptet und von dort in Schulbücher übernommmen wurde. So kommt es immer wieder zu einem Phänomen, das man als ***spelling pronunciation*** bezeichnet, d.h. eine Aussprache, die sich eng an der Schreibung orientiert und deshalb von der Norm abweicht bzw. zu Hyperkorrekturen führt.  
 
 <details>
 <summary>Gibt es den Laut /v/ im Spanischen?</summary>
@@ -80,15 +121,9 @@ Ein reiner Anfängerfehler ist bekanntlich das im Spanischen geschriebene, aber 
 
 #### ‚Unspanische‘ Buchstaben: `<w>` und `<k>` in Lehnwörtern
 
-Die Buchstaben `<w>` und `<k>` gehören zwar zum Alphabet, sind aber keine genuinen Grapheme des Spanischen. Sie erscheinen fast ausschließlich in Fremdwörtern und Eigennamen, etwa in *whisky*, *windsurf*, *wifi*, *Wagner*, *kilo* oder *kayak*.  
+Die Buchstaben `<w>` und `<k>` gehören zwar zum Alphabet, sind aber keine genuinen Grapheme des Spanischen. Sie erscheinen fast ausschließlich in Fremdwörtern und Eigennamen, etwa in *whisky*, *windsurf*, *wifi*, *Wagner*, *kilo* oder *kayak*. `<k>` wird dabei immer als <span class="meta">/k/</span> ausgesprochen, `<w>` je nach Ursprung als <span class="meta">[b]</span> (*Wagner*), <span class="meta">[w]</span> (*wifi*, *windsurf*) oder <span class="meta">[güi]</span> (*whisky*, *Washington*, *Wellington*). Am Beispiel *whisky* zeigt sich, dass Versuche einer konsequenten Anpassung der Graphie (*güisqui*) oft scheitern, weil viele Sprecher:innen an die internationale Schreibweise gewöhnt sind.  
 
-`<k>` wird dabei immer als <span class="meta">/k/</span> ausgesprochen, `<w>` je nach Ursprung als <span class="meta">[b]</span> (*Wagner*), <span class="meta">[w]</span> (*wifi*, *windsurf*) oder <span class="meta">[güi]</span> (*whisky*, *Washington*, *Wellington*).  
-
-Am Beispiel *whisky* zeigt sich, dass Versuche einer konsequenten Anpassung der Graphie (*güisqui*) oft scheitern, weil viele Sprecher:innen an die internationale Schreibweise gewöhnt sind.  
-
-Wer Genaueres über die Schreibung von `<w>` und `<k>` im Spanischen erfahren möchte, findet [hier](https://www.rae.es/buen-uso-español/el-fonema-b-y-las-letras-b-v-w-i){:target="_blank" rel="noopener noreferrer"} und [hier](https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-b?resaltar=wagner#I.6.2.2.1){:target="_blank" rel="noopener noreferrer"} weitere Informationen und Beispiele.
-
-Für den Unterricht genügt der Hinweis, dass es sich um Randphänomene handelt, die nur bei Nachfrage kurz erklärt werden müssen.  
+Wer Genaueres über die Schreibung von `<w>` und `<k>` im Spanischen erfahren möchte, findet [hier](https://www.rae.es/buen-uso-español/el-fonema-b-y-las-letras-b-v-w-i){:target="_blank" rel="noopener noreferrer"} und [hier](https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-b?resaltar=wagner#I.6.2.2.1){:target="_blank" rel="noopener noreferrer"} weitere Informationen und Beispiele. Für den Unterricht genügt der Hinweis, dass es sich um Randphänomene handelt, die nur bei Nachfrage kurz erklärt werden müssen.  
  
 ## Akzentuierung: gesprochen und geschrieben
 
@@ -150,7 +185,7 @@ In gelehrten oder aus dem Lateinischen übernommenen Wörtern hat die Schreibung
 
 Bei Fremdwörtern zeigt sich die größte Flexibilität. Manche Wörter wurden im Spanischen unterschiedlich integriert, sodass Schreibvarianten mit und ohne Akzent nebeneinander bestehen. Beispiele sind *fútbol* / *futbol*, *chófer* / *chofer* oder *vídeo* / *video*. Der Unterschied betrifft die Markierung der betonten Silbe: In einigen Varietäten wird die Betonung durch eine Tilde verdeutlicht, in anderen nicht. Welche Form bevorzugt wird, hängt oft vom Land oder von der Tradition einzelner Regionen ab. Damit zeigt sich, dass die spanische Orthographie auch hier Raum für Variation lässt und den Sprachgebrauch in verschiedenen Teilen der hispanischen Welt widerspiegelt.  
 
-Für den Unterricht: Beide Formen gelten als korrekt. Lehrkräfte sollten Lernende darauf hinweisen, dass regionale Präferenzen bestehen und dass in Wörterbüchern wie dem *Diccionario de la lengua española* (DLE) die bevorzugte und alternative Form transparent verzeichnet ist. So kann Unsicherheit im Umgang mit verschiedenen Schreibweisen vermieden werden.  
+Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten. Lehrkräfte können Lernende darauf hinweisen, dass regionale Präferenzen bestehen und dass in Wörterbüchern wie dem *Diccionario de la lengua española* (DLE) die bevorzugte und alternative Form transparent verzeichnet ist. So kann Unsicherheit im Umgang mit verschiedenen Schreibweisen vermieden werden.  
 
 !!! note "Wie erkennt man gültige Varianten im Wörterbuch?"
     Im *Diccionario de la lengua española* (DLE) wird die übliche Form als Lemma angegeben.  
@@ -198,5 +233,7 @@ Für den Unterricht: Beide Formen gelten als korrekt. Lehrkräfte sollten Lernen
 
 
 [^*]: **Autor:innen:** Felix Tacke, Marlon Merte
+
+      **Beiträge & Peer Review:** Mariana Prukop
         
       **Letzte Änderung:** 25.08.2025
