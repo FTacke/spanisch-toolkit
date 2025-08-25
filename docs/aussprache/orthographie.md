@@ -33,8 +33,9 @@ Bei den Vokalen gibt es nur wenige Abweichungen. So enden spanische Wörter nie 
 
 Eine kleine Herausforderung stellen geschriebene Vokale dar, die nur diakritische (also unterscheidende) Funktion ohne eigenen Lautwert aufweisen. Das gilt in vielen Sequenzen für `<u>`, nämlich nach `<g>` und in `<qu>`, um zu kennzeichnen, dass diese als Plosive (Verschlusslaute) zu artikulieren sind, wie in ***gu**itarra*, ***gu**erra*, ***qu**eso* und ***qu**itar*. Übrigens ist das in den Orthographien beispielsweise des Französischen und Portugiesischen genauso. Im Italienischen ist das Prinzip identisch, nur der diakritisch verwendete Buchstabe ein anderer, nämlich `<h>`: Dort schreibt man `<ch>` und `<gh>`, wie in ***ch**e* ‘dass’ (statt fr./pt./sp. ***qu**e*), *mac**ch**ina* ‘Auto’, *spag**gh**etti* und *fun**gh**i*.  
 
-In der Herausforderung liegt natürlich eine Chance: Schüler:innen, die diese Zusammenhänge verstehen, haben auch mit der Verbalmorphologie keine Schwierigkeiten. Beispielsweise erklärt das, warum *llegas* im Subjuntivo *lle**gu**es* mit `<gu>` wird und *tocas* im Subjuntivo *to**qu**es*. Die seltenen Fälle von `<ü>`, also dem Buchstaben mit Trema, hebeln dieses Prinzip aus: Das Trema zeigt an, dass der Buchstabe `<u>` nach `<g>` oder `<q>` ausnahmsweise tatsächlich als <span class="meta">/u/</span> (bzw. als Halbvokal <span class="meta">[w]</span>) ausgesprochen wird, wie in *pin**gü**ino* <span class="meta">[pinˈɡwino]</span>, *ver**gü**enza* <span class="meta">[berˈɣwensa]</span>, *anti*gü*edad* <span class="meta">[antiɣweˈðað]</span> oder auch *lin**gü**ística* <span class="meta">[liŋˈɡwistika]</span>. Der Lautwert entspricht also *nicht* dem deutschen `<ü>`, das für den Vokal <span class="meta">/y/</span> wie in *übel* steht.
+In der Herausforderung liegt natürlich eine Chance: Schüler:innen, die diese Zusammenhänge verstehen, haben auch mit der Verbalmorphologie keine Schwierigkeiten. Beispielsweise erklärt das, warum *llegas* im Subjuntivo *lle**gu**es* mit `<gu>` wird und *tocas* im Subjuntivo *to**qu**es*. Die seltenen Fälle von `<ü>`, also dem Buchstaben mit Trema, hebeln dieses Prinzip aus: Das Trema zeigt an, dass der Buchstabe `<u>` nach `<g>` oder `<q>` ausnahmsweise tatsächlich als <span class="meta">/u/</span> (bzw. als Halbvokal <span class="meta">[w]</span>) ausgesprochen wird, wie in *pin**gü**ino* <span class="meta">[pinˈɡwino]</span>, *ver**gü**enza* <span class="meta">[berˈɣwensa]</span>, *anti*gü*edad* <span class="meta">[antiɣweˈðað]</span> oder auch *lin**gü**ística* <span class="meta">[liŋˈɡwistika]</span>. Der Lautwert entspricht also *nicht* dem deutschen `<ü>`, das für den Vokal <span class="meta">/y/</span> wie in *übel* steht.  
 
+Ein weiterer Bereich, der im Unterricht besondere Aufmerksamkeit verdient, sind die Diphthonge. Das Spanische verfügt über deutlich mehr Diphthonge als das Deutsche (ca. 12 vs. 3–4). Für deutsche Lernende ergeben sich häufig Schwierigkeiten durch Transfer aus der Erstsprache. Besonders auffällig ist das Graphem `<eu>`: Wörter wie *Europa* werden oft <span class="meta">[ɔɪ.ˈro.pa]</span> ausgesprochen, analog zum Deutschen *Europa* <span class="meta">[ɔɪ̯.ˈʁoː.pa]</span>. Auch *deuda* wird häufig fehlerhaft als <span class="meta">[de.ˈʔu.da]</span> realisiert, korrekt ist jedoch <span class="meta">[ˈdew̯da]</span>. Lehrkräfte sollten hier kontrastiv arbeiten und Lernende auf die systematische Bildung spanischer Diphthonge hinweisen. Hilfreich ist es, bekannte Wörter als Modell zu nutzen und gezielt gegen deutsche Muster (z.B. `<eu>` → <span class="meta">[ɔɪ]</span>) abzugrenzen.  
 
 ### Konsonanten
 
@@ -44,30 +45,89 @@ Da es mehr Konsonanten als Vokale gibt, finden sich hier natürlich mehr Abweich
 
 Umgekehrt werden die Laute <span class="meta">/θ/</span> (bzw. <span class="meta">/s/</span> im *seseo*) und <span class="meta">/x/</span> üblicherweise durch `<z>` und `<j>` wiedergegeben, wenn die Vokale <span class="meta">/a o u/</span> darauf folgen wie in ***za**pato* <span class="meta">[θaˈpato]</span> bzw. <span class="meta">[saˈpato]</span> oder ***ju**gar* <span class="meta">[xuˈɣar]</span>.  
 
-!!! question "*México*, *zigzag*"  
-    Ausnahme: `<x>` in *Mé**x**ico* ...
+<details>
+<summary><i>México</i> und <i>zigzag</i>: Abweichungen von der Systematik</summary>
+
+<p>Einige Wörter zeigen Abweichungen von der sonstigen Regel: Sie werden mit <code>&lt;z&gt;</code> geschrieben, obwohl sie vor <span class="meta">/e, i/</span> stehen, wo eigentlich <code>&lt;c&gt;</code> erwartbar ist, z.B. <i>zeta</i>, <i>zen</i>, <i>nazi</i>, <i>kamikaze</i>, <i>zepelín</i> oder <i>enzima</i>. Dazu gehört auch <i>zigzag</i>: Hier verstärkt das Zickzack des Buchstabens das Bild der Bewegung selbst, die Schreibung steht also in einem ikonischen Verhältnis zum gemeinten Konzept. Auch viele Eigennamen und ihre Ableitungen weichen ab, etwa <i>Nueva Zelanda</i> – <i>neozelandés</i>, <i>Zimbabue</i> – <i>zimbabuense</i>. Wer mehr über solche Fälle erfahren möchte, findet <a href="https://www.rae.es/ortografia/la-z" target="_blank" rel="noopener noreferrer">hier</a> mehr zur Schreibung von &lt;z&gt;.</p>
+
+<p>Eine weitere Ausnahme bildet <code>&lt;x&gt;</code> mit dem Lautwert <span class="meta">/x/</span> in Eigennamen wie <i>México</i>, <i>Oaxaca</i> oder <i>Texas</i>. Ursprünglich notierte <code>&lt;x&gt;</code> den Laut <span class="meta">[ʃ]</span>, der sich später zu <span class="meta">[x]</span> entwickelte. Im 20. Jh. empfahl die <i>RAE</i> zeitweise die Schreibung <i>Méjico</i>, konnte sich damit aber nicht durchsetzen. Für das Land war die Beibehaltung von <code>&lt;x&gt;</code> wichtig, weil der Buchstabe als Teil der kulturellen Identität gilt. <a href="https://www.rae.es/consultas/mexico-mejico" target="_blank" rel="noopener noreferrer">Mehr</a> zur Schreibung von México.</p>
+
+</details>
+
+
+</details>
 
 Und auch hier liegen Chancen, denn diese Kombinatorik erklärt wiederum die Alternanzen in Verbformen wie *empe**za**r* – *empe**cé***, *lle**ga**r* – *lle**gué***, *co**ge**r* – *co**jo***.  
 
-#### Unsystematische Alternanzen, gleicher Laut: `<b>` vs. `<v>`
+#### Unsystematische Alternanzen: `<b>` vs. `<v>`
 
-- `<b>` vs. `<v>` für /b/
+Das vielleicht größte ‚Problem‘ der spanischen Orthographie liegt darin, dass dem Laut <span class="meta">/b/</span> zwei Buchstaben, nämlich `<b>` und `<v>`, entsprechen. Die Schwierigkeit liegt darin, dass sich Lernende von der Idee lösen müssen, dass eine Unterscheidung in der Schrift immer auch eine Unterscheidung in der Aussprache widerspiegelt. Hinzu kommt, dass der Buchstabe `<v>` nicht nur im Deutschen, sondern auch in sämtlichen anderen bekannten Fremdsprachen einen eigenen Lautwert aufweist (meist <span class="meta">/v/</span>, manchmal auch <span class="meta">/f/</span> wie in ***V**ater*).  
 
-#### Heute stumm: `<h>`
+Komplizierter wird es, wenn man bedenkt, dass das Phonem <span class="meta">/b/</span> – unabhängig davon, ob es mit `<b>` oder `<v>` geschrieben wird – je nach Kontext als <span class="meta">[b]</span> oder approximativ als <span class="meta">[β]</span> ausgesprochen wird. Besonders deutlich zeigt das die Gegenüberstellung von *beber* <span class="meta">[beˈβeɾ]</span> (< lat. *bibere*) und *vivir* <span class="meta">[biˈβiɾ]</span> (< lat. *vivere*). Am Wortanfang wird in beiden Wörtern <span class="meta">[b]</span> ausgesprochen, zwischen Vokalen jedoch <span class="meta">[β]</span> (vgl. [Aussprache](../aussprache/#mal-so-mal-so-laute)). Die Schreibung spiegelt hier nicht die Aussprache wider, sondern erklärt sich durch die lateinische Schreibung.  
 
-Ein reiner Anfängerfehler ist bekanntlich das im Spanischen geschriebene, aber immer ‚stumme‘ `<h>` auszusprechen. Der Buchstabe hat also keinen Lautwert, weder am Wortanfang (z.B. *hay*, *hombre*), noch innerhalb des Wortes (z.B. *deshonra*, *prohibir*). Das `<h>` ist dabei manchmal etymologisch motiviert, wie in *haber* (< lat. *habēre*) oder *hombre* (< lat. *hominem*), manchmal wurde es zur Differenzierung von uneindeutigen Lautwerten vor Diphthongen eingeführt wie in *hueso* (< lat. *ossium*/*ossum*) oder es dient zur Kennzeichnung des Silbenbeginns wie in *cacahuete*. In jedem Fall bleibt es stumm. Wer mehr über das <h> im Spanischen wissen möchte, als die Schüler:innen wissen müssen, erfährt hier [mehr](https://www.rae.es/ortograf%C3%ADa/la-h-muda){:target="_blank" rel="noopener noreferrer"}.    
+Die vielen Zweifel, die hier aufkommen können, betreffen nicht nur den Unterricht des Spanischen als Fremdsprache, sondern sind auch in der spanischen Sprachgemeinschaft verbreitet, wo teils noch bis heute (von schlecht informierten Lehrenden) unterrichtet wird, dass der Buchstabe `<b>` eigentlich ein <span class="meta">/v/</span> repräsentiere, auch wenn die Aussprache nicht mehr üblich wäre. Selbst gebildete Erstsprachler:innen sprechen aufgrund dieses Irrtums gelegentlich [v] aus, wenn sie gebeten werden, einen Text vorzulesen. Wenig hilfreich war die *Real Academia Española*, die genau das noch bis ins 20. Jahrhundert hinein in ihre Orthographie-Traktate schrieb. So kommt es immer wieder zu einem Phänomen, das man als *spelling pronunciation* bezeichnet, d.h. eine Aussprache, die sich eng an der Schreibung orientiert und deshalb von der Norm abweicht bzw. zu Hyperkorrekturen führt.  
 
+<details>
+<summary>Gibt es den Laut /v/ im Spanischen?</summary>
+<p>Aus linguistischer und historischer Perspektive lässt sich feststellen, dass lediglich strittig ist, <i>seit wann</i> die Unterscheidung zwischen <span class="meta">/b/</span> und <span class="meta">/v/</span>, die es im Lateinischen gab, zugunsten von <span class="meta">/b/</span> aufgegeben wurde. Vermutlich bereits in der zu Zeiten des römischen Reiches in der Hispania gesprochenen lateinischen Varietät, vielleicht aber auch erst im Altspanischen. Tatsache ist jedenfalls, dass es das Phonem <span class="meta">/v/</span> im Spanischen nicht gibt und entsprechende Aussprachen nur als Regionalismen vorkommen, etwa in Katalonien, wo es zu Interferenzen mit dem Katalanischen kommt und die regionale Aussprachenorm folglich von der nationalen Standardaussprache abweicht.</p>
+</details>
 
+Die Herausforderung liegt also darin, den Schüler:innen von Beginn an beizubringen, dass die Buchstaben `<b>` und `<v>` immer für <span class="meta">/b/</span> stehen.  
 
+#### Stummer Buchstabe: `<h>`
 
+Ein reiner Anfängerfehler ist bekanntlich das im Spanischen geschriebene, aber immer ‚stumme‘ `<h>` auszusprechen. Der Buchstabe hat also keinen Lautwert, weder am Wortanfang (z.B. *hay*, *hombre*), noch innerhalb des Wortes (z.B. *deshonra*, *prohibir*). Das `<h>` ist dabei manchmal etymologisch motiviert, wie in *haber* (< lat. *habēre*) oder *hombre* (< lat. *hominem*), manchmal wurde es zur Differenzierung von uneindeutigen Lautwerten vor Diphthongen eingeführt wie in *hueso* (< lat. *ossium*/*ossum*) oder es dient zur Kennzeichnung des Silbenbeginns wie in *cacahuete*. In jedem Fall bleibt es stumm. Wer mehr über das <h> im Spanischen wissen möchte, als die Schüler:innen wissen müssen, erfährt hier [mehr](https://www.rae.es/ortograf%C3%ADa/la-h-muda){:target="_blank" rel="noopener noreferrer"}.   
 
-### Weitere Inhalte
+#### ‚Unspanische‘ Buchstaben: `<w>` und `<k>` in Lehnwörtern
 
-    
-- Vgl. Hausarbeit für Theorie und Beispiele
+Die Buchstaben `<w>` und `<k>` gehören zwar zum Alphabet, sind aber keine genuinen Grapheme des Spanischen. Sie erscheinen fast ausschließlich in Fremdwörtern und Eigennamen, etwa in *whisky*, *windsurf*, *wifi*, *Wagner*, *kilo* oder *kayak*.  
+
+`<k>` wird dabei immer als <span class="meta">/k/</span> ausgesprochen, `<w>` je nach Ursprung als <span class="meta">[b]</span> (*Wagner*), <span class="meta">[w]</span> (*wifi*, *windsurf*) oder <span class="meta">[güi]</span> (*whisky*, *Washington*, *Wellington*).  
+
+Am Beispiel *whisky* zeigt sich, dass Versuche einer konsequenten Anpassung der Graphie (*güisqui*) oft scheitern, weil viele Sprecher:innen an die internationale Schreibweise gewöhnt sind.  
+
+Wer Genaueres über die Schreibung von `<w>` und `<k>` im Spanischen erfahren möchte, findet [hier](https://www.rae.es/buen-uso-español/el-fonema-b-y-las-letras-b-v-w-i){:target="_blank" rel="noopener noreferrer"} und [hier](https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-b?resaltar=wagner#I.6.2.2.1){:target="_blank" rel="noopener noreferrer"} weitere Informationen und Beispiele.
+
+Für den Unterricht genügt der Hinweis, dass es sich um Randphänomene handelt, die nur bei Nachfrage kurz erklärt werden müssen.  
+ 
+## Akzentuierung: gesprochen und geschrieben
+
+Neben den beschriebenen Laut-Buchstaben-Korrespondenzen gibt es im Spanischen noch eine weitere zentrale Besonderheit: die Betonung von Silben. Sie ist in der Aussprache wichtig und wird durch die Orthographie in nahezu perfekter Weise gekennzeichnet. Wer das Regelsystem einmal richtig verstanden hat, muss hier nie wieder Fehler machen.  
 
 ### Wortakzent
-### Orthographischer Akzent/Tilde
+
+Die spanischen Wörter *número*, *numero* und *numeró* bestehen zwar aus denselben Lauten (auf segmentaler Ebene), werden aber unterschiedlich ausgesprochen. Entscheidend ist, auf welcher Silbe die Betonung liegt: bei *número* auf der ersten, bei *numero* auf der zweiten, bei *numeró* auf der dritten Silbe. Man spricht hier vom Wortakzent, der erst im Vergleich der Intensität, mit der die einzelnen Silben artikuliert werden, erkannt werden kann – daher handelt es sich um ein suprasegmentales Phänomen.  
+
+Das Beispiel macht deutlich, dass der Wortakzent bedeutungsunterscheidend sein kann, also phonologisch relevant ist. Insbesondere in der Verbalflexion dient er als wichtiges lautliches Unterscheidungsmerkmal, um grammatische Kategorien wie Zeitform oder grammatische Person zu kennzeichnen wie in *hablo* (‘ich spreche’) und *habló* (‘er/sie/es sprach’).  
+
+Wichtig ist folglich, die betonte Silbe eines Wortes zu kennen. Im Spanischen ist das in rund 80 % aller Wörter die vorletzte Silbe. Nur in etwa 17 % wird auf der letzten Silbe und nur in etwa 3 % auf der dritt- oder viertletzten Silbe betont.  
+
+!!! note "Betonung im Sprachvergleich"
+    Damit unterscheidet sich das Spanische beispielsweise vom Italienischen, wo zwar ebenfalls die vorletzte Silbe überwiegt, aber auch die vorvorletzte Silbe sehr häufig betont wird. Im Französischen fällt der Wortakzent hingegen fast immer auf die letzte Silbe der jeweiligen Wortgruppe.
+
+Die häufigste Struktur – Betonung auf der vorletzten Silbe – betrifft beinahe immer Wörter, die auf Vokal, *n* oder *s* enden (*casa*, *joven*, *lunes*). Umgekehrt gilt: Wörter mit Betonung auf der letzten Silbe enden fast immer auf andere Konsonanten (*reloj*, *doctor*). Anders als im Deutschen lässt sich in den meisten Fällen also an der Endung der Wörter erkennen, welche der Silben betont wird. Das System ist also hochgradig regelmäßig. Auch bei bisher unbekannten Wörtern können Lernende sie somit sofort korrekt betonen. Es gibt aber – wie immer – ein paar Ausnahmen, doch zum Glück werden diese Ausnahmen im Spanischen immer mithilfe des geschriebenen Akzents, der Tilde, markiert. Wer also die Regeln der graphischen Markierung verinnerlicht hat, liegt bei der Aussprache immer richtig.  
+
+### Die Tilde – der orthographische Akzent
+
+Die Tilde kommt ins Spiel, wenn ein Wort von diesen Regularitäten abweicht. So wird etwa in *numeró* die letzte Silbe betont, obwohl das Wort auf einen Vokal endet. Auch *difícil* trägt eine Tilde: Es wird auf der vorletzten Silbe betont, endet aber auf -l und damit nicht auf Vokal, *n* oder *s*. Wörter mit Betonung auf der dritt- oder viertletzten Silbe (*matemática*, *dígamelo*) müssen grundsätzlich markiert werden. Dieses System ist genial, weil es nach einfachen, klaren Regeln funktioniert und zugleich ökonomisch ist: Im Normalfall braucht es keine Markierung, nur die Ausnahmen sind gekennzeichnet.  
+
+Neben der graphischen Markierung des Wortakzents dient die Tilde auch zur Unterscheidung von gleichlautenden Wörtern, etwa *sé* (‘ich weiß’) vs. *se* (Reflexivpronomen) oder *mí* (betontes Personalpronomen) vs. *mi* (Possessivbegleiter).  
+
+<details>
+<summary>Reformen der spanischen Orthographie? Nur im Detail!</summary>
+<p>Wenn die spanische Orthographie in den letzten Jahrzehnten reformiert worden ist, dann vor allem in Bezug auf Akzentsetzungen, die homophone Wörter unterscheiden soll. In älteren Texten, manchmal noch heute in konservativen Schreibungen, finden sich also noch Akzente, die nach heutigen Regeln nicht mehr gesetzt werden: Abgeschafft wurde z.B. der Akzent auf <i>solo</i>, der früher zwischen <i>solo</i> ‘allein’ und <i>sólo</i> ‘nur’ differenzierte, oder die Akzente auf Demonstrativa wie <i>este</i> oder <i>esa</i> zur Unterscheidung von <i>éste/ése/aquéllo</i> als betonte Demonstrativpronomen von den adjektivischen Verwendungen in <i>este señor</i>, <i>esa mujer</i>, <i>aquel día</i>.</p>
+</details>
+
+!!! tip "Tipps zur graphischen Akzentsetzung im Spanischen"
+    1. Teile das Wort in Silben  
+    2. Höre, welche Silbe betont ist  
+    3. Wenn die letzte Silbe betont ist  
+        - Endet auf Konsonant (außer *n* oder *s*) → keine Tilde  
+        - Endet auf Vokal, *n* oder *s* → Tilde  
+    4. Wenn die vorletzte Silbe betont ist  
+        - Endet auf Konsonant (außer *n* oder *s*) → Tilde  
+        - Endet auf Vokal, *n* oder *s* → keine Tilde  
+    5. Ist die dritt- oder viertletzte Silbe betont → immer Tilde  
 
 
 ## Einheit der Orthographie und Variation in der Schreibung
@@ -76,15 +136,32 @@ Orthographien variieren viel weniger als die gesprochene Sprache, denn ihre Aufg
 
 ### Man schreibt so, wie *in Kastilien* gesprochen wird
 
-Die spanische Orthographie ist zwar nah an der Aussprache, aber die Aussprache ist in der spanischsprachigen Welt natürlich nicht einheitlich (siehe [Aussprachevariation](../aussprache/varianten.md)). Je nachdem, wessen Aussprache man zugrunde legt, kann die Orthographie also doch etwas ‚tiefer‘ sein (d.h. nicht Lautung oder nicht die eigene Aussprache abbilden) und damit auch etwas schwieriger zu erlernen. Die spanische Orthographie bildet auch heute noch die traditionelle Aussprache Kastiliens ab, die im Vergleich mit anderen Varietäten ein sogenanntes ‚Maximalsystem‘ aufweist, da dort <span class="meta">/s/</span> und <span class="meta">/θ/</span> sowie <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span> unterschieden werden (bzw. *wurden*, da sich der *yeísmo* ja generalisiert hat). Zwar sind weltweit die allermeisten Sprecher:innen *seseantes* und selbst in Kastilien gibt es heute kaum noch *yeístas*, aber die Orthographie spiegelt nicht den Usus der Mehrheit wider. Für die meisten Sprecher:innen entspricht die graphische Unterscheidung zwischen `<s>`, `<z>`, `<c>` (vor `<e>` und `<i>`) sowie zwischen `<ll>` und `<y>` also nicht der eigenen Aussprache (und ist somit eine potenzielle Fehlerquelle). Frühere Reformversuche und eigene ‚amerikanische‘ Orthographien sind gescheitert oder wurden wieder aufgegeben. Heute gilt die Orthographie allen spanischsprachigen Ländern als Symbol der Einheit, während Aussprache, Wortschatz und Grammatik plurizentrisch variieren.
+Die spanische Orthographie ist zwar nah an der Aussprache, aber die Aussprache ist in der spanischsprachigen Welt natürlich nicht einheitlich (siehe [Aussprachevariation](../aussprache/varianten.md)). Je nachdem, wessen Aussprache man zugrunde legt, kann die Orthographie also doch etwas ‚tiefer‘ sein (d.h. nicht Lautung oder nicht die eigene Aussprache abbilden) und damit auch etwas schwieriger zu erlernen. Die spanische Orthographie bildet auch heute noch die traditionelle Aussprache Kastiliens ab, die im Vergleich mit anderen Varietäten ein sogenanntes ‚Maximalsystem‘ aufweist, da dort <span class="meta">/s/</span> und <span class="meta">/θ/</span> sowie <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span> unterschieden werden (bzw. *wurden*, da sich der *yeísmo* ja generalisiert hat). Zwar sind weltweit die allermeisten Sprecher:innen *seseantes* und selbst in Kastilien gibt es heute kaum noch *yeístas*, aber die Orthographie spiegelt nicht den Usus der Mehrheit wider. Für die meisten Sprecher:innen entspricht die graphische Unterscheidung zwischen `<s>`, `<z>`, `<c>` (vor `<e>` und `<i>`) sowie zwischen `<ll>` und `<y>` also nicht der eigenen Aussprache (und ist somit eine potenzielle Fehlerquelle). Frühere Reformversuche und eigene ‚amerikanische‘ Orthographien sind gescheitert oder wurden wieder aufgegeben. Heute gilt die Orthographie allen spanischsprachigen Ländern als Symbol der Einheit, während Aussprache, Wortschatz und Grammatik plurizentrisch variieren.  
 
-### Variation in der Schreibung: Wortvarianten
+### Wortvarianten
 
-#### Lautwandel im Wortschatz
+Auch wenn die spanische Orthographie im Kern sehr regelmäßig ist, gibt es Bereiche, in denen mehrere Schreibungen nebeneinander bestehen. Das betrifft einerseits gelehrte Wörter mit konservierter Schreibung, andererseits die Integration von Fremdwörtern, wo es auch Schreibungen (und Betonungen) geben kann, die sich je nach Land unterscheiden.  
+
+#### Gelehrte Wörter: Lautwandel im Wortschatz
+
+In gelehrten oder aus dem Lateinischen übernommenen Wörtern hat die Schreibung ältere Lautzustände konserviert. So stehen Varianten wie *oscuro* / *obscuro* oder *sétimo* / *séptimo* nebeneinander, wobei die kürzere Form dem heutigen Sprachgebrauch entspricht. Auch Konsonantgruppen wie `<ps->` oder `<pt->` bleiben in der Schreibung erhalten (*psicología*, *ptolemaico*), obwohl sie in der Aussprache reduziert sind. Die Orthographie sichert hier die Kontinuität mit dem lateinischen Ursprung, auch wenn der Lautwandel längst abgeschlossen ist.  
+
 #### Fremdwörterintegration
 
+Bei Fremdwörtern zeigt sich die größte Flexibilität. Manche Wörter wurden im Spanischen unterschiedlich integriert, sodass Schreibvarianten mit und ohne Akzent nebeneinander bestehen. Beispiele sind *fútbol* / *futbol*, *chófer* / *chofer* oder *vídeo* / *video*. Der Unterschied betrifft die Markierung der betonten Silbe: In einigen Varietäten wird die Betonung durch eine Tilde verdeutlicht, in anderen nicht. Welche Form bevorzugt wird, hängt oft vom Land oder von der Tradition einzelner Regionen ab. Damit zeigt sich, dass die spanische Orthographie auch hier Raum für Variation lässt und den Sprachgebrauch in verschiedenen Teilen der hispanischen Welt widerspiegelt.  
+
+Für den Unterricht: Beide Formen gelten als korrekt. Lehrkräfte sollten Lernende darauf hinweisen, dass regionale Präferenzen bestehen und dass in Wörterbüchern wie dem *Diccionario de la lengua española* (DLE) die bevorzugte und alternative Form transparent verzeichnet ist. So kann Unsicherheit im Umgang mit verschiedenen Schreibweisen vermieden werden.  
+
+!!! note "Wie erkennt man gültige Varianten im Wörterbuch?"
+    Im *Diccionario de la lengua española* (DLE) wird die übliche Form als Lemma angegeben.  
+    Alternative Schreibweisen erscheinen im Eintrag mit dem Hinweis „también“.  
+    Beispiel: Beim Lemma [video](https://dle.rae.es/video){:target="_blank" rel="noopener noreferrer"} findet sich die Angabe „también *vídeo*“.  
+    Auf diese Weise wird deutlich, dass beide Formen korrekt sind, auch wenn eine als die bevorzugte Normform gilt.
 
 
-[^*]: **Autor:innen:** Marlon Merte, Felix Tacke
+
+
+
+[^*]: **Autor:innen:** Felix Tacke, Marlon Merte
         
-      **Letzte Änderung:** 28.07.2025
+      **Letzte Änderung:** 25.08.2025
