@@ -66,16 +66,16 @@ nav:
   - Start: index.md
   - Einleitung: einleitung.md
   - 1 Fehlerlinguistik: fehlerlinguistik/fehlerlinguistik.md
-  - 2 Aussprache & Orthographie:
+  - 2 Aussprache:
       - 2.1 Aussprache: aussprache/aussprache.md
       - 2.2 Aussprachevariation: aussprache/varianten.md
-      - 2.3 Orthographie: aussprache/orthographie.md 
-  - 3 Variation & Plurizentrik (Beta):
-      - 3.1 Variation: variation/variation.md
-      - 3.2 Plurizentrik im Klassenraum: variation/klassenraum.md
-  - 4 Lexikalische Kreativität (Beta): lexik/lexik.md
-  - 5 Herkunftssprachen (Beta): herkunftssprachen/herkunftssprachen.md
-  - 6 Sprachwandel (Beta): wandel/wandel.md
+  - 3 Orthographie: orthographie/orthographie.md 
+  - 4 Variation & Plurizentrik (Beta):
+      - 4.1 Variation: variation/variation.md
+      - 4.2 Plurizentrik im Klassenraum: variation/klassenraum.md
+  - 5 Lexikalische Kreativität (Beta): lexik/lexik.md
+  - 6 Herkunftssprachen (Beta): herkunftssprachen/herkunftssprachen.md
+  - 7 Sprachwandel (Beta): wandel/wandel.md
 
   - Über dieses Projekt: projekt.md
 

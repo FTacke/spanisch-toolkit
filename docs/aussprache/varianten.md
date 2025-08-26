@@ -44,7 +44,7 @@ Als Lehrkraft trifft man zwangsläufig eine Entscheidung – aber sie sollte bew
 
 In jedem Fall sollte ich, wenn ich – vor allem fortgeschrittenen Lernende – für diese Unterschiede sensibilisiere, dabei klarstellen, dass der *seseo* – genauso korrekt ist wie die Unterscheidung von <span class="meta">/s/</span> und <span class="meta">/θ/</span>. Anschauliche Audiobeispiele wie die folgenden sind dafür hilfreich. Ein Hinweis ist auch wert, dass man mit der Aussprache von *zapato* als <span class="meta">[θa.ˈpa.to]</span> außerhalb Spaniens sogar auffallen kann, denn Spanier:innen werden nicht zuletzt durch den Interdentallaut sofort erkannt.  
 
-<details>
+<details class="hoermal">
 <summary>Hör mal (<i>seseo</i> vs. <i>distinción</i>)</summary>
 
 <p>Die folgenden Ausschnitte aus Radiosendungen veranschaulichen einerseits den <i>seseo</i> in Hispanoamerika und andererseits die Verwendung des Interdentallautes <span class="meta">/θ/</span> in Spanien. Beachte, dass hier Radiomoderator:innen sprechen, es handelt sich also um eine Aussprache, die der ‚guten Aussprache‘ des jeweiligen Landes (oder der Region) entspricht:</p>
@@ -135,7 +135,7 @@ Wer *pollo* und *poyo* gleich ausspricht, macht es heute wie die Mehrheit. Wie s
 
 Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien hört man meist <span class="meta">[ʝ]</span>, in der Karibik oder in Zentralamerika dagegen oft nur ein sanftes <span class="meta">[j]</span>. Im *Río de la Plata*-Raum, vor allem in Buenos Aires und Montevideo, ist die Aussprache besonders markant, da dort <span class="meta">[ʒ]</span> (bezeichnet als *žeísmo*) und mittlerweile noch häufiger stimmlos <span class="meta">[ʃ]</span> (bzeichnet als *šeísmo*) ausgesprochen wird (z.B. *llamar* als <span class="meta">[ʒaˈmar]</span> oder <span class="meta">[ʃaˈmar]</span>).  
 
-<details>
+<details class="hoermal">
 <summary>Hör mal (<i>yeísmo</i>, <i>žeísmo</i> und <i>šeísmo</i>)</summary>
 
 <p>Die folgenden Ausschnitte aus Radiosendungen veranschaulichen, dass der <i>yeísmo</i>, d.h. die Realisierung des Phonems <span class="meta">/ʝ/</span> als <span class="meta">[ʝ]</span> (und manchmal schwächer als <span class="meta">[j]</span>) für <span class="meta">&lt;ll&gt;</span> und <span class="meta">&lt;y&gt;</span>, heute überall normal ist. Die Beispiele aus Argentinien veranschaulichen darüber hinaus <i>žeísmo</i> und <i>šeísmo</i>. Beachte, dass hier Radiomoderator:innen sprechen, es handelt sich also um eine Aussprache, die der ‚guten Aussprache‘ des jeweiligen Landes (oder der Region) entspricht:</p>
@@ -246,7 +246,7 @@ Die Abschwächung ist kein Zufall. Dass sie am Silben- und Wortende vorkommt, li
 
 Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreitet, sondern gilt selbst in formelleren Kontexten als gute Aussprache, d.h. die Abschwächung gehört dort zur regionalen oder manchmal sogar nationalen Norm (z.B. Kanaren, Chile, Argentinien).  
 
-<details>
+<details class="hoermal">
 <summary>Hör mal (Abschwächung des /s/)</summary>
 
 <p>Die folgenden Ausschnitte aus Radiosendungen veranschaulichen das Phänomen. Wenn doch ein silben- oder wortfinales <span class="meta">/s/</span> als <span class="meta">[s]</span> artikuliert wird, dann weil es vor einer Pause oder vor Vokal vorkommt. Vor Konsonant hört man (auch im Wort) entweder nichts oder eine Aspiration <span class="meta">[h]</span>. Beachte, dass hier Radiomoderator:innen sprechen, es handelt sich also um eine Aussprache, die der ‚guten Aussprache‘ des jeweiligen Landes (oder der Region) entspricht:</p>
@@ -317,7 +317,7 @@ Ganz wichtig: In vielen dieser Gebiete ist die Abschwächung nicht nur verbreite
 
 Die Hochlandregionen hingegen – dort liegen etwa Mexiko-Stadt, Bogotá, Quito oder La Paz – zeichnen sich durch eine klare Artikulation des <span class="meta">/s/</span> auch am Silbenende aus. Dies steht nicht nur in geographischem, sondern oft auch in historischem Zusammenhang: Diese Städte waren während der Kolonialzeit enger mit den spanischen Zentren verbunden, in denen das <span class="meta">/s/</span> ebenfalls deutlich gesprochen wird. Dort wird die Abschwächung des <span class="meta">/s/</span> daher eher als Abweichung von der Norm bewertet. Die Abschwächung wird hier mit informelleren Redesituationen  und manchmal sogar mit einem niedrigeren Bildungsgrad assoziiert, besitzt also eine situationelle und soziale Dimension. Die Bewertung desselben Phänomens kann also je nach Ort, Region und Land ganz anders ausfallen!  
 
-<details>
+<details class="hoermal">
 <summary>Hör mal (Realisierung des /s/)</summary>
 
 <p>Die folgenden Ausschnitte aus Radiosendungen veranschaulichen, dass das /s/ im hispanoamerikanischen Hochland typischerweise in jeglichem Kontext als <span class="meta">[s]</span> realisiert wird und eindeutig zur jeweilen Hauptstadtnorm gehört.</p>

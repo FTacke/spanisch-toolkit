@@ -328,3 +328,12 @@ body[data-md-color-scheme="slate"] .audio-source {
     color: #444;
     margin-top: 5px;
   }
+
+
+.md-typeset details.hoermal {
+    border: .1rem solid #e9440d;
+}
+
+
+
+

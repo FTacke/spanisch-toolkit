@@ -1,4 +1,4 @@
-# 2.3 Orthographie[^*]
+# 3 Orthographie[^*]
 
 ## „Se escribe (casi) como se habla“  
 
@@ -21,9 +21,9 @@ Ein Kapitel zur linguistischen Betrachtung der Orthographie des Französischen o
 <ul>
 <li><b>Italienisch:</b> Fast ideales 1:1-System. <i>amico</i> wird so gesprochen, wie es geschrieben steht. Selbst Wörter wie <i>avere</i> ‘haben’ und <i>elicottero</i> ‘Hubschrauber’ kommen ohne <i>h</i> aus – im Gegensatz zu sp. <i>haber</i> und <i>helicóptero</i>.</li>
 
-<li><b>Deutsch:</b> Zahlreiche Abweichungen vom 1:1-Ideal. Orthographisch problematisch ist beispielsweise die Kennzeichnung von Vokallänge. Ein langer Vokal kann auf verschiedene Weise erscheinen: durch Verdopplung (<i>Boot</i> <span class="meta">[boːt]</span>), durch Dehnungs-<i>h</i> (<i>sehen</i> <span class="meta">[ˈzeːən]</span>) oder ohne sichtbares Zeichen (<i>Ofen</i> <span class="meta">[ˈoːfn̩]</span>). Kurze Vokale werden oft durch Doppelkonsonanten angezeigt (<i>offen</i> <span class="meta">[ˈɔfn̩]</span>), aber auch das ist nicht durchgängig systematisch. Typische Beispiele sind <i>Staat</i> <span class="meta">[ʃtaːt]</span> vs. <i>Stadt</i> <span class="meta">[ʃtat]</span> sowie <i>Wahl</i> <span class="meta">[vaːl]</span> gegenüber den gleich ausgesprochenen <i>Wal</i> <span class="meta">[vaːl]</span> und <i>Wall</i> <span class="meta">[val]</span>.</li>
+<li><b>Deutsch:</b> Zahlreiche Abweichungen vom 1:1-Ideal. Orthographisch problematisch ist beispielsweise die Kennzeichnung von Vokallänge. Ein langer Vokal kann auf verschiedene Weise erscheinen: durch Verdopplung (<i>Boot</i> <span class="meta">[boːt]</span>), durch Dehnungs-<i>h</i> (<i>sehen</i> <span class="meta">[ˈzeːən]</span>) oder ohne sichtbares Zeichen (<i>Ofen</i> <span class="meta">[ˈoːfn̩]</span>). Kurze Vokale werden oft durch Doppelkonsonanten angezeigt (<i>offen</i> <span class="meta">[ˈɔfn̩]</span>), aber auch das ist nicht durchgängig systematisch. Typische Beispiele sind <i>Staat</i> <span class="meta">[ʃtaːt]</span> vs. <i>Stadt</i> <span class="meta">[ʃtat]</span> sowie <i>Wall</i> <span class="meta">[val]</span> gegenüber den gleich ausgesprochenen <i>Wal</i> <span class="meta">[vaːl]</span> und <i>Wahl</i> <span class="meta">[vaːl]</span>.</li>
 
-<li><b>Französisch:</b> Sehr tiefe Orthographie. Viele Buchstabenfolgen stehen für denselben Laut, z.B. <i>eau</i> und <i>haut</i>, beide <span class="meta">[o]</span>. Hinzu kommt, dass zahlreiche Endungen nicht gesprochen werden: <i>parlent</i> <span class="meta">[paʁl]</span>, <i>grand</i> <span class="meta">[gʁɑ̃]</span>, <i>beaux</i> <span class="meta">[bo]</span>. Die Schrift bewahrt so morphologische und historische Informationen, die in der Aussprache längst verschwunden sind.</li>
+<li><b>Französisch:</b> Sehr tiefe Orthographie. Viele Buchstabenfolgen stehen für denselben Laut, z.B. <i>eau</i> und <i>haut</i>, beide <span class="meta">[o]</span>. Hinzu kommt, dass zahlreiche Endungen nicht gesprochen werden: <i>parlent</i> <span class="meta">[paʁl]</span>, <i>grand</i> <span class="meta">[gʁɑ̃]</span>, <i>beaux</i> <span class="meta">[bo]</span> (wie auch <i>beau</i>). Die Schrift bewahrt so morphologische und historische Informationen, die in der Aussprache längst verschwunden sind.</li>
 
 <li><b>Englisch:</b> Ebenfalls stark unregelmäßig. <i>read</i> kann <span class="meta">[riːd]</span> oder <span class="meta">[rɛd]</span> bedeuten; <i>though</i> <span class="meta">[ðoʊ]</span>, <i>through</i> <span class="meta">[θruː]</span> und <i>cough</i> <span class="meta">[kɒf]</span> illustrieren dieselbe Graphemkombination mit völlig unterschiedlicher Lautung. Regelhafte Aussprache ist nur eingeschränkt ableitbar.</li>
 </ul>
@@ -73,10 +73,10 @@ Und auch hier liegen Chancen, denn diese Kombinatorik erklärt wiederum die Alte
 
 Das vielleicht größte ‚Problem‘ der spanischen Orthographie liegt darin, dass dem Laut <span class="meta">/b/</span> zwei Buchstaben, nämlich `<b>` und `<v>`, entsprechen. Umgekehrt gilt im Spanischen, dass beide Buchstaben exakt denselben Lautwert aufweisen und in der Aussprache keinerlei Unterschied gemacht werden sollte. Das ist gewöhnungsbedürftig, denn der Buchstabe `<v>` weist nicht nur im Deutschen, sondern auch in sämtlichen anderen bekannten Fremdsprachen einen eigenen Lautwert auf (meist <span class="meta">/v/</span>, manchmal auch <span class="meta">/f/</span> wie in ***V**ater*).  
 
-<details>
+<details class="hoermal">
 <summary>Hör mal (Aussprache von <code>&lt;v&gt;</code>)</summary>
 
-    <p>Anhand der folgenden Audios hörst Du, dass ein spanischer Modellsprecher die Wörter <i><b>b</b>arón</i> und <i><b>v</b>arón</i> genau gleich ausspricht, weil sie im Spanischen trotz der unterschiedlichen Schreibung <i><b>homophon</b></i> sind. Lernende neigen hingegen dazu, das <code>&lt;v&gt;</code> wie im Deutschen und anderen Sprachen auszusprechen, was im Spanischen als Aussprachefehler gilt (das Sternchen kennzeichnet klare Fehler).
+    <p>Anhand der folgenden Audios hörst Du, dass ein spanischer Modellsprecher die Wörter <i><b>b</b>arón</i> und <i><b>v</b>arón</i> genau gleich ausspricht, weil sie im Spanischen trotz der unterschiedlichen Schreibung <i><b>homophon</b></i> sind. Lernende neigen hingegen dazu, das <code>&lt;v&gt;</code> wie im Deutschen und anderen Sprachen auszusprechen, was im Spanischen als Aussprachefehler gilt (das Sternchen kennzeichnet den eindeutigen Fehler).
 
     <div class="audio-comparison">
 
@@ -104,7 +104,7 @@ Das vielleicht größte ‚Problem‘ der spanischen Orthographie liegt darin, d
 
 Die Schwierigkeit liegt darin, dass sich Lernende von der Idee lösen müssen, dass eine Unterscheidung in der Schrift immer auch eine Unterscheidung in der Aussprache widerspiegelt. 
 
-Komplizierter wird es, wenn man bedenkt, dass das Phonem <span class="meta">/b/</span> – unabhängig davon, ob es mit `<b>` oder `<v>` geschrieben wird – je nach Kontext als <span class="meta">[b]</span> oder approximativ als <span class="meta">[β]</span> ausgesprochen wird. Besonders deutlich zeigt das die Gegenüberstellung von *beber* <span class="meta">[beˈβeɾ]</span> (< lat. *bibere*) und *vivir* <span class="meta">[biˈβiɾ]</span> (< lat. *vivere*). Am Wortanfang wird in beiden Wörtern <span class="meta">[b]</span> ausgesprochen, zwischen Vokalen jedoch <span class="meta">[β]</span> (vgl. [Aussprache](../aussprache/#mal-so-mal-so-laute)). Die Schreibung spiegelt hier nicht die Aussprache wider, sondern erklärt sich durch die lateinische Schreibung.  
+Komplizierter wird es, wenn man bedenkt, dass das Phonem <span class="meta">/b/</span> – unabhängig davon, ob es mit `<b>` oder `<v>` geschrieben wird – je nach Kontext als <span class="meta">[b]</span> oder approximativ als <span class="meta">[β]</span> ausgesprochen wird. Besonders deutlich zeigt das die Gegenüberstellung von *beber* <span class="meta">[beˈβeɾ]</span> (< lat. *bibere*) und *vivir* <span class="meta">[biˈβiɾ]</span> (< lat. *vivere*). Am Wortanfang wird in beiden Wörtern <span class="meta">[b]</span> ausgesprochen, zwischen Vokalen jedoch <span class="meta">[β]</span> (vgl. Kapitel [Aussprache](../aussprache/aussprache.md#mal-so-mal-so-laute)). Die Schreibung spiegelt hier nicht die Aussprache wider, sondern erklärt sich durch die lateinische Schreibung.  
 
 Die vielen Zweifel, die hier aufkommen können, betreffen nicht nur den Unterricht des Spanischen als Fremdsprache, sondern sind auch in der spanischen Sprachgemeinschaft verbreitet, wo teils noch bis heute (von schlecht informierten Lehrenden) unterrichtet wird, dass der Buchstabe `<b>` eigentlich ein <span class="meta">/v/</span> repräsentiere, auch wenn die Aussprache nicht mehr üblich wäre. Selbst gebildete Erstsprachler:innen sprechen aufgrund dieses Irrtums gelegentlich <span class="meta">[v]</span> aus, wenn sie gebeten werden, einen Text vorzulesen. Wenig hilfreich war, dass dieser Irrtum sogar noch bis ins 20. Jahrhundert hinein in den Orthographie-Traktaten der *Real Academia Española* behauptet und von dort in Schulbücher übernommmen wurde. So kommt es immer wieder zu einem Phänomen, das man als ***spelling pronunciation*** bezeichnet, d.h. eine Aussprache, die sich eng an der Schreibung orientiert und deshalb von der Norm abweicht bzw. zu Hyperkorrekturen führt.  
 
@@ -171,7 +171,7 @@ Orthographien variieren viel weniger als die gesprochene Sprache, denn ihre Aufg
 
 ### Man schreibt so, wie *in Kastilien* gesprochen wird
 
-Die spanische Orthographie ist zwar nah an der Aussprache, aber die Aussprache ist in der spanischsprachigen Welt natürlich nicht einheitlich (siehe [Aussprachevariation](../aussprache/varianten.md)). Je nachdem, wessen Aussprache man zugrunde legt, kann die Orthographie also doch etwas ‚tiefer‘ sein (d.h. nicht Lautung oder nicht die eigene Aussprache abbilden) und damit auch etwas schwieriger zu erlernen. Die spanische Orthographie bildet auch heute noch die traditionelle Aussprache Kastiliens ab, die im Vergleich mit anderen Varietäten ein sogenanntes ‚Maximalsystem‘ aufweist, da dort <span class="meta">/s/</span> und <span class="meta">/θ/</span> sowie <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span> unterschieden werden (bzw. *wurden*, da sich der *yeísmo* ja generalisiert hat). Zwar sind weltweit die allermeisten Sprecher:innen *seseantes* und selbst in Kastilien gibt es heute kaum noch *yeístas*, aber die Orthographie spiegelt nicht den Usus der Mehrheit wider. Für die meisten Sprecher:innen entspricht die graphische Unterscheidung zwischen `<s>`, `<z>`, `<c>` (vor `<e>` und `<i>`) sowie zwischen `<ll>` und `<y>` also nicht der eigenen Aussprache (und ist somit eine potenzielle Fehlerquelle). Frühere Reformversuche und eigene ‚amerikanische‘ Orthographien sind gescheitert oder wurden wieder aufgegeben. Heute gilt die Orthographie allen spanischsprachigen Ländern als Symbol der Einheit, während Aussprache, Wortschatz und Grammatik plurizentrisch variieren.  
+Die spanische Orthographie ist zwar nah an der Aussprache, aber die Aussprache ist in der spanischsprachigen Welt natürlich nicht einheitlich (siehe [Aussprachevariation](../aussprache/varianten.md)). Je nachdem, wessen Aussprache man zugrunde legt, kann die Orthographie also doch etwas ‚tiefer‘ sein (d.h. nicht Lautung oder nicht die eigene Aussprache abbilden) und damit auch etwas schwieriger zu erlernen. Die spanische Orthographie bildet auch heute noch die traditionelle Aussprache Kastiliens ab, die im Vergleich mit anderen Varietäten ein sogenanntes ‚Maximalsystem‘ aufweist, da dort <span class="meta">/s/</span> und <span class="meta">/θ/</span> sowie <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span> unterschieden werden (bzw. *wurden*, da sich der *yeísmo* ja generalisiert hat). Zwar sind weltweit die allermeisten Sprecher:innen *seseantes* und selbst in Kastilien gibt es heute kaum noch *yeístas*, aber die Orthographie spiegelt nicht den Usus der Mehrheit wider. Für die meisten Sprecher:innen entspricht die graphische Unterscheidung zwischen `<s>`, `<z>`, `<c>` (vor *e* und *i*) sowie zwischen `<ll>` und `<y>` also nicht der eigenen Aussprache (und ist somit eine potenzielle Fehlerquelle). Frühere Reformversuche und alternative ‚amerikanische‘ Orthographien sind gescheitert oder wurden wieder aufgegeben. Heute gilt die Orthographie allen spanischsprachigen Ländern als Symbol der Einheit, während Aussprache, Wortschatz und Grammatik plurizentrisch variieren.  
 
 ### Wortvarianten
 
@@ -188,10 +188,8 @@ Bei Fremdwörtern zeigt sich die größte Flexibilität. Manche Wörter wurden i
 Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten. Lehrkräfte können Lernende darauf hinweisen, dass regionale Präferenzen bestehen und dass in Wörterbüchern wie dem *Diccionario de la lengua española* (DLE) die bevorzugte und alternative Form transparent verzeichnet ist. So kann Unsicherheit im Umgang mit verschiedenen Schreibweisen vermieden werden.  
 
 !!! note "Wie erkennt man gültige Varianten im Wörterbuch?"
-    Im *Diccionario de la lengua española* (DLE) wird die übliche Form als Lemma angegeben.  
-    Alternative Schreibweisen erscheinen im Eintrag mit dem Hinweis „también“.  
-    Beispiel: Beim Lemma [video](https://dle.rae.es/video){:target="_blank" rel="noopener noreferrer"} findet sich die Angabe „también *vídeo*“.  
-    Auf diese Weise wird deutlich, dass beide Formen korrekt sind, auch wenn eine als die bevorzugte Normform gilt.
+    Im *Diccionario de la lengua española* (DLE) wird die übliche Form als Lemma angegeben. Alternative Schreibweisen erscheinen im Eintrag mit dem Hinweis „también“. Auf diese Weise wird deutlich, dass beide Formen korrekt sind, auch wenn eine als die bevorzugte Normform gilt.   
+    Beispiel: Beim Lemma [*video*](https://dle.rae.es/video){:target="_blank" rel="noopener noreferrer"} findet sich die Angabe „también *vídeo*“.  
 
 !!! tip "Wir fassen noch einmal zusammen"
     Die spanische Orthographie gilt als regelmäßig, doch einige Punkte verdienen besondere Aufmerksamkeit:  
@@ -209,6 +207,8 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten.
 
 <p>Für einen historischen und systematischen Überblick sind Meisenburgs Studien zu den romanischen Schriftsystemen (1996) besonders empfehlenswert. Tacke (2020) gibt eine aktuelle Gesamtdarstellung zu Orthographie und Orthoepie (Standardaussprache) im Spanischen. Einen praxisorientierten Zugang bietet Martínez de Sousa (2014) mit seinem <i>Manual de estilo de la lengua española</i>. Nützlich sind außerdem die digitalen Beratungsangebote der RAE und der Fundéu (<a href="https://www.fundeu.es" target="_blank" rel="noopener noreferrer">www.fundeu.es</a>), die laufend neue orthographische Empfehlungen bereitstellen.</p>
 
+<p>Für die Unterrichtspraxis besonders hilfreich ist das <a href="https://marele.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">MAR.ELE-Korpus</a> (Tacke 2023ff.). Es dokumentiert die Aussprache von Lernenden des Spanischen und erlaubt den direkten Vergleich mit Modellsprecher:innen. So lässt sich u.a. auch das Phänomen der <i>spelling pronunciation</i> anschaulich nachvollziehen (vgl. oben unter „Hör mal“).</p>
+
 </details>
 
 ---
@@ -217,12 +217,13 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten.
 
 <div class="literatur" markdown="1">
 
-* Meisenburg, Trudel (1996): *Romanische Schriftsysteme im Vergleich. Eine diachrone Studie*. Tübingen: Narr.
-* Real Academia Española / Asociación de Academias de la Lengua Española (2010): *Ortografía de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/ortografía](https://www.rae.es/ortograf%C3%ADa){:target="_blank" rel="noopener noreferrer"}
-* Real Academia Española / Asociación de Academias de la Lengua Española (2005): *Diccionario panhispánico de dudas*. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/){:target="_blank" rel="noopener noreferrer"}
-* Real Academia Española (online): *Diccionario de la lengua española (DLE)*. Online: [https://dle.rae.es](https://dle.rae.es){:target="_blank" rel="noopener noreferrer"}
-* Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Lebsanft, Franz / Tacke, Felix (Hg.): *Manual of Standardization in the Romance Languages*. Berlin/Boston: De Gruyter, 559–579.
-* Martínez de Sousa, José (³2014): *Ortografía y ortotipografía del español actual*. Gijón: Trea. Online: [http://www.martinezdesousa.net/](http://www.martinezdesousa.net/){:target="_blank" rel="noopener noreferrer"}
+- Martínez de Sousa, José (³2014): *Ortografía y ortotipografía del español actual*. Gijón: Trea. Online: [http://www.martinezdesousa.net/](http://www.martinezdesousa.net/){:target="_blank" rel="noopener noreferrer"}
+- Meisenburg, Trudel (1996): *Romanische Schriftsysteme im Vergleich. Eine diachrone Studie*. Tübingen: Narr.
+- Real Academia Española / Asociación de Academias de la Lengua Española (2010): *Ortografía de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/ortografía](https://www.rae.es/ortograf%C3%ADa){:target="_blank" rel="noopener noreferrer"}
+- Real Academia Española / Asociación de Academias de la Lengua Española (2005): *Diccionario panhispánico de dudas*. Madrid: Santillana. Online: [https://www.rae.es/dpd/](https://www.rae.es/dpd/){:target="_blank" rel="noopener noreferrer"}
+- Real Academia Española (online): *Diccionario de la lengua española (DLE)*. Online: [https://dle.rae.es](https://dle.rae.es){:target="_blank" rel="noopener noreferrer"}
+- Tacke, Felix (2020): „Spanish: Orthography and Orthoepy“. In: Lebsanft, Franz / Tacke, Felix (Hg.): *Manual of Standardization in the Romance Languages*. Berlin/Boston: De Gruyter, 559–579.
+- Tacke, Felix (2023ff.): *MAR.ELE – Corpus sobre la pronunciación del español por aprendientes de ELE en Marburg*. Marburg. Online: [https://marele.online.uni-marburg.de](https://marele.online.uni-marburg.de){:target="_blank" rel="noopener noreferrer"}
 
 </div>
 
@@ -236,4 +237,4 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten.
 
       **Beiträge & Peer Review:** Mariana Prukop
         
-      **Letzte Änderung:** 25.08.2025
+      **Letzte Änderung:** 26.08.2025
