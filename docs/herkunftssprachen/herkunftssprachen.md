@@ -194,15 +194,24 @@ Khodja
 
 Khodja
 
-## Abschnitt: Empfehlungen für den Unterricht  
+## Empfehlungen für den Unterricht
 
-Khodja + Scholz
+Für einen erfolgreichen Spanischunterricht in sprachlich heterogenen Lerngruppen ist Sensibilisierung zentral – sowohl bei den Lehrkräften als auch bei den Schüler:innen. Das entspricht auch den Zielen zahlreicher Lehrpläne, die Sprachbewusstheit als förderwürdige Kompetenz ausweisen.  
 
-- Wie nutze ich die "herkunftssprachlichen Ressourcen" im Unterricht?
-- Wie sensibilisiere ich?
-- Wie kompensiere ich (leicht) Nachteile?
+**Lehrkräfte sensibilisieren:** Ein grundlegendes Wissen über Herkunftssprachen und ihre Unterschiede zum Spanischen ist für Dich als Lehrkraft von großem Vorteil. Je nach den Herkunftssprachen der Schüler:innen werden ganz unterschiedliche Fehler beim Erlernen des Spanischen gemacht; umgekehrt erlernen manche Schüler:innen neue Strukturen schneller als andere.  
 
+Je mehr Du über diese Sprachen weißt, desto mehr werden solche Fehler oder Vorteile als Effekte der Mehrsprachigkeit verständlich. Im Kapitel [Fehlerlinguistik](../fehlerlinguistik/fehlerlinguistik.md) wird bereits verdeutlicht, wie Fehler diagnostisch genutzt werden können: Sie legen offen, was bereits verstanden ist und wo Förderbedarf besteht. Besonders bei Herkunftssprachen kann das Wissen über strukturelle Unterschiede – etwa *Genus* im Spanischen vs. kein *Genus* im Türkischen – helfen, Lernfortschritte gezielter zu erkennen.  
 
+**Schüler:innen sensibilisieren:** Sprachbewusstheit fördern heißt, Unterschiede und Gemeinsamkeiten zwischen Sprachen sichtbar zu machen. Es gibt keine besseren oder schlechteren Sprachen: Deutsch ist nicht „besser“ als Türkisch und Spanisch nicht „schlechter“ oder „besser“ als Arabisch. Sprachen erfüllen denselben kommunikativen Zweck lediglich auf unterschiedliche Weise.  
+
+Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen Mangel: Die Funktion wird anders erfüllt, oft mit weniger grammatischer Markierung. Kleine sprachvergleichende Aufgaben, z.B. „Wie sagt man den Satz X im Spanischen und Deutschen im Vergleich mit den Herkunftssprachen?“, können diesen Perspektivwechsel unterstützen.  
+
+**Mehrsprachigkeit als Ressource:** Werden Herkunftssprachen aktiv genutzt, stärken sich Beziehungen im Klassenraum. Gemeinsam lässt sich interkulturelles Wissen vernetzen und Mehrsprachigkeit als Normalität etablieren.  
+
+!!! tip "Mehrsprachigkeit sichtbar machen: Karte nutzen!"
+    Nutzen Sie die [interaktive Karte](#herkunftssprachen-sprachfamilien) der Herkunftssprachen im Vollbildmodus. Lassen Sie Lernende die Sprachen, die sie selbst oder ihre Mitschüler:innen sprechen, auf der Karte verorten. So lässt sich Mehrsprachigkeit auch visuell sichtbar machen.  
+
+**Didaktische Konsequenz:** Kenntnisse über Herkunftssprachen und ein sensibler Umgang damit ermöglichen einen Unterricht, in dem Fehlerquellen erklärbar, Vorteile nutzbar und Potenziale mehrsprachiger Lernender sichtbar werden. Spanischlernen wird so nicht nur ein sprachlicher Gewinn, sondern auch ein metasprachlicher (Sprechen über Sprache/n). Die Einbindung von Sprachbewusstheit sorgt zusätzlich dafür, dass Lernende ihr gesamtes sprachliches Repertoire reflektiert nutzen, Unterschiede bewusst wahrnehmen und Lernstrategien für weitere Sprachen entwickeln.  
 
 <details>
 <summary>Wer mehr wissen will... Informationen über die Sprachen der Welt: der <i>World Atlas of Language Structures</i> (WALS)</summary>
@@ -217,3 +226,40 @@ Khodja + Scholz
 <p>Zum <a href="https://wals.info/" target="_blank" rel="noopener noreferrer">WALS</a>.</p>
 
 </details>
+
+!!! tip "Wir fassen noch einmal zusammen"
+    Die häufigsten Herkunftssprachen in Deutschland sind vor allem Türkisch, Russisch, Arabisch und Polnisch; daneben spielen auch Italienisch, Kurdisch, BKS und Englisch eine Rolle. Herkunftssprachen wirken sich auf Aussprache, Grammatik, Wortschatz und Lernstrategien aus, wobei sie sowohl positive Transfers ermöglichen als auch Interferenzen hervorrufen können.
+
+    Für die Aussprache ist das spanische Vibrant /r/ den meisten Herkunftssprachen vertraut, bereitet aber deutschsprachigen Lernenden Schwierigkeiten. In der Morphologie fehlen in manchen Sprachen Genus und Artikel (z.B. im Türkischen), was im Spanischen neu erworben werden muss. In der Syntax erleichtert das Nullsubjekt-Prinzip vielen Lernenden den Einstieg, während SOV-Sprachen anfangs Wortstellungsfehler begünstigen und Kasussprachen Präpositionen neu einüben müssen. In der Orthographie ist die Umstellung auf das lateinische Alphabet vor allem für arabische und kyrillische Schriftbenutzer eine Herausforderung.
+
+    Didaktisch bedeutet das: Fehler sollten nicht als Defizite betrachtet, sondern als Diagnoseinstrument verstanden werden (vgl. Kapitel [Fehlerlinguistik](../fehlerlinguistik/fehlerlinguistik.md)). Ein sensibler Umgang mit Herkunftssprachen, die Sichtbarmachung von Mehrsprachigkeit etwa durch die interaktive Karte und die Förderung von Sprachbewusstsein schaffen die Grundlage dafür, dass Herkunftssprachen als Ressource wirken können.
+
+<details>
+<summary>Wer mehr wissen will (klickt hier)</summary>
+
+<p>Folgt.</p>
+
+
+</details>
+
+---
+
+## Literatur
+
+<div class="literatur" markdown="1">
+
+- folgt
+
+</div>
+
+---
+
+!!! info "Dieses Kapitel zitieren" 
+    Selina Scholz, Felix Tacke (2025): „Herkunftssprachen“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg. Online: [https://linguistik.online.uni-marburg.de/](https://linguistik.online.uni-marburg.de/) DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
+
+
+[^*]: **Autor:innen:** Selina Scholz, Felix Tacke
+
+      **Beiträge & Peer Review:** 
+        
+      **Letzte Änderung:** 27.08.2025
