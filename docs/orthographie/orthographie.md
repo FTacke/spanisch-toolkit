@@ -2,7 +2,7 @@
 
 ## „Se escribe (casi) como se habla“  
 
-Als Lehrkraft für Spanisch hat man den Vorteil, dass man sich im Unterricht viel weniger mit der Schreibung des Spanischen auseinandersetzen muss als die Kolleg:innen, die Englisch oder Französisch unterrichten. Das Spanische weist bekanntlich eine sehr einfache Orthographie auf. Mehr noch: Das Spanische besitzt im Vergleich mit anderen Sprachkulturen, die ein alphabetisches Schriftsystem zugrunde legen, sogar eine der ‚besten‘ Orthographien. Gemeint ist, dass hier – noch viel mehr als im Deutschen – gilt, dass man schreibt, wie man spricht und spricht, wie man schreibt. Wie phonographisch ein Schriftsystem im Detail ist, kann anhand der sogenannten *Graphem-Phonem-Korrespondenzen* (GPK) bemessen werden, die das Verhältnis zwischen geschriebenem Zeichen (Graphem) und gesprochenem Laut (Phonem) beschreiben. Das schon in der Antike benannte Ideal ist nämlich, dass möglichst ein 1:1-Verhältnis vorliegen soll, d.h. ein Laut entspricht einem Buchstaben und ein Buchstabe entspricht einem Laut. Keine Orthographie entspricht diesem Ideal vollständig, aber in manchen Sprachkulturen liegt sie der Aussprache näher als in anderen, also ‚phonographischer‘ oder ‚phonologisch transparenter‘. Ist das der Fall, spricht man von einem ‚flachen‘ System. Weicht ein Schriftsystem aber stark ab von diesem Ideal und enthält in der Graphie viele Informationen, die morphologisch oder etymologisch motiviert sind, oder spiegeln noch eine viel ältere Aussprache wider, wie das im Englischen und Französischen der Fall ist, so spricht man von ‚tiefen‘ Schriftsystemen. Vergleicht man die romanischen Sprachen mit Deutsch und Englisch, wäre die Reihenfolge wie folgt:  
+Als Lehrkraft für Spanisch hat man den Vorteil, dass man sich im Unterricht viel weniger mit der Schreibung des Spanischen auseinandersetzen muss als die Kolleg:innen, die Englisch oder Französisch unterrichten. Das Spanische weist bekanntlich eine sehr einfache Orthographie auf. Mehr noch: Das Spanische besitzt im Vergleich mit anderen Sprachkulturen, die ein alphabetisches Schriftsystem zugrunde legen, sogar eine der ‚besten‘ Orthographien. Gemeint ist, dass hier – noch viel mehr als im Deutschen – gilt, dass man schreibt, wie man spricht und spricht, wie man schreibt. Wie phonographisch ein Schriftsystem im Detail ist, kann anhand der sogenannten *Graphem-Phonem-Korrespondenzen* (GPK) bemessen werden, die das Verhältnis zwischen geschriebenem Zeichen (Graphem) und gesprochenem Laut (Phonem) beschreiben. Schon in der Antike wurde das Ideal formuliert, dass zwischen Lauten und Buchstaben ein möglichst eindeutiges 1:1-Verhältnis bestehen soll: Ein Laut entspricht einem Buchstaben, und jeder Buchstabe steht für genau einen Laut. Keine Orthographie entspricht diesem Ideal vollständig, aber in manchen Sprachkulturen liegt sie der Aussprache näher als in anderen. Ist das der Fall gelten sie als ‚phonographischer‘ oder ‚phonologisch transparenter‘. Ist das der Fall, spricht man von einem ‚flachen‘ System. Weicht ein Schriftsystem dagegen stark von diesem Ideal ab und enthält in der Graphie viele Informationen, die morphologisch oder etymologisch motiviert sind, oder spiegeln noch eine viel ältere Aussprache wider (wie das im Englischen und Französischen der Fall ist), so spricht man von ‚tiefen‘ Schriftsystemen. Vergleicht man die romanischen Sprachen mit Deutsch und Englisch, wäre die Reihenfolge wie folgt:  
 
 > Italienisch (am ‚flachsten‘)  
 **Spanisch**  
@@ -30,8 +30,7 @@ Ein Kapitel zur linguistischen Betrachtung der Orthographie des Französischen o
 
 </details>
 
-Dieses Kapitel ist dagegen übersichtlich, denn hier gilt es lediglich, die Abweichungen vom Ideal zu beschreiben, also jene Aspekte der spanischen Orthographie, die man als ‚Ausnahmen‘ bezeichnet und hier und da etwas ‚Tiefe‘ aufweisen. Spanischlernende können beim Erlernen der Orthographie schon früh Erfolgserlebnisse haben, wenn sie einige wenige Regeln und Ausnahmen beherrschen. Darüber hinaus wird hier auch auf die Akzentsetzung eingegangen, die überaus schnell erlernt werden kann und ebenfalls viel simpler als in anderen Sprachen ist.
-
+Dieses Kapitel ist dagegen übersichtlich gestaltet, denn hier gilt es lediglich, die Abweichungen vom Ideal zu beschreiben. Gemeint sind also jene Aspekte der spanischen Orthographie, die man als ‚Ausnahmen‘ bezeichnet und hier und da etwas ‚Tiefe‘ aufweisen. Zusätzlich wird hier auch auf die Akzentsetzung eingegangen, die überaus schnell erlernt werden kann und ebenfalls viel simpler als in anderen Sprachen ist. Spanischlernende können beim Erlernen der Orthographie schon früh Erfolgserlebnisse haben, wenn sie einige wenige Regeln und Ausnahmen beherrschen.  
 
 ## Fast perfekt: Abweichungen vom Ideal
 
@@ -39,7 +38,7 @@ Je genauer man hinschaut, desto mehr Abweichungen vom Ideal der 1:1-Entsprechung
 
 ### Vokale
 
-Bei den Vokalen gibt es nur wenige Abweichungen. So enden spanische Wörter nie auf unbetontem `<i>`, es sei denn, es handelt sich um Fremdwörter (*bikini*, *taxi*). In Wörter, die auf Diphthong mit <span class="meta">/i/</span> enden, wie *rey* oder *muy*, werden am Wortende mit `<y>` geschrieben. Auch die Konjunktion *y* wird mit `<y>` geschrieben (u.a. im Katalanischen dagegen mit `<i>` wie in *rei*, *i* usw.).  
+Bei den Vokalen gibt es nur wenige Abweichungen. So enden spanische Wörter nie auf unbetontem `<i>`, es sei denn, es handelt sich um Fremdwörter (*bikini*, *taxi*). Manchmal wird <span class="meta">/i/</span> nicht durch `<i>`, sondern durch `<y>` wiedergegeben: So ist es bei Wörtern, die auf Diphthong enden wie *rey* oder *muy*. Auch die Konjunktion *y* wird mit `<y>` geschrieben (u.a. im Katalanischen dagegen mit `<i>` wie in *rei*, *i* usw.).  
 
 Eine kleine Herausforderung stellen geschriebene Vokale dar, die nur diakritische (also unterscheidende) Funktion ohne eigenen Lautwert aufweisen. Das gilt in vielen Sequenzen für `<u>`, nämlich nach `<g>` und in `<qu>`, um zu kennzeichnen, dass diese als Plosive (Verschlusslaute) zu artikulieren sind, wie in ***gu**itarra*, ***gu**erra*, ***qu**eso* und ***qu**itar*. Übrigens ist das in den Orthographien beispielsweise des Französischen und Portugiesischen genauso. Im Italienischen ist das Prinzip identisch, nur der diakritisch verwendete Buchstabe ein anderer, nämlich `<h>`: Dort schreibt man `<ch>` und `<gh>`, wie in ***ch**e* ‘dass’ (statt fr./pt./sp. ***qu**e*), *mac**ch**ina* ‘Auto’, *spag**gh**etti* und *fun**gh**i*.  
 
@@ -235,6 +234,6 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten.
 
 [^*]: **Autor:innen:** Felix Tacke, Marlon Merte
 
-      **Beiträge & Peer Review:** Mariana Prukop
+      **Beiträge & Peer Review:** Mariana Prukop, Lea-Marie Domin
         
       **Letzte Änderung:** 26.08.2025
