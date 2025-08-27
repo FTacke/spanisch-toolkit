@@ -213,20 +213,6 @@ Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen M
 
 **Didaktische Konsequenz:** Kenntnisse über Herkunftssprachen und ein sensibler Umgang damit ermöglichen einen Unterricht, in dem Fehlerquellen erklärbar, Vorteile nutzbar und Potenziale mehrsprachiger Lernender sichtbar werden. Spanischlernen wird so nicht nur ein sprachlicher Gewinn, sondern auch ein metasprachlicher (Sprechen über Sprache/n). Die Einbindung von Sprachbewusstheit sorgt zusätzlich dafür, dass Lernende ihr gesamtes sprachliches Repertoire reflektiert nutzen, Unterschiede bewusst wahrnehmen und Lernstrategien für weitere Sprachen entwickeln.  
 
-<details>
-<summary>Wer mehr wissen will... Informationen über die Sprachen der Welt: der <i>World Atlas of Language Structures</i> (WALS)</summary>
-
-<p>Der World Atlas of Language Structures (WALS) ist ein interaktiver Online-Sprachatlas, der für Sprachinteressierte, Lehrkräfte und Studierende gleichermaßen spannende Einblicke bietet. Hier werden die wichtigsten Laut-, Grammatik- und Wortschatzmerkmale von über 2.500 Sprachen der Welt systematisch vergleichbar dargestellt.</p>
-
-<p>Wer sich etwa fragt, in welchen Sprachen das berühmte gerollte r vorkommt, wie unterschiedlich Artikel funktionieren oder wo es besonders viele Vokale gibt, findet im WALS präzise Antworten – anschaulich auf Karten visualisiert und mit Hintergrundwissen ergänzt.
-</p>
-
-<p>Jeder Eintrag im WALS widmet sich einem bestimmten sprachlichen Phänomen (wie etwa "Definite Articles"), erläutert es fachlich, gibt Beispiele aus ganz verschiedenen Sprachen und macht so globale Unterschiede wie Gemeinsamkeiten direkt sichtbar. Für Neugierige ist der WALS damit eine hervorragende Möglichkeit, gezielt nachzuschlagen, wie sich einzelne Merkmale im weltweiten Sprachvergleich verteilen – und welche Leistungen die Sprachenvielfalt unseres Planeten bereithält.</p>
-
-<p>Zum <a href="https://wals.info/" target="_blank" rel="noopener noreferrer">WALS</a>.</p>
-
-</details>
-
 !!! tip "Wir fassen noch einmal zusammen"
     Die häufigsten Herkunftssprachen in Deutschland sind vor allem Türkisch, Russisch, Arabisch und Polnisch; daneben spielen auch Italienisch, Kurdisch, BKS und Englisch eine Rolle. Herkunftssprachen wirken sich auf Aussprache, Grammatik, Wortschatz und Lernstrategien aus, wobei sie sowohl positive Transfers ermöglichen als auch Interferenzen hervorrufen können.
 
@@ -237,8 +223,14 @@ Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen M
 <details>
 <summary>Wer mehr wissen will (klickt hier)</summary>
 
-<p>Folgt.</p>
+<p>Die Forschung zu Herkunftssprachen hat sich gewandelt: Während sie früher vor allem als Fehlerquelle gesehen wurden, zeigen Werke wie <i>Gogolin (2008)</i> und <i>Neumann &amp; Gogolin (2009)</i>, wie stark das Schulsystem von einem monolingualen Habitus geprägt war. Demgegenüber plädiert <i>Krumm (2016)</i> für die Anerkennung von Familiensprachen als Ressource.</p>
 
+<p>Einen systematischen Überblick bieten <i>Brehmer &amp; Mehlhorn (2018)</i> sowie die Handbücher von <i>Gogolin, Hansen, McMonagle &amp; Rauch (2020)</i> und von <i>Fäcke &amp; Meißner (2019)</i>. Sie bündeln theoretische Grundlagen, empirische Befunde und didaktische Ansätze. Speziell für den deutschen Kontext beschreibt <i>Mehlhorn (2017)</i> die Stellung von Herkunftssprachen im Schulsystem und ihre Rolle im Fremdsprachenunterricht.</p>
+
+<p>Aus linguistischer Perspektive steht heute im Vordergrund, Herkunftssprachen als gleichwertige Systeme zu begreifen und ihre typologischen Unterschiede – etwa im Bereich von Artikeln, Genus oder Satzbau – für Forschung und Unterricht reflektiert zu nutzen.</p>
+
+<p>Wer sich über Strukturen einzelner Sprachen informieren möchte, findet im <i>World Atlas of Language Structures (WALS)</i> eine wertvolle Ressource. Dort werden zentrale Laut-, Grammatik- und Wortschatzmerkmale von über 2.500 Sprachen vergleichend und anschaulich visualisiert: 
+<a href="https://wals.info" target="_blank" rel="noopener noreferrer">wals.info</a></p>
 
 </details>
 
@@ -248,7 +240,13 @@ Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen M
 
 <div class="literatur" markdown="1">
 
-- folgt
+- Bernd Brehmer & Grit Mehlhorn (2018): *Herkunftssprachen*. Tübingen: Narr Francke Attempto.  
+- Christiane Fäcke & Franz-Joseph Meißner (Hrsg.) (2019): *Handbuch Mehrsprachigkeits- und Mehrkulturalitätsdidaktik*. Wiesbaden: Springer VS.  
+- Ingrid Gogolin (2008): *Der monolinguale Habitus der multilingualen Schule*. 2., erw. Aufl. Münster: Waxmann.  
+- Ingrid Gogolin, Anita Hansen, Sarah McMonagle & Dorothea Rauch (Hrsg.) (2020): *Handbuch Mehrsprachigkeit und Bildung*. Wiesbaden: Springer VS.  
+- Hans-Jürgen Krumm (2016): „Anerkennung von Familiensprachen – zur Situation in Österreich“. In: Susanne Fürstenau & Mechtild Gomolla (Hrsg.): *Migration und schulischer Wandel. Mehrsprachigkeit*. Wiesbaden: Springer VS, 79–94.  
+- Grit Mehlhorn (2017): „Herkunftssprachen im deutschen Schulsystem“. In: *Fremdsprachen Lehren und Lernen* 46 (2), 8–23.  
+- Ursula Neumann & Ingrid Gogolin (Hrsg.) (2009): *Streitfall Zweisprachigkeit. The Bilingualism Controversy*. Wiesbaden: VS Verlag für Sozialwissenschaften.  
 
 </div>
 
