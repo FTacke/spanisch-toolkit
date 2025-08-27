@@ -332,9 +332,9 @@ body[data-md-color-scheme="slate"] .audio-source {
 
 
 .md-typeset details.hoermal {
-    border: .1rem solid #e9440d;
+    border: .1rem solid #d3685f;
 }
 
-
-
-
+.hoermal .admonition-title, .hoermal summary {
+    background-color: #f1ded3;
+}
