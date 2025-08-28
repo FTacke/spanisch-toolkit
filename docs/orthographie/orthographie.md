@@ -48,7 +48,7 @@ Ein weiterer Bereich, der im Unterricht besondere Aufmerksamkeit verdient, sind 
 
 ### Konsonanten
 
-#### Systematische Alternanzen: `<c>` vs. `<z>`, `<g>` vs. `<j>`
+#### Systematische Alternanzen: &lt;c&gt; vs. &lt;u&gt;, &lt;g&gt; vs. &lt;j&gt;
 
 Da es mehr Konsonanten als Vokale gibt, finden sich hier natürlich mehr Abweichungen vom Ideal. Das gerade besprochene diakritische `<u>` wird nur benötigt, weil die Buchstaben `<c>` und `<g>` in den romanischen Sprachen (nicht nur im Spanischen!) mehr als einen Lautwert erhalten haben. ‚Eigentlich‘ stehen sie für <span class="meta">/k/</span> und <span class="meta">/g/</span>, aber wenn ein vorderer Vokal, also <span class="meta">/e/</span> oder <span class="meta">/i/</span>, folgt, dann repräsentieren sie per Konvention die Laute <span class="meta">/θ/</span> (bzw. <span class="meta">/s/</span> im *seseo*) und <span class="meta">/x/</span>. Beispiele hierfür sind *ha**ce**r* <span class="meta">[aˈθeɾ]</span> (*seseo*: <span class="meta">[aˈseɾ]</span>), ***ci**ne* <span class="meta">[ˈθine]</span> bzw. <span class="meta">[ˈsine]</span>, ***ge**nte* <span class="meta">[ˈxente]</span>, ***gi**gante* <span class="meta">[xiˈɣante]</span>.  
 
@@ -63,17 +63,14 @@ Umgekehrt werden die Laute <span class="meta">/θ/</span> (bzw. <span class="met
 
 </details>
 
-
-</details>
-
 Und auch hier liegen Chancen, denn diese Kombinatorik erklärt wiederum die Alternanzen in Verbformen wie *empe**za**r* – *empe**cé***, *lle**ga**r* – *lle**gué***, *co**ge**r* – *co**jo***.  
 
-#### Unsystematische Alternanzen: `<b>` vs. `<v>`
+#### Unsystematische Alternanzen: &lt;b&gt; vs. &lt;v&gt;
 
 Das vielleicht größte ‚Problem‘ der spanischen Orthographie liegt darin, dass dem Laut <span class="meta">/b/</span> zwei Buchstaben, nämlich `<b>` und `<v>`, entsprechen. Umgekehrt gilt im Spanischen, dass beide Buchstaben exakt denselben Lautwert aufweisen und in der Aussprache keinerlei Unterschied gemacht werden sollte. Das ist gewöhnungsbedürftig, denn der Buchstabe `<v>` weist nicht nur im Deutschen, sondern auch in sämtlichen anderen bekannten Fremdsprachen einen eigenen Lautwert auf (meist <span class="meta">/v/</span>, manchmal auch <span class="meta">/f/</span> wie in ***V**ater*).  
 
 <details class="hoermal">
-<summary>Hör mal (Aussprache von <code>&lt;v&gt;</code>)</summary>
+<summary>Hör mal (Aussprache von &lt;v&gt;)</summary>
 
     <p>Anhand der folgenden Audios hörst Du, dass ein spanischer Modellsprecher die Wörter <i><b>b</b>arón</i> und <i><b>v</b>arón</i> genau gleich ausspricht, weil sie im Spanischen trotz der unterschiedlichen Schreibung <i><b>homophon</b></i> sind. Lernende neigen hingegen dazu, das <code>&lt;v&gt;</code> wie im Deutschen und anderen Sprachen auszusprechen, was im Spanischen als Aussprachefehler gilt (das Sternchen kennzeichnet den eindeutigen Fehler).
 
@@ -114,11 +111,11 @@ Die vielen Zweifel, die hier aufkommen können, betreffen nicht nur den Unterric
 
 Die Herausforderung liegt also darin, den Schüler:innen von Beginn an beizubringen, dass die Buchstaben `<b>` und `<v>` immer für <span class="meta">/b/</span> stehen.  
 
-#### Stummer Buchstabe: `<h>`
+#### Stummer Buchstabe: &lt;h&gt;
 
 Ein reiner Anfängerfehler ist bekanntlich das im Spanischen geschriebene, aber immer ‚stumme‘ `<h>` auszusprechen. Der Buchstabe hat also keinen Lautwert, weder am Wortanfang (z.B. *hay*, *hombre*), noch innerhalb des Wortes (z.B. *deshonra*, *prohibir*). Das `<h>` ist dabei manchmal etymologisch motiviert, wie in *haber* (< lat. *habēre*) oder *hombre* (< lat. *hominem*), manchmal wurde es zur Differenzierung von uneindeutigen Lautwerten vor Diphthongen eingeführt wie in *hueso* (< lat. *ossium*/*ossum*) oder es dient zur Kennzeichnung des Silbenbeginns wie in *cacahuete*. In jedem Fall bleibt es stumm. Wer mehr über das <h> im Spanischen wissen möchte, als die Schüler:innen wissen müssen, erfährt hier [mehr](https://www.rae.es/ortograf%C3%ADa/la-h-muda){:target="_blank" rel="noopener noreferrer"}.   
 
-#### ‚Unspanische‘ Buchstaben: `<w>` und `<k>` in Lehnwörtern
+#### ‚Unspanische‘ Buchstaben: &lt;w&gt; und &lt;k&gt; in Lehnwörtern
 
 Die Buchstaben `<w>` und `<k>` gehören zwar zum Alphabet, sind aber keine genuinen Grapheme des Spanischen. Sie erscheinen fast ausschließlich in Fremdwörtern und Eigennamen, etwa in *whisky*, *windsurf*, *wifi*, *Wagner*, *kilo* oder *kayak*. `<k>` wird dabei immer als <span class="meta">/k/</span> ausgesprochen, `<w>` je nach Ursprung als <span class="meta">[b]</span> (*Wagner*), <span class="meta">[w]</span> (*wifi*, *windsurf*) oder <span class="meta">[güi]</span> (*whisky*, *Washington*, *Wellington*). Am Beispiel *whisky* zeigt sich, dass Versuche einer konsequenten Anpassung der Graphie (*güisqui*) oft scheitern, weil viele Sprecher:innen an die internationale Schreibweise gewöhnt sind.  
 
