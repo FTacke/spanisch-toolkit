@@ -182,7 +182,12 @@ audio::-webkit-media-controls-timeline {
   padding: 0.5em 0.5em;
   background: #f7f7f7;
   border-radius: 0.3em;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+body[data-md-color-scheme="slate"] .example {
+  background: #4a4a4a;         /* dunkler Hintergrund */
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);  /* stärkerer Kontrast im Darkmode */
 }
 
 .audio-comparison {
@@ -337,4 +342,12 @@ body[data-md-color-scheme="slate"] .audio-source {
 
 .hoermal .admonition-title, .hoermal summary {
     background-color: #f1ded3;
+}
+
+body[data-md-color-scheme="slate"] .md-typeset details.hoermal {
+  border-color: #c7837b;
+}
+body[data-md-color-scheme="slate"] .hoermal .admonition-title,
+body[data-md-color-scheme="slate"] .hoermal summary {
+  background-color: #6f4f45;
 }
