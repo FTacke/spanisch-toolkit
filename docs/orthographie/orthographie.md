@@ -11,12 +11,12 @@ Deutsch
 Französisch  
 Englisch (am ‚tiefsten‘)  
 
-Ein Kapitel zur linguistischen Betrachtung der Orthographie des Französischen oder Englischen müsste daher sehr umfangreich sein, um das System zu beschreiben und einen linguistisch fundierten Umgang damit auszuloten (in Kreyers *Toolkit* gibt es dazu kein Kapitel).
+Ein Kapitel zur linguistischen Betrachtung der Orthographie des Französischen oder Englischen müsste daher sehr umfangreich sein, um das System zu beschreiben und einen linguistisch fundierten Umgang damit auszuloten.
 
 <details>
 <summary>Orthographien im Vergleich: Beispiele aus anderen (Schul-)Sprachen</summary>
 
-<p>Ein Blick in andere Schulfremdsprachen zeigt, dass Orthographien sehr unterschiedlich eng an die Lautung gebunden sind:</p>
+<p>Ein Blick in andere Schulsprachen einschließlich das Deutsche zeigt, dass Orthographien sehr unterschiedlich eng an die Lautung gebunden sind:</p>
 
 <ul>
 <li><b>Italienisch:</b> Fast ideales 1:1-System. <i>amico</i> wird so gesprochen, wie es geschrieben steht. Selbst Wörter wie <i>avere</i> ‘haben’ und <i>elicottero</i> ‘Hubschrauber’ kommen ohne <i>h</i> aus – im Gegensatz zu sp. <i>haber</i> und <i>helicóptero</i>.</li>
@@ -34,7 +34,7 @@ Dieses Kapitel ist dagegen übersichtlich gestaltet, denn hier gilt es lediglich
 
 ## Fast perfekt: Abweichungen vom Ideal
 
-Je genauer man hinschaut, desto mehr Abweichungen vom Ideal der 1:1-Entsprechung von Lauten und Buchstaben fallen im Spanischen auf. Diese kurz unter schriftlinguistischen Gesichtspunkten zu reflektieren, ist auch für den Spanischunterricht nützlich, liegen doch genau hier die Herausforderungen und potenziellen Fehlerquellen. Tatsächlich folgen die meisten Abweichungen aber klaren Prinzipien, die es wiederum möglich machen, eine nachhaltige orthographische Kompetenz zu vermitteln. Im Folgenden werden nur auf die häufigsten und somit relevantesten Fälle erläutert – vollständige Analysen finden sich in der unten angegebenen Fachliteratur.
+Je genauer man hinschaut, desto mehr Abweichungen vom Ideal der 1:1-Entsprechung von Lauten und Buchstaben fallen im Spanischen auf. Diese kurz unter schriftlinguistischen Gesichtspunkten zu reflektieren, ist auch für den Spanischunterricht nützlich, denn genau hier liegen doch die Herausforderungen und potenziellen Fehlerquellen. Tatsächlich folgen die meisten Abweichungen aber klaren Prinzipien, die es wiederum möglich machen, eine nachhaltige orthographische Kompetenz zu vermitteln. Im Folgenden werden nur die häufigsten und somit relevantesten Fälle erläutert – vollständige Analysen finden sich in der unten angegebenen Fachliteratur.
 
 ### Vokale
 
@@ -42,7 +42,7 @@ Bei den Vokalen gibt es nur wenige Abweichungen. So enden spanische Wörter nie 
 
 Eine kleine Herausforderung stellen geschriebene Vokale dar, die nur diakritische (also unterscheidende) Funktion ohne eigenen Lautwert aufweisen. Das gilt in vielen Sequenzen für `<u>`, nämlich nach `<g>` und in `<qu>`, um zu kennzeichnen, dass diese als Plosive (Verschlusslaute) zu artikulieren sind, wie in ***gu**itarra*, ***gu**erra*, ***qu**eso* und ***qu**itar*. Übrigens ist das in den Orthographien beispielsweise des Französischen und Portugiesischen genauso. Im Italienischen ist das Prinzip identisch, nur der diakritisch verwendete Buchstabe ein anderer, nämlich `<h>`: Dort schreibt man `<ch>` und `<gh>`, wie in ***ch**e* ‘dass’ (statt fr./pt./sp. ***qu**e*), *mac**ch**ina* ‘Auto’, *spag**gh**etti* und *fun**gh**i*.  
 
-In der Herausforderung liegt natürlich eine Chance: Schüler:innen, die diese Zusammenhänge verstehen, haben auch mit der Verbalmorphologie keine Schwierigkeiten. Beispielsweise erklärt das, warum *llegas* im Subjuntivo *lle**gu**es* mit `<gu>` wird und *tocas* im Subjuntivo *to**qu**es*. Die seltenen Fälle von `<ü>`, also dem Buchstaben mit Trema, hebeln dieses Prinzip aus: Das Trema zeigt an, dass der Buchstabe `<u>` nach `<g>` oder `<q>` ausnahmsweise tatsächlich als <span class="meta">/u/</span> (bzw. als Halbvokal <span class="meta">[w]</span>) ausgesprochen wird, wie in *pin**gü**ino* <span class="meta">[piŋˈɡwino]</span>, *ver**gü**enza* <span class="meta">[berˈɣwensa]</span>, *anti*gü*edad* <span class="meta">[antiɣweˈðað]</span> oder auch *lin**gü**ística* <span class="meta">[liŋˈɡwistika]</span>. Der Lautwert entspricht also *nicht* dem deutschen `<ü>`, das für den Vokal <span class="meta">/y/</span> wie in *übel* steht.  
+In der Herausforderung liegt natürlich eine Chance: Schüler:innen, die diese Zusammenhänge verstehen, haben auch mit der Verbalmorphologie keine Schwierigkeiten. Beispielsweise erklärt das, warum im Subjuntivo *llegas* zu *lle**gu**es* mit `<gu>` und *tocas* zu *to**qu**es* mit `<qu>` wird. Die seltenen Fälle von `<ü>`, also dem Buchstaben mit Trema, hebeln dieses Prinzip aus: Das Trema zeigt an, dass der Buchstabe `<u>` nach `<g>` oder `<q>` ausnahmsweise tatsächlich als <span class="meta">/u/</span> (bzw. als Halbvokal <span class="meta">[w]</span>) ausgesprochen wird, wie in *pin**gü**ino* <span class="meta">[piŋˈɡwino]</span>, *ver**gü**enza* <span class="meta">[berˈɣwensa]</span>, *anti*gü*edad* <span class="meta">[antiɣweˈðað]</span> oder auch *lin**gü**ística* <span class="meta">[liŋˈɡwistika]</span>. Der Lautwert entspricht also *nicht* dem deutschen `<ü>`, das für den Vokal <span class="meta">/y/</span> wie in *übel* steht.  
 
 Ein weiterer Bereich, der im Unterricht besondere Aufmerksamkeit verdient, sind die Diphthonge. Das Spanische verfügt über deutlich mehr Diphthonge als das Deutsche (ca. 12 vs. 3–4). Für deutsche Lernende ergeben sich häufig Schwierigkeiten durch Transfer aus der Erstsprache. Besonders auffällig ist das Graphem `<eu>`: Wörter wie *Europa* werden oft <span class="meta">[<b>ɔɪ</b>.ˈro.pa]</span> ausgesprochen, analog zum Deutschen *Europa* <span class="meta">[ɔɪ̯.ˈʁoː.pa]</span>. Auch *d*eu*da* wird häufig fehlerhaft als <span class="meta">[d<b>e.ˈʔu</b>.da]</span> realisiert, korrekt ist jedoch <span class="meta">[ˈd<b>ew̯</b>da]</span>. Lehrkräfte sollten hier kontrastiv arbeiten und Lernende auf die systematische Bildung spanischer Diphthonge hinweisen. Hilfreich ist es, bekannte Wörter als Modell zu nutzen und gezielt gegen deutsche Muster (z.B. `<eu>` → <span class="meta">[ɔɪ]</span>) abzugrenzen.  
 
@@ -57,9 +57,9 @@ Umgekehrt werden die Laute <span class="meta">/θ/</span> (bzw. <span class="met
 <details>
 <summary><i>México</i> und <i>zigzag</i>: Abweichungen von der Systematik</summary>
 
-<p>Einige Wörter zeigen Abweichungen von der sonstigen Regel: Sie werden mit <code>&lt;z&gt;</code> geschrieben, obwohl sie vor <span class="meta">/e i/</span> stehen, wo eigentlich <code>&lt;c&gt;</code> erwartbar ist, z.B. <i>zeta</i>, <i>zen</i>, <i>nazi</i>, <i>kamikaze</i>, <i>zepelín</i> oder <i>enzima</i>. Dazu gehört auch <i>zigzag</i>: Hier verstärkt das Zickzack des Buchstabens das Bild der Bewegung selbst, die Schreibung steht also in einem ikonischen Verhältnis zum gemeinten Konzept. Auch viele Eigennamen und ihre Ableitungen weichen ab, etwa <i>Nueva Zelanda</i> – <i>neozelandés</i>, <i>Zimbabue</i> – <i>zimbabuense</i>. Wer mehr über solche Fälle erfahren möchte, findet <a href="https://www.rae.es/ortografia/la-z" target="_blank" rel="noopener noreferrer">hier</a> mehr zur Schreibung von <code>&lt;z&gt;</code>.</p>
+<p>Einige Wörter zeigen Abweichungen von der sonstigen Regel: Sie werden mit <code>&lt;z&gt;</code> geschrieben, obwohl sie vor <span class="meta">/e i/</span> stehen, wo eigentlich <code>&lt;c&gt;</code> erwartbar ist, z.B. <i>zeta</i>, <i>zen</i>, <i>nazi</i>, <i>kamikaze</i>, <i>zepelín</i> oder <i>enzima</i>. Dazu gehört auch <i>zigzag</i>: Hier verstärkt das Zickzack des Buchstabens das Bild der Bewegung selbst, die Schreibung steht also in einem ikonischen Verhältnis zum gemeinten Konzept. Auch viele Eigennamen und ihre Ableitungen weichen ab, etwa <i>Nueva Zelanda</i> – <i>neozelandés</i>, <i>Zimbabue</i> – <i>zimbabuense</i>. Wer mehr über solche Fälle erfahren möchte, findet <a href="https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-z" target="_blank" rel="noopener noreferrer">hier</a> mehr zur Schreibung von <code>&lt;z&gt;</code>.</p>
 
-<p>Eine weitere Ausnahme bildet <code>&lt;x&gt;</code> mit dem Lautwert <span class="meta">/x/</span> in Eigennamen wie <i>México</i>, <i>Oaxaca</i> oder <i>Texas</i>. Ursprünglich notierte <code>&lt;x&gt;</code> den Laut <span class="meta">[ʃ]</span>, der sich später zu <span class="meta">[x]</span> entwickelte. Im 20. Jh. empfahl die <i>Real Academia Española</i> zeitweise die Schreibung <i>Mé<b>j</b>ico</i>, konnte sich damit aber nicht durchsetzen. Für das Land war die Beibehaltung von <code>&lt;x&gt;</code> wichtig, weil der Buchstabe als Teil der kulturellen Identität gilt. <a href="https://www.rae.es/consultas/mexico-mejico" target="_blank" rel="noopener noreferrer">Mehr</a> zur Schreibung von México.</p>
+<p>Eine weitere Ausnahme bildet <code>&lt;x&gt;</code> mit dem Lautwert <span class="meta">/x/</span> in Eigennamen wie <i>México</i>, <i>Oaxaca</i> oder <i>Texas</i>. Ursprünglich notierte <code>&lt;x&gt;</code> den Laut <span class="meta">[ʃ]</span>, der sich später zu <span class="meta">[x]</span> entwickelte. Im 20. Jh. empfahl die <i>Real Academia Española</i> zeitweise die Schreibung <i>Mé<b>j</b>ico</i>, konnte sich damit aber nicht durchsetzen. Für das Land war die Beibehaltung von <code>&lt;x&gt;</code> wichtig, weil der Buchstabe als Teil der kulturellen Identität gilt. <a href="https://www.rae.es/ortograf%C3%ADa/representaci%C3%B3n-gr%C3%A1fica-del-fonema-j" target="_blank" rel="noopener noreferrer">Mehr</a> zur Schreibung von México.</p>
 
 </details>
 
@@ -113,7 +113,7 @@ Die Herausforderung liegt also darin, den Schüler:innen von Beginn an beizubrin
 
 #### Stummer Buchstabe: &lt;h&gt;
 
-Ein reiner Anfängerfehler ist bekanntlich das im Spanischen geschriebene, aber immer ‚stumme‘ `<h>` auszusprechen. Der Buchstabe hat also keinen Lautwert, weder am Wortanfang (z.B. *hay*, *hombre*), noch innerhalb des Wortes (z.B. *deshonra*, *prohibir*). Das `<h>` ist dabei manchmal etymologisch motiviert, wie in *haber* (< lat. *habēre*) oder *hombre* (< lat. *hominem*), manchmal wurde es zur Differenzierung von uneindeutigen Lautwerten vor Diphthongen eingeführt wie in *hueso* (< lat. *ossium*/*ossum*) oder es dient zur Kennzeichnung des Silbenbeginns wie in *cacahuete*. In jedem Fall bleibt es stumm. Wer mehr über das <h> im Spanischen wissen möchte, als die Schüler:innen wissen müssen, erfährt hier [mehr](https://www.rae.es/ortograf%C3%ADa/la-h-muda){:target="_blank" rel="noopener noreferrer"}.   
+Ein reiner Anfängerfehler ist bekanntlich das im Spanischen geschriebene, aber immer ‚stumme‘ `<h>` auszusprechen. Der Buchstabe hat also keinen Lautwert, weder am Wortanfang (z.B. *hay*, *hombre*), noch innerhalb des Wortes (z.B. *deshonra*, *prohibir*). Das `<h>` ist dabei manchmal etymologisch motiviert, wie in *haber* (< lat. *habēre*) oder *hombre* (< lat. *hominem*), manchmal wurde es zur Differenzierung von uneindeutigen Lautwerten vor Diphthongen eingeführt wie in *hueso* (< lat. *ossium*/*ossum*) oder es dient zur Kennzeichnung des Silbenbeginns wie in *cacahuete*. In jedem Fall bleibt es stumm. Wer mehr über das `<h>` im Spanischen wissen möchte, als die Schüler:innen wissen müssen, erfährt hier [mehr](https://www.rae.es/ortograf%C3%ADa/la-h-muda){:target="_blank" rel="noopener noreferrer"}.   
 
 #### ‚Unspanische‘ Buchstaben: &lt;w&gt; und &lt;k&gt; in Lehnwörtern
 
@@ -175,7 +175,7 @@ Auch wenn die spanische Orthographie im Kern sehr regelmäßig ist, gibt es Bere
 
 #### Gelehrte Wörter: Lautwandel im Wortschatz
 
-In gelehrten oder aus dem Lateinischen übernommenen Wörtern hat die Schreibung ältere Lautzustände konserviert. So stehen Varianten wie *oscuro* / *obscuro* oder *sétimo* / *séptimo* nebeneinander, wobei die kürzere Form dem heutigen Sprachgebrauch entspricht. Auch Konsonantgruppen wie `<ps->` oder `<pt->` bleiben in der Schreibung erhalten (*psicología*, *ptolemaico*), obwohl sie in der Aussprache reduziert sind. Die Orthographie sichert hier die Kontinuität mit dem lateinischen Ursprung, auch wenn der Lautwandel längst abgeschlossen ist.  
+In gelehrten oder aus dem Lateinischen übernommenen Wörtern hat die Schreibung ältere Lautzustände konserviert. So stehen Varianten wie *oscuro* / *obscuro* oder *sétimo* / *séptimo* nebeneinander, wobei die kürzere Form dem heutigen Sprachgebrauch entspricht. Auch Konsonantengruppen wie `<ps->` oder `<pt->` bleiben in der Schreibung erhalten (*psicología*, *ptolemaico*), obwohl sie in der Aussprache reduziert sind. Die Orthographie sichert hier die Kontinuität mit dem lateinischen Ursprung, auch wenn der Lautwandel längst abgeschlossen ist.  
 
 #### Fremdwörterintegration
 
@@ -199,7 +199,7 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten.
 <details>
 <summary>Wer mehr wissen will (klickt hier)</summary>
 
-<p>Das grundlegende Referenzwerk ist die <i><a href="https://www.rae.es/ortografia" target="_blank" rel="noopener noreferrer">Ortografía de la lengua española</a></i> (OLE 2010) der Real Academia Española und der Asociación de Academias de la Lengua Española. Sie ist vollständig online verfügbar und bündelt alle Regeln, erläutert Sonderfälle und gibt Hinweise zu Fremdwörtern und Varianten. Ergänzend informiert das <i><a href="https://www.rae.es/dpd/" target="_blank" rel="noopener noreferrer">Diccionario panhispánico de dudas</a></i> (RAE/ASALE 2005) über orthographische Zweifelsfälle, während das <i><a href="https://dle.rae.es" target="_blank" rel="noopener noreferrer">Diccionario de la lengua española</a></i> (DLE) auch alternative Schreibungen angibt (s.o.).</p>
+<p>Das grundlegende Referenzwerk ist die <i><a href="https://www.rae.es/ortograf%C3%ADa/" target="_blank" rel="noopener noreferrer">Ortografía de la lengua española</a></i> (OLE 2010) der Real Academia Española und der Asociación de Academias de la Lengua Española. Sie ist vollständig online verfügbar und bündelt alle Regeln, erläutert Sonderfälle und gibt Hinweise zu Fremdwörtern und Varianten. Ergänzend informiert das <i><a href="https://www.rae.es/dpd/" target="_blank" rel="noopener noreferrer">Diccionario panhispánico de dudas</a></i> (RAE/ASALE 2005) über orthographische Zweifelsfälle, während das <i><a href="https://dle.rae.es" target="_blank" rel="noopener noreferrer">Diccionario de la lengua española</a></i> (DLE) auch alternative Schreibungen angibt (s.o.).</p>
 
 <p>Für einen historischen und systematischen Überblick sind Meisenburgs Studien zu den romanischen Schriftsystemen (1996) besonders empfehlenswert. Tacke (2020) gibt eine aktuelle Gesamtdarstellung zu Orthographie und Orthoepie (Standardaussprache) im Spanischen. Einen praxisorientierten Zugang bietet Martínez de Sousa (2014) mit seinem <i>Manual de estilo de la lengua española</i>. Nützlich sind außerdem die digitalen Beratungsangebote der RAE und der Fundéu (<a href="https://www.fundeu.es" target="_blank" rel="noopener noreferrer">www.fundeu.es</a>), die laufend neue orthographische Empfehlungen bereitstellen.</p>
 
@@ -231,6 +231,6 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten.
 
 [^*]: **Autor:innen:** Felix Tacke, Marlon Merte
 
-      **Beiträge & Peer Review:** Mariana Prukop, Lea-Marie Domin
+      **Beiträge & Peer Review:** Mariana Prukop, Gloria Gabriel, Lea-Marie Domin
         
-      **Letzte Änderung:** 26.08.2025
+      **Letzte Änderung:** 02.09.2025
