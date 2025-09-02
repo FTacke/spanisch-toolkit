@@ -21,7 +21,7 @@ Das Kapitel versteht das Spanische also als vorläufiges Resultat von Sprachwand
 
 Auch wenn die Darstellung keine direkte Didaktisierung verfolgt, ist sie auf (angehende) Lehrkräfte zugeschnitten: Wer die historischen Hintergründe kennt, kann das heutige System klarer einschätzen. Was sonst willkürlich wirkt, zeigt sich als Produkt regelmäßiger Entwicklungen. Dieses Wissen macht den Unterricht sprachlich fundierter und kann ihn auch für Lernende an zentralen Stellen transparenter machen. Die diachrone Perspektive ist somit ebenfalls ein kleiner Baustein und kann ein wichtiges Werkzeug für den fachlich fundierten Unterricht sein.
 
-Nach einer allgemeinen Übersicht über grundlegende Prinzipien des Sprachwandels, die das Verständnis der Beispiele vorbereiten, richtet sich der Blick dieses Kapitels auf Strukturen, die Lernenden besonders oft Herausforderungen darstellen, weil sie von den erlernten regelmäßigen Mustern abweichen: die Unregelmäßigkeit gerade der häufigsten Verben (z.B. *ir → voy*, *saber → sé*), die unerwartete Genuszuweisung (*la mano*) oder Artikelform (*el agua*) bei einzelnen Substantiven, lautliche Alternationen innerhalb eines Paradigmas (*poder → p**ue**do / p**o**demos*) sowie weitere scheinbare Ausnahmen, die sich erst in diachroner Perspektive als systematisch nachvollziehbar erweisen.
+Nach einer allgemeinen Übersicht über grundlegende Prinzipien des Sprachwandels, die das Verständnis der Beispiele vorbereiten, richtet sich der Blick dieses Kapitels auf Strukturen, die Lernenden besonders oft Herausforderungen darstellen, weil sie von den erlernten regelmäßigen Mustern abweichen: die Unregelmäßigkeit gerade der häufigsten Verben (z.B. *ir → voy*, *saber → sé*), die unerwartete Genuszuweisung (*la mano*) oder Artikelform (*el agua*) bei einzelnen Substantiven, lautliche Alternationen innerhalb eines Paradigmas (*poder → p<u>ue</u>do / p<u>o</u>demos*) sowie weitere scheinbare Ausnahmen, die sich erst in diachroner Perspektive als systematisch nachvollziehbar erweisen.
 
 
 
@@ -46,19 +46,19 @@ Für Lehrkräfte ist diese Perspektive wichtig: Viele scheinbar willkürliche Ei
 
 Beispiele finden wir in allen Sprachen, auch im Deutschen und Spanischen. So hört man im Deutschen heute meist *wegen dem Wetter*, obwohl traditionelle Grammatik *wegen des Wetters* vorsieht – eine Veränderung, die sich von der gesprochenen Sprache aus langsam verbreitet und mittlerweile auch vom [Duden](https://www.duden.de/rechtschreibung/wegen){:target="_blank" rel="noopener noreferrer"} akzeptiert wird. Auch Verbformen gleichen sich an: Aus *ich buk* wurde *ich backte* und passt nun in das reguläre Muster der schwachen Verben.  
 
-Ähnliche Entwicklungen prägen auch das Spanische. So sind Formen wie *la mano* (feminin) und *el día* (maskulin) und wieder anders *el agua* (feminin) das Ergebnis historischer Prozesse, die heute ungewöhnlich wirken. Im Lautsystem zeigt sich Wandel in Wortvarianten wie [*septiembre* / *setiembre*](https://dle.rae.es/septiembre){:target="_blank" rel="noopener noreferrer"} oder in der Abschwächung des <span class="meta">/s/</span> im Silbenauslaut (vgl. Kapitel [Aussprachevariation](../aussprache/varianten.md)). Und im Wortschatz hat [*azafata*](https://dle.rae.es/azafata){:target="_blank" rel="noopener noreferrer"} ehemals eine Frau bezeichnet, die der Königin das Gewand auf einem Tablett (*azafate*) reichte – heute hingegen steht es für eine Flugbegleiterin oder auch den männlichen Flugbegleiter (*azafato*), ein Wandel, der durch gesellschaftliche Entwicklungen geprägt wurde.  
+Ähnliche Entwicklungen prägen auch das Spanische. So sind Formen wie *<u>la</u> mano* (feminin) und *<u>el</u> día* (maskulin) und wieder anders *<u>el</u> agua* (feminin) das Ergebnis historischer Prozesse, die heute ungewöhnlich wirken. Im Lautsystem zeigt sich Wandel in Wortvarianten wie [*septiembre* / *setiembre*](https://dle.rae.es/septiembre){:target="_blank" rel="noopener noreferrer"} oder in der Abschwächung des <span class="meta">/s/</span> im Silbenauslaut (vgl. Kapitel [Aussprachevariation](../aussprache/varianten.md)). Und im Wortschatz hat [*azafata*](https://dle.rae.es/azafata){:target="_blank" rel="noopener noreferrer"} ehemals eine Frau bezeichnet, die der Königin das Gewand auf einem Tablett (*azafate*) reichte – heute hingegen steht es für eine Flugbegleiterin oder auch den männlichen Flugbegleiter (*azafato*), ein Wandel, der durch gesellschaftliche Entwicklungen geprägt wurde.  
 
 Sprachwandel zeigt sich also auf allen Ebenen – in Lautung, Formen und Wortschatz – und macht sichtbar, dass Sprache immer in Bewegung ist.  
 
 
-## Bemerkenswerte Strukturen der Gegenwartssprache
+## Bemerkenswerte Strukturen der Gegenwartssprache: Fragen und Antworten 
 
-Die folgenden Abschnitte greifen markante Besonderheiten des heutigen Spanischen auf. Den Anfang machen lautliche Erscheinungen, an denen sich besonders deutlich zeigen lässt, wie Wandel zu den heutigen Mustern geführt hat.  
+Die folgenden Abschnitte greifen markante Besonderheiten des heutigen Spanischen auf. Den Anfang machen lautliche Erscheinungen, an denen sich besonders deutlich zeigen lässt, wie Wandel zu den heutigen Mustern geführt hat. Im Anschluss werden die bemerkenswerten Unregelmäßigkeiten in den Formen der Substantive und Verben betrachtet und schließlich geht es um die Innovationen der romanischen Sprachen und was man aus ihnen lernen kann. Die einzelnen Themen sind im Format „Fragen und Antworten“ aufgebaut: Jede Frage entspricht einer typischen (oder zumindest potenziellen) Beobachtung im Unterricht, die Antwort erklärt sie diachron und macht das scheinbar Willkürliche nachvollziehbar.  
 
-### Lautung: Fragen und Antworten  
+### Lautung 
 
 #### Warum enthalten manche Wörter einen Diphthong (*f<u>ie</u>sta*), andere nicht (*f<u>e</u>stivo*)?  
-Die Diphthongierung gehört zu den markantesten Entwicklungen im Spanischen. Sie betrifft vor allem Wörter, die im Lateinischem ein kurzes /Ĕ/ oder ein kurzes /Ŏ/ in betonter Silbe aufwiesen. Diese diphthongierten äußerst regelmäßig zu *ie* bzw. *ue*. So wurde aus lat. FĔSTA *f<u>ie</u>sta* und aus FŎRAS *fuera*. In unbetonten Silben passierte dies nicht und der Vokal blieb einfach, sodass FESTĪVUM sp. *f<u>e</u>stivo* ergab und nicht etwa *\*fiestivo*. Deshalb zeigen viele Wortpaare einen auffälligen Unterschied: *t<u>ie</u>rra* neben *t<u>e</u>rritorio*, *p<u>ue</u>rta* neben *p<u>o</u>rtón*, *n<u>ue</u>vo* neben *n<u>o</u>vedad*.  
+Die Diphthongierung gehört zu den markantesten Entwicklungen im Spanischen. Sie betrifft vor allem Wörter, die im Lateinischem ein kurzes /Ĕ/ oder ein kurzes /Ŏ/ in betonter Silbe aufwiesen. Diese diphthongierten äußerst regelmäßig zu *ie* bzw. *ue*. So wurde aus lat. F<u>Ĕ</u>STA *f<u>ie</u>sta* und aus F<u>Ŏ</u>RAS *fuera*. In unbetonten Silben passierte dies nicht und der Vokal blieb einfach, sodass FESTĪVUM sp. *f<u>e</u>stivo* ergab und nicht etwa *\*fiestivo*. Deshalb zeigen viele Wortpaare einen auffälligen Unterschied: *t<u>ie</u>rra* neben *t<u>e</u>rritorio*, *p<u>ue</u>rta* neben *p<u>o</u>rtón*, *n<u>ue</u>vo* neben *n<u>o</u>vedad*.  
 
 Hier liegt übrigens auch der Grund für die verschiedenen Verbstämme vieler regelmäßiger Verben (*tener → t<u>ie</u>nes/t<u>e</u>nemos*), aber dazu unten mehr.
 
@@ -66,7 +66,7 @@ Hier liegt übrigens auch der Grund für die verschiedenen Verbstämme vieler re
 
 Im Gegenwartsspanischen werden die Verschlusslaute <span class="meta">/b d g/</span> besonders in intervokalischer Position abgeschwächt (vgl. Kapitel [Aussprache](Link)). Dabei handelt es sich um bereits abgeschwächte Laute, denn im Lateinischen standen an ihrer Stelle meist die Verschlusslaute <span class="meta">/p t k/</span>, sodass aus lat. LUPUM beispielsweise *lobo* wurde.  
 
-Besonders das <span class="meta">/d/</span> wird im heutigen Spanisch noch weiter geschwächt, bis hin zur Tilgung wie in *mercado* > *mercao* und immer öfter auch in den Partizipformen: *llegado* > *llegao*. Diachron betrachtet geht die Abschwächung also vom ursprünglichen <span class="meta">/p t k/</span> im Lateinischen über die <span class="meta">/b d g/</span> im Spanischen bis zur Elision in der gesprochenen Sprache einen Weg, der sich anhand vieler Zwischenstufen, die heute parallel existieren, nachzeichnen lässt:  
+Besonders das <span class="meta">/d/</span> wird im heutigen Spanisch noch weiter geschwächt, bis hin zur Tilgung wie in *merca<u>d</u>o* > *mercao* und immer öfter auch in den Partizipformen: *llega<u>d</u>o* > *llegao*. Diachron betrachtet geht die Abschwächung also vom ursprünglichen <span class="meta">/p t k/</span> im Lateinischen über die <span class="meta">/b d g/</span> im Spanischen bis zur Elision in der gesprochenen Sprache einen Weg, der sich anhand vieler Zwischenstufen, die heute parallel existieren, nachzeichnen lässt:  
 
 - <span class="meta">/p/</span>: <span class="meta">[p]</span> > <span class="meta">[b]</span> > <span class="meta">[β]</span> > <span class="meta">[Ø]</span>  
 - <span class="meta">/t/</span>: <span class="meta">[t]</span> > <span class="meta">[d]</span> > <span class="meta">[ð]</span> > <span class="meta">[Ø]</span>  
@@ -76,13 +76,18 @@ Die Abschwächung kann je nach Region mehr oder weniger weit gehen und hängt gl
 
 #### Warum heißt es *setiembre* und *septiembre*?  
 
-Die beiden Varianten zeigen die Tendenz des Spanischen zur offenen Silbenstruktur (CV-Silbe = Konsonant-Vokal). Silbenfinale Konsonanten werden abgebaut oder verschliffen, etwa auch in [*doctor*](https://dle.rae.es/doctor){:target="_blank" rel="noopener noreferrer"} > *dotor*. Die Schrift bewahrt meist die älteren Konsonanten, die in der Aussprache häufig verschwinden (vgl. Kapitel [Orthographie](../orthographie/index.md){:target="_blank" rel="noopener noreferrer"}).  
+Die beiden Varianten zeigen die Tendenz des Spanischen zur offenen Silbenstruktur (CV-Silbe = Konsonant-Vokal). Silbenfinale Konsonanten werden abgebaut oder verschliffen, etwa auch in [*do<u>c</u>tor*](https://dle.rae.es/doctor){:target="_blank" rel="noopener noreferrer"} > *dotor*. Die Schrift bewahrt meist die älteren Konsonanten, die in der Aussprache häufig verschwinden (vgl. Kapitel [Orthographie](../orthographie/index.md){:target="_blank" rel="noopener noreferrer"}).  
 
 So stehen heute beide Formen [*septiembre*](https://dle.rae.es/septiembre){:target="_blank" rel="noopener noreferrer"} und [*setiembre*](https://dle.rae.es/setiembre){:target="_blank" rel="noopener noreferrer"} nebeneinander – beide sind korrekt und im Wörterbuch verzeichnet.  
 
 Ein analoger Prozess zeigt sich bei Präfixen wie *trans-* vs. *tras-*. Im Spanischen dominierten Formen mit *tras-* (z. B. [*trasplantar*](https://dle.rae.es/trasplantar), [*traspasar*](https://dle.rae.es/traspasar){:target="_blank" rel="noopener noreferrer"}). In gelehrten oder international geprägten Bildungen kam *trans-* zurück ([*transparente*](https://dle.rae.es/transparente){:target="_blank" rel="noopener noreferrer"}, [*transfusión*](https://dle.rae.es/transfusi%C3%B3n){:target="_blank" rel="noopener noreferrer"}). Diese Variation in der Lautung verdeutlicht die Tendenz zur Vereinfachung von Konsonantenclustern.  
 
 Ein weiteres Beispiel komplexer Konsonantenfolgen ohne Aussprache ist [*psicólogo*](https://dle.rae.es/psic%C3%B3logo){:target="_blank" rel="noopener noreferrer"} bzw. *psíquico*. Das initiale `<p>` wird in der Aussprache in der Regel nicht realisiert, obwohl es orthographisch steht – hier wiederum ein Erbe des griechischen Ursprungs.  
+
+#### Und was ist mit dem *-s* im Auslaut?  
+Die Tendenz zur offenen Silbe betrifft auch das silben- und wortfinale <span class="meta">/s/</span>: In vielen Varietäten wird es im Silbenauslaut abgeschwächt oder getilgt, z.B. *lo<u>s</u> amigo<u>s</u>* → <span class="meta">[loh.a.ˈmi.ɣoh]</span> ~ <span class="meta">[lo.a.ˈmi.ɣo]</span> oder  *¿tiene<u>s</u> tiempo?* <span class="meta">[ˈtje.ne.ˈtjem.po]</span>. Das hat wiederum Konsequenzen für die Pluralmarkerierung und die Kennzeichnung der grammatischen Person (s.u.). Die Abschwächung ist in einigen Teilen der Hispanophonie kennzeichnend, hat aber auf die Schrift keinen Einfluss. Eine ausführliche Auseinandersetzung mit dem lautlichen Phänomen und den Regionen, in denen es besonders kennzeichnend ist, findet sich im Kapitel [Aussprachevariation](../aussprachevariation/index.md).  
+
+In sprachgeschichtlicher Hinsicht ist das Phänomen spannend, da sich in vielen Varietäten aktuell ein Wandel vollzieht, der z.B. im Französischen bereits vor vielen Jahrhunderten stattgefunden hatte (vgl. fr. *le<u>s</u> femme<u>s</u>* <span class="meta">[le.fam]</span>).
 
 #### Warum enden fast alle Wörter auf der vorletzten oder letzten Silbe?  
 Im Übergang vom Latein zum Spanischen wurden viele unbetonte Vokale im Inneren getilgt. Beispiele sind OC<u>U</u>LUS > [*ojo*](https://dle.rae.es/ojo){:target="_blank" rel="noopener noreferrer"}, TAB<u>U</u>LA > [*tabla*](https://dle.rae.es/tabla){:target="_blank" rel="noopener noreferrer"}, VET<u>U</u>LUS > [*viejo*](https://dle.rae.es/viejo), CAL<u>I</u>DUS > [*caldo*](https://dle.rae.es/caldo){:target="_blank" rel="noopener noreferrer"}. Diese Synkope führte dazu, dass die meisten Wörter heute auf der vorletzten oder letzten Silbe betont werden.  
@@ -94,11 +99,15 @@ Zum Vergleich: Im Italienischen ist die vorvorletzte Silbe als Akzentposition se
 #### Warum ist das *h* im Spanischen stumm?  
 Der heutige Buchstabe `<h>`, den man in der geschriebenen Sprache vorfindet, hatte einst Lautwert. In vielen Fällen geht er auf ein lateinisches <span class="meta">/f/</span> zurück, das im Übergang zum Spanischen zu einem schwachen Atemlaut wurde und schließlich verschwand. So wurde FACERE zu *hacer*, FERRUM zu *hierro*, FORMOSUS zu *hermoso*. Die Schreibung ist also ein historisches Relikt, das meist auf den einstigen Lautwert und die lateinische Herkunft verweist (vgl. Kapitel [Orthographie](../orthographie/index.md); siehe auch [RAE](https://www.rae.es/ortograf%C3%ADa/la-h-muda){:target="_blank" rel="noopener noreferrer"}).  
 
-Ein Vergleich mit anderen romanischen Sprachen (z. B. frz. *faire*, pt. *fazer*, it. *fare*) zeigt, dass dieser Wandel spezifisch für das Spanische war.  
+Ein Vergleich mit anderen romanischen Sprachen (z. B. fr. *faire*, pt. *fazer*, it. *fare*) zeigt, dass dieser Wandel spezifisch für das Spanische war.  
 
 Heute kennen alle romanischen Sprachen kein phonetisches <span class="meta">/h/</span> mehr: das Graphem `<h>` bleibt überall stumm, nur seine historische Herkunft unterscheidet sich.    
 
+### Formen (Substantive, Verben)
 
+Sevgi, Domin
 
+### Romanische Innovationen (Grammatikalisierung)
 
+Tacke
 
