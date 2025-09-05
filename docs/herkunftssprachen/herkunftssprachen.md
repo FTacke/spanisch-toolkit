@@ -4,7 +4,7 @@
 
 Wer eine Spanischklasse unterrichtet, kennt das Phänomen: Während einige Schüler:innen scheinbar mühelos das ‚gerollte R‘ sprechen, tun sich andere schwer damit. Solche Unterschiede sind kein Zufall – sie spiegeln wider, dass jede:r Lernende seine eigene sprachliche Biographie und unterschiedliche Herkunftssprachen mitbringt. Neben dem Deutschen als Erstsprache weist das Klassenzimmer von heute eine große Vielfalt an weiteren Erstsprachen auf. Für die individuelle Lernkurve im Fremdsprachenunterricht können diese Herkunftssprachen dabei nicht nur beim ‚gerollten R‘ einen Vorteil darstellen, wenn man sie als Lehrkraft zu berücksichtigen weiß. Umgekehrt kann es aber auch besondere Herausforderungen geben – etwa beim Erlernen der Artikelverwendung –, auf die man möglicherweise zum Wohle der Gemeinschaft etwas mehr eingeht.  
 
-Herkunftssprachen und Mehrsprachigkeit werden im Schulalltag jedoch noch zu häufig als Hürde oder gar ‚Manko‘ wahrgenommen. Dabei spricht die Fachdidaktik seit Jahren vom mehrsprachigen Klassenzimmer – einer Lernumgebung, in der die Vielfalt der Schüler:innensprachen als integraler Bestandteil des Unterrichts gesehen wird. Nur selten wird jedoch konkret aus linguistischer Perspektive beleuchtet, welche sprachstrukturellen Ressourcen hier schlummern. Dieses Kapitel nimmt genau diesen Perspektivwechsel vor: Wir blicken spezifisch auf die Herkunftssprachen der Lernenden, vergleichen ihre Strukturen mit dem Deutschen und Spanischen und machen erkennbar, wo echte Chancen liegen und wo Sensibilität gefragt ist. Die Vorteile liegen auf der Hand: Wertschätzung der mitgebrachten Sprachen kann Motivation stärken und sowohl die Beziehung zwischen Lehrkraft und Lernenden, als auch zwischen den Lernenden fördern. Gleichzeitig eröffnet sie didaktische Möglichkeiten, zum Beispiel beim Vergleichen von Artikulation und grammatikalischen Strukturen und beim gezielten Erklären von Verwechslungen und typischen Fehler.  
+Herkunftssprachen und Mehrsprachigkeit werden im Schulalltag jedoch noch zu häufig als Hürde oder gar ‚Manko‘ wahrgenommen. Dabei spricht die Fachdidaktik seit Jahren vom mehrsprachigen Klassenzimmer – einer Lernumgebung, in der die Vielfalt der Schüler:innensprachen als integraler Bestandteil des Unterrichts gesehen wird. Nur selten wird jedoch konkret aus linguistischer Perspektive beleuchtet, welche sprachstrukturellen Ressourcen hier schlummern. Dieses Kapitel nimmt genau diesen Perspektivwechsel vor: Wir blicken spezifisch auf die Herkunftssprachen der Lernenden, vergleichen ihre Strukturen mit dem Deutschen und Spanischen und machen erkennbar, wo echte Chancen liegen und wo Sensibilität gefragt ist. Die Vorteile liegen auf der Hand: Wertschätzung der mitgebrachten Sprachen kann Motivation stärken und sowohl die Beziehung zwischen Lehrkraft und Lernenden, als auch zwischen den Lernenden fördern. Gleichzeitig eröffnet sie didaktische Möglichkeiten, zum Beispiel beim Vergleichen von Artikulation und grammatikalischen Strukturen und beim gezielten Erklären von Verwechslungen und typischen Fehlern.  
 
 Für einen gewinnbringenden Umgang mit Mehrsprachigkeit ist es dabei keineswegs notwendig, jede Herkunftssprache zu beherrschen. Hilfreich sind jedoch sogenannte ‚strukturelle Kenntnisse‘ der Herkunftssprachen. Ich muss nicht Türkisch oder Polnisch sprechen können, um zu wissen, dass in diesen Sprachen kein Artikel verwendet wird; ich muss auch nicht Persisch verstehen, um damit umzugehen, dass das Verb im Persischen üblicherweise am Ende des Satzes steht – im Kontrast zum Deutschen und Spanischen. Genau hier sind Sprachtypologie und kontrastive Linguistik als wissenschaftliche Grundlagen nützlich und bieten Hilfe: Sie ermöglichen es, relevante Ähnlichkeiten und Unterschiede zwischen den Herkunftssprachen der Lernenden und der Zielsprache Spanisch systematisch zu erkennen.  
 
@@ -12,7 +12,7 @@ Das Kapitel bietet zunächst einen Überblick über die häufigsten Herkunftsspr
 
 ## Herkunftssprachen & Sprachfamilien
 
-Unter den am häufigsten in Deutschland gesprochenen Herkunftssprachen befinden sich aktuell Türkisch (2,1 Mio.), Russisch (1,9 Mio.), Arabisch (1,4 Mio.), Polnisch (1,0 Mio.), Ukrainisch (0,7 Mio.), Kurdisch (0,6 Mio.), Italienisch (0,5 Mio.), Persisch/Farsi/Dari (0,4 Mio.) und Paschtu (0,06 Mio.). Hinzu kommt Englisch, das wir aber in unserer Darstellung ausblenden, da es als meist erste Fremdsprache hinreichend bekannt ist. Die sprachliche Vielfalt der Gesellschaft spiegelt sich natürlich auch im Klassenraum wider. Wie stehen nun diese Sprachen aus linguistischer Perspektive zum Deutschen als Umgebungssprache und zum Spanischen als Zielsprache unseres Unterrichts?  
+Unter den am häufigsten in Deutschland gesprochenen Herkunftssprachen befinden sich aktuell Türkisch (2,1 Mio.), Russisch (1,9 Mio.), Arabisch (1,4 Mio.), Polnisch (1,0 Mio.), Ukrainisch (0,7 Mio.), Kurdisch (0,6 Mio.), Italienisch (0,5 Mio.), Persisch/Farsi/Dari (0,4 Mio.) und Paschtu (0,06 Mio.). Hinzu kommt Englisch, das wir aber ausblenden, da es in der Regel als erste Fremdsprache erlernt und somit hinreichend bekannt ist. Die sprachliche Vielfalt der Gesellschaft spiegelt sich natürlich auch im Klassenraum wider. Wie stehen nun diese Sprachen aus linguistischer Perspektive zum Deutschen als Umgebungssprache und zum Spanischen als Zielsprache unseres Unterrichts?  
 
 Die folgende Karte gibt einen geographischen Überblick:
 
@@ -44,7 +44,7 @@ Die geographische Nähe oder Distanz sagt jedoch nur bedingt etwas über die spr
 
 > Legende: ■■■■■ = eng verwandt, ■■□□□ = entfernt verwandt, □□□□□ = nicht verwandt  
   
-Wie man in diesen Übersichten erkennt, sind Türkisch und Arabisch auch nicht entfernt mit dem Spanischen verwandt, Sprachen wie Kurdisch oder Persisch hingegen entfernte Verwandte. Nun stellt sich natürlich die Frage, was das konkret für den Spanischunterricht bedeutet. Da dies kein Lehrbuch über die einzelnen Sprachen und Sprachfamilien ist, werden wir daher im Folgenden ausgehend von den lautlichen und grammatischen Strukturen des Spanischen anschauen, welche Sprachen jeweils Ähnlichkeiten oder Unterschiede aufweisen.
+Wie man in diesen Übersichten erkennt, sind Türkisch und Arabisch auch nicht entfernt mit dem Spanischen verwandt, Sprachen wie Kurdisch oder Persisch sind hingegen entfernte Verwandte. Nun stellt sich natürlich die Frage, was das konkret für den Spanischunterricht bedeutet. Da dies kein Lehrbuch über die einzelnen Sprachen und Sprachfamilien ist, werden wir daher im Folgenden ausgehend von den lautlichen und grammatischen Strukturen des Spanischen anschauen, welche Sprachen jeweils Ähnlichkeiten oder Unterschiede aufweisen.
 
 ## Strukturen im Vergleich: Chancen & Herausforderungen
 
@@ -56,7 +56,7 @@ In diesem Abschnitt werden typische Ausspracheneigenheiten vorgestellt, die für
 
 #### Gerolltes /r/: Normal in allen Herkunftssprachen
 
-Wer Spanisch lernt, begegnet schon zu Beginn dem ‚gerollten R‘, das für Lernende mit Deutsch als Erstsprache meist eine Herausforderung darstellt, da das R im Standarddeutschen uvular (hinten) ausgesprochen wird (vgl. Kapitel [2.1 Aussprache](../aussprache/aussprache.md)). Schüler:innen mit den hier betrachteten Herkunftssprachen – egal ob Türkisch, Kurdisch oder Italienisch – bringen hier einen klaren Startvorteil mit, denn das <span class="meta">/r/</span> wird dort an der gleichen Stelle artikuliert wie im Spanischen.  
+Wer Spanisch lernt, begegnet schon zu Beginn dem ‚gerollten R‘, das für Lernende mit Deutsch als Erstsprache meist eine Herausforderung darstellt, da das R im Standarddeutschen uvular (hinten) ausgesprochen wird (vgl. Kapitel [Aussprache](../aussprache/aussprache.md)). Schüler:innen mit den hier betrachteten Herkunftssprachen – egal ob Türkisch, Kurdisch oder Italienisch – bringen hier einen klaren Startvorteil mit, denn das <span class="meta">/r/</span> wird dort an der gleichen Stelle artikuliert wie im Spanischen.  
 
 Sprachvergleichend ist es sogar so, dass in der Mehrzahl der Sprachen der Welt das <span class="meta">/r/</span> alveolar, also mit der Zungenspitze, artikuliert wird. Sprachen wie Deutsch und Französisch, in denen das <span class="meta">/r/</span> uvular ausgesprochen wird, sind weltweit in der Minderheit.  
 
@@ -83,7 +83,7 @@ Allerdings weist das Spanische eine Besonderheit auf – sowohl im Vergleich mit
 
 </details>
   
-Für den Unterricht heißt das: Herkunftssprachler:innen können gerade zu Beginn als authentische Vorbilder für die Zungenspitzenartikulation dienen. Insbesondere für deutschsprachige Lernende, für die das spanische R eine Herausforderung bleibt, ist es lohnend, gezielt mit Vorbild- und Nachsprechübungen zu arbeiten und positives Feedback für gelungene Artikulation zu geben. Gleichzeitig ist die Unterscheidung zwischen <span class="meta">/ɾ/</span> (z.B. *pe**r**o*) und <span class="meta">/r/</span> (z.B. *pe**rr**o*) für alle neu.  
+Für den Unterricht heißt das: Herkunftssprachler:innen können gerade zu Beginn als authentische Vorbilder für die Zungenspitzenartikulation dienen. Insbesondere für deutschsprachige Lernende, für die das spanische R eine Herausforderung bleibt, ist es lohnend, gezielt mit Vorbild- und Nachsprechübungen zu arbeiten und positives Feedback für gelungene Artikulation zu geben. Gleichzeitig ist die Unterscheidung zwischen <span class="meta">/ɾ/</span> (z.B. *pe**r**o*) und <span class="meta">/r/</span> (z.B. *pe**rr**o*) für alle neu. Im Kapitel [Aussprache](../aussprache/aussprache.md#anders-artikulierte-laute-r-laute) findest Du Tipps zur Einübung des R.  
 
 #### Kein /p/ im Arabischen: (k)eine Hürde  
 
@@ -129,7 +129,7 @@ Insgesamt profitieren alle Gruppen von kontrastiven Vergleichen: Je vertrauter i
 
 Da man sowohl im Spanischen als auch im Deutschen Artikel verwendet, macht man sich womöglich wenig Gedanken darüber, dass es Sprachen gibt, in denen es keine Artikel gibt – weder bestimmte noch unbestimmte (wer Latein gelernt hat, mag sich erinnern!).  
 
-Schüler:innen mit deutscher Erstsprache haben es nicht besonders schwer: Lediglich die Formen (und Verbindungen mit Präpositionen wie „*a* + *el*“) sind zu erlernen. Die Verwendung der Artikel ist bis auf wenige Ausnahmen wie im Deutschen und die Funktionen, die zwischen bestimmten und unbestimmten Artikeln unterscheiden lassen, sind intuitiv klar (auch wenn die meisten sie gar nicht benennen können).  
+Schüler:innen mit deutscher Erstsprache haben es nicht besonders schwer: Lediglich die Formen (und Verbindungen mit Präpositionen wie „*a* + *el*“) sind zu erlernen. Die Verwendung der Artikel ist bis auf wenige Ausnahmen wie im Deutschen und die Funktionen, die zwischen bestimmten und unbestimmten Artikeln unterscheiden lassen, sind daher meist intuitiv klar (auch wenn die meisten sie gar nicht benennen können).  
 
 <details>
 <summary>Was leisten Artikel eigentlich?</summary>
@@ -138,7 +138,7 @@ Schüler:innen mit deutscher Erstsprache haben es nicht besonders schwer: Ledigl
 <li><b>Unbestimmte Artikel</b> (<i>ein</i>, <i>eine</i> / <i>un</i>, <i>una</i>) kennzeichnen Referenten, die im Gespräch neu eingeführt oder nicht näher bestimmt sind.<br>
 <i>Ich sehe einen Hund</i> → ein Hund, der bisher nicht erwähnt wurde.</li>
 <li><b>Bestimmte Artikel</b> (<i>der</i>, <i>die</i>, <i>das</i> / <i>el</i>, <i>la</i>) verweisen auf Referenten, die im Diskurs bereits bekannt sind oder als eindeutig identifizierbar gelten.<br>
-<i>Ich sehe den Hund</i> → der Hund ist allen Beteiligten klar oder wurde schon genannt.</li>
+<i>Ich sehe den Hund</i> → der Hund ist allen Beteiligten bekannt oder wurde schon genannt.</li>
 </ul>
 <p>Sprachen ohne Artikel (Lateinisch, Russisch, Türkisch) drücken Definitheit ebenfalls aus – etwa durch Wortstellung, Kasus oder Kontext –, jedoch nicht durch eigenständige Artikelwörter.</p>
 </details>
@@ -216,7 +216,7 @@ Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen M
 !!! tip "Wir fassen noch einmal zusammen"
     Die häufigsten Herkunftssprachen in Deutschland sind vor allem Türkisch, Russisch, Arabisch und Polnisch; daneben spielen auch Italienisch, Kurdisch, BKS und Englisch eine Rolle. Herkunftssprachen wirken sich auf Aussprache, Grammatik, Wortschatz und Lernstrategien aus, wobei sie sowohl positive Transfers ermöglichen als auch Interferenzen hervorrufen können.
 
-    Für die Aussprache ist das spanische Vibrant /r/ den meisten Herkunftssprachen vertraut, bereitet aber deutschsprachigen Lernenden Schwierigkeiten. In der Morphologie fehlen in manchen Sprachen Genus und Artikel (z.B. im Türkischen), was im Spanischen neu erworben werden muss. In der Syntax erleichtert das Nullsubjekt-Prinzip vielen Lernenden den Einstieg, während SOV-Sprachen anfangs Wortstellungsfehler begünstigen und Kasussprachen Präpositionen neu einüben müssen. In der Orthographie ist die Umstellung auf das lateinische Alphabet vor allem für arabische und kyrillische Schriftbenutzer eine Herausforderung.
+    Für die Aussprache ist der spanische Vibrant /r/ den meisten Herkunftssprachen vertraut, bereitet aber deutschsprachigen Lernenden Schwierigkeiten. In der Morphologie fehlen in manchen Sprachen Genus und Artikel (z.B. im Türkischen), was im Spanischen neu erworben werden muss. In der Syntax erleichtert das Nullsubjekt-Prinzip vielen Lernenden den Einstieg, während SOV-Sprachen anfangs Wortstellungsfehler begünstigen und Kasussprachen Präpositionen neu einüben müssen. In der Orthographie ist die Umstellung auf das lateinische Alphabet vor allem für arabische und kyrillische Schriftbenutzer eine Herausforderung.
 
     Didaktisch bedeutet das: Fehler sollten nicht als Defizite betrachtet, sondern als Diagnoseinstrument verstanden werden (vgl. Kapitel [Fehlerlinguistik](../fehlerlinguistik/fehlerlinguistik.md)). Ein sensibler Umgang mit Herkunftssprachen, die Sichtbarmachung von Mehrsprachigkeit etwa durch die interaktive Karte und die Förderung von Sprachbewusstsein schaffen die Grundlage dafür, dass Herkunftssprachen als Ressource wirken können.
 
@@ -258,6 +258,6 @@ Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen M
 
 [^*]: **Autor:innen:** Selina Scholz, Felix Tacke
 
-      **Beiträge & Peer Review:** 
+      **Beiträge & Peer Review:** Gloria Gabriel
         
-      **Letzte Änderung:** 27.08.2025
+      **Letzte Änderung:** 05.09.2025
