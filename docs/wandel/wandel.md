@@ -2,18 +2,18 @@
 
 ## Spanisch heute – diachron betrachtet
 
-Der Ausgangspunkt dieses Kapitels ist die Gegenwartssprache. Sie weist aufgrund ihrer weltweiten Verbreitung und der damit verbundenen Variation eine hohe Komplexität auf, die im modernen Fremdsprachenunterricht zumindest in Grundzügen präsent sein sollte (vgl. die Kapitel [Plurizentrik](LINK) und [Aussprachevariation](LINK)). Die Geschichte des Spanischen gehört dagegen weniger zum schulischen Spanischunterricht, obowhl sie eigentlich hilft, die heutige Form der Gegenwartssprache besser zu verstehen. Aus dieser Überlegung heraus soll in diesem Kapitel keine Sprachgeschichte im traditionellen Sinn, sondern ein diachroner Blick auf die Gegenwart geboten werden: Ein Kapitel zum Sprachwandel fügt sich hier insofern ein, als die Gegenwartssprache unter dem Aspekt des Wandels betrachtet werden soll.  
+Der Ausgangspunkt dieses Kapitels ist die Gegenwartssprache. Sie weist aufgrund ihrer weltweiten Verbreitung und der damit verbundenen Variation eine hohe Komplexität auf, die im modernen Fremdsprachenunterricht zumindest in Grundzügen präsent sein sollte (vgl. die Kapitel [Plurizentrik](LINK) und [Aussprachevariation](LINK)). Die Geschichte des Spanischen gehört dagegen weniger zum schulischen Spanischunterricht, obwohl sie eigentlich hilft, die heutige Form der Gegenwartssprache besser zu verstehen. Aus dieser Überlegung heraus soll in diesem Kapitel keine Sprachgeschichte im traditionellen Sinn, sondern ein diachroner Blick auf die Gegenwart geboten werden: Ein Kapitel zum Sprachwandel fügt sich hier insofern ein, als die Gegenwartssprache unter dem Aspekt des Wandels betrachtet werden soll.  
 
 <details>
 <summary>Wer es nochmal wissen will: Eine sehr kurze Geschichte des Spanischen</summary>
 
-<p>Die Geschichte des Spanischen beginnt mit dem gesprochenen Latein, dem <b>Vulgärlatein</b>, das mit der römischen Expansion ab dem 3. Jh. v. Chr. auf die Iberische Halbinsel gelangte. Dieses gesprochene Latein bildete den Ursprung aller romanischen Sprachen. Doch es überlagerte nicht einfach die zuvor dort gesprochenen Sprachen wie Keltiberisch, Iberisch oder Baskisch, sondern wurde von ihnen beeinflusst. Solche <b>Substrateinflüsse</b> prägten die Aussprache und bestimmte Strukturen des Lateins auf der Halbinsel und erklären bis heute einige Eigenheiten des Spanischen im Vergleich zu anderen romanischen Sprachen.</p>
+<p>Die Geschichte des Spanischen beginnt mit dem gesprochenen Latein, dem <b>Vulgärlatein</b>, das mit der römischen Expansion ab dem 3. Jh. v. Chr. auf die Iberische Halbinsel gelangte. Dieses gesprochene Latein bildet den Ursprung aller romanischen Sprachen. Doch es überlagerte nicht einfach die zuvor dort gesprochenen Sprachen wie Keltiberisch, Iberisch oder Baskisch, sondern wurde von ihnen beeinflusst. Solche <b>Substrateinflüsse</b> prägten die Aussprache und bestimmte Strukturen des Lateins auf der Halbinsel und erklären bis heute einige Eigenheiten des Spanischen im Vergleich zu anderen romanischen Sprachen.</p>
 
-<p>Nach Zerfall des Römischen Reiches entwickelten sich regional unterschiedliche romanische Dialekte. Im Norden entstand der kastilische Dialekt, der sich während der Reconquista durchsetzte und zur Schriftsprache ausgebaut wurde.</p>
+<p>Nach Zerfall des Römischen Reiches entwickelten sich regional unterschiedliche romanische Primärdialekte. Im Norden entstand der kastilische Dialekt, der sich während der Reconquista durchsetzte und ab dem 13. Jh. zur Schriftsprache ausgebaut wurde.</p>
 
-<p>Im mittelalterlichen Al-Andalus wurden spanische Varietäten (Mozarabisch) durch arabischen Einfluss stark bereichert. Ab dem 15. Jh. gelangte das Kastilische mit der spanischen Expansion in die Amerikas, wo es zahlreiche Wörter aus indigenen Sprachen übernahm.</p>
+<p>Im mittelalterlichen Al-Andalus wurden spanische Varietäten (Mozarabisch) durch arabischen Einfluss stark bereichert. Ab dem 15. Jh. gelangte das Kastilische mit der spanischen Expansion bis nach Amerika. Dabei wurden auch zahlreiche Wörter aus indigenen Sprachen übernommen.</p>
 
-<p>Heute ist Spanisch Weltsprache. Sein Status wurde durch Kolonialismus, Migration und Institutionalisierung (z.B. die Real Academia Española) gefestigt.</p>
+<p>Heute gilt Spanisch als eine Weltsprache. Sein Status wurde durch Kolonialismus, Migration und Institutionalisierung (z.B. die Real Academia Española) gefestigt.</p>
 
 </details>
 
@@ -27,7 +27,7 @@ Nach einer allgemeinen Übersicht über grundlegende Prinzipien des Sprachwandel
 
 ## Wie und warum wandeln sich Sprachen?
 
-Sprache verändert sich ständig. Sie ist kein fertiges Gebilde, sondern wird im Sprechen immer neu hervorgebracht. Jede Veränderung beginnt dabei im alltäglichen Reden, wo die Sprecher:innen ihre Äußerungen – manchmal sehr kreativ – an das, was sie gerade ausdrücken wollen, anpassen. Manche dieser Verwendungen, sei es eine neue Wortschöpfung, ein aus dem Englischen entlehntes Wort (Anglizismus) oder gar eine andere Wortstellung, wird von anderen aufgegriffen und verbreitet sich. Einige verbreiten sich irgendwann in der gesamten Sprachgemeinschaft und werden schließlich als ‚normale‘ Form empfunden.  
+Sprache verändert sich ständig. Sie ist kein fertiges Gebilde, sondern wird im Sprechen von jedem einzelnen Sprechenden immer neu hervorgebracht. Jede Veränderung beginnt dabei im alltäglichen Reden, wo die Sprecher:innen ihre Äußerungen – manchmal sehr kreativ – an das, was sie gerade ausdrücken wollen, anpassen. Manche dieser Verwendungen, sei es eine neue Wortschöpfung, ein aus dem Englischen entlehntes Wort (Anglizismus) oder gar eine andere Wortstellung, wird von anderen aufgegriffen und verbreitet sich. Einige verbreiten sich irgendwann in der gesamten Sprachgemeinschaft und werden schließlich als ‚normale‘ Form empfunden.  
 
 Für Lehrkräfte ist diese Perspektive wichtig: Viele scheinbar willkürliche Eigenheiten von Fremdsprachen – unregelmäßige Verben, überraschende Genuszuweisungen oder auffällige Lautungen – sind nichts anderes als Spuren solcher Veränderungen. Wer diese Zusammenhänge kennt, kann Lernenden verdeutlichen, dass Sprache nicht zufällig ‚Ausnahmen‘ produziert, sondern sich in nachvollziehbaren Prozessen entwickelt.  
 
