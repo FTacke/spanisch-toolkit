@@ -63,19 +63,20 @@ Der Workflow `.github/workflows/deploy.yml`
 ```
 .
 ├── docs/
-│   ├── assets/
-│   │   └── stylesheets/overrides.css   # eigene Styles + PDF-Fix
+│   ├── assets/                 # Bilder, Stylesheets, JS, Audio-Dateien
 │   ├── aussprache/
 │   ├── fehlerlinguistik/
+│   ├── herkunftssprachen/
+│   ├── lexik/
+│   ├── orthographie/
 │   ├── variation/
-│   ├── typologie/
 │   ├── wandel/
-│   ├── index.md
+│   ├── index.md                # Startseite
 │   ├── einleitung.md
 │   └── projekt.md
-├── mkdocs.yml
-├── requirements.txt        # pinnt mkdocs-material, exporter, playwright
-├── .gitignore              # ignoriert .venv/, site/, pdf/, Playwright-Cache
+├── mkdocs.yml                  # MkDocs-Konfiguration
+├── requirements.txt            # Python-Abhängigkeiten
+├── .gitignore
 └── LICENSE
 ```
 

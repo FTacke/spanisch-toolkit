@@ -107,7 +107,44 @@ Heute kennen alle romanischen Sprachen kein phonetisches <span class="meta">/h/<
 
 Sevgi, Domin
 
-### Romanische Innovationen (Grammatikalisierung)
+Hinweis: Zwei Offensichtlichkeiten korrigiert: „Wortkombinationenwerden“ → „Wortkombinationen werden“; doppeltes „fort“ entfernt.
 
-Tacke
+### Wie entsteht eigentlich Grammatik – und was ist neu im Spanischen?
+
+Grammatik entsteht im Gebrauch: freie Wortkombinationen werden durch vielfache Wiederholung festen Mustern und übernehmen so dann irgendwann grammatische Funktionen. Dabei verblasst meist die ursprüngliche lexikalische Bedeutung, die Formen werden immer weniger variabel und verlieren oft ‚Material‘ – das ist ‚Grammatikalisierung‘.
+
+In der Betrachtung der romanischen Sprachen wird oft betont, was ‚fehlt‘ im Vergleich zum lateinischen Ursprung. Berühmt ist das Kasussystem, das es nicht mehr gibt. Noch spannender ist dagegen, was in den romanischen Sprachen alles neu entstanden ist. In diesem Abschnitt geht es um drei solcher Innovationen am Spanischen: ein Vergangenheitstempus (*he cantado*), das in Konkurrenz zum alten Perfekt (*canté*) steht; gleich zwei neue – ebenfalls konkurrierende – Futurtempora (*voy a cantar* vs. *cantaré*) und schließlich Adverbien auf *-mente*, deren Entstehung erklärt, warum es immer mit der femininen Adjektivform gebildet wird.
+
+#### Warum gibt es zwei konkurrierende Vergangenheitsformen – und woher stammt das Perfekt?
+
+Das spanische Perfekt (*he escrito*) geht auf <span class="meta">HABERE + Partizip</span> zurück. Ausgangspunkt ist Besitz: MAGISTER HABET SCRIPTUM LIBRUM ‘der Lehrer hat ein Buch, das geschrieben ist’. Schrittweise rückt das Resultat in den Fokus (‘abgeschlossen’), die Konstruktion wird zeitlich gelesen, *haber* verliert die Besitzbedeutung und wird Hilfsverb; das Partizip wird unveränderlich: <i>He escrito tres cartas</i> (\*<i>He escritas tres cartas</i> ist heute ausgeschlossen).
+
+In der Romania stand bei vielen Intransitiven zunächst ‘sein’ als Hilfsverb (je suis venu, dt. ich bin gekommen). Spanisch generalisierte ab dem 15. Jh. *haber* auch hier: *he venido*. Das vereinfacht die Hilfsverbregel im Spanischen gegenüber Deutsch und Französisch.
+
+Die ‚Konkurrenzform‘ ist das Indefinido (*canté*). Es setzt das lateinische Perfekt als Präteritum fort (CANTĀVĪ); während es im Französischen im Alltag weitgehend dem passé composé wich, blieb es im Spanischen nicht nur erhalten, sondern ist in manchen Regionen Spaniens und großen Teilen Hispanoamerikas heute sogar die vorherrschende Form. Kennen sollte man in jedem Fall beide Formen.
+
+#### Warum gibt es im Spanischen zwei Futurformen?
+
+Im Spanischen verwendet man – wie in vielen anderen Sprachen auch – zwei verschiedene Futurformen. Der Grund dafür ist, dass gerade im Sprechen über Zukünftiges immer wieder neue Formen gebildet und ältere aufgegeben werden. Das Futur des Lateinischen hat es zum Beispiel nicht bis heute geschafft, es wurde durch innovativere Formen ersetzt. So setzte sich in der Entwicklung der romanischen Sprachen <span class="meta">‘haben + Infinitiv’</span> durch (CANTARE HABEO ‘ich habe zu singen’) gegenüber dem alten lateinischen Futur (CANTABO). Die Idee des Müssens (deontische Modalität) war die ursprüngliche Idee dieser Konstruktion, aber auch hier wurde die Bedeutung so abstrakt, dass nur noch die Idee der Zukunft blieb. Gleichzeitig wurde das Hilfsverb langsam zur Endung: aus *cantar* + *he* wurde *cantaré* (vgl. dieselbe Entwicklung in den Nachbarsprachen: fr. chanter + ai > chanterai, it. cantare ho > cantarò).
+
+Später entstand zusätzlich ein Bewegungsfutur aus <span class="meta">‘gehen + Infinitiv’</span> (z. B. *voy a cantar*). Entscheidend ist hier die Entwicklung von der Idee des ‘sich in Bewegung setzen, um X zu tun’, zu ‘beabsichtigen, X zu tun’, und schließlich schlicht zu ‘zukünftig X tun’. In diesem Verlauf verlor *ir* seine volle Bewegungsbedeutung, die Fügung wurde fest und dient heute als Zukunftsmarker, das immer öfter das ältere einfache Futur (*mañana cantaré*) ersetzt.
+
+<details>
+<summary>Bewegung in die Zukunft – nicht nur im Spanischen</summary>
+<p>Das ‚Bewegungsfutur‘ ist kein spanisches Einzelphänomen. Auch im Französischen heißt es je vais chanter und im Englischen sagt man I’m going to sing. Dort geht die Entwicklung sogar weiter: aus going to wird in der Umgangssprache gonna, denn je abstrakter die Bedeutung, desto mehr verschleift oft auch die Form. Der Weg ist in allen Fällen derselbe: ‘gehen, um etwas zu tun’ &gt; ‘Absicht haben’ &gt; ‘zukünftig tun’.</p>
+
+<p>Dass Bewegung so leicht Zukunft ausdrückt, hat einen universalen Hintergrund: Zeit wird in vielen Sprachen räumlich gedacht. Man spricht von Tagen, die ‚vor uns‘ oder ‚hinter uns‘ liegen. Bewegung ist damit eine der wichtigsten Quellen, um Zeit sprachlich zu fassen.</p>
+</details>
+
+### Woher kommt *-mente* und warum heißt es *claramente* und nicht *clar<u>o</u>mente*?
+
+Die Adverbien auf *-mente* gehen auf eine alte Fügung aus dem Lateinischen zurück: MENS, MENTIS ‘Geist, Sinn, Weise’ wurde mit einem Adjektiv kombiniert. So ergab sich etwa MENTE CLARA oder CLARA MENTE ‘mit klarem Sinn / auf klare Weise’. Da MENS, MENTIS ein feminines Substantiv war, musste natürlich auch das Adjektiv im Femininum stehen (CLARA, nicht CLARUS).
+
+Mit der Zeit verschmolz diese Fügung zu einem festen Ausdruck, bei dem das Substantiv seine Eigenständigkeit verlor und nur noch als Endstück wahrgenommen wurde. Aus CLARA MENTE wurde *claramente*. Auf diese Weise entstand das produktive Adverb-Suffix *-mente*.
+
+Später dehnte sich die Verwendung über den ursprünglichen Bedeutungsbereich ‘Geist, Weise’ hinaus auf Eigenschaften aus, die gar nicht unmittelbar dazu passten. So blieb von der konkreten Bedeutung nur noch das allgemeine ‘(Art und) Weise’ und die Form wurde zur reinen grammatischen Kennzeichnung für Adverbien.
+
+Das Muster findet sich ebenfalls in den übrigen romanischen Sprachen: fr. clairement, it. chiaramente, pt. claramente. Der Ursprung der Adverb-Endung im lateinischen Substantiv erklärt, warum es nicht zufällig immer die feminine Form des Adjektivs ist – und man sieht besonders eindrücklich, wie Grammatik entstehen kann.
+
+
 
