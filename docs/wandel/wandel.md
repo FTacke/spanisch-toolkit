@@ -1,8 +1,8 @@
-# 7 Sprachwandel (Beta)  
+# 5 Sprachwandel[^*]  
 
 ## Spanisch heute – diachron betrachtet
 
-Der Ausgangspunkt dieses Kapitels ist die Gegenwartssprache. Sie weist aufgrund ihrer weltweiten Verbreitung und der damit verbundenen Variation eine hohe Komplexität auf, die im modernen Fremdsprachenunterricht zumindest in Grundzügen präsent sein sollte (vgl. die Kapitel [Plurizentrik](LINK) und [Aussprachevariation](LINK)). Die Geschichte des Spanischen gehört dagegen weniger zum schulischen Spanischunterricht, obwohl sie eigentlich hilft, die heutige Form der Gegenwartssprache besser zu verstehen. Aus dieser Überlegung heraus soll in diesem Kapitel keine Sprachgeschichte im traditionellen Sinn, sondern ein diachroner Blick auf die Gegenwart geboten werden: Ein Kapitel zum Sprachwandel fügt sich hier insofern ein, als die Gegenwartssprache unter dem Aspekt des Wandels betrachtet werden soll.  
+Der Ausgangspunkt dieses Kapitels ist die Gegenwartssprache. Sie weist aufgrund ihrer weltweiten Verbreitung und der damit verbundenen Variation eine hohe Komplexität auf, die im modernen Fremdsprachenunterricht zumindest in Grundzügen präsent sein sollte (vgl. die Kapitel [Plurizentrik](../variation/variation.md) und [Aussprachevariation](../aussprache/varianten.md)). Die Geschichte des Spanischen gehört dagegen weniger zum schulischen Spanischunterricht, obwohl sie eigentlich hilft, die heutige Form der Gegenwartssprache besser zu verstehen. Aus dieser Überlegung heraus soll in diesem Kapitel keine Sprachgeschichte im traditionellen Sinn, sondern ein diachroner Blick auf die Gegenwart geboten werden: Ein Kapitel zum Sprachwandel fügt sich hier insofern ein, als die Gegenwartssprache unter dem Aspekt des Wandels betrachtet werden soll.  
 
 <details>
 <summary>Wer es nochmal wissen will: Eine sehr kurze Geschichte des Spanischen</summary>
@@ -64,7 +64,7 @@ Hier liegt übrigens auch der Grund für die verschiedenen Verbstämme vieler re
 
 #### Warum wird *cansado* so oft als *cansao* gesprochen?  
 
-Im Gegenwartsspanischen werden die Verschlusslaute <span class="meta">/b d g/</span> besonders in intervokalischer Position abgeschwächt (vgl. Kapitel [Aussprache](Link)). Dabei handelt es sich um bereits abgeschwächte Laute, denn im Lateinischen standen an ihrer Stelle meist die Verschlusslaute <span class="meta">/p t k/</span>, sodass aus lat. LUPUM beispielsweise *lobo* wurde.  
+Im Gegenwartsspanischen werden die Verschlusslaute <span class="meta">/b d g/</span> besonders in intervokalischer Position abgeschwächt (vgl. Kapitel [Aussprache](../aussprache/aussprache.md)). Dabei handelt es sich um bereits abgeschwächte Laute, denn im Lateinischen standen an ihrer Stelle meist die Verschlusslaute <span class="meta">/p t k/</span>, sodass aus lat. LUPUM beispielsweise *lobo* wurde.  
 
 Besonders das <span class="meta">/d/</span> wird im heutigen Spanisch noch weiter geschwächt, bis hin zur Tilgung wie in *merca<u>d</u>o* > *mercao* und immer öfter auch in den Partizipformen: *llega<u>d</u>o* > *llegao*. Diachron betrachtet geht die Abschwächung also vom ursprünglichen <span class="meta">/p t k/</span> im Lateinischen über die <span class="meta">/b d g/</span> im Spanischen bis zur Elision in der gesprochenen Sprache einen Weg, der sich anhand vieler Zwischenstufen, die heute parallel existieren, nachzeichnen lässt:  
 
@@ -76,7 +76,7 @@ Die Abschwächung kann je nach Region mehr oder weniger weit gehen und hängt gl
 
 #### Warum heißt es *setiembre* und *septiembre*?  
 
-Die beiden Varianten zeigen die Tendenz des Spanischen zur offenen Silbenstruktur (CV-Silbe = Konsonant-Vokal). Silbenfinale Konsonanten werden abgebaut oder verschliffen, etwa auch in [*do<u>c</u>tor*](https://dle.rae.es/doctor){:target="_blank" rel="noopener noreferrer"} > *dotor*. Die Schrift bewahrt meist die älteren Konsonanten, die in der Aussprache häufig verschwinden (vgl. Kapitel [Orthographie](../orthographie/index.md){:target="_blank" rel="noopener noreferrer"}).  
+Die beiden Varianten zeigen die Tendenz des Spanischen zur offenen Silbenstruktur (CV-Silbe = Konsonant-Vokal). Silbenfinale Konsonanten werden abgebaut oder verschliffen, etwa auch in [*do<u>c</u>tor*](https://dle.rae.es/doctor){:target="_blank" rel="noopener noreferrer"} > *dotor*. Die Schrift bewahrt meist die älteren Konsonanten, die in der Aussprache häufig verschwinden (vgl. Kapitel [Orthographie](../orthographie/orthographie.md){:target="_blank" rel="noopener noreferrer"}).  
 
 So stehen heute beide Formen [*septiembre*](https://dle.rae.es/septiembre){:target="_blank" rel="noopener noreferrer"} und [*setiembre*](https://dle.rae.es/setiembre){:target="_blank" rel="noopener noreferrer"} nebeneinander – beide sind korrekt und im Wörterbuch verzeichnet.  
 
@@ -85,7 +85,7 @@ Ein analoger Prozess zeigt sich bei Präfixen wie *trans-* vs. *tras-*. Im Spani
 Ein weiteres Beispiel komplexer Konsonantenfolgen ohne Aussprache ist [*psicólogo*](https://dle.rae.es/psic%C3%B3logo){:target="_blank" rel="noopener noreferrer"} bzw. *psíquico*. Das initiale `<p>` wird in der Aussprache in der Regel nicht realisiert, obwohl es orthographisch steht – hier wiederum ein Erbe des griechischen Ursprungs.  
 
 #### Und was ist mit dem *-s* im Auslaut?  
-Die Tendenz zur offenen Silbe betrifft auch das silben- und wortfinale <span class="meta">/s/</span>: In vielen Varietäten wird es im Silbenauslaut abgeschwächt oder getilgt, z.B. *lo<u>s</u> amigo<u>s</u>* → <span class="meta">[loh.a.ˈmi.ɣoh]</span> ~ <span class="meta">[lo.a.ˈmi.ɣo]</span> oder  *¿tiene<u>s</u> tiempo?* <span class="meta">[ˈtje.ne.ˈtjem.po]</span>. Das hat wiederum Konsequenzen für die Pluralmarkerierung und die Kennzeichnung der grammatischen Person (s.u.). Die Abschwächung ist in einigen Teilen der Hispanophonie kennzeichnend, hat aber auf die Schrift keinen Einfluss. Eine ausführliche Auseinandersetzung mit dem lautlichen Phänomen und den Regionen, in denen es besonders kennzeichnend ist, findet sich im Kapitel [Aussprachevariation](../aussprachevariation/index.md).  
+Die Tendenz zur offenen Silbe betrifft auch das silben- und wortfinale <span class="meta">/s/</span>: In vielen Varietäten wird es im Silbenauslaut abgeschwächt oder getilgt, z.B. *lo<u>s</u> amigo<u>s</u>* → <span class="meta">[loh.a.ˈmi.ɣoh]</span> ~ <span class="meta">[lo.a.ˈmi.ɣo]</span> oder  *¿tiene<u>s</u> tiempo?* <span class="meta">[ˈtje.ne.ˈtjem.po]</span>. Das hat wiederum Konsequenzen für die Pluralmarkerierung und die Kennzeichnung der grammatischen Person (s.u.). Die Abschwächung ist in einigen Teilen der Hispanophonie kennzeichnend, hat aber auf die Schrift keinen Einfluss. Eine ausführliche Auseinandersetzung mit dem lautlichen Phänomen und den Regionen, in denen es besonders kennzeichnend ist, findet sich im Kapitel [Aussprachevariation](../aussprache/varianten.md).  
 
 In sprachgeschichtlicher Hinsicht ist das Phänomen spannend, da sich in vielen Varietäten aktuell ein Wandel vollzieht, der z.B. im Französischen bereits vor vielen Jahrhunderten stattgefunden hatte (vgl. fr. *le<u>s</u> femme<u>s</u>* <span class="meta">[le.fam]</span>).
 
@@ -97,17 +97,69 @@ Nur gelehrte Wörter – also Formen, die in späterer Zeit bewusst und relativ 
 Zum Vergleich: Im Italienischen ist die vorvorletzte Silbe als Akzentposition sehr häufig, weil dort deutlich weniger Synkopen stattfanden. So wurde lat. OCULUS > spanisch [*ojo*](https://dle.rae.es/ojo){:target="_blank" rel="noopener noreferrer"}, während it. *òculo* bzw. heute *occhio* die zusätzliche Silbe bewahrt; TABULA wurde zu sp. [*tabla*](https://dle.rae.es/tabla){:target="_blank" rel="noopener noreferrer"}, aber im Italienishcen zu *tàvola*; REGULA ergab sp. [*regla*](https://dle.rae.es/regla){:target="_blank" rel="noopener noreferrer"}, aber it. *règola*. Diese Unterschiede erklären, warum im Italienischen betonte drittletzte Silben viel häufiger sind als im Spanischen.  
  
 #### Warum ist das *h* im Spanischen stumm?  
-Der heutige Buchstabe `<h>`, den man in der geschriebenen Sprache vorfindet, hatte einst Lautwert. In vielen Fällen geht er auf ein lateinisches <span class="meta">/f/</span> zurück, das im Übergang zum Spanischen zu einem schwachen Atemlaut wurde und schließlich verschwand. So wurde FACERE zu *hacer*, FERRUM zu *hierro*, FORMOSUS zu *hermoso*. Die Schreibung ist also ein historisches Relikt, das meist auf den einstigen Lautwert und die lateinische Herkunft verweist (vgl. Kapitel [Orthographie](../orthographie/index.md); siehe auch [RAE](https://www.rae.es/ortograf%C3%ADa/la-h-muda){:target="_blank" rel="noopener noreferrer"}).  
+Der heutige Buchstabe `<h>`, den man in der geschriebenen Sprache vorfindet, hatte einst Lautwert. In vielen Fällen geht er auf ein lateinisches <span class="meta">/f/</span> zurück, das im Übergang zum Spanischen zu einem schwachen Atemlaut wurde und schließlich verschwand. So wurde FACERE zu *hacer*, FERRUM zu *hierro*, FORMOSUS zu *hermoso*. Die Schreibung ist also ein historisches Relikt, das meist auf den einstigen Lautwert und die lateinische Herkunft verweist (vgl. Kapitel [Orthographie](../orthographie/orthographie.md); siehe auch [RAE](https://www.rae.es/ortograf%C3%ADa/la-h-muda){:target="_blank" rel="noopener noreferrer"}).  
 
 Ein Vergleich mit anderen romanischen Sprachen (z. B. fr. *faire*, pt. *fazer*, it. *fare*) zeigt, dass dieser Wandel spezifisch für das Spanische war.  
 
 Heute kennen alle romanischen Sprachen kein phonetisches <span class="meta">/h/</span> mehr: das Graphem `<h>` bleibt überall stumm, nur seine historische Herkunft unterscheidet sich.    
 
-### Formen (Substantive, Verben)
+### (Unregelmäßige) Formen
 
-Sevgi, Domin
+#### Warum sind (nicht) alle Wörter auf <i>-a</i> feminin und auf <i>-o</i> maskulin?
 
-Hinweis: Zwei Offensichtlichkeiten korrigiert: „Wortkombinationenwerden“ → „Wortkombinationen werden“; doppeltes „fort“ entfernt.
+Im klassischen Latein war die Endung noch kein sicheres Genus-Signal. Sie markierte nur Tendenzen: Die meisten Wörter der a-Deklination waren feminin, die meisten der o-Deklination maskulin. Doch schon dort gab es Abweichungen wie AGRICOLA m., POĒTA m. oder DĪĒS m. Diese schwache Kopplung von Form und Genus wurde im Vulgärlatein zu einer festen Erwartung: <span class="meta">-a = feminin</span>, <span class="meta">-o = maskulin</span>. Damit wuchs der Druck auf alle Wörter, die nicht ins Schema passten.
+
+So kam es zu verschiedenen Entwicklungen. Manche Wörter wurden reanalysiert, ohne dass ihre Form sich änderte. Wörter des Neutrum Singular auf -um wurden als maskuline Substantive auf -o interpretiert (VINUM > *el vino*). Neutrum Plural Wörter auf -a wurden als feminines Singular interpretiert (FOLIA > *la hoja*, GAUDIA > it. *la gioia* / fr. *joie*). Ganze Gruppen wie die Baumnamen kippten ins Maskulinum (PINUS f. > *el pino*, fr. *le pin*, it. *il pino*). Das Neutrum verschwand fast vollständig, nur Spuren wie die spanischen Demonstrativa *esto, eso, aquello* erinnern noch daran.
+
+Andere Wörter wurden analogisch angepasst, also umgeformt, damit sie sich ins Schema fügten. Seltene Deklinationen wie die u-Klasse wanderten in die o-Klasse; auch Adjektive wurden stärker an das dreigliedrige Muster -us/-a/-um angeglichen. Personenbezeichnungen wie NURUS ‘Schwiegertochter’ und SOCRUS ‘Schwiegermutter’ wurden analogisch zu *nuera* und *suegra*.
+
+Doch hochfrequente Wörter konnten sich auch als „Ausnahmen“ halten. Am bekanntesten ist *la mano* aus MANUS f., das trotz seiner Endung auf <i>-o</i> feminin blieb. Auch bei abstrakten oder variablen Genera setzte sich kein einheitlicher Weg durch: FINIS m./f. wurde zu *el fin* im Spanischen, aber zu *la fin* im Französischen.
+
+So erklärt sich, warum die Regel <span class="meta">-a = feminin</span>, <span class="meta">-o = maskulin</span> zwar zu den sichtbarsten Mustern des Spanischen gehört, aber dennoch kein Naturgesetz ist, sondern das Ergebnis einer historischen Vereinfachung mit Reanalyse, Analogie und Überbleibseln.
+
+<details>
+<summary>Reanalyse und Analogie</summary>
+<p>Unter <b>Reanalyse</b> versteht man, dass eine Form unverändert bleibt, aber in ihrer Struktur neu gedeutet wird. Ein anschauliches Beispiel sind die lateinischen Wörter <i>vēlum</i> ‘Segel, Tuch’ und <i>vēla</i> ‘Segel (Plural)’. Während im klassischen Latein <i>vēla</i> eindeutig Plural war, wurde diese Form im Vulgärlatein als feminines Singular verstanden. So entstehen im Spanischen <i>la vela</i> ‘Segel’ und daneben <i>el velo</i> ‘Schleier, Tuch’. Die Lautgestalt bleibt dieselbe, doch Genus und Numerus verschieben sich.</p>
+
+<p><b>Analogie</b> dagegen bedeutet, dass eine Form sichtbar angepasst wird, um sich einem häufigeren Muster anzugleichen. Prominent ist im Spanischen die Bildung der 1. Person Singular mit -go: <i>vengo, tengo, pongo, salgo, valgo, oigo, traigo</i>. Hier wird ein <span class="meta">/g/</span> eingefügt, auch wenn es etymologisch nicht vorhanden war, nur weil andere hochfrequente Verben wie <i>tengo</i> und <i>vengo</i> dieses Muster vorgaben. Ebenso erhielten Verben wie <i>estoy, soy, voy, doy</i> ein <i>-y</i>, obwohl die älteren Formen <i>estó, só, vó, dó</i> lautgeschichtlich anders verlaufen waren. Auch bei Substantiven wirkt Analogie: <i>nurus</i> ‘Schwiegertochter’ und <i>socrus</i> ‘Schwiegermutter’ wurden ins Schema der -a-Feminina eingepasst und zu <i>nuera</i> und <i>suegra</i>. Im Verbalbereich glättet Analogie Stammspaltungen, die durch Lautwandel entstanden sind: Aus dem alten <i>entriegas</i> wurde <i>entregas</i>, aus <i>confuertas</i> wurde <i>confortas</i>, aus dem Nebeneinander <i>lievo/levamos</i> wurde das heutige einheitliche <i>llevo/llevamos</i>.</p>
+
+<p>Der Unterschied lässt sich knapp fassen: Reanalyse verändert die Deutung bei gleichbleibender Form, Analogie verändert die Form, damit sie zum erwarteten Muster passt. Ein Vergleich aus dem Deutschen macht das deutlich: <i>der einzigste</i> ist eine analogische Neubildung, die nach dem vertrauten Muster <span class="meta">Superlativ = <i>-st(e)</i></span> gebildet wurde, obwohl <i>einzig</i> eigentlich keinen Steigerungsgrad zulässt.</p>
+</details>
+
+#### Weshalb bildet man den Plural im Spanischen mit <i>-s</i>, und was hat das mit Kasus zu tun? 
+
+Im heutigen Spanisch gilt eine einfache Regel: Ohne Endung ist Singular, mit <i>-s</i> (bzw. <i>-es</i> nach Zischlaut) ist Plural. Daher *cabra/cabras*, *madre/madres*, *virtud/virtudes* und *muro/muros*. Ein einzelnes Pluralmorphem <i>-s</i> markiert also zuverlässig die Mehrzahl. Das war im Lateinischen anders: Dort gab es keinen einheitlichen Pluralmarker, sondern je nach Deklination unterschiedliche Pluralformen, etwa <i>-ŌS/-ĀS/-ĒS</i> im Akkusativ der o-, a- und konsonantischen Klasse.
+
+Warum erbt Spanisch dann gerade dieses <i>-s</i>? Im alltäglichen Sprachgebrauch standen Substantive besonders häufig nicht als Subjekt, sondern in Ergänzungsfunktionen. In der Entwicklung zum Vulgärlatein verschob sich die Formenbasis deshalb hin zu den Akkusativformen. Parallel setzte ein Strukturwandel ein: Genitiv- und Dativfunktionen wurden zunehmend über Präpositionen ausgedrückt (<span class="meta">DE + NOMEN</span>, <span class="meta">AD/A + NOMEN</span>), genau wie es die romanischen Sprachen heute tun (*de l’homme / del hombre / dell’uomo*; *à l’ami / al amigo / all’amico*). So wurde der Akkusativ zur Standardform, auch nach Präpositionen, und die romanischen Grundformen entstanden aus genau diesen Akkusativen. Beispiele, die den Übergang zeigen: HOMINEM > *hombre*, fr. *homme*; AMICAM > *amiga*.
+
+Die Lautgeschichte liefert den zweiten Baustein: Auslautendes -M fiel im Singular weg, sodass -UM/-AM/-EM zu <i>-O/-A/-E</i> bzw. Null wurden (VINUM > *vino*, AMICAM > *amiga*, HOMINEM > *hombre*). Im Plural blieb jedoch das Akkusativ<i>-s</i> erhalten (-ŌS/-ĀS/-ĒS > <i>-os/-as/-es</i>), daher *lobos*, *cabras*, *virtudes*. Das Ergebnis ist die spanische „Einfachregel“: Singular ohne Zusatz, Plural auf <i>-s</i>. Anders als im Lateinischen trägt hier ein einziges sichtbares Morphem die Numerusmarkierung.
+
+Mit dem Abbau der Kasusendungen wandelte sich die Grammatik weiter: Präpositionen übernahmen systematisch die Funktionsanzeige, und die Wortstellung wurde fester relativ zur Verbposition. Diese Entwicklung setzt schon im späten Latein ein, wo Richtungsbedeutungen nicht mehr nackte Formen wie ROMAM ‘nach Rom’ bevorzugen, sondern zunehmend Präpositionen nutzen (<span class="meta">AD/IN + ROMA(M)</span>). Der heute obligatorische Einsatz von <i>a/de</i>-Gruppen und die stabilere Grundordnung in den romanischen Sprachen sind direkte Folgen dieses Umstiegs von Endungen auf Präpositionen.
+
+
+#### Warum heißt es *t<u>ie</u>nes*, aber *t<u>e</u>néis*? Und woher kommt das <i>g</i> in *tengo* oder *digo* und das <i>y</i> in *estoy* und *doy*?
+
+Spanischlernende stolpern früh über „Unregelmäßigkeiten“. Der Blick zurück zeigt: Das Lateinische war an vielen Stellen regelmäßiger. Aber der Lautwandel seither hat im Spanischen zu Formunterschieden geführt, die ein uneinheitliches Konjugationsschema zur Folge haben. Hier werden die häufigsten Fälle betrachtet, mit denen sich schon 90 % aller Stolpersteine beim Erlernen der Verbformen verstehen lassen (eine Herausforderung für die Lernenden bleiben sie natürlich trotzdem).
+
+Erstes Schema: die Vokalalternanz in sonst regelmäßigen Verben. Vergleicht man die Formen von *negar* oder *mover*, fällt auf, dass in der 1., 2., 3. Person Sg. und der 3. Person Pl. ein Diphthong im Stamm vorkommt, in der 1. und 2. Person Plural aber nicht: *niego, niegas, niega* und *niegan* stehen *negamos* und *negáis* gegenüber; *muevo, mueves, mueve* und *mueven* stehen im Kontrast zu *movemos* und *movéis*. Warum ist das so? Das Lateinische kannte nur einen einzigen Stamm, aber die Betonung lag wie im Spanischen mal auf dem Stammvokal, mal auf dem folgenden. Was passierte, war absolut regelmäßig im Zusammenhang des Lautwandels: Im Präsens diphthongierten betonte Stammvokale <span class="meta">Ĕ/Ŏ</span> zu <span class="meta">[je]/[we]</span> (geschrieben <i>ie</i> und <i>ue</i>), unbetonte blieben <span class="meta">[e]</span> und <span class="meta">[o]</span>. Wer das Muster aber einmal durchschaut hat, der sieht wiederum, wie regelmäßig das gleiche Muster in vielen Verben auftritt.
+
+Wenn man Spanisch lernt, heißt es oft, dass man in der 1. Person Singular einfach ein <i>-o</i> an den Stamm anhängt: *hablo, como, vivo*. Doch gleich darauf stößt man auf Formen, die sich nicht an diese Regel halten: *digo, vengo, salgo* mit einem zusätzlichen <i>-g-</i>, oder *estoy, voy, doy* mit <i>-oy</i> am Ende. Warum gibt es solche Abweichungen?
+
+Schaut man in die Geschichte zurück, sind sie erklärbar. Das Lateinische hatte regelmäßigere Stämme: <span class="meta">DĪCO</span> ‘ich sage’, <span class="meta">FACIŌ</span> ‘ich mache’, und in allen übrigen Personen stand dort ebenso ein <span class="meta">C</span>, das immer <span class="meta">[k]</span> ausgesprochen wurde, also DĪCIS, DĪCIT, DĪCIMUS, DĪCITIS, DĪCUNT sowie FACIS, FACIT, FACIMUS, FACITIS, FACIUNT. Im Übergang zum Spanischen wurde der Laut <span class="meta">/k/</span> zwischen Vokalen regelmäßig stimmhaft zu <span class="meta">/g/</span>, hier allerdings nur in der 1. Person, wo ein <span class="meta">/o/</span> folgt. Wenn nämlich ein <span class="meta">/e/</span> oder <span class="meta">/i/</span> folgte, palatalisierte der Konsonant und wurde später zu <span class="meta">/θ/</span> bzw. <span class="meta">/s/</span> im Spanischen (vgl. *dices, hace*). Von diesen wenigen (aber dafür hochfrequenten) Verben aus verbreitete sich das Muster mit <i>-go</i> auf andere Verben – per analogischer Anpassung auch dort, wo ursprünglich gar kein <span class="meta">/k/</span> stand: so entstanden *tengo, vengo, pongo, salgo, valgo, oigo, traigo*.
+
+Ein zweiter Sonderfall ist das <i>-y</i>. Bei *estoy* steckt es wohl in einer Verbindung mit dem alten <span class="meta">IBI</span> ‘dort’, wie auch in *hay* (< <span class="meta">HABET IBI</span> ‘es gibt dort’). Diese mit der Idee des räumlichen ‘dort’ verknüpfte Form wirkte so prägend, dass sie auf weitere Hochfrequenzverben übertragen wurde: *soy, voy, doy*. Auch hier bleibt die Besonderheit streng auf die 1. Person begrenzt.
+
+Die heute oft gefürchteten „Unregelmäßigkeiten“ der Verben sind also das Ergebnis eines doppelten Prozesses: regelmäßiger Lautwandel erzeugte neue Formen, und Analogie verbreitete oder glich diese Formen aus. Wer das weiß, erkennt in *digo/dices, tengo/tenemos, estoy/estás* keine chaotischen Sonderfälle, sondern Folgen eines regelmäßigen Lautwandels und interessanter Anpassungsprozesse.
+
+#### Warum enden fast alle neuen spanischen Verben auf <i>-ar</i>?
+
+Schaut man ins heutige Spanisch, fällt auf: Die überwältigende Mehrheit der Verben gehört zur <i>-ar</i>-Klasse. Etwa neun von zehn Verben enden so, während <i>-er</i> und <i>-ir</i> zusammengenommen kaum zehn Prozent stellen. Wer ein neues Verb bildet – sei es durch Ableitung oder Entlehnung – greift fast automatisch zu <i>-ar</i>. Darum heißen es *tuitear, chequear, escanear*, aber nie *tuiteir* oder *escener*. Auch bei heimischen Bildungen sieht man das: *fotocopiar, filmar, solucionar, peticionar* – alle passen in das <i>-ar</i>-Schema, obwohl es ältere Synonyme auf <i>-er/-ir</i> gibt wie *resolver* statt *solucionar* oder *pedir* neben *peticionar*.
+
+Warum diese Dominanz? Historisch war das Lateinische vielfältiger. Es kannte fünf Konjugationen, die sich im Vulgärlatein zu drei reduzierten. So entstanden die drei spanischen Hauptklassen <i>-ar, -er, -ir</i>. Aus den lateinischen -ĒRE/-ĔRE-Verben stammen spanische Vertreter wie *tener, deber, vender*; aus -ĪRE kamen Verben wie *venir, vivir*. Doch produktiv wurde vor allem die auf <i>-ar</i> zurückgehende Klasse, weil ihr Paradigma regelmäßig, durchsichtig und leicht erweiterbar war.
+
+Die hochfrequenten Grundverben entziehen sich oft diesem Schema und bewahren ältere Muster: *ir → voy*, *ser/estar*, *dar/haber*. Sie sind nicht Zeichen von Chaos, sondern konservierte Reste einer älteren Vielfalt, die dank Gebrauchshäufigkeit erhalten blieben. „Unregelmäßigkeit“ bedeutet hier nichts anderes als „bewahrte Geschichte“.
+
+So ergibt sich ein doppeltes Bild: Auf der einen Seite die klar dominierende <i>-ar</i>-Klasse, die das natürliche Aufnahmemuster für Neologismen und Entlehnungen bildet. Auf der anderen Seite ein kleiner, aber wichtiger Bestand an <i>-er/-ir</i>-Verben, die das historische Erbe sichtbar machen.
 
 ### Wie entsteht eigentlich Grammatik – und was ist neu im Spanischen?
 
@@ -146,5 +198,37 @@ Später dehnte sich die Verwendung über den ursprünglichen Bedeutungsbereich �
 
 Das Muster findet sich ebenfalls in den übrigen romanischen Sprachen: fr. clairement, it. chiaramente, pt. claramente. Der Ursprung der Adverb-Endung im lateinischen Substantiv erklärt, warum es nicht zufällig immer die feminine Form des Adjektivs ist – und man sieht besonders eindrücklich, wie Grammatik entstehen kann.
 
+<details>
+<summary>Wer mehr wissen will (klickt hier)</summary>
+<p>Wer sich für umfassendere Sprachgeschichten interessiert, findet sowohl Überblicksdarstellungen zur Romania als auch speziell zum Spanischen. Kaiser (2014) legt die romanische Sprachgeschichte breit an, von den lateinischen Grundlagen bis zu den modernen Varietäten. Für den Übergang vom Latein bieten sich Lehrwerke wie Müller-Lancé (2006) an, die die Strukturen des Ausgangssystems für Romanisten verständlich machen. Für das Spanische selbst liegt mit Pountain (2001) eine Textgeschichte vor, die Wandelprozesse anhand von Originalquellen illustriert. Ergänzend erschließt Ranson/Lubbers (2018) die Entwicklung des Spanischen in einem didaktisch aufbereiteten Format, das auch ohne Vorkenntnisse gut zugänglich ist und demselben Ansatz folgt wie dieses Kapitel (s.u.). Wer ein noch tieferes Verständnis anstrebt, dem sei Coserius grundlegende Abhandlung über <i>Synchronie, Diachronie und Geschichte</i> (1974) empfohlen, da sie das Problem des Sprachwandels in die allgemeine Sprachwissenschaft einordnet.</p>
 
+<p>Von besonderem Interesse ist ein Ansatz, der diachrone Erklärungen konsequent von der Gegenwart her entfaltet. Tacke (2021) zeigt, wie die historische Betrachtung romanischer Sprachen im Unterricht nicht bei Altstufen ansetzt, sondern an heutigen Strukturen und „Anomalien“ anschließt, um deren Gewordensein sichtbar zu machen. Vorläufer dieses Modells finden sich bei Christmann (1975) und Böckle/Lebsanft (1989). Für das Spanische ist Ranson/Lubbers (2018) das einschlägige Beispiel: Fragen wie <i>el arte ~ las artes</i> oder die Verteilung unregelmäßiger Verbformen werden ausgehend vom modernen Sprachgefühl aufgegriffen und erst dann in ihrem historischen Zusammenhang erklärt. Damit verschränkt sich Gegenwartsorientierung mit diachroner Perspektive.</p>
+</details>
+
+---
+
+## Literatur
+
+<div class="literatur" markdown="1">
+
+- Coseriu, Eugenio (1974): *Synchronie, Diachronie und Geschichte. Das Problem des Sprachwandels*. München: Fink.
+- Kaiser, Georg A. (2014): *Romanische Sprachgeschichte*. Paderborn: Fink.
+- Müller-Lancé, Johannes (2006): *Latein für Romanisten. Ein Lehr- und Arbeitsbuch*. Tübingen: Narr Francke.
+- Pountain, Christopher J. (2001): *A History of the Spanish Language Through Texts*. London/New York: Routledge.
+- Ranson, Diana L. / Lubbers Quesada, Margaret (2018): *The History of Spanish. A Student’s Introduction*. Cambridge: Cambridge University Press.
+- Tacke, Felix (2021): „Die historische Betrachtung der romanischen Sprachen. Zur Zukunft der Sprachgeschichte in der universitären Lehre“. *Romanische Forschungen* 133, 68–89.
+
+
+</div>
+
+---
+
+!!! info "Dieses Kapitel zitieren" 
+    Lea-Marie Domin, Felix Tacke, Selin Sevgi (2025): „Sprachwandel“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg. Online: [https://linguistik.online.uni-marburg.de/](https://linguistik.online.uni-marburg.de/) DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
+
+
+[^*]: **Autor:innen:** Lea-Marie Domin, Felix Tacke, Selin Sevgi  
+      **Beiträge & Peer Review:** 
+        
+      **Letzte Änderung:** 18.09.2025
 
