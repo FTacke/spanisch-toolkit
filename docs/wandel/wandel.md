@@ -21,7 +21,7 @@ Das Kapitel versteht die Formen und Strukturen des Gegenwartsspanischen also als
 
 Auch wenn die Darstellung keine direkte Didaktisierung verfolgt, ist sie auf (angehende) Lehrkräfte zugeschnitten: Wer die historischen Hintergründe kennt, kann das heutige System klarer einschätzen. Was sonst willkürlich wirkt, zeigt sich als Produkt regelmäßiger Entwicklungen. Dieses Wissen macht den Unterricht sprachlich fundierter und kann ihn auch für Lernende an zentralen Stellen transparenter machen. Die diachrone Perspektive ist somit ebenfalls ein kleiner Baustein und kann ein wichtiges Werkzeug für den fachlich fundierten Unterricht sein.
 
-Nach einer allgemeinen Übersicht über grundlegende Prinzipien des Sprachwandels, die das Verständnis der Beispiele vorbereiten, richtet sich der Blick dieses Kapitels auf Strukturen, die Lernenden besonders oft Herausforderungen darstellen, weil sie von den erlernten regelmäßigen Mustern abweichen: die Unregelmäßigkeit vor allem der häufigsten Verben (z.B. *ir → voy*, *saber → sé*), die unerwartete Genuszuweisung (*la mano*) oder Artikelform (*el agua*) bei einzelnen Substantiven, lautliche Alternationen innerhalb eines Paradigmas (*poder → p<u>ue</u>do / p<u>o</u>demos*) sowie weitere scheinbare Ausnahmen, die sich erst in diachroner Perspektive als systematisch nachvollziehbar erweisen.
+Nach einer allgemeinen Übersicht über grundlegende Prinzipien des Sprachwandels, die das Verständnis der Beispiele vorbereiten, richtet sich der Blick dieses Kapitels auf Strukturen, die für Lernende besonders oft Herausforderungen darstellen, weil sie von den erlernten regelmäßigen Mustern abweichen: die Unregelmäßigkeit vor allem der häufigsten Verben (z.B. *ir → voy*, *saber → sé*), die unerwartete Genuszuweisung (*la mano*) oder Artikelform (*el agua*) bei einzelnen Substantiven, lautliche Alternationen innerhalb eines Paradigmas (*poder → p<u>ue</u>do / p<u>o</u>demos*) sowie weitere scheinbare Ausnahmen, die sich erst in diachroner Perspektive als systematisch nachvollziehbar erweisen.
 
 
 
@@ -85,7 +85,7 @@ So stehen heute beide Formen [*septiembre*](https://dle.rae.es/septiembre){:targ
 
 Ein analoger Prozess zeigt sich bei Präfixen wie *trans-* vs. *tras-*. Im Spanischen dominierten Formen mit *tras-* (z. B. [*trasplantar*](https://dle.rae.es/trasplantar), [*traspasar*](https://dle.rae.es/traspasar){:target="_blank" rel="noopener noreferrer"}). In gelehrten oder international geprägten Bildungen kam *trans-* zurück ([*transparente*](https://dle.rae.es/transparente){:target="_blank" rel="noopener noreferrer"}, [*transfusión*](https://dle.rae.es/transfusi%C3%B3n){:target="_blank" rel="noopener noreferrer"}). Diese Variation in der Lautung verdeutlicht die Tendenz zur Vereinfachung von Konsonantenclustern.  
 
-Ein weiteres Beispiel komplexer Konsonantenfolgen ohne Aussprache ist [*psicólogo*](https://dle.rae.es/psic%C3%B3logo){:target="_blank" rel="noopener noreferrer"} bzw. *psíquico*. Das initiale `<p>` wird in der Aussprache in der Regel nicht realisiert, obwohl es orthographisch steht – hier wiederum ein Erbe des griechischen Ursprungs.  
+Ein weiteres Beispiel komplexer Konsonantenfolgen ohne Aussprache ist [*psicólogo*](https://dle.rae.es/psic%C3%B3logo){:target="_blank" rel="noopener noreferrer"} bzw. [*psíquico*](https://dle.rae.es/ps%C3%ADquico){:target="_blank" rel="noopener noreferrer"}. Das initiale `<p>` wird in der Aussprache in der Regel nicht realisiert, obwohl es orthographisch steht – hier wiederum ein Erbe des griechischen Ursprungs (im Wörterbuch werden *sícólogo* und *síquico* als alternative Schreibweisen aufgeführt).  
 
 #### Und was ist mit dem *-s* im Auslaut?  
 Die Tendenz zur offenen Silbe betrifft auch das silben- und wortfinale <span class="meta">/s/</span>: In vielen Varietäten wird es im Silbenauslaut abgeschwächt oder getilgt, z.B. *lo<u>s</u> amigo<u>s</u>* → <span class="meta">[loh.a.ˈmi.ɣoh]</span> ~ <span class="meta">[lo.a.ˈmi.ɣo]</span> oder  *¿tiene<u>s</u> tiempo?* <span class="meta">[ˈtje.ne.ˈtjem.po]</span>. Das hat wiederum Konsequenzen für die Pluralmarkerierung und die Kennzeichnung der grammatischen Person (s.u.). Die Abschwächung ist in einigen Teilen der Hispanophonie kennzeichnend, hat aber auf die Schrift keinen Einfluss. Eine ausführliche Auseinandersetzung mit dem lautlichen Phänomen und den Regionen, in denen es besonders kennzeichnend ist, findet sich im Kapitel [Aussprachevariation](../aussprache/varianten.md).  
@@ -239,7 +239,7 @@ Das Muster findet sich ebenfalls in den übrigen romanischen Sprachen: fr. clair
 
 
 [^*]: **Autor:innen:** Lea-Marie Domin, Selin Sevgi, Felix Tacke  
-      **Beiträge & Peer Review:** Marlon Merte
+      **Beiträge & Peer Review:** Marlon Merte, Gloria Gabriel
         
-      **Letzte Änderung:** 22.09.2025
+      **Letzte Änderung:** 23.09.2025
 
