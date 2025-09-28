@@ -5,7 +5,7 @@
     <div class="coordination">Koordination</div>
     <div class="coordination-name">Prof. Dr. Felix Tacke</div>
     <div class="authors">Autor:innen</div>
-    <div class="author-names">Renata Freyre Castro, Lea-Marie Domin,<br>Gloria Gabriel, Marlon Merte, Selina Scholz,<br>Selin Sevgi, Felix Tacke</div>
+    <div class="author-names">Lea-Marie Domin, Riccarda Falcone,<br>Renata Freyre Castro, Gloria Gabriel,<br>Jamaa Khodja, Marlon Merte,<br>Büşra Özen, Selina Scholz, Selin Sevgi,<br>Felix Tacke, Teodora Teodorescu</div>
     <div class="place">Philipps-Universität Marburg, 2025</div>
     <div class="badge">
       <a href="https://hispanistica.online.uni-marburg.de"
