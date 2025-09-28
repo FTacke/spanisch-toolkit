@@ -93,6 +93,18 @@ Solche Verwechslungen sind aber kein reines ‚arabisches‘ Phänomen: Auch im 
 
 Im deutschen Alltag und in anderen Sprachen begegnen arabischsprachige Schüler:innen dem <span class="meta">/p/</span> aber permanent und haben meist kein Problem (mehr) mit dem Laut. Für den Unterricht reicht es oft, das Problem kurz bewusst zu machen und zum Üben zu motivieren – größere Schwierigkeiten sind selten.  
 
+### Schreibung(en): andere Alphabete
+
+Auch wenn es im Spanischunterricht meist nicht im Vordergrund steht, lohnt ein kurzer Blick auf die Schriftsysteme. Schriftformen unterscheiden sich nicht nur in den Zeichen selbst, sondern auch darin, wie Vokale dargestellt werden, ob Groß- und Kleinschreibung vorgesehen ist und in welche Richtung gelesen wird. Da Spanisch und Deutsch beide mit der lateinischen Schrift arbeiten, fällt der Übergang den meisten Lernenden leicht. In einzelnen Herkunftssprachen begegnen jedoch andere Alphabete, die das Lesen und Schreiben beeinflussen können.
+
+| Alphabet        | Sprachen (Beispiele)                                                                 | Beispiel                                      | Leserichtung |
+| --------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------- | ------------ |
+| Lateinisch      | Deutsch, Spanisch, Türkisch, Polnisch, Italienisch, Bosnisch, Kroatisch, Kurmandschi | *Madrid, España*                                  | →            |
+| Arabischbasiert | Arabisch, Persisch, Paschtu, Sorani                                                  | **مدريد، إسبانيا**<br>(*madrīd, isbānyā*)           | ←            |
+| Kyrillisch      | Russisch, Ukrainisch, Serbisch                                                       | **Мадрид, Испания** (*Madríd, Ispánija*)          | →            |
+
+In der Praxis heißt das: Wer mit der lateinischen Schrift vertraut ist, konzentriert sich im Spanischen auf Akzente, Sonderzeichen und die sparsamere Großschreibung. Bei anderen Schriften können Richtung, Vokalmarkierung oder ungewohnte Laut-Buchstaben-Zuordnungen zusätzliche Schritte nötig machen. Für den Unterricht genügt meist eine kurze Abklärung, um diese Unterschiede gezielt und knapp aufzugreifen.
+
 ### Genus: Grammatisches Geschlecht im Vergleich
 
 Spanische Substantive werden in zwei Genera eingeteilt: maskulin und feminin. Ein Neutrum, wie es im Deutschen existiert, kennt das Spanische nicht. Das Genus eines spanischen Nomens oder Adjektivs lässt sich häufig durch den Endvokal erkennen und wird außerdem durch den Artikel gekennzeichnet (im Unterschied zum Deutschen ist das Genus auch in den Pluralformen erkennbar: *los* vs. *las*). Die Faustregel im Spanischen lautet, dass alle auf *-o* endenden Wörter maskulin und (fast) alle auf *-a* endenden Wörter feminin sind. Auf die Ausnahmen (*la mano*, *la foto*, *el artista*) muss hier nicht eingegangen werden.  
@@ -147,10 +159,6 @@ Wieder andere Sprachen, darunter Kurdisch und Persisch, markieren Bestimmtheit u
 
 Darüber hinaus gibt es eine größere Gruppe von Herkunftssprachen, konkret Türkisch, Russisch, Polnisch, Bosnisch/Kroatisch/Serbisch, die überhaupt keine Artikel kennen. In diesen Sprachen übernehmen Kasusendungen, Aspektformen oder Zahlwörter die Funktionen, die im Spanischen durch Artikel geleistet werden.  
 
-Für den Unterricht heißt das: Je stärker das Herkunftssystem dem Spanischen ähnelt, desto leichter gelingt der Transfer. Romanische Sprachen bringen klare Vorteile mit. Lernende aus Sprachen mit funktionalen Entsprechungen (z.B. Arabisch, Kurdisch, Persisch) benötigen gezielte Kontrastübungen, um die Formunterschiede zu verinnerlichen. Für Sprecher:innen aus Sprachen ohne Artikel ist die Kategorie selbst neu. Die korrekte Verwendung von Artikeln stellt daher eine besonders große Herausforderung dar (und das nicht nur im Spanischen, sondern auch im Deutschen und in anderen Fremdsprachen).  
-
-Mit Blick auf diese Herkunftssprachen braucht es also systematische Einführung, viel Übung und konsequentes Feedback, um den Artikelgebrauch zu automatisieren.  
-
 <details>
 <summary>Mehr zu Artikeln in den Herkunftssprachen</summary>
 
@@ -166,13 +174,63 @@ Mit Blick auf diese Herkunftssprachen braucht es also systematische Einführung,
 - <i>Kurmancî</i>: kein eigener Artikel, Definitheit wird durch Kasusmarkierungen und Syntax angezeigt.<br>
 - <i>Sorânî</i>: Suffixe markieren Definitheit (<i>-eke</i>) bzw. Unbestimmtheit (<i>-êk</i>). Diese fungieren artikelähnlich, sind aber gebundene Morpheme, keine freien Wörter. Für Lernende ist das Prinzip der Definitheit vertraut, aber die Umstellung auf selbständige Artikelwörter im Spanischen erfordert Anpassung.</p>
 
-<p><b>Persisch (Farsi/Dari):</b> Kein bestimmter Artikel. Unbestimmtheit wird durch das Zahlwort <i>yek</i> („eins“) oder ein suffigiertes <i>-i</i> markiert. Definitheit ergibt sich meist aus dem Kontext oder durch Demonstrativpronomen. Spanische Artikel sind somit eine neue Struktur, auch wenn das Konzept der Indefinitheit vertraut ist.</p>
+<p><b>Persisch (Farsi/Dari):</b> Kein bestimmter Artikel. Unbestimmtheit wird durch das Zahlwort <i>yek</i> (‘eins’) oder ein suffigiertes <i>-i</i> markiert. Definitheit ergibt sich meist aus dem Kontext oder durch Demonstrativpronomen. Spanische Artikel sind somit eine neue Struktur, auch wenn das Konzept der Indefinitheit vertraut ist.</p>
 
 <p><b>Paschtu:</b> Definitheit wird durch spezielle Endungen oder possessivische Marker angezeigt, ein unbestimmter Artikel fehlt. Es existiert also keine direkte Entsprechung zu den spanischen Artikeln, aber funktionale Ähnlichkeiten über andere Marker.</p>
 
 <p><b>Italienisch:</b> Bestimmte Artikel (<i>il</i>, <i>lo</i>, <i>la</i>, <i>l’</i>, <i>i</i>, <i>gli</i>, <i>le</i>) und unbestimmte Artikel (<i>un</i>, <i>uno</i>, <i>una</i>, <i>un’</i>). Das System ist dem Spanischen sehr ähnlich, nur mit mehr Allomorphen. Auch Verschmelzungen mit Präpositionen sind in beiden Sprachen üblich. Italienischsprachige Lernende haben daher klare Vorteile.</p>
 
 </details>
+
+Für den Unterricht heißt das: Je stärker das Herkunftssystem dem Spanischen ähnelt, desto leichter gelingt der Transfer. Romanische Sprachen bringen klare Vorteile mit. Lernende aus Sprachen mit funktionalen Entsprechungen (z.B. Arabisch, Kurdisch, Persisch) benötigen gezielte Kontrastübungen, um die Formunterschiede zu verinnerlichen. Für Sprecher:innen aus Sprachen ohne Artikel ist die Kategorie selbst neu. Die korrekte Verwendung von Artikeln stellt daher eine besonders große Herausforderung dar (und das nicht nur im Spanischen, sondern auch im Deutschen und in anderen Fremdsprachen).  
+
+Mit Blick auf diese Herkunftssprachen braucht es also systematische Einführung, viel Übung und konsequentes Feedback, um den Artikelgebrauch zu automatisieren.  
+
+### *(<u>Yo</u>) aprend<u>o</u> español*: Wie Person markiert wird  
+
+In jeder Sprache muss erkennbar sein, wer handelt: *ich*, *du*, *er/sie*. Dafür gibt es verschiedene Mittel. Manche Sprachen zeigen die Person hauptsächlich an der Verbendung, andere brauchen zusätzlich ein Subjektpronomen. Deutsch und Französisch gehören zur zweiten Gruppe: *ich gehe, du gehst, er/sie geht*, *j'aime, tu aimes, il aime* – die Endung allein reicht teilweise nicht aus (bei den französischen Verben hört man oft keinerlei Unterschied!), daher ist das Pronomen immer dabei.
+
+Im Spanischen ist es anders. Jede Person hat ihre eigene Verbendung, und diese Unterschiede sind auch in der Aussprache gut hörbar: *hablo, hablas, habla, hablamos, habláis, hablan*. Das Pronomen wird nur ausnahmsweise genannt, nämlich wenn etwas besonders hervorgehoben werden soll, zum Beispiel in *Ella canta, yo no* (‘Sie singt, ich nicht’). Für Lernende bedeutet das: Die Verbendung genügt, Pronomen erscheinen nur selten zur Hervorhebung.
+
+<details><summary>Mit (ohne) Subjektpronomen in der Linguistik</summary>
+
+<p>Sprachtypologisch gibt es verschiedene Wege, die handelnde Person zu markieren: durch Verbendungen, durch Klitika, durch Subjektpronomen oder durch den Kontext im Diskurs. In vielen Sprachen sind Pronomen deshalb nicht obligatorisch.</p>
+
+<p>Für das Phänomen, dass keine Subjektpronomen vorkommen, ist in der Linguistik der Fachbegriff <i>Pro-Drop</i> etabliert. Er geht auf die Generative Grammatik zurück, wo von einem „leeren Pronomen“ im Satzinneren ausgegangen wird. Der Name legt nahe, dass Pronomen der Normalfall seien und dann „fallen gelassen“ werden – eine Sichtweise, die die tatsächliche Vielfalt verkürzt und zudem unplausibel ist: Sprachen ohne Subjektpronomen sind keine Ausnahme, sondern sehr zahlreich, und Subjektpronomen entwickeln sich historisch oft erst später (z. B. im Französischen, da dort die Verbendung die Funktion der Personenmarkierung nicht mehr durchgängig erfüllen kann).</p>
+
+<p>Heute spricht man daher eher davon, <i>ob</i> und <i>wie</i> Sprachen Subjektinformation ausdrücken: konsistent über Flexion, diskursgesteuert oder nur partiell. <i>Pro-Drop</i> ist also vor allem ein etabliertes Schlagwort.</p>
+
+</details>
+
+Viele Herkunftssprachen der Lernenden verhalten sich ähnlich wie das Spanische. Italienisch, Bosnisch/Kroatisch/Serbisch, Türkisch, Arabisch und Persisch markieren die Person an den Verbendungen; Pronomen sind dort nicht zwingend. In den ostslawischen Sprachen ist das Bild gemischter: Im Ukrainischen kann das Pronomen oft entfallen, im Russischen etwas seltener. Unterschiede zeigen sich auch im Kurdischen (Sorani), wo die Person durch feste Markierungen am Verb angezeigt wird, die wie obligatorische Pronomen wirken, und im Paschtu, wo reduzierte Endungen dazu führen, dass Pronomen in der gesprochenen Sprache häufiger gebraucht werden.
+
+<details><summary>Mehr Details zu einzelnen Sprachen</summary>
+
+<p><b>Italienisch.</b> Subjektpronomen optional, Person an der Endung. Beispiel: <i>parl<u>o</u></i> ‘ich spreche’ / <i><u>Io</u> parl<u>o</u></i> (hervorgehoben).</p>
+
+<p><b>Bosnisch/Kroatisch/Serbisch.</b> Subjektpronomen oft weggelassen, Person an der Endung. Beispiel: <i>piše<u>m</u></i> ‘ich schreibe’ / <i><u>Ja</u> piše<u>m</u></i> (hervorgehoben).</p>
+
+<p><b>Türkisch.</b> Personenaffixe am Verb lizenzieren Weglassung des Pronomens; Pronomen für Fokus. Beispiel: <i>geldi<u>m</u></i> ‘ich kam’ / <i><u>Ben</u> geldi<u>m</u></i> (hervorgehoben).</p>
+
+<p><b>Arabisch (Standard/Varietäten).</b> Person am Verb markiert; Pronomen bei Kontrast. Beispiel Perfekt: <i>كتبت<u>ُ</u></i> ‘ich schrieb’ / <i><u>أنا</u> كتبت<u>ُ</u></i> (hervorgehoben).</p>
+
+<p><b>Persisch.</b> Personenendungen tragen die Referenz; Pronomen optional. Beispiel: <i>می‌ر<u>وم</u></i> ‘ich gehe’ / <i><u>من</u> می‌ر<u>وم</u></i> (hervorgehoben).</p>
+
+<p><b>Ukrainisch.</b> Pronomen kann entfallen, abhängig von Register und Kontext. Beispiel: <i>пиш<u>у</u></i> ‘ich schreibe’ / <i><u>я</u> пиш<u>у</u></i> (hervorgehoben).</p>
+
+<p><b>Russisch.</b> Pronomen häufiger genannt als in Italienisch/Spanisch, kann aber entfallen. Beispiel: <i>пиш<u>у</u></i> ‘ich schreibe’ / <i><u>я</u> пиш<u>у</u></i> (oft neutral).</p>
+
+<p><b>Kurdisch (Sorani).</b> Person durch feste Markierungen am Verb; unabhängiges Pronomen für Betonung. Beispiel: <i>deç<u>im</u></i> ‘ich gehe’ / <i><u>min</u> deç<u>im</u></i> (hervorgehoben).</p>
+
+<p><b>Paschtu.</b> Personenaffixe am Verb; Pronomen tritt je nach Tempus/Aspekt häufiger oder seltener auf. Beispiel: <i>raz<u>am</u></i> ‘ich komme’ / <i><u>za</u> raz<u>am</u></i> (hervorgehoben).</p>
+
+</details>
+
+Für den Unterricht heißt das, Lernende müssen im Spanischen bewusst wahrnehmen, dass die Verbendung reicht und dies einüben. Viele Schüler:innenmit einer der Herkunftssprache sind hier wieder klar im Vorteil und darauf darf im Unterricht auch hingewiesen werden.
+
+### SVO oder SOV? Satzstellung im Vergleich
+
+### Kasus und Präpositionen in den Herkunftssprachen
 
 ## Empfehlungen für den Unterricht
 
