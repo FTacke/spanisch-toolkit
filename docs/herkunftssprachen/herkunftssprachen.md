@@ -1,4 +1,4 @@
-# 6 Herkunftssprachen (Beta)[^*]
+# 4 Herkunftssprachen[^*]
 
 ## Vom Türkischen bis zum Polnischen: Wie Sprachenvielfalt den Spanischunterricht bereichert
 
@@ -93,10 +93,6 @@ Solche Verwechslungen sind aber kein reines ‚arabisches‘ Phänomen: Auch im 
 
 Im deutschen Alltag und in anderen Sprachen begegnen arabischsprachige Schüler:innen dem <span class="meta">/p/</span> aber permanent und haben meist kein Problem (mehr) mit dem Laut. Für den Unterricht reicht es oft, das Problem kurz bewusst zu machen und zum Üben zu motivieren – größere Schwierigkeiten sind selten.  
 
-### Alphabetumstellungen? 
-
-Khodja  
-
 ### Genus: Grammatisches Geschlecht im Vergleich
 
 Spanische Substantive werden in zwei Genera eingeteilt: maskulin und feminin. Ein Neutrum, wie es im Deutschen existiert, kennt das Spanische nicht. Das Genus eines spanischen Nomens oder Adjektivs lässt sich häufig durch den Endvokal erkennen und wird außerdem durch den Artikel gekennzeichnet (im Unterschied zum Deutschen ist das Genus auch in den Pluralformen erkennbar: *los* vs. *las*). Die Faustregel im Spanischen lautet, dass alle auf *-o* endenden Wörter maskulin und (fast) alle auf *-a* endenden Wörter feminin sind. Auf die Ausnahmen (*la mano*, *la foto*, *el artista*) muss hier nicht eingegangen werden.  
@@ -178,22 +174,6 @@ Mit Blick auf diese Herkunftssprachen braucht es also systematische Einführung,
 
 </details>
 
-
-
-
-
-### (Yo) aprendo español: Subjektpronomen und Verbendungen im Sprachvergleich  
-
-Khodja
-
-### SVO oder SOV? Satzstellung im Vergleich
-
-Khodja
-
-### Kasus und Präpositionen in den Herkunftssprachen
-
-Khodja
-
 ## Empfehlungen für den Unterricht
 
 Für einen erfolgreichen Spanischunterricht in sprachlich heterogenen Lerngruppen ist Sensibilisierung zentral – sowohl bei den Lehrkräften als auch bei den Schüler:innen. Das entspricht auch den Zielen zahlreicher Lehrpläne, die Sprachbewusstheit als förderwürdige Kompetenz ausweisen.  
@@ -260,4 +240,4 @@ Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen M
 
       **Beiträge & Peer Review:** Gloria Gabriel, Lea-Marie Domin
         
-      **Letzte Änderung:** 10.09.2025
+      **Letzte Änderung:** 28.09.2025

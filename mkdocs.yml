@@ -70,12 +70,7 @@ nav:
       - 2.1 Aussprache: aussprache/aussprache.md
       - 2.2 Aussprachevariation: aussprache/varianten.md
   - 3 Orthographie: orthographie/orthographie.md 
-  - 4 Variation & Plurizentrik (Beta):
-      - 4.1 Variation: variation/variation.md
-      - 4.2 Plurizentrik im Klassenraum: variation/klassenraum.md
-  - 5 Sprachwandel: wandel/wandel.md
-  - 6 Herkunftssprachen (Beta): herkunftssprachen/herkunftssprachen.md
-  - 7 Lexikalische Kreativität (Beta): lexik/lexik.md
+  - 4 Herkunftssprachen: herkunftssprachen/herkunftssprachen.md
 
   - Über dieses Projekt: projekt.md
 
@@ -83,7 +78,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/creative-commons
-      link: https://creativecommons.org/licenses/by-nc/4.0/
+      link: https://creativecommons.org/licenses/by-sa/4.0/
 
 markdown_extensions:
   - admonition
@@ -97,13 +92,14 @@ markdown_extensions:
       title: "Struktur des Kapitels"
 
 copyright: >
-  Spanische Linguistik @ School<span style="color:var(--md-footer-fg-color--lighter)">
-  &nbsp;wurde&nbsp;mit&nbsp;</span>
-  <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-    Material&nbsp;for&nbsp;MkDocs
+  © 2025 Spanische Linguistik @ School — <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg" alt="License: CC BY-SA 4.0" style="vertical-align:middle;border:0"/>
   </a>
-  <span style="color:var(--md-footer-fg-color--lighter)">
-  erstellt&nbsp;und&nbsp;ist&nbsp;Teil&nbsp;von&nbsp;</span>
-  <a href="https://hispanistica.online.uni-marburg.de" target="_blank" rel="noopener noreferrer">
+  <br>
+  <span style="color:var(--md-footer-fg-color--lighter)">Erstellt mit </span>
+  <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener" style="text-decoration:none">Material for MkDocs</a>
+  <span style="color:var(--md-footer-fg-color--lighter)">. Teil von </span>
+  <a href="https://hispanistica.online.uni-marburg.de" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Hispanistica-@%20Marburg-4287f5?style=flat" alt="Hispanistica – @ Marburg" style="vertical-align:middle" />
   </a>
+

@@ -26,3 +26,6 @@ lokal.txt
 # Editor & OS
 *.log
 .DS_Store
+
+# Beta content
+docs/beta/

@@ -15,6 +15,11 @@
           style="vertical-align:middle" />
       </a>
     </div>
+    <div class="badge">
+      <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+      <img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg" alt="License: CC BY-SA 4.0" style="vertical-align:middle;border:0"/>
+      </a>
+    </div>
   </div>
 </div>
 
@@ -24,16 +29,30 @@ Du befindest dich auf der Startseite eines digitalen Sachbuchs, das sich an (zuk
 
 Die Idee zu diesem digitalen Sachbuchprojekt ist nicht aus dem Nichts entstanden, sondern wurde inspiriert durch viele Unterhaltungen mit meinem Kollegen **Rolf Kreyer**, Professor für englische Sprachwissenschaft an der Philipps-Universität Marburg und anerkannter Spezialist für eine linguistisch fundierte Lehrkräftebildung. Sein 2023 publiziertes Lehrbuch (sein *Linguistic Toolkit*, s.u.) ist das Vorbild und bildet den Hintergrund, vor dem hier an einem digitalen "Toolkit" für (angehende) Spanischlehrkräfte gearbeitet wird.
 
-!!! details "Referenzwerk für das Englische"
+!!! tip "Referenzwerk für das Englische"
     **Rolf Kreyer (2023):** *The Linguistic Toolkit for Teachers of English: Discovering the Value of Linguistics for Foreign Language Teaching.*  Tübingen: Narr Francke Attempto Verlag. [Zum eBook](https://www.narr.de/the-linguistic-toolkit-for-teachers-of-english-18611/){target="_blank" rel="noopener noreferrer"}
 
 Eine ausführlichere Darstellung der Grundidee findest Du in der [Einleitung](einleitung.md). Wenn Du sofort starten möchtest, kannst Du über die Navigation auch direkt in eines der Kapitel springen.
 
 Bei diesem digitalen Buch handelt es sich um „work in progress“. Die sich jeweils in Arbeit befindlichen Kapitel tragen daher den Zusatz „(Beta)“, um darauf hinzuweisen, dass es sich zunächst noch um zur (internen) Diskussion stehende Texte handelt.
 
+## Offen lizenziert: *Spanische Linguistik @ School* als OER
+
+Dieses digitale Buch ist eine *Open Educational Resource (OER)*. Du darfst die Inhalte *frei nutzen, anpassen und weitergeben*, auch im Unterricht und in eigenen Publikationen – Voraussetzung sind *Namensnennung, Lizenzlink* und ein Hinweis auf *Änderungen*. Wir nutzen dafür **CC BY-SA 4.0**, damit Bearbeitungen wieder offen bleiben. Siehe Lizenzhinweise im Footer und in der Datei [`LICENSE-CONTENT`](LICENSE-CONTENT).
+
+Die technische Basis ist **Material for MkDocs**. Der *Code* dieses Projekts stammt aus diesem Template, wurde punktuell angepasst und steht bei uns unter der *MIT-Lizenz*. Das Repository ist öffentlich: <https://github.com/FTacke/spanisch-toolkit>.
+
+Wenn Du ein eigenes offenes Lehrbuch entwickeln möchtest, kannst Du unser Setup als *Vorlage* verwenden: Repository forken, Inhalte in `docs/` anpassen, `mkdocs.yml` konfigurieren und über *GitHub Pages* veröffentlichen. So entstehen mit wenig Aufwand weitere frei zugängliche OER-Lehrbücher.  
+
+Klingt kompliziert? Ist es (im Jahr 2025) nicht – lass Dir einfach von der generativen KI Deiner Wahl Schritt für Schritt helfen!
+
+
 *Marburg, im April 2025*
 
 *Prof. Dr. Felix Tacke*
+
+
+
 
 !!! info "Dieses Buch zitieren"  
     Tacke, Felix (Koord.) (2025–): *Spanische Linguistik @ School*. Marburg: Universität Marburg. Online: [https://linguistik.online.uni-marburg.de/](https://linguistik.online.uni-marburg.de/){target="_blank" rel="noopener noreferrer"}  
