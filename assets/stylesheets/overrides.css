@@ -66,7 +66,7 @@
 
 .cover-caption .subtitle {
   font-size: 1.25em;
-  margin: 24px 0 56px;
+  margin: 12px 0 32px;
 }
 
 .cover-caption .coordination {
@@ -89,16 +89,16 @@
 .cover-caption .author-names {
   font-size: .9em;
   line-height: 1.2;
-  margin-bottom: 56px;
+  margin-bottom: 36px;
 }
 
 .cover-caption .place {
   font-size: .7em;
-  margin-bottom: 6px;
+  margin-bottom: 10px;
 }
 
 .cover-caption .badge {
-  margin-bottom: 18px;
+  margin-bottom: 10px;
 }
 
 /* ─────────────────────────
