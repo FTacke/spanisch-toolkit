@@ -101,6 +101,14 @@
   margin-bottom: 10px;
 }
 
+.cc-text{
+  font-size:.9em;
+  color:var(--md-typeset-color--muted);
+  display:block;
+  text-align:right;
+  margin-top:.5rem;
+}
+
 /* ─────────────────────────
    Literatur-Absätze kleiner
    ───────────────────────── */

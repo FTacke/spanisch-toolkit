@@ -232,6 +232,8 @@ Ein reiner Anfängerfehler ist es bekanntlich, das im Spanischen geschriebene, a
 
 !!! info "Dieses Kapitel zitieren" 
     Merte, Marlon / Tacke, Felix (2025): „Aussprache“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg. Online: [https://linguistik.online.uni-marburg.de/](https://linguistik.online.uni-marburg.de/) DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
+    
+    <span class="cc-text">Auch nutzbar nach <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>-Lizenzregeln.</span>
 
 
 [^*]: **Autor:innen:** Marlon Merte, Felix Tacke  

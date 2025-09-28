@@ -58,3 +58,6 @@ Klingt kompliziert? Ist es (im Jahr 2025) nicht – lass Dir einfach von der gen
     Tacke, Felix (Koord.) (2025–): *Spanische Linguistik @ School*. Marburg: Universität Marburg. Online: [https://linguistik.online.uni-marburg.de/](https://linguistik.online.uni-marburg.de/){target="_blank" rel="noopener noreferrer"}  
       
     [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15348687.svg)](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
+    
+    <span class="cc-text">Auch nutzbar nach <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>-Lizenzregeln.</span>
+    
