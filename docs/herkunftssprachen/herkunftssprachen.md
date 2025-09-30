@@ -101,7 +101,7 @@ Auch wenn es im Spanischunterricht meist nicht im Vordergrund steht, lohnt ein k
 | --------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------- | ------------ |
 | Lateinisch      | Deutsch, Spanisch, Türkisch, Polnisch, Italienisch, Bosnisch, Kroatisch, Kurmandschi | *Madrid, España*                                  | →            |
 | Arabischbasiert | Arabisch, Persisch, Paschtu, Sorani                                                  | **مدريد، إسبانيا**<br>(*madrīd, isbānyā*)           | ←            |
-| Kyrillisch      | Russisch, Ukrainisch, Serbisch                                                       | **Мадрид, Испания** (*Madríd, Ispánija*)          | →            |
+| Kyrillisch      | Russisch, Ukrainisch, Serbisch                                                       | Ru: **Мадрид, Испания** (*Madríd, Ispánija*)<br>Uk: **Мадрид, Іспанія** (*Madrýd, Ispaníja*)<br>Sr: **Мадрид, Шпанија** (*Madríd, Španija*) | → |
 
 In der Praxis heißt das: Wer mit der lateinischen Schrift vertraut ist, konzentriert sich im Spanischen auf Akzente, Sonderzeichen und die sparsamere Großschreibung. Bei anderen Schriften können Richtung, Vokalmarkierung oder ungewohnte Laut-Buchstaben-Zuordnungen zusätzliche Schritte nötig machen. Für den Unterricht genügt meist eine kurze Abklärung, um diese Unterschiede gezielt und knapp aufzugreifen.
 
@@ -171,12 +171,12 @@ Darüber hinaus gibt es eine größere Gruppe von Herkunftssprachen, konkret Tü
 <p><b>Bosnisch/Kroatisch/Serbisch (BKS):</b> Kein Artikelsystem. Wie in anderen slawischen Sprachen übernehmen Kasusendungen und Kontext die Funktionen der Definitheitsmarkierung. Spanische Artikel stellen daher eine neue Kategorie dar.</p>
 
 <p><b>Kurdische Sprachen:</b><br>
-- <i>Kurmancî</i>: kein eigener Artikel, Definitheit wird durch Kasusmarkierungen und Syntax angezeigt.<br>
-- <i>Sorânî</i>: Suffixe markieren Definitheit (<i>-eke</i>) bzw. Unbestimmtheit (<i>-êk</i>). Diese fungieren artikelähnlich, sind aber gebundene Morpheme, keine freien Wörter. Für Lernende ist das Prinzip der Definitheit vertraut, aber die Umstellung auf selbständige Artikelwörter im Spanischen erfordert Anpassung.</p>
+- <i>Kurmancî</i>: hat einen artikelfunktionalen Unbestimmtheitsmarker <i>-ek</i>; Definitheit wird überwiegend durch Demonstrativa (z.B. <i>ev/ew</i>) und den Kontext, nicht durch Kasus, angezeigt.<br>
+- <i>Sorânî</i>: Suffixe markieren Definitheit (<i>-eke</i>) bzw. Unbestimmtheit (<i>-êk</i>).Diese fungieren artikelähnlich, sind aber gebundene Morpheme, keine freien Wörter. Für Lernende ist das Prinzip der Definitheit vertraut, aber die Umstellung auf selbständige Artikelwörter im Spanischen erfordert Anpassung.</p>
 
 <p><b>Persisch (Farsi/Dari):</b> Kein bestimmter Artikel. Unbestimmtheit wird durch das Zahlwort <i>yek</i> (‘eins’) oder ein suffigiertes <i>-i</i> markiert. Definitheit ergibt sich meist aus dem Kontext oder durch Demonstrativpronomen. Spanische Artikel sind somit eine neue Struktur, auch wenn das Konzept der Indefinitheit vertraut ist.</p>
 
-<p><b>Paschtu:</b> Definitheit wird durch spezielle Endungen oder possessivische Marker angezeigt, ein unbestimmter Artikel fehlt. Es existiert also keine direkte Entsprechung zu den spanischen Artikeln, aber funktionale Ähnlichkeiten über andere Marker.</p>
+<p><b>Paschtu:</b> Es gibt keinen Artikel; Definitheit entsteht vor allem durch Demonstrativa und den Kontext. Possessivmarker kennzeichnen Besitzverhältnisse, ersetzen jedoch keinen allgemeinen Definitheitsmarker. Es existiert also keine direkte Entsprechung zu den spanischen Artikeln, aber funktionale Ähnlichkeiten über andere Marker.</p>
 
 <p><b>Italienisch:</b> Bestimmte Artikel (<i>il</i>, <i>lo</i>, <i>la</i>, <i>l’</i>, <i>i</i>, <i>gli</i>, <i>le</i>) und unbestimmte Artikel (<i>un</i>, <i>uno</i>, <i>una</i>, <i>un’</i>). Das System ist dem Spanischen sehr ähnlich, nur mit mehr Allomorphen. Auch Verschmelzungen mit Präpositionen sind in beiden Sprachen üblich. Italienischsprachige Lernende haben daher klare Vorteile.</p>
 
@@ -226,25 +226,45 @@ Viele Herkunftssprachen der Lernenden verhalten sich ähnlich wie das Spanische.
 
 </details>
 
-Für den Unterricht heißt das, Lernende müssen im Spanischen bewusst wahrnehmen, dass die Verbendung reicht und dies einüben. Viele Schüler:innenmit einer der Herkunftssprache sind hier wieder klar im Vorteil und darauf darf im Unterricht auch hingewiesen werden.
+Für den Unterricht heißt das, Lernende müssen im Spanischen bewusst wahrnehmen, dass die Verbendung reicht und dies einüben. Viele Schüler:innen mit einer der Herkunftssprache sind hier wieder klar im Vorteil und darauf darf im Unterricht auch hingewiesen werden.
 
-### SVO oder SOV? Satzstellung im Vergleich
+### SVO oder SOV? Wortstellung im Vergleich
+
+Wenn man Wortstellungen überblicksartig beschreibt, wird oft stark vereinfacht. So werden Deutsch und Spanisch beide gern als *S–V–O-Sprachen* bezeichnet: *María escribe la carta* / *Maria schreibt den Brief*. Diese Sicht ist nützlich für den Einstieg, doch sie verdeckt wichtige Unterschiede.
+
+In beiden Sprachen gibt es Spielräume. Im Deutschen kann das Objekt vorangestellt werden, ohne dass die Struktur falsch wird: *Den Brief schreibt Maria heute.* Entscheidend ist, dass das konjugierte Verb im Hauptsatz an zweiter Stelle bleibt. Im Spanischen lässt sich ebenfalls umstellen: *La carta la escribe María* oder *Hoy escribe María la carta*. Auch hier geht es nicht um eine starre Reihenfolge, sondern um Betonung und Informationsgewicht.
+
+Der Schlüssel liegt in der *Position des Verbs*: vor dem Objekt, nach dem Objekt, am Anfang, am Ende. Im Spanischen bleibt es in der Regel im Mittelfeld des Aussagesatzes (mit Ausnahmen: z.B. *Llega Juan*). Im Deutschen steht es im Hauptsatz an zweiter Position (z.B. *Heute schreibt María die Karte*) und im Nebensatz am Ende (z.B. *...weil María die Karte schreibt*). Im Türkischen, Persischen, Kurdischen und Paschtu rutscht das Verb meist ganz ans Satzende (S–O–V). Für Lernende kann sich das in Übertragungen wie *Yo mañana la carta escribo* statt *Mañana escribo la carta* zeigen.
+
+Andere Herkunftssprachen sind näher am Spanischen. Italienisch und Bosnisch/Kroatisch/Serbisch folgen im Grundmuster ebenfalls S–V–O, Russisch und Ukrainisch mit Ausnahmen ebenso. Im Standardarabischen kommt neben S–V–O zwar häufig auch V–S–O vor, aber viele Sprecher:innen sprechen eher Alltagsvarietäten, in denen S–V–O deutlich überwiegt.
+
+Im Unterricht sollte man also sensibel sein für Unterschiede, die möglicherweise durch die Herkunftssprachen bedingt sind. Falls man die Wortstellung daher einmal zum Thema macht, lässt sich daran auch bewusst machen, dass es keine „natürliche“ oder „bessere“ Wortstellung gibt, sondern dass Sprachen weltweit zeigen, wie unterschiedlich ein und derselbe Sachverhalt grammatisch ausgedrückt werden kann.
 
 ### Kasus und Präpositionen in den Herkunftssprachen
 
+Statt *Maria<u>s</u> Buch* (Genitiv) sagt Spanisch *el libro <u>de María</u>*. Aber viele würden im Deutschen heutzutage ohnehin eher *das Buch <u>von Maria</u>* (oder gar *<u>Maria ihr</u> Buch*) sagen. Man sieht: Solche Beziehungen und Rollen im weiteren Sinne können auf unterschiedliche Art und Weise ausgedrückt werden. Sprachen arbeiten mit Endungen, mit Präpositionen und mit Wortstellung. Das Deutsche, das Spanische und die hier betrachteten Herkunftssprachen decken dieses Spektrum in unterschiedlichen Mischungen ab.
+
+Im Deutschen erkennt man Rollen vor allem an den Formen der Artikel und Adjektive, in denen Kasus (Nominativ, Akkusativ, Dativ, Genitiv) erkennbar ist, und an Präpositionen wie *mit* oder *für*, die jeweils bestimmte Kasusformen verlangen. Am Nomen erkennt man nur selten Kasus. So gibt es zwar Kasus im Deutschen, aber längst nicht (mehr) systematisch.
+
+Im Spanischen haben Nomen grundsätzlich keine Kasusendungen. Rollen entstehen durch die Grundschiene *S–V–O* (also Subjekte stehen meist vor dem Verb, Objekte dahinter) und durch Präpositionen. Besonders wichtig sind *a* und *de*: *Le doy el libro <u>a Ana</u>* (indirektes Objekt), *Veo <u>el árbol</u>* (direktes Objekt), *El libro <u>de Juan</u>* (Zugehörigkeit). Weitere häufige Mittel sind *en, para, por, con*. So wird klar: Auch ohne Kasus werden dieselben Bedeutungen ausgedrückt, nur eben mit anderen Werkzeugen.
+
+Die Herkunftssprachen bringen diesbezüglich unterschiedliche Vorerfahrungen mit. Türkisch markiert viele Rollen direkt am Nomen und verwendet Postpositionen (also durch nachgestellte Elemente); das Verb steht dabei typischerweise am Satzende. In den slawischen Sprachen wie Russisch, Ukrainisch oder Bosnisch/Kroatisch/Serbisch sorgen mehrere Kasusendungen dafür, dass in der Wortstellung mehr Möglichkeiten bestehen. Persisch verbindet Wörter meist mit einem kleinen Bindeelement (*-e/-ye*), das zwischen Nomen und Attribut steht, und zusätzlich mit Präpositionen; eigene Kasusendungen am Nomen gibt es heute fast nicht mehr. In arabischen Alltagsvarietäten tragen Präpositionen den Hauptteil der Rolleninformation; das Standardarabische markiert zusätzlich Kasus und Verbmodus an Endungen, die vor allem in formeller Schriftsprache und sorgfältiger Aussprache relevant sind. Paschtu und die kurdischen Varietäten kombinieren Markierungen am Verb und am Nomen mit Adpositionen (also mit beigestellen Elementen); das führt je nach Satztyp zu ganz unterschiedlichen Mustern.
+
+Für den Unterricht heißt das: Es geht primär darum, Rollen und Beziehungen sicher zu erkennen und im Spanischen passend auszudrücken. Wichtig ist auch hier vor allem das Bewusstsein, dass Sprachen dieselben Funktionen unterschiedlich kodieren.
+
 ## Empfehlungen für den Unterricht
 
-Für einen erfolgreichen Spanischunterricht in sprachlich heterogenen Lerngruppen ist Sensibilisierung zentral – sowohl bei den Lehrkräften als auch bei den Schüler:innen. Das entspricht auch den Zielen zahlreicher Lehrpläne, die Sprachbewusstheit als förderwürdige Kompetenz ausweisen.  
+Für einen erfolgreichen Spanischunterricht in sprachlich heterogenen Lerngruppen ist Sensibilisierung zentral – sowohl bei den Lehrkräften als auch bei den Schüler:innen. Das entspricht auch den Zielen zahlreicher Lehrpläne, die Sprachbewusstheit als förderwürdige Kompetenz ausweisen. Über sprachvergleichende Reflexion entsteht dabei ein neuer Zugang nicht nur zum Spanischen, sondern auch zur Herkunftssprache und zum Deutschen.  
 
 **Lehrkräfte sensibilisieren:** Ein grundlegendes Wissen über Herkunftssprachen und ihre Unterschiede zum Spanischen ist für Dich als Lehrkraft von großem Vorteil. Je nach den Herkunftssprachen der Schüler:innen werden ganz unterschiedliche Fehler beim Erlernen des Spanischen gemacht; umgekehrt erlernen manche Schüler:innen neue Strukturen schneller als andere.  
 
 Je mehr Du über diese Sprachen weißt, desto mehr werden solche Fehler oder Vorteile als Effekte der Mehrsprachigkeit verständlich. Im Kapitel [Fehlerlinguistik](../fehlerlinguistik/fehlerlinguistik.md) wird bereits verdeutlicht, wie Fehler diagnostisch genutzt werden können: Sie legen offen, was bereits verstanden ist und wo Förderbedarf besteht. Besonders bei den Herkunftssprachen kann das Wissen über strukturelle Unterschiede – etwa *Genus* im Spanischen vs. kein *Genus* im Türkischen – helfen, Lernfortschritte gezielter zu erkennen.  
 
-**Schüler:innen sensibilisieren:** Sprachbewusstheit fördern heißt, Unterschiede und Gemeinsamkeiten zwischen Sprachen sichtbar zu machen. Es gibt keine besseren oder schlechteren Sprachen: Deutsch ist nicht „besser“ als Türkisch und Spanisch nicht „schlechter“ oder „besser“ als Arabisch. Sprachen erfüllen denselben kommunikativen Zweck lediglich auf unterschiedliche Weise.  
+**Schüler:innen sensibilisieren:** Sprachbewusstheit fördern heißt, Unterschiede und Gemeinsamkeiten zwischen Sprachen sichtbar zu machen. Es gibt keine besseren oder schlechteren Sprachen: Deutsch ist nicht „besser“ als Türkisch und Spanisch nicht „schlechter“ oder „besser“ als Arabisch. Sprachen erfüllen denselben kommunikativen Zweck lediglich auf unterschiedliche Weise. Reflexionsimpulse wie „Wie drückt deine Herkunftssprache Zukunft, Besitz oder Richtung aus?“ öffnen Perspektiven, ohne Expert:innenwissen zu erzwingen. Bei den Schüler:innen dabei aber kein „bewusstes Regelwissen“ über ihre Herkunftssprache vorausgesetzt werden. Berücksichtige zudem, dass viele Herkunftssprachen vor allem mündlich erworben wurden und die Schriftsprache und Differenzierungen, die (nur) dort vorkommen, möglicherweise unbekannt sind.   
 
-Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen Mangel: Die Funktion wird anders erfüllt, oft mit weniger grammatischer Markierung. Kleine sprachvergleichende Aufgaben, z.B. „Wie sagt man den Satz X im Spanischen und Deutschen im Vergleich mit den Herkunftssprachen?“, können diesen Perspektivwechsel unterstützen.  
+Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen Mangel: Die Funktion wird anders erfüllt, oft mit weniger grammatischer Markierung. Kleine sprachvergleichende Aufgaben, z.B. „Wie sagt man den Satz X im Spanischen und Deutschen im Vergleich mit den Herkunftssprachen?“, können diesen Perspektivwechsel unterstützen. Fragen und Antworten zu den Herkunftssprachen sollten aber immer nur Angebote sein, diese Perspektive im Unterricht zu vertiefen. Weder für Lehrende noch für die Schüler:innen soll hier Zwang entstehen.   
 
-**Mehrsprachigkeit als Ressource:** Werden Herkunftssprachen aktiv genutzt, stärken sich Beziehungen im Klassenraum. Gemeinsam lässt sich interkulturelles Wissen vernetzen und Mehrsprachigkeit als Normalität etablieren.  
+**Mehrsprachigkeit als Ressource:** Werden Herkunftssprachen aktiv genutzt, stärken sich Beziehungen im Klassenraum. Gemeinsam lässt sich interkulturelles Wissen vernetzen und Mehrsprachigkeit als Normalität etablieren. Organisiere Beiträge am besten so, dass alle mitdenken können.  
 
 !!! tip "Mehrsprachigkeit sichtbar machen: Karte nutzen!"
     Nutzen Sie die [interaktive Karte](#herkunftssprachen-sprachfamilien) der Herkunftssprachen im Vollbildmodus. Lassen Sie Lernende die Sprachen, die sie selbst oder ihre Mitschüler:innen sprechen, auf der Karte verorten. So lässt sich Mehrsprachigkeit auch visuell sichtbar machen.  
@@ -300,4 +320,4 @@ Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen M
 
       **Beiträge & Peer Review:** Gloria Gabriel, Lea-Marie Domin
         
-      **Letzte Änderung:** 28.09.2025
+      **Letzte Änderung:** 30.09.2025
