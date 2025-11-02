@@ -319,6 +319,8 @@ Dabei gilt außerdem: Das DLE dokumentiert den Kern des allgemeinen Wortschatzes
 
 ## Literatur
 
+<div class="literatur" markdown="1">
+
 - Asociación de Academias de la Lengua Española (online): *Diccionario de americanismos (DAMER)*. Online: [https://www.asale.org/damer/](https://www.asale.org/damer/){:target="_blank" rel="noopener noreferrer"}  
 - Colegio de México (online): *Diccionario del español de México (DEM)*. Online: [https://dem.colmex.mx/](https://dem.colmex.mx/){:target="_blank" rel="noopener noreferrer"}  
 - CVC – Instituto Cervantes (Hrsg.): *La formación de palabras en la clase de ELE*. In: *Antología didáctica de morfología*. Online: [https://cvc.cervantes.es/](https://cvc.cervantes.es/ensenanza/biblioteca_ele/antologia_didactica/morfologia/default.htm){:target="_blank" rel="noopener noreferrer"}  
@@ -330,6 +332,8 @@ Dabei gilt außerdem: Das DLE dokumentiert den Kern des allgemeinen Wortschatzes
 - Real Academia Española / Asociación de Academias de la Lengua Española (2009 / 2025): *Nueva gramática de la lengua española*. Madrid: Espasa. Online: [https://www.rae.es/gramática/](https://www.rae.es/gram%C3%A1tica/){:target="_blank" rel="noopener noreferrer"}  
 - Serrano-Dolader, Daniel (2019): *Formación de palabras y enseñanza del español LE/L2*. London / New York: Routledge.  
 - Varela Ortega, Soledad (2005): *Morfología léxica: la formación de palabras*. Madrid: Gredos.  
+
+</div>
 
 ---
 
