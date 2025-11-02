@@ -208,6 +208,8 @@ Später dehnte sich die Verwendung über den ursprünglichen Bedeutungsbereich �
 
 Das Muster findet sich ebenfalls in den übrigen romanischen Sprachen: fr. clairement, it. chiaramente, pt. claramente. Der Ursprung der Adverb-Endung im lateinischen Substantiv erklärt, warum es nicht zufällig immer die feminine Form des Adjektivs ist – und man sieht besonders eindrücklich, wie Grammatik entstehen kann.
 
+---
+
 <details>
 <summary>Wer mehr wissen will (klickt hier)</summary>
 <p>Wer sich für umfassendere Sprachgeschichten interessiert, findet sowohl Überblicksdarstellungen zur Romania als auch speziell zum Spanischen. Kaiser (2014) legt die romanische Sprachgeschichte breit an, von den lateinischen Grundlagen bis zu den modernen Varietäten. Für den Übergang vom Latein bieten sich Lehrwerke wie Müller-Lancé (2006) an, die die Strukturen des Ausgangssystems für Romanisten verständlich machen. Für das Spanische selbst liegt mit Pountain (2001) eine Textgeschichte vor, die Wandelprozesse anhand von Originalquellen illustriert. Ergänzend erschließt Ranson/Lubbers (2018) die Entwicklung des Spanischen in einem didaktisch aufbereiteten Format, das auch ohne Vorkenntnisse gut zugänglich ist und demselben Ansatz folgt wie dieses Kapitel (s.u.). Wer ein noch tieferes Verständnis anstrebt, dem sei Coserius grundlegende Abhandlung über <i>Synchronie, Diachronie und Geschichte</i> (1974) empfohlen, da sie das Problem des Sprachwandels in die allgemeine Sprachwissenschaft einordnet.</p>

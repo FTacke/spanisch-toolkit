@@ -101,6 +101,7 @@ Natürlich bleibt es eine Frage der Situation: Manchmal ist eine direkte Korrekt
 | Flüchtigkeitsfehler (Versprecher, Tippfehler) | Kurzes Echo oder fragende Intonation – Lernende korrigieren sich selbst. | *¿yo teno?*                                      |
 | Varietätenabweichungen (z.B. *ustedes* statt *vosotros*) | Variante wertfrei einordnen, regionale Unterschiede aufzeigen. | *En España se suele decir „vosotros“, en México „ustedes“.* |
 
+---
 
 !!! tip "Wir fassen noch einmal zusammen"
     Fehler zu analysieren, heißt herauszufinden, welche Strukturen Lernende schon beherrschen – und wo noch Unsicherheiten bestehen. So lassen sich Unterricht und Übung genau dort ansetzen, wo der nächste Entwicklungsschritt ansteht. Fehler sind also keine Störungen oder Defizite, sondern Diagnosewerkzeuge, die Dir als Lehrkraft zeigen, wo sich die Lernenden auf dem Weg zur Zielsprache gerade befinden. Voraussetzung dafür ist linguistisches Wissen: Nur wer versteht, *warum* ein Fehler entsteht, kann sinnvoll damit umgehen. Die Fehlerlinguistik kehrt also die Perspektive um, vom Fehler als Defizit zum Fehler als Chance und Fenster. Die Fehlerlinguistik bildet daher das zentrale Werkzeug für alle Ebenen der Sprachbetrachtung und des Sprachlernens und begleitet uns in jedem der folgenden Kapitel.

@@ -187,6 +187,8 @@ Im Spanischen gibt es dieselben Varianten, allerdings hängen sie dort nicht vom
 
 Ein reiner Anfängerfehler ist es bekanntlich, das im Spanischen geschriebene, aber immer ‚stumme‘ `<h>` auszusprechen. Wir greifen es im Kapitel zur [Orthographie](../orthographie/orthographie.md) wieder auf. 
 
+---
+
 !!! tip "Wir fassen noch einmal zusammen"
     Die spanischen Vokale sind eher unkompliziert: Nur bei den Diphthongen ist auf die Aussprache ohne Lauttrennung zu achten. Die zentralen Herausforderungen für Deutschsprachige betreffen die Konsonanten:  
       

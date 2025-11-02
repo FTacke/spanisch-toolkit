@@ -442,6 +442,8 @@ Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernen
 Diese Ansätze lassen sich individuell und flexibel in den eigenen Unterricht integrieren – je nach Sprachniveau, Thema oder Klassenzusammensetzung.
 Diese Vielfalt sollte im Unterricht hörbar werden – oben im Kapitel finden sich dazu zahlreiche Beispiele zum Anhören, und unter [3.2 Plurizentrik im Klassenzimmer](../variation/klassenraum.md) finden sich weitere Anregungen, wie man anschauliches und anhörliches Material gezielt einsetzen kann.
 
+---
+
 !!! tip "Wir fassen noch einmal zusammen"
     Plurizentrik ist die Basis – eine einzige „richtige“ Aussprache gibt es nicht. Spanisch wird in mehr als 20 Ländern gesprochen; regionale, soziale und situationsabhängige Varianten gehören zum Normalfall. Deshalb sollte Unterricht immer auch Haltung vermitteln: Variation anerkennen statt stigmatisieren.  
 

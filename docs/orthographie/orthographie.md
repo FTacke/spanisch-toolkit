@@ -187,6 +187,8 @@ Für den Unterricht ist wichtig zu wissen, dass beide Formen als korrekt gelten.
     Im *Diccionario de la lengua española* (DLE) wird die übliche Form als Lemma angegeben. Alternative Schreibweisen erscheinen im Eintrag mit dem Hinweis „también“. Auf diese Weise wird deutlich, dass beide Formen korrekt sind, auch wenn eine als die bevorzugte Normform gilt.   
     Beispiel: Beim Lemma [*video*](https://dle.rae.es/video){:target="_blank" rel="noopener noreferrer"} findet sich die Angabe „también *vídeo*“.  
 
+---
+
 !!! tip "Wir fassen noch einmal zusammen"
     Die spanische Orthographie gilt als regelmäßig, doch einige Punkte verdienen besondere Aufmerksamkeit:  
 

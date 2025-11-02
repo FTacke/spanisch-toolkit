@@ -33,8 +33,7 @@ Die folgenden Kapitel sind aktuell vorgesehen (vorläufige Liste und Reihung):
 | [Variation & Plurizentrik](variation/variation.md)          | Welche Variationsphänomene des Spanischen sind besonders relevant? Wie geht man mit Variation um? Welches Spanische ist das richtige und im Schulunterricht zulässig?                                                  | Varietätenlinguistik, Soziolinguistik, Standardologie                                                |
 | [Sprachwandel](wandel/wandel.md) | Wie lässt sich das heutige Spanisch diachron besser verstehen? Wie erklärt die historische Betrachtung Unregelmäßigkeiten und Ausnahmen in der Gegenwart? | Sprachwandeltheorie, historische Betrachtung aus der Gegenwart, Erklärung von Ausnahmen                                                |
 | [Herkunftssprachen](herkunftssprachen/herkunftssprachen.md) | Wie bereichern verschiedene Herkunftssprachen und –familien den Spanischunterricht? Welche besonderen Vorteile und Herausforderungen sind zu berücksichtigen? Wie nutze ich 'herkunftssprachliche Ressourcen' gezielt? | Mehrsprachigkeit, Sprachfamilien, Kontrastive Linguistik, Funktionale Typologie, Unterrichtsdidaktik |
-| [Lexikalische Kreativität](lexik/lexik.md)                  | Wie können Wortschatz und kreative Sprachproduktion gefördert werden?                                                                                                                                                  | Morphologie, Derivation, Neologismen                                                                 |
-
+| [Lexikalische Kreativität](kreativitaet/kreativitaet.md) | Wie entstehen im Spanischen neue Wörter und wie lässt sich Wortbildung gezielt für Wortschatzarbeit und Sprachbewusstheit nutzen? | Wortbildung, Derivation, Komposition, Neologismen |
 
 
 ---
