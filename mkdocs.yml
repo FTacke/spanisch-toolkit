@@ -65,15 +65,18 @@ extra_javascript:
 nav:
   - Start: index.md
   - Einleitung: einleitung.md
-  - 1 Fehlerlinguistik: fehlerlinguistik/fehlerlinguistik.md
-  - 2 Aussprache:
-      - 2.1 Aussprache: aussprache/aussprache.md
-      - 2.2 Aussprachevariation: aussprache/varianten.md
-  - 3 Orthographie: orthographie/orthographie.md 
-  - 4 Herkunftssprachen: herkunftssprachen/herkunftssprachen.md
-  - 5 Sprachwandel: wandel/wandel.md
-  - 6 Lexikalische Kreativität: kreativitaet/kreativitaet.md
-
+  - 1 Fehlerlinguistik: fehlerlinguistik.md
+  - 2 Aussprache: aussprache.md
+  - 3 Orthographie: orthographie.md
+  - 4 Lexikalische Kreativität: kreativitaet.md
+  - 5 Variation & Plurizentrik:
+      - 5.1 Variation & Plurizentrik: variation/variation_plurizentrik.md
+      - 5.2 Aussprachevariation: variation/variation_aussprache.md
+      - 5.3 Grammatiksche Variation: variation/variation_grammatik.md
+      - 5.4 Variation im Klassenraum: variation/variation_klassenraum.md
+  - 6 Herkunftssprachen: herkunftssprachen.md
+  - 7 Sprachwandel: wandel.md
+  
   - Über dieses Projekt: projekt.md
 
 extra:

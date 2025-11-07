@@ -1,8 +1,8 @@
-# 6 Lexikalische Kreativität[^*]
+# 4 Lexikalische Kreativität[^*]
 
 ## ¿Cómo se dice *Fernweh* en español?
 
-Wer versucht, das deutsche Wort *Fernweh* ins Spanische zu übersetzen, merkt schnell: So einfach ist das nicht. Zwar lässt sich die Bedeutung umschreiben – etwa mit *deseo de viajar* oder *ansias de ver el mundo* –, doch eine direkte Entsprechung gibt es nicht. Dieses Beispiel zeigt: Sprache ist immer Ausdruck von Weltwahrnehmung, kulturellen Erfahrungen und kreativen Prozessen, sie entsteht und verändert sich ständig im Gebrauch – und darum, wie dabei kreativ neue Wörter entstehen, geht es in diesem Kapitel.
+Wer versucht, das deutsche Wort *Fernweh* ins Spanische zu übersetzen, merkt schnell: So einfach ist das nicht. Zwar lässt sich die Bedeutung umschreiben – etwa mit *deseo de viajar* oder *ansias de ver el mundo* –, doch eine direkte Entsprechung gibt es nicht. Dieses Beispiel zeigt: Sprache ist immer Ausdruck von Weltwahrnehmung, kulturellen Erfahrungen und kreativen Prozessen. Sie entsteht und verändert sich ständig im Gebrauch. Und darum, wie dabei kreativ neue Wörter entstehen, geht es in diesem Kapitel.
 
 Im Spanischen entstehen laufend neue Wörter. Selbst scheinbar spontane Neuschöpfungen wie [*balconear*](https://www.lavanguardia.com/cultura/culturas/20210130/6207320/pandemia-covid-diccionario.html){:target="_blank" rel="noopener noreferrer"} (auf dem Balkon verweilen oder mit anderen kommunizieren) oder [*zoompleaños*](https://www.lavanguardia.com/cultura/culturas/20210130/6207320/pandemia-covid-diccionario.html){:target="_blank" rel="noopener noreferrer"} (‘Geburtstagsfeier über Zoom’), entstanden während der COVID-19-Pandemie, zeigen, wie flexibel Sprache auf neue gesellschaftliche Realitäten reagiert. Diese und viele weitere sogenannte *palabras pandémicas* dokumentieren die kreative Anpassungsfähigkeit des Spanischen an neue Lebenssituationen.
 
@@ -27,7 +27,7 @@ Gerade im Fremdsprachenunterricht eröffnet das Thema Wortbildung wichtige Poten
   </li>
 </ul>
 
-<p>Die Wortbildung unterscheidet sich von der Flexion: Während Flexion grammatische Formen verändert – etwa Person, Numerus oder bei Verben auch Tempus und Modus (z. B. <i>niño – niños</i>, <i>hablo – hablábamos</i>) –, schafft Wortbildung neue Wörter mit neuer Bedeutung (z. B. <i>trabajar → trabajador</i>).</p>
+<p>Die Wortbildung unterscheidet sich von der Flexion: Während Flexion grammatische Formen verändert – etwa Person, Numerus oder bei Verben auch Tempus und Modus (z. B. <i>niño – niños</i>, <i>hablo – hablábamos</i>) –, schafft Wortbildung neue Ausdrücke mit neuer Bedeutung (z. B. <i>trabajar → trabajador</i>).</p>
 
 <p>Für den Unterricht ist das durchaus relevant, weil Lernende durch das Erkennen solcher Bausteine die Bedeutung vieler Wörter selbst ableiten können. So wird Wortschatzlernen nachhaltiger und das Sprachbewusstsein gestärkt.</p>
 
@@ -78,7 +78,7 @@ Die Derivation bezeichnet die Bildung neuer Wörter durch das Anfügen von Affix
 
 Affixe können verschiedene Funktionen haben. Präfixe verändern die Bedeutung des Stammes, etwa in [*releer*](https://dle.rae.es/releer){:target="_blank" rel="noopener noreferrer"} (‘noch einmal lesen’) oder [*injusto*](https://dle.rae.es/injusto){:target="_blank" rel="noopener noreferrer"} (‘ungerecht’). Suffixe verändern häufig die Wortart oder fügen eine zusätzliche Bedeutungsnuance hinzu, wie in [*panadero*](https://dle.rae.es/panadero){:target="_blank" rel="noopener noreferrer"} (‘Bäcker’), *hermoso* (‘schön’) oder [*ventanilla*](https://dle.rae.es/ventanilla){:target="_blank" rel="noopener noreferrer"} (‘kleines Fenster’). In manchen Fällen werden Präfix und Suffix kombiniert, etwa in [*atemorizar*](https://dle.rae.es/atemorizar){:target="_blank" rel="noopener noreferrer"} aus [*temor*](https://dle.rae.es/temor){:target="_blank" rel="noopener noreferrer"} (‘Furcht’).
 
-Besonders typisch für das Spanische sind Diminutive und Augmentative, die zu den produktivsten Suffixen zählen. Diminutive wie *perrito* oder *ventanilla* drücken nicht nur Verkleinerung, sondern auch Nähe oder Zuneigung aus (*mi abuelita*), manchmal auch Ironie (*señorito*). Augmentative wie *hombrazo* oder [*portón*](https://dle.rae.es/portón){:target="_blank" rel="noopener noreferrer"} verstärken Größe oder Intensität; sie können je nach Kontext auch abwertend wirken, wie in [*manazo*](https://dle.rae.es/manazo){:target="_blank" rel="noopener noreferrer"}.
+Besonders typisch für das Spanische sind Diminutive und Augmentative, die zu den produktivsten Suffixen zählen. Diminutive wie *perrito* (‘Hündchen’) oder *ventanilla* (‘Fensterchen’) drücken nicht nur Verkleinerung, sondern auch Nähe oder Zuneigung aus (*mi abuelita*), manchmal auch Ironie (*señorito*). Augmentative wie *hombrazo* oder [*portón*](https://dle.rae.es/portón){:target="_blank" rel="noopener noreferrer"} verstärken Größe oder Intensität; sie können je nach Kontext auch abwertend wirken, wie in [*manazo*](https://dle.rae.es/manazo){:target="_blank" rel="noopener noreferrer"}.
 
 Im Unterricht lässt sich die Derivation gut einsetzen, um Sprachbewusstheit und Wortschatzstrukturierung zu fördern. Lernende erkennen, dass sie mit wenigen Grundbausteinen ganze Wortfamilien bilden können. Eine einfache Übung besteht darin, ein Grundwort wie *cantar* an die Tafel zu schreiben und gemeinsam verwandte Wörter zu sammeln. So entsteht fast automatisch ein Netz aus *cantante, cantorio, cantarín* – eine anschauliche Demonstration dafür, wie systematisch und kreativ Sprache funktioniert.
 
@@ -120,7 +120,7 @@ Lexem + Affix → neues Lexem</p>
 
 <p><b>Semantik &amp; Produktivität:</b></p>
 <ul>
-  <li><i>Diminutiv:</i> <i>ventana → </i><a href="https://dle.rae.es/ventanilla" target="_blank" rel="noopener noreferrer"><i>ventanilla</i></a> (‘kleines Fenster’)</li>
+  <li><i>Diminutiv:</i> <i>ventana → </i><a href="https://dle.rae.es/ventanilla" target="_blank" rel="noopener noreferrer"><i>ventanilla</i></a> (‘kleines Fenster / Fensterchen’)</li>
   <li><i>Augmentativ:</i> <i>casa → </i><a href="https://dle.rae.es/casona" target="_blank" rel="noopener noreferrer"><i>casona</i></a></li>
   <li><i>Pejorativ:</i> <i>poeta → </i><a href="https://dle.rae.es/poetastro" target="_blank" rel="noopener noreferrer"><i>poetastro</i></a></li>
   <li><i>Iterativ:</i> <i>considerar → </i><a href="https://dle.rae.es/reconsiderar" target="_blank" rel="noopener noreferrer"><i>reconsiderar</i></a></li>
@@ -170,7 +170,7 @@ Lexem + Lexem → neues Lexem</p>
 </details>
 
 !!! tip "Komposita im Unterricht sichtbar machen"
-    Bitten Sie die Lernenden, zusammengesetzte Wörter aus authentischen Texten zu sammeln und ihre Bestandteile zu markieren. Anschließend kann gemeinsam überlegt werden, welche Struktur (Prä- oder Postdetermination) vorliegt und ob die Zusammensetzung auch im Deutschen oder in den [Herkunftssprachen](/herkunftssprachen/herkunftssprachen/) der Lernenden vorkommt. So werden sprachübergreifende Muster sichtbar, die Sprachbewusstheit fördern und einen Vergleich mit Mehrsprachigkeitssituationen ermöglichen.
+    Bitten Sie die Lernenden, zusammengesetzte Wörter aus authentischen Texten zu sammeln und ihre Bestandteile zu markieren. Anschließend kann gemeinsam überlegt werden, welche Struktur (Prä- oder Postdetermination) vorliegt und ob die Zusammensetzung auch im Deutschen oder in den [Herkunftssprachen](../herkunftssprachen/) der Lernenden vorkommt. So werden sprachübergreifende Muster sichtbar, die Sprachbewusstheit fördern und einen Vergleich mit Mehrsprachigkeitssituationen ermöglichen.
 
     
 ### 3. Verkürzungen und Abkürzungen
@@ -251,7 +251,7 @@ Diese Wortbildungsart illustriert besonders deutlich sprachliche Kreativität: S
 
 ### 6. Entlehnungen und Lehnübersetzungen
 
-Entlehnungen entstehen, wenn Wörter aus einer anderen Sprache übernommen werden, während Lehnübersetzungen deren Bedeutung mit spanischen Elementen nachbilden. Beide Prozesse spiegeln kulturelle und technologische Entwicklungen wider. Dabei kann es bei Entlehnungen mehrere Schreibweisen geben, etwa [*fútbol*](https://dle.rae.es/fútbol){:target="_blank" rel="noopener noreferrer"} (‘Fußball’) und *futbol*, wie sie in manchen Varianten des Spanischen verwendet wird. Weitere Informationen zur Orthographie solcher Fremdwörter finden sich im Kapitel zur[Orthographie](/orthographie/orthographie/#fremdworterintegration){:target="_blank" rel="noopener noreferrer"}.
+Entlehnungen entstehen, wenn Wörter aus einer anderen Sprache übernommen werden, während Lehnübersetzungen deren Bedeutung mit spanischen Elementen nachbilden. Beide Prozesse spiegeln kulturelle und technologische Entwicklungen wider. Dabei kann es bei Entlehnungen mehrere Schreibweisen geben, etwa [*fútbol*](https://dle.rae.es/fútbol){:target="_blank" rel="noopener noreferrer"} (‘Fußball’) und *futbol*, wie sie in manchen Varianten des Spanischen verwendet wird. Weitere Informationen zur Orthographie solcher Fremdwörter finden sich im Kapitel zur [Orthographie](../orthographie/#fremdworterintegration).
 
 Typische Entlehnungen sind *fútbol*, *sándwich*, *software* oder *wifi*.  
 Lehnübersetzungen wie [*rascacielos*](https://dle.rae.es/rascacielos){:target="_blank" rel="noopener noreferrer"} (‘Wolkenkratzer’) oder *perro caliente* (‘Hotdog’) zeigen, wie sich fremde Begriffe in die eigene Struktur integrieren.
@@ -277,7 +277,7 @@ Lehnübersetzungen wie [*rascacielos*](https://dle.rae.es/rascacielos){:target="
 </details>
 
 !!! tip "Sprachkontakt erfahrbar machen"
-    Sammeln Sie mit der Klasse aktuelle Entlehnungen aus spanischen Medien. Lassen Sie entscheiden, ob es sich um Lehnwörter oder Lehnübersetzungen handelt, und vergleichen Sie entsprechende Formen im Deutschen und in den Herkunftssprachen. Diskutieren Sie anschließend: Wie könnte man ein deutsches Wort wie „Homeoffice“ ins Spanische übersetzen? So wird deutlich, dass Mehrsprachigkeit ein Motor sprachlicher Innovation ist (vgl. [Kapitel Herkunftssprachen](/herkunftssprachen/herkunftssprachen/){:target="_blank" rel="noopener noreferrer"}).
+    Sammeln Sie mit der Klasse aktuelle Entlehnungen aus spanischen Medien. Lassen Sie entscheiden, ob es sich um Lehnwörter oder Lehnübersetzungen handelt, und vergleichen Sie entsprechende Formen im Deutschen und in den Herkunftssprachen. Diskutieren Sie anschließend: Wie könnte man ein deutsches Wort wie „Homeoffice“ ins Spanische übersetzen? So wird deutlich, dass Mehrsprachigkeit ein Motor sprachlicher Innovation ist (vgl. Kapitel [Herkunftssprachen](../herkunftssprachen/)).
 
 
 ### Ab wann gehört ein neues Wort nun (offiziell) zu einer Sprache?
@@ -345,7 +345,7 @@ Dabei gilt außerdem: Das DLE dokumentiert den Kern des allgemeinen Wortschatzes
 
 [^*]: **Autor:innen:** Büşra Özen, Teodora Teodorescu, Felix Tacke
 
-      **Beiträge & Peer Review:** 
+      **Beiträge & Peer Review:** Lea-Marie Domin, Jamaa Khodja
         
-      **Letzte Änderung:** 02.11.2025
+      **Letzte Änderung:** 07.11.2025
 

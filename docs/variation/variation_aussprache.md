@@ -1,28 +1,24 @@
-# 2.2 Aussprachevariation[^*]
+# 5.2 Aussprachevariation[^*]
 
 ## Welche Aussprache(n) im Unterricht?
 
-Wenn man als Lehrkraft mit verschiedenen Varietäten des Spanischen zu tun hat, steht man schnell vor der Frage: Muss ich mich eigentlich für eine bestimmte Varietät entscheiden? Und wenn ja – für welche?  
+Wer Spanisch unterrichtet, begegnet früher oder später einer sehr konkreten Frage: Welche Aussprache lehre ich eigentlich – und muss ich mich für eine bestimmte entscheiden?
 
-Keine Panik. Die gute Nachricht ist: Man muss nicht das gesamte Variationssprektrum des Spanischen im Detail kennen. Aber man sollte wissen, dass es Unterschiede gibt – insbesondere in der Aussprache, denn diese ist für Fremdsprachenlernende besonders leicht wahrnehmbar. Und noch wichtiger: Man sollte eine Haltung entwickeln, wie man im Unterricht mit diesen Unterschieden umgeht.
+Das Spanische ist in über zwanzig Ländern Amtssprache und weist eine enorme lautliche Vielfalt auf. Schon beim ersten Hören fällt auf: Der Buchstabe *c* wird in Madrid anders ausgesprochen als in Mexiko, und auch das *s* klingt in Buenos Aires anders als in Bogotá (wenn man es überhaupt hört). Ausspracheunterschiede sind für Lernende meist das hörbarste Zeichen sprachlicher Variation, noch bevor Unterschiede im Wortschatz oder in der Grammatik auffallen.
 
-Anders als beim Wortschatz oder der Grammatik sind Unterschiede in der Aussprache auch für Lernende ohne fortgeschrittene Sprachkenntnisse leicht erkennbar. Das Spanische weist natürlich nicht weniger (regionale) Unterschiede auf als das Deutsche oder andere Sprachen, wenn es um die Aussprache (oder ‚Akzente‘) geht. Die eine ‚spanische‘ Aussprache gibt es also nicht – und auch nicht die eine ‚richtige‘ Aussprache (oder gar eine einzige ‚Hochsprache‘).  
+Doch welche Aussprache ist nun die „beste“ oder die geeignetste für den Unterricht? Eine allgemeingültige Antwort darauf gibt es nicht. Im Sinne der sprachlichen Plurizentrik – die im Kapitel [Variation & Plurizentrik](./variation_plurizentrik.md) ausführlicher erläutert wird – haben sich in verschiedenen Regionen eigene Normen der Aussprache herausgebildet. Diese sind Ausdruck der sozialen und kulturellen Vielfalt der spanischsprachigen Welt und stehen nicht in einem Hierarchieverhältnis, sondern gleichberechtigt nebeneinander. Allein für die Aussprache ergeben sich viele ganz praktische Fragen für Lehrende und Lernende:
 
-Auch wenn sich der Spanischunterricht traditionell am Spanischen Spaniens orientiert hat und das ‚peninsulare‘ Spanisch meist die Grundlage der Schulbücher bildet, wird diese Festlegung seit einigen Jahren – völlig zurecht! – hinterfragt. Aus linguistischer Sicht gibt es keinen Grund, nur das peninsulare Spanisch zu unterrichten. Im Gegenteil: Unter dem Begriff der Plurizentrik hat sich sowohl in der Linguistik als auch in der durch die Real Academia Española stark mitgeprägten spanischen Sprachkultur längst die Erkenntnis durchgesetzt, dass es mehr als ein ‚gutes Spanisch‘ gibt. Das in amerikanischen Ländern gesprochene Spanisch ist nicht weniger Wert und nicht schlechter als das Spaniens und die Merkmale amerikanischer Varietäten sind auch nicht als ‚Abweichungen‘ abzutun. Ausführlicher wird das natürlich im Kapitel [Variation und Plurizentrik](../variation/variation.md) betrachtet. Hier ist nur wichtig: Diese Erkenntnis gilt selbstverständlich auch für die Aussprache und Aussprachevariation.  
+* Welche Aussprache habe ich als Lehrkraft? (lieber keine ‚deutsche‘!)
+* Welche Aussprache unterrichte ich?
+* Welche Aussprache wollen meine Schüler:innen erlernen?
 
-Die linguistische Beschreibung und Bewertung sprachlicher Phänomene ist das eine, der schulische Umgang mit ihnen etwas ganz anderes. Allein für die Aussprache ergeben sich viele ganz praktische Fragen für Lehrende und Lernende:  
+Habe ich Erstsprachler:innen im Unterricht oder Schüler:innen, die schon (länger) in einem spanischsprachigen Land waren oder besondere Bezüge zum Spanischen eines bestimmten Landes, dann können sich weitere Fragen daraus ergeben:
 
--	Welche Aussprache habe ich als Lehrkraft? (hoffentlich keine ‚deutsche‘!)
--	Welche Aussprache unterrichte ich?
--	Welche Aussprache wollen meine Schüler:innen erlernen?
-  
-Habe ich Erstsprachler:innen im Unterricht oder Schüler:innen, die schon (länger) in einem spanischsprachigen Land waren oder besondere Bezüge zum Spanischen eines bestimmten Landes, dann können sich weitere Fragen daraus ergeben:  
+* Wie gehe ich mit dem Wunsch um, bestimmte Aussprachevarianten verwenden zu wollen, andere nicht?
+* Wie gehe ich mit Unterschieden in der Aussprache der Schüler:innen (im Vergleich mit der unterrichteten Aussprache) um?
+* Wie reagiere ich auf Fragen zur Aussprachevariation, etwa warum ein *s* nicht immer so ausgesprochen wird, wie es geschrieben wird?
 
--	Wie gehe ich mit dem Wunsch um, bestimmte Aussprachevarianten verwenden zu wollen, andere nicht?
--	Wie gehe ich mit Unterschieden in der Aussprache der Schüler:innen (im Vergleich mit der unterrichteten Aussprache) um?
--	Wie reagiere ich auf Fragen zur Aussprachevariation?
-  
-Da man nicht die Aussprache mehrerer Länder und nicht jede Aussprachevariante unterrichten kann, ist ein kluger Umgang mit solchen Fragen umso entscheidender. Die (zeitlichen) Begrenzungen des Schulunterrichts machen Vereinfachungen nötig und praktische Erwägungen stehen notwendigerweise im Vordergrund. Im Folgenden werden daher nur die wichtigsten Variationsphänomene betrachtet, weiter unten finden sich aber wie immer Verweise auf tiefergehende Lektüren und Recherchemöglichkeiten.  
+Da man nicht die Aussprache mehrerer Länder und nicht jede Aussprachevariante unterrichten kann, ist ein kluger Umgang mit solchen Fragen umso entscheidender. Die (zeitlichen) Begrenzungen des Schulunterrichts machen Vereinfachungen nötig, und praktische Erwägungen stehen notwendigerweise im Vordergrund. Im Folgenden werden daher nur die wichtigsten Variationsphänomene betrachtet; weiter unten finden sich wie immer Verweise auf tiefergehende Lektüren und Recherchemöglichkeiten.
 
 ## Die wichtigsten Variationsphänomene  
 In diesem Abschnitt soll ein Überblick über die wichtigsten regionalen und nationalen Aussprachevarianten gegeben werden, die man als Lehrkraft kennen sollte. Außerdem finden sich hier Hinweise, wie man mit diesen Varianten im Unterricht umgeht oder wie man sie zum Thema macht, wenn es darum geht, Bewusstsein für die Ausspracheunterschiede zu schaffen. Das Kapitel kann nicht jede Frage beantworten, bietet aber einen linguistischen Zugang zur Aussprachevariation, der es Dir ermöglichen soll, kompetent mit diesen Fragen umzugehen und souverän auf Fragen zu diesen Themen einzugehen. Aus der linguistischen Perspektive ergibt sich übrigens ganz selbstverständlich eine offene und tolerante Haltung gegenüber Variation.  
@@ -32,7 +28,7 @@ Da die Vokale in der spanischsprachigen Welt vergleichsweise wenig Variation auf
 ### *Distinción* vs. *Seseo*, oder: „Muss man lispeln wie die Spanier:innen?“
 Wer Spanisch in der Schule gelernt hat, spricht *caza* und *casa* vermutlich unterschiedlich aus. In den meisten deutschen Schulbüchern wird die Unterscheidung zwischen <span class="meta">/s/</span> und <span class="meta">/θ/</span> als ‚Normalfall‘ unterrichtet und den Schüler:innen die Aussprache des Interdentallautes beigebracht. Wann welcher Laut auszusprechen ist, erkennt man orthografisch: <span class="meta">/s/</span> wird im Spanischen graphisch immer durch `<s>` wiedergegeben, <span class="meta">/θ/</span> wird hingegen entweder durch `<z>` repräsentiert (vor allem, wenn `<a o u>` folgen, wie in *zapato*, *zorro* oder *azul*) oder durch `<c>` in den Sequenzen `<ce>` und `<ci>` (wie in *cena* oder *cine*).  
 
-Was aber oft nicht deutlich (genug) wird: Die *distinción* (siehe [Aussprache](../aussprache/aussprache.md)) und damit die Verwendung des Interdentallautes ist eigentlich nur eine regionale Besonderheit – typisch für weite Teile Spaniens, aber nicht für die große Mehrheit der spanischsprachigen Gemeinschaften. In fast ganz Hispanoamerika – und auch auf den Kanarischen Inseln oder in Teilen Andalusiens – beinhaltet das phonologische System nur den Laut /s/, was man als *seseo* bezeichnet (vgl. [DPD, s.v. *seseo*](https://www.rae.es/dpd/seseo){:target="_blank" rel="noopener noreferrer"}). Und da der Interdentallaut dort nicht vorkommt, kann die Aussprache von *caza* als <span class="meta">[ˈka.sa]</span> oder von *cena* als <span class="meta">[ˈse.na]</span> natürlich weder als ‚falsch‘ noch als ‚dialektal‘ bezeichnet werden. Der *seseo* ist also für den Großteil der spanischsprachigen Welt die ‚richtige‘ und ‚gute‘ Aussprache.  
+Was aber oft nicht deutlich (genug) wird: Die *distinción* (siehe [Aussprache](../aussprache.md)) und damit die Verwendung des Interdentallautes ist eigentlich nur eine regionale Besonderheit – typisch für weite Teile Spaniens, aber nicht für die große Mehrheit der spanischsprachigen Gemeinschaften. In fast ganz Hispanoamerika – und auch auf den Kanarischen Inseln oder in Teilen Andalusiens – beinhaltet das phonologische System nur den Laut /s/, was man als *seseo* bezeichnet (vgl. [DPD, s.v. *seseo*](https://www.rae.es/dpd/seseo){:target="_blank" rel="noopener noreferrer"}). Und da der Interdentallaut dort nicht vorkommt, kann die Aussprache von *caza* als <span class="meta">[ˈka.sa]</span> oder von *cena* als <span class="meta">[ˈse.na]</span> natürlich weder als ‚falsch' noch als ‚dialektal' bezeichnet werden. Der *seseo* ist also für den Großteil der spanischsprachigen Welt die ‚richtige' und ‚gute' Aussprache.
 
 Was bedeutet das nun für den Unterricht? Soll man beides unterrichten? Kann man sich auch entscheiden, anders als im Schulbuch den *seseo* als Grundlage zu unterrichten?  
 
@@ -131,7 +127,7 @@ Letztlich gilt: Beide Varianten sind korrekt. Entscheidend ist, dass der Unterri
 
 ### *Yeísmo*
 
-Wer *pollo* und *poyo* gleich ausspricht, macht es heute wie die Mehrheit. Wie schon im Kapitel [Aussprache](../aussprache/aussprache.md) angesprochen, wird die Unterscheidung zwischen `<ll>` und `<y>`, also zwischen <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span>, in den meisten Regionen und von den meisten Sprecher:innen längst nicht mehr gemacht. Beide Laute werden in der Regel als <span class="meta">/ʝ/</span> ausgesprochen (vgl. [DPD, s.v. *yeísmo*](https://www.rae.es/dpd/ye%C3%ADsmo)). Dieses Phänomen nennt man *yeísmo* – und es ist heute die Norm, nicht die Ausnahme.  
+Wer *pollo* und *poyo* gleich ausspricht, macht es heute wie die Mehrheit. Wie schon im Kapitel [Aussprache](../aussprache.md) angesprochen, wird die Unterscheidung zwischen `<ll>` und `<y>`, also zwischen <span class="meta">/ʎ/</span> und <span class="meta">/ʝ/</span>, in den meisten Regionen und von den meisten Sprecher:innen längst nicht mehr gemacht. Beide Laute werden in der Regel als <span class="meta">/ʝ/</span> ausgesprochen (vgl. [DPD, s.v. *yeísmo*](https://www.rae.es/dpd/ye%C3%ADsmo)). Dieses Phänomen nennt man *yeísmo* – und es ist heute die Norm, nicht die Ausnahme.  
 
 Je nach Region klingt der *yeísmo* unterschiedlich: In Mexiko oder Kolumbien hört man meist <span class="meta">[ʝ]</span>, in der Karibik oder in Zentralamerika dagegen oft nur ein sanftes <span class="meta">[j]</span>. Im *Río de la Plata*-Raum, vor allem in Buenos Aires und Montevideo, ist die Aussprache besonders markant, da dort <span class="meta">[ʒ]</span> (bezeichnet als *žeísmo*) und mittlerweile noch häufiger stimmlos <span class="meta">[ʃ]</span> (bzeichnet als *šeísmo*) ausgesprochen wird (z.B. *llamar* als <span class="meta">[ʒaˈmar]</span> oder <span class="meta">[ʃaˈmar]</span>).  
 
@@ -440,7 +436,7 @@ Gerade beim Interdentallaut <span class="meta">[θ]</span> lohnt sich ein sprach
 Niemand muss alle Varianten beherrschen oder vermitteln. Es genügt, wenn Lernende eine passive Aussprachekompetenz entwickeln – also etwa erkennen, dass *Barcelona* mit oder ohne <span class="meta">[θ]</span> gesprochen werden kann, dass *pollo* in Argentinien anders klingt als in Mexiko oder dass *comer* in Kuba auch mal als *come**l*** ausgesprochen wird.  
 
 Diese Ansätze lassen sich individuell und flexibel in den eigenen Unterricht integrieren – je nach Sprachniveau, Thema oder Klassenzusammensetzung.
-Diese Vielfalt sollte im Unterricht hörbar werden – oben im Kapitel finden sich dazu zahlreiche Beispiele zum Anhören, und unter [3.2 Plurizentrik im Klassenzimmer](../variation/klassenraum.md) finden sich weitere Anregungen, wie man anschauliches und anhörliches Material gezielt einsetzen kann.
+Diese Vielfalt sollte im Unterricht hörbar werden – oben im Kapitel finden sich dazu zahlreiche Beispiele zum Anhören, und unter [Plurizentrik im Klassenzimmer](./variation_klassenraum.md) finden sich weitere Anregungen, wie man anschauliches und anhörliches Material gezielt einsetzen kann.
 
 ---
 

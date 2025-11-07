@@ -1,4 +1,4 @@
-# 4 Herkunftssprachen[^*]
+# 6 Herkunftssprachen[^*]
 
 ## Vom Türkischen bis zum Polnischen: Wie Sprachenvielfalt den Spanischunterricht bereichert
 
@@ -56,7 +56,7 @@ In diesem Abschnitt werden typische Ausspracheneigenheiten vorgestellt, die für
 
 #### Gerolltes /r/: Normal in allen Herkunftssprachen
 
-Wer Spanisch lernt, begegnet schon zu Beginn dem ‚gerollten R‘, das für Lernende mit Deutsch als Erstsprache meist eine Herausforderung darstellt, da das R im Standarddeutschen uvular (hinten) ausgesprochen wird (vgl. Kapitel [Aussprache](../aussprache/aussprache.md)). Schüler:innen mit den hier betrachteten Herkunftssprachen – egal ob Türkisch, Kurdisch oder Italienisch – bringen hier einen klaren Startvorteil mit, denn das <span class="meta">/r/</span> wird dort an der gleichen Stelle artikuliert wie im Spanischen.  
+Wer Spanisch lernt, begegnet schon zu Beginn dem ‚gerollten R', das für Lernende mit Deutsch als Erstsprache meist eine Herausforderung darstellt, da das R im Standarddeutschen uvular (hinten) ausgesprochen wird (vgl. Kapitel [Aussprache](./aussprache.md)). Schüler:innen mit den hier betrachteten Herkunftssprachen – egal ob Türkisch, Kurdisch oder Italienisch – bringen hier einen klaren Startvorteil mit, denn das <span class="meta">/r/</span> wird dort an der gleichen Stelle artikuliert wie im Spanischen.
 
 Sprachvergleichend ist es sogar so, dass in der Mehrzahl der Sprachen der Welt das <span class="meta">/r/</span> alveolar, also mit der Zungenspitze, artikuliert wird. Sprachen wie Deutsch und Französisch, in denen das <span class="meta">/r/</span> uvular ausgesprochen wird, sind weltweit in der Minderheit.  
 
@@ -83,7 +83,7 @@ Allerdings weist das Spanische eine Besonderheit auf – sowohl im Vergleich mit
 
 </details>
   
-Für den Unterricht heißt das: Die Sprecher:innen dieser Sprachen können gerade zu Beginn als authentische Vorbilder für die Zungenspitzenartikulation dienen. Insbesondere für deutschsprachige Lernende, für die das spanische R eine Herausforderung bleibt, ist es lohnend, gezielt mit Vorbild- und Nachsprechübungen zu arbeiten und positives Feedback für gelungene Artikulation zu geben. Gleichzeitig ist die Unterscheidung zwischen <span class="meta">/ɾ/</span> (z.B. *pe**r**o*) und <span class="meta">/r/</span> (z.B. *pe**rr**o*) für alle neu. Im Kapitel [Aussprache](../aussprache/aussprache.md#anders-artikulierte-laute-r-laute) findest Du Tipps zur Einübung des R.  
+Für den Unterricht heißt das: Die Sprecher:innen dieser Sprachen können gerade zu Beginn als authentische Vorbilder für die Zungenspitzenartikulation dienen. Insbesondere für deutschsprachige Lernende, für die das spanische R eine Herausforderung bleibt, ist es lohnend, gezielt mit Vorbild- und Nachsprechübungen zu arbeiten und positives Feedback für gelungene Artikulation zu geben. Gleichzeitig ist die Unterscheidung zwischen <span class="meta">/ɾ/</span> (z.B. *pe**r**o*) und <span class="meta">/r/</span> (z.B. *pe**rr**o*) für alle neu. Im Kapitel [Aussprache](./aussprache.md#anders-artikulierte-laute-r-laute) findest Du Tipps zur Einübung des R.  
 
 #### Kein /p/ im Arabischen: (k)eine Hürde  
 
@@ -258,7 +258,7 @@ Für einen erfolgreichen Spanischunterricht in sprachlich heterogenen Lerngruppe
 
 **Lehrkräfte sensibilisieren:** Ein grundlegendes Wissen über Herkunftssprachen und ihre Unterschiede zum Spanischen ist für Dich als Lehrkraft von großem Vorteil. Je nach den Herkunftssprachen der Schüler:innen werden ganz unterschiedliche Fehler beim Erlernen des Spanischen gemacht; umgekehrt erlernen manche Schüler:innen neue Strukturen schneller als andere.  
 
-Je mehr Du über diese Sprachen weißt, desto mehr werden solche Fehler oder Vorteile als Effekte der Mehrsprachigkeit verständlich. Im Kapitel [Fehlerlinguistik](../fehlerlinguistik/fehlerlinguistik.md) wird bereits verdeutlicht, wie Fehler diagnostisch genutzt werden können: Sie legen offen, was bereits verstanden ist und wo Förderbedarf besteht. Besonders bei den Herkunftssprachen kann das Wissen über strukturelle Unterschiede – etwa *Genus* im Spanischen vs. kein *Genus* im Türkischen – helfen, Lernfortschritte gezielter zu erkennen.  
+Je mehr Du über diese Sprachen weißt, desto mehr werden solche Fehler oder Vorteile als Effekte der Mehrsprachigkeit verständlich. Im Kapitel [Fehlerlinguistik](./fehlerlinguistik.md) wird bereits verdeutlicht, wie Fehler diagnostisch genutzt werden können: Sie legen offen, was bereits verstanden ist und wo Förderbedarf besteht. Besonders bei den Herkunftssprachen kann das Wissen über strukturelle Unterschiede – etwa *Genus* im Spanischen vs. kein *Genus* im Türkischen – helfen, Lernfortschritte gezielter zu erkennen.  
 
 **Schüler:innen sensibilisieren:** Sprachbewusstheit fördern heißt, Unterschiede und Gemeinsamkeiten zwischen Sprachen sichtbar zu machen. Es gibt keine besseren oder schlechteren Sprachen: Deutsch ist nicht „besser“ als Türkisch und Spanisch nicht „schlechter“ oder „besser“ als Arabisch. Sprachen erfüllen denselben kommunikativen Zweck lediglich auf unterschiedliche Weise. Reflexionsimpulse wie „Wie drückt deine Herkunftssprache Zukunft, Besitz oder Richtung aus?“ öffnen Perspektiven, ohne Expert:innenwissen zu erzwingen. Bei den Schüler:innen darf dabei aber kein „bewusstes Regelwissen“ über ihre Herkunftssprache vorausgesetzt werden. Berücksichtige zudem, dass viele Herkunftssprachen vor allem mündlich erworben wurden und die Schriftsprache und Differenzierungen, die (nur) dort vorkommen, möglicherweise unbekannt sind.   
 
@@ -278,7 +278,7 @@ Das Fehlen eines grammatischen Merkmals, wie z.B. der Artikel, bedeutet keinen M
 
     Für die Aussprache ist der spanische Vibrant /r/ den meisten Herkunftssprachen vertraut, bereitet aber deutschsprachigen Lernenden Schwierigkeiten. In der Morphologie fehlen in manchen Sprachen Genus und Artikel (z.B. im Türkischen), was im Spanischen neu erworben werden muss. In der Syntax erleichtert das Nullsubjekt-Prinzip vielen Lernenden den Einstieg, während SOV-Sprachen anfangs Wortstellungsfehler begünstigen und Kasussprachen Präpositionen neu einüben müssen. In der Orthographie ist die Umstellung auf das lateinische Alphabet vor allem für arabische und kyrillische Schriftbenutzer eine Herausforderung.
 
-    Didaktisch bedeutet das: Fehler sollten nicht als Defizite betrachtet, sondern als Diagnoseinstrument verstanden werden (vgl. Kapitel [Fehlerlinguistik](../fehlerlinguistik/fehlerlinguistik.md)). Ein sensibler Umgang mit Herkunftssprachen, die Sichtbarmachung von Mehrsprachigkeit etwa durch die interaktive Karte und die Förderung von Sprachbewusstsein schaffen die Grundlage dafür, dass Herkunftssprachen als Ressource wirken können.
+    Didaktisch bedeutet das: Fehler sollten nicht als Defizite betrachtet, sondern als Diagnoseinstrument verstanden werden (vgl. Kapitel [Fehlerlinguistik](./fehlerlinguistik.md)). Ein sensibler Umgang mit Herkunftssprachen, die Sichtbarmachung von Mehrsprachigkeit etwa durch die interaktive Karte und die Förderung von Sprachbewusstsein schaffen die Grundlage dafür, dass Herkunftssprachen als Ressource wirken können.
 
 <details>
 <summary>Wer mehr wissen will (klickt hier)</summary>

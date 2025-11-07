@@ -23,17 +23,21 @@ Die einzelnen Kapitel werden meist zunächst in der Gruppe im Rahmen des wissens
 
 ## Aufbau dieses Buches
 
-Die folgenden Kapitel sind aktuell vorgesehen (vorläufige Liste und Reihung):
+Die folgenden Kapitel sind in der ersten vorläufigen Version enthalten:
 
-| Kapitel                                                     | Leitfrage(n)                                                                                                                                                                                                           | Linguistische Werkzeuge                                                                              |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Fehlerlinguistik](fehlerlinguistik/fehlerlinguistik.md)    | Welche Rolle spielen Fehler im Sprachlernprozess? Wie können Fehler analysiert und produktiv genutzt werden? Welche Arten von Fehlern gibt es?                                                                         | Fehleranalyse, Lernendensprache, Sprachbewusstheit                                                   |
-| [Aussprache](aussprache/aussprache.md)                      | Welche Herausforderungen weist das Spanische in der Aussprache auf? Welche Aussprachevarianten sollten im Schulunterricht vermittelt werden? Wie umgehen mit der Aussprachevariation in der spanischsprachigen Welt?   | Phonetik/Phonologie, Kontrast Spanisch-Deutsch, Variation                                            |
-| [Orthographie](orthographie/orthographie.md)                | Wie funktioniert das spanische Schriftsystem? Welche Prinzipien und Ausnahmen sollte man kennen? Wie lassen sich Varianten, Fremdwörter und Akzentsetzung im Unterricht vermitteln?                                    | Graphem-Phonem-Korrespondenz, Akzentsetzung, Variation                                               |
-| [Variation & Plurizentrik](variation/variation.md)          | Welche Variationsphänomene des Spanischen sind besonders relevant? Wie geht man mit Variation um? Welches Spanische ist das richtige und im Schulunterricht zulässig?                                                  | Varietätenlinguistik, Soziolinguistik, Standardologie                                                |
-| [Sprachwandel](wandel/wandel.md) | Wie lässt sich das heutige Spanisch diachron besser verstehen? Wie erklärt die historische Betrachtung Unregelmäßigkeiten und Ausnahmen in der Gegenwart? | Sprachwandeltheorie, historische Betrachtung aus der Gegenwart, Erklärung von Ausnahmen                                                |
-| [Herkunftssprachen](herkunftssprachen/herkunftssprachen.md) | Wie bereichern verschiedene Herkunftssprachen und –familien den Spanischunterricht? Welche besonderen Vorteile und Herausforderungen sind zu berücksichtigen? Wie nutze ich 'herkunftssprachliche Ressourcen' gezielt? | Mehrsprachigkeit, Sprachfamilien, Kontrastive Linguistik, Funktionale Typologie, Unterrichtsdidaktik |
-| [Lexikalische Kreativität](kreativitaet/kreativitaet.md) | Wie entstehen im Spanischen neue Wörter und wie lässt sich Wortbildung gezielt für Wortschatzarbeit und Sprachbewusstheit nutzen? | Wortbildung, Derivation, Komposition, Neologismen |
+| Kapitel | Leitfrage(n) |
+|---------|---|
+| [1 Fehlerlinguistik](fehlerlinguistik.md) | Welche Rolle spielen Fehler im Sprachlernprozess und wie können sie analytisch genutzt werden? |
+| [2 Aussprache](aussprache.md) | Welche Aussprachevarianten sollten im Schulunterricht vermittelt werden? |
+| [3 Orthographie](orthographie.md) | Wie funktioniert das spanische Schriftsystem und welche Prinzipien sollte man kennen? |
+| [4 Lexikalische Kreativität](kreativitaet.md) | Wie entstehen neue Wörter im Spanischen und wie lässt sich Wortbildung didaktisch nutzen? |
+| [5 Variation & Plurizentrik](variation/variation_plurizentrik.md) | Welche Variationsphänomene sind für den Unterricht relevant und wie geht man damit um? |
+| &nbsp;&nbsp;&nbsp;&nbsp;[5.1 Variation & Plurizentrik](variation/variation_plurizentrik.md) | Grundlagen: Was ist Variation und Plurizentrik? Welche Standardvarietäten gibt es? |
+| &nbsp;&nbsp;&nbsp;&nbsp;[5.2 Aussprachevariation](variation/variation_aussprache.md) | Welche Variationsphänomene gibt es auf der lautlichen Ebene? |
+| &nbsp;&nbsp;&nbsp;&nbsp;[5.3 Grammatische Variation](variation/variation_grammatik.md) | Welche grammatikalischen und pragmatischen Unterschiede prägen die Varietäten des Spanischen? |
+| &nbsp;&nbsp;&nbsp;&nbsp;[5.4 Plurizentrik im Klassenraum](variation/variation_klassenraum.md) | Wie lässt sich die Vielfalt des Spanischen didaktisch im Unterricht umsetzen? |
+| [6 Herkunftssprachen](herkunftssprachen.md) | Wie bereichern verschiedene Herkunftssprachen den Spanischunterricht? |
+| [7 Sprachwandel](wandel.md) | Wie lässt sich das heutige Spanisch diachron verstehen? |
 
 
 ---
@@ -45,7 +49,7 @@ Die folgenden Kapitel sind aktuell vorgesehen (vorläufige Liste und Reihung):
 
 [^*]: **Autor:innen:** Felix Tacke  
         
-      **Letzte Änderung:** 28.09.2025  
+      **Letzte Änderung:** 07.11.2025  
     
 [^2]: Kreyer (2023, Preface).  
 
