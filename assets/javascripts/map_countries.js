@@ -21,7 +21,20 @@ document.addEventListener('DOMContentLoaded', () => {
   // Zentriert auf den Atlantik
     if (document.getElementById('mapid')) {
     // Verwende eine lokal benannte Map-Instanz, die global unter window.variationMap erreichbar ist
-    const variationMap = L.map('mapid').setView([20, -40], 2);
+    const variationMap = L.map('mapid');
+    // Setze initiale Ansicht abhängig von der Bildschirmbreite:
+    // - Auf Mobilgeräten zentrieren wir auf Zentral-/Mittelamerika
+    // - Auf größeren Bildschirmen zeigen wir die Atlantik-Übersicht
+    const isMobile = window.matchMedia && window.matchMedia('(max-width: 640px)').matches;
+    if (isMobile) {
+      // Mobile: zentriere stärker auf Zentral- und Südamerika (in der mobilen
+      // Ansicht soll Central + South America deutlich sichtbar sein)
+      // (lat, lon, zoom)
+      variationMap.setView([-10, -65], 3);
+    } else {
+      // Desktop/Tablet: breite Atlantik-Übersicht (Amerika + Europa)
+      variationMap.setView([20, -40], 2);
+    }
     window.variationMap = variationMap;
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -90,7 +103,13 @@ document.addEventListener('DOMContentLoaded', () => {
           });
         });
 
-        if (bounds.isValid()) variationMap.fitBounds(bounds.pad(0.1));
+        if (bounds.isValid()) {
+          // On mobile we want a Central America focused view; do not override
+          // it with fitBounds so the map stays centered on the requested region.
+          if (!isMobile) {
+            variationMap.fitBounds(bounds.pad(0.1));
+          }
+        }
       })
       .catch(err => console.error('Fehler beim Laden der Länder-Daten:', err));
   } else {
