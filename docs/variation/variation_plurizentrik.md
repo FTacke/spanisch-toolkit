@@ -80,12 +80,27 @@ Neben Spanien, Mexiko und Argentinien spielt auch **Kolumbien** – insbesondere
 
 Das Gesamtbild zeigt eine deutliche Asymmetrie unter den hispanophonen Zentren: Spanien bleibt institutionell stark, während die amerikanischen Zentren durch demografische Dynamik, Medienproduktion und kulturelle Eigenständigkeit zunehmend an Gewicht gewinnen. 
 
-!!! info "Unidad en la diversidad – die panhispanische Sprachpolitik"
-    Seit den 1990er Jahren verfolgen die Real Academia Española (RAE) und die Asociación de Academias de la Lengua Española (ASALE) gemeinsam eine *política lingüística panhispánica*. Unter dem Leitmotiv „unidad en la diversidad“ betonen die Akademien ausdrücklich, dass das Spanische eine plurizentrische Sprache ist. Dabei wird anerkannt, dass es mehrere gleichberechtigte normative Zentren gibt und Spanien nicht länger die alleinige Referenz für korrekten Sprachgebrauch darstellt. Einheit und Vielfalt gelten als komplementäre Prinzipien derselben Sprachgemeinschaft.  
-    
-    Das Ziel der heutigen Kodifizierungsarbeit besteht darin, die spanische Sprache in ihrer gesamten geographischen Breite zu beschreiben, zu dokumentieren und fortlaufend zu aktualisieren, ohne dabei Varietäten zu hierarchisieren. 
+<details>
+<summary><b>Unidad en la diversidad – die panhispanische Sprachpolitik</b></summary>
 
-    Diese Haltung prägt die gemeinsamen Referenzwerke – die *Nueva gramática de la lengua española* (2009, aktualisierte Ausgabe 2025), das *Diccionario panhispánico de dudas* (2005, Neubearbeitung 2025) und das *Diccionario de americanismos* (2010). Die fortlaufende Zusammenarbeit aller Akademien zeigt, dass Normpflege heute als dynamischer, kooperativer und inklusiver Prozess verstanden wird: Grundlage ist nicht zentrale Steuerung, sondern die gemeinsame Verantwortung für eine vielfältige, aber geeinte Sprache.
+<p>
+Seit den 1990er Jahren verfolgen die Real Academia Española (RAE) und die Asociación de Academias de la Lengua Española (ASALE) gemeinsam eine <i>política lingüística panhispánica</i>.  
+Unter dem Leitmotiv „unidad en la diversidad“ betonen die Akademien ausdrücklich, dass das Spanische eine plurizentrische Sprache ist.  
+Dabei wird anerkannt, dass es mehrere gleichberechtigte normative Zentren gibt und Spanien nicht länger die alleinige Referenz für korrekten Sprachgebrauch darstellt.  
+Einheit und Vielfalt gelten als komplementäre Prinzipien derselben Sprachgemeinschaft.
+</p>
+
+<p>
+Das Ziel der heutigen Kodifizierungsarbeit besteht darin, die spanische Sprache in ihrer gesamten geographischen Breite zu beschreiben, zu dokumentieren und fortlaufend zu aktualisieren, ohne dabei Varietäten zu hierarchisieren.
+</p>
+
+<p>
+Diese Haltung prägt die gemeinsamen Referenzwerke – die <i>Nueva gramática de la lengua española</i> (2009, aktualisierte Ausgabe 2025), das <i>Diccionario panhispánico de dudas</i> (2005, Neubearbeitung 2025) und das <i>Diccionario de americanismos</i> (2010).  
+Die fortlaufende Zusammenarbeit aller Akademien zeigt, dass Normpflege heute als dynamischer, kooperativer und inklusiver Prozess verstanden wird: Grundlage ist nicht zentrale Steuerung, sondern die gemeinsame Verantwortung für eine vielfältige, aber geeinte Sprache.
+</p>
+
+</details>
+
 
 ## Vielfalt im Unterricht – was Plurizentrik praktisch bedeutet
 

@@ -38,7 +38,7 @@ Bei diesem digitalen Buch handelt es sich um „work in progress“. Die sich je
 
 ## Offen lizenziert: *Spanische Linguistik @ School* als OER
 
-Dieses digitale Buch ist eine *Open Educational Resource (OER)*. Du darfst die Inhalte *frei nutzen, anpassen und weitergeben*, auch im Unterricht und in eigenen Publikationen – Voraussetzung sind *Namensnennung, Lizenzlink* und ein Hinweis auf *Änderungen*. Wir nutzen dafür **CC BY-SA 4.0**, damit Bearbeitungen wieder offen bleiben. Siehe Lizenzhinweise im Footer und in der Datei [`LICENSE-CONTENT`](LICENSE-CONTENT).
+Dieses digitale Buch ist eine *Open Educational Resource (OER)*. Du darfst die Inhalte *frei nutzen, anpassen und weitergeben*, auch im Unterricht und in eigenen Publikationen – Voraussetzung sind *Namensnennung, Lizenzlink* und ein Hinweis auf *Änderungen*. Wir nutzen dafür **CC BY-SA 4.0**, damit Bearbeitungen wieder offen bleiben. Siehe Lizenzhinweise im Footer.
 
 Die technische Basis ist **Material for MkDocs**. Der *Code* dieses Projekts stammt aus diesem Template, wurde punktuell angepasst und steht bei uns unter der *MIT-Lizenz*. Das Repository ist öffentlich: <https://github.com/FTacke/spanisch-toolkit>.
 

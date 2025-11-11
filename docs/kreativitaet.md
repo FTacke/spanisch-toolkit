@@ -170,7 +170,7 @@ Lexem + Lexem → neues Lexem</p>
 </details>
 
 !!! tip "Komposita im Unterricht sichtbar machen"
-    Bitten Sie die Lernenden, zusammengesetzte Wörter aus authentischen Texten zu sammeln und ihre Bestandteile zu markieren. Anschließend kann gemeinsam überlegt werden, welche Struktur (Prä- oder Postdetermination) vorliegt und ob die Zusammensetzung auch im Deutschen oder in den [Herkunftssprachen](../herkunftssprachen/) der Lernenden vorkommt. So werden sprachübergreifende Muster sichtbar, die Sprachbewusstheit fördern und einen Vergleich mit Mehrsprachigkeitssituationen ermöglichen.
+    Bitten Sie die Lernenden, zusammengesetzte Wörter aus authentischen Texten zu sammeln und ihre Bestandteile zu markieren. Anschließend kann gemeinsam überlegt werden, welche Struktur (Prä- oder Postdetermination) vorliegt und ob die Zusammensetzung auch im Deutschen oder in den [Herkunftssprachen](herkunftssprachen.md) der Lernenden vorkommt. So werden sprachübergreifende Muster sichtbar, die Sprachbewusstheit fördern und einen Vergleich mit Mehrsprachigkeitssituationen ermöglichen.
 
     
 ### 3. Verkürzungen und Abkürzungen
@@ -251,7 +251,7 @@ Diese Wortbildungsart illustriert besonders deutlich sprachliche Kreativität: S
 
 ### 6. Entlehnungen und Lehnübersetzungen
 
-Entlehnungen entstehen, wenn Wörter aus einer anderen Sprache übernommen werden, während Lehnübersetzungen deren Bedeutung mit spanischen Elementen nachbilden. Beide Prozesse spiegeln kulturelle und technologische Entwicklungen wider. Dabei kann es bei Entlehnungen mehrere Schreibweisen geben, etwa [*fútbol*](https://dle.rae.es/fútbol){:target="_blank" rel="noopener noreferrer"} (‘Fußball’) und *futbol*, wie sie in manchen Varianten des Spanischen verwendet wird. Weitere Informationen zur Orthographie solcher Fremdwörter finden sich im Kapitel zur [Orthographie](../orthographie/#fremdworterintegration).
+Entlehnungen entstehen, wenn Wörter aus einer anderen Sprache übernommen werden, während Lehnübersetzungen deren Bedeutung mit spanischen Elementen nachbilden. Beide Prozesse spiegeln kulturelle und technologische Entwicklungen wider. Dabei kann es bei Entlehnungen mehrere Schreibweisen geben, etwa [*fútbol*](https://dle.rae.es/fútbol){:target="_blank" rel="noopener noreferrer"} (‘Fußball’) und *futbol*, wie sie in manchen Varianten des Spanischen verwendet wird. Weitere Informationen zur Orthographie solcher Fremdwörter finden sich im Kapitel zur [Orthographie](orthographie.md#fremdworterintegration).
 
 Typische Entlehnungen sind *fútbol*, *sándwich*, *software* oder *wifi*.  
 Lehnübersetzungen wie [*rascacielos*](https://dle.rae.es/rascacielos){:target="_blank" rel="noopener noreferrer"} (‘Wolkenkratzer’) oder *perro caliente* (‘Hotdog’) zeigen, wie sich fremde Begriffe in die eigene Struktur integrieren.
@@ -277,7 +277,7 @@ Lehnübersetzungen wie [*rascacielos*](https://dle.rae.es/rascacielos){:target="
 </details>
 
 !!! tip "Sprachkontakt erfahrbar machen"
-    Sammeln Sie mit der Klasse aktuelle Entlehnungen aus spanischen Medien. Lassen Sie entscheiden, ob es sich um Lehnwörter oder Lehnübersetzungen handelt, und vergleichen Sie entsprechende Formen im Deutschen und in den Herkunftssprachen. Diskutieren Sie anschließend: Wie könnte man ein deutsches Wort wie „Homeoffice“ ins Spanische übersetzen? So wird deutlich, dass Mehrsprachigkeit ein Motor sprachlicher Innovation ist (vgl. Kapitel [Herkunftssprachen](../herkunftssprachen/)).
+    Sammeln Sie mit der Klasse aktuelle Entlehnungen aus spanischen Medien. Lassen Sie entscheiden, ob es sich um Lehnwörter oder Lehnübersetzungen handelt, und vergleichen Sie entsprechende Formen im Deutschen und in den Herkunftssprachen. Diskutieren Sie anschließend: Wie könnte man ein deutsches Wort wie „Homeoffice“ ins Spanische übersetzen? So wird deutlich, dass Mehrsprachigkeit ein Motor sprachlicher Innovation ist (vgl. Kapitel [Herkunftssprachen](herkunftssprachen.md)).
 
 
 ### Ab wann gehört ein neues Wort nun (offiziell) zu einer Sprache?
