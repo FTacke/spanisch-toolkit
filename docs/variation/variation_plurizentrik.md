@@ -76,6 +76,24 @@ Nicht alle nationalen Standardvarietäten des Spanischen genießen dasselbe inte
 
 Daneben bestehen in allen spanischsprachigen Ländern eigene nationale Standardvarietäten, die jeweils den Maßstab für formellen Sprachgebrauch im eigenen Land bilden. Diese Standards sind jedoch nicht immer scharf voneinander abgrenzbar: Viele Merkmale sind überregional verbreitet, und Unterschiede zeigen sich eher in der Häufigkeit bestimmter Varianten als in exklusiven Merkmalen. So kann etwa die Aspiration oder Elision von /s/ in einem Land häufiger auftreten als in einem anderen, ohne dass sie als alleiniges Kennzeichen einer Varietät gilt.
 
+!!! tip "Hispanophonie: Karte und Zahlen"
+    <div class="map-admonition">
+    Entdecken Sie auf einer Karte der Hispanophonie, wie das Spanische weltweit verbreitet ist und welches Gewicht die einzelnen Länder in der spanischsprachigen Welt haben (quantitativ).
+        <div class="map-image-row">
+            <div class="map-image-item">
+                <a href="/variation/map_countries/" class="map-image-link">
+                    <img src="/assets/images/map_countries.png" alt="Karte der Hispanophonie" class="admonition-map-image" />
+                </a>
+            </div>
+            <div class="map-image-item">
+                <a href="/variation/map_countries/" class="map-image-link">
+                    <img src="/assets/images/map_countries_detail.png" alt="Detailkarte Hispanophonie" class="admonition-map-image" />
+                </a>
+            </div>
+        </div>
+        <a href="/variation/map_countries/" class="map-button" role="button">🔎 <strong>Entdecken</strong></a>
+    </div>
+
 Neben Spanien, Mexiko und Argentinien spielt auch **Kolumbien** – insbesondere durch seine medial stark präsente und klar artikulierte Aussprachenorm in Bogotá – eine wichtige Rolle. Kolumbien gilt nach Mexiko als eines der wichtigsten Zentren lateinamerikanischer Medienproduktion, etwa im Bereich der Telenovelas. Weitere nationale Standards, etwa in Chile, Peru, Paraguay oder Ecuador, besitzen geringere internationale Reichweite, sind aber institutionell legitim und gesellschaftlich normbildend.
 
 Das Gesamtbild zeigt eine deutliche Asymmetrie unter den hispanophonen Zentren: Spanien bleibt institutionell stark, während die amerikanischen Zentren durch demografische Dynamik, Medienproduktion und kulturelle Eigenständigkeit zunehmend an Gewicht gewinnen. 

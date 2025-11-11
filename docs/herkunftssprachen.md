@@ -16,7 +16,7 @@ Unter den am häufigsten in Deutschland gesprochenen Herkunftssprachen befinden 
 
 Die folgende Karte gibt einen geographischen Überblick:
 
-<div id="map-container">
+<div id="map-container" data-map="herkunft">
   <button id="fullscreen-btn" onclick="toggleFullscreen()">
     <span class="material-icons">fullscreen</span>
   </button>
