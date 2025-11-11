@@ -348,6 +348,92 @@ body[data-md-color-scheme="slate"] .audio-source {
     border: .1rem solid #d3685f;
 }
 
+/* Variation map specific styles (moved from variation_map.md) */
+#map-container[data-map="variation"] {
+  position: relative;
+  width: 100%;
+  height: 650px;
+}
+
+#map-container[data-map="variation"] #mapid {
+  width: 100%;
+  height: 100%;
+}
+
+#map-container[data-map="variation"] #fullscreen-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 1000;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+#map-container[data-map="variation"].fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 9999;
+}
+
+#map-container[data-map="variation"].fullscreen #mapid {
+  height: 100vh;
+}
+
+.popup-sprachenkarte {
+  font-family: Arial, sans-serif;
+}
+
+.popup-title {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.popup-hauptstadt {
+  font-style: italic;
+  font-size: 0.9em;
+  color: #666;
+}
+
+.popup-gdn {
+  margin-top: 5px;
+}
+
+.popup-anteil {
+  margin-top: 5px;
+}
+
+/* Popup value styling for variation map: labels smaller, values bold */
+#map-container[data-map="variation"] .popup-sprachenkarte .popup-line {
+  margin-top: 4px;
+  line-height: 1.2;
+}
+
+#map-container[data-map="variation"] .popup-sprachenkarte .popup-label {
+  font-size: 0.80em;
+  color: #333;
+}
+
+#map-container[data-map="variation"] .popup-sprachenkarte .popup-value {
+  font-weight: 700;
+  font-size: 0.80em;
+  margin-left: 4px;
+}
+
+/* Make the country name prominent like a heading inside the popup */
+#map-container[data-map="variation"] .popup-sprachenkarte .popup-title {
+  font-size: 0.90em; /* larger than other popup text */
+  font-weight: 700;
+  line-height: 0.9;
+  display: block;
+  margin-bottom: 4px;
+}
+
 .hoermal .admonition-title, .hoermal summary {
     background-color: #f1ded3;
 }
@@ -358,4 +444,128 @@ body[data-md-color-scheme="slate"] .md-typeset details.hoermal {
 body[data-md-color-scheme="slate"] .hoermal .admonition-title,
 body[data-md-color-scheme="slate"] .hoermal summary {
   background-color: #6f4f45;
+}
+
+/* Small, reusable button style for internal links to maps/pages */
+.md-typeset a.map-button, .md-content a.map-button {
+  display: inline-block;
+  padding: 0.35rem 0.65rem;
+  background: #1976d2; /* blue primary */
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  border: 1px solid rgba(0,0,0,0.08);
+  font-weight: 700;
+  vertical-align: middle;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.06);
+}
+.md-typeset a.map-button:hover, .md-content a.map-button:hover {
+  background: #145ea6;
+  color: #fff;
+}
+.md-typeset a.map-button:active, .md-content a.map-button:active {
+  transform: translateY(1px);
+}
+.md-typeset a.map-button .material-icons, .md-content a.map-button .material-icons {
+  vertical-align: middle;
+  margin-right: 0.35rem;
+}
+
+/* Respect dark mode: slightly lighter button when in slate/dark scheme */
+body[data-md-color-scheme="slate"] .md-typeset a.map-button,
+body[data-md-color-scheme="slate"] .md-content a.map-button {
+  background: #1e88e5;
+}
+
+/* Position map-button bottom-right only inside the map admonition wrapper
+   (avoid changing spacing for all tip admonitions). The markup in the
+   content adds a <div class="map-admonition"> wrapper inside the tip. */
+.md-typeset .admonition.tip .map-admonition, .md-content .admonition.tip .map-admonition {
+  position: relative; /* establish stacking context for the absolute child */
+  padding-bottom: 2.2rem; /* make space for the positioned button */
+}
+
+.md-typeset .admonition.tip .map-admonition a.map-button, .md-content .admonition.tip .map-admonition a.map-button {
+  position: absolute;
+  right: 0.9rem;
+  bottom: 0.6rem;
+  z-index: 10;
+}
+
+/* Left-aligned map image inside tip admonition */
+.md-typeset .admonition.tip .admonition-map-image,
+.md-content .admonition.tip .admonition-map-image {
+  float: left;
+  width: 300px;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem; /* 1rem spacing on all sides */
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.06);
+}
+
+/* right-side variant */
+.md-typeset .admonition.tip .admonition-map-image--right,
+.md-content .admonition.tip .admonition-map-image--right {
+  float: right;
+  margin: 1rem; /* 1rem spacing on all sides */
+}
+/* Row layout for the two preview images (desktop / default) */
+.map-image-row {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap; /* allow wrapping on narrower viewports */
+}
+
+.map-image-item {
+  flex: 0 0 300px; /* fixed item width */
+  box-sizing: border-box;
+}
+
+.map-image-item .admonition-map-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0; /* spacing comes from the row gap */
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.06);
+}
+
+/* On small screens place image above text and full width */
+@media (max-width: 640px) {
+  .md-typeset .admonition.tip .admonition-map-image,
+  .md-content .admonition.tip .admonition-map-image,
+  .md-typeset .admonition.tip .admonition-map-image--right,
+  .md-content .admonition.tip .admonition-map-image--right {
+    float: none;
+    display: block;
+    width: 100%;
+    margin: 0 0 0.8rem 0;
+  }
+
+  /* stack the preview row and make items full width */
+  .map-image-row {
+    display: block; /* stack images */
+  }
+  .map-image-item {
+    width: 100%;
+    flex: 0 0 auto;
+    margin-bottom: 0.8rem;
+  }
+  .map-image-item .admonition-map-image {
+    width: 100%;
+  }
+
+  /* Reduce reserved space inside the map-admonition on small screens */
+  .md-typeset .admonition.tip .map-admonition, .md-content .admonition.tip .map-admonition {
+    padding-bottom: 1rem; /* less reserved space for mobile */
+  }
+
+  /* Keep the button positioned bottom-right on mobile as well;
+     increase the admonition bottom padding so it doesn't overlap content. */
+  .md-typeset .admonition.tip .map-admonition, .md-content .admonition.tip .map-admonition {
+    padding-bottom: 3.4rem; /* enough space for the absolutely-positioned button */
+  }
 }
