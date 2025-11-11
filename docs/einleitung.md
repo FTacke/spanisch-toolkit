@@ -35,10 +35,9 @@ Die folgenden Kapitel sind in der ersten vorläufigen Version enthalten:
 | &nbsp;&nbsp;&nbsp;&nbsp;[5.1 Variation & Plurizentrik](variation/variation_plurizentrik.md) | Grundlagen: Was ist Variation und Plurizentrik? Welche Standardvarietäten gibt es? |
 | &nbsp;&nbsp;&nbsp;&nbsp;[5.2 Aussprachevariation](variation/variation_aussprache.md) | Welche Variationsphänomene gibt es auf der lautlichen Ebene? |
 | &nbsp;&nbsp;&nbsp;&nbsp;[5.3 Grammatische Variation](variation/variation_grammatik.md) | Welche grammatikalischen und pragmatischen Unterschiede prägen die Varietäten des Spanischen? |
-| &nbsp;&nbsp;&nbsp;&nbsp;[5.4 Plurizentrik im Klassenraum](variation/variation_klassenraum.md) | Wie lässt sich die Vielfalt des Spanischen didaktisch im Unterricht umsetzen? |
-| [6 Herkunftssprachen](herkunftssprachen.md) | Wie bereichern verschiedene Herkunftssprachen den Spanischunterricht? |
-| [7 Sprachwandel](wandel.md) | Wie lässt sich das heutige Spanisch diachron verstehen? |
-
+| &nbsp;&nbsp;&nbsp;&nbsp;[Karte und Zahlen](variation/map_countries.md) | Karte der Hispanophonie zur Verbreitung des Spanischen |
+| [6 Sprachwandel](wandel.md) | Wie lässt sich das heutige Spanisch diachron verstehen? |
+| [7 Herkunftssprachen](herkunftssprachen.md) | Wie bereichern verschiedene Herkunftssprachen den Spanischunterricht? |
 
 ---
 

@@ -1,4 +1,4 @@
-# 7 Sprachwandel[^*]  
+# 6 Sprachwandel[^*]  
 
 ## Spanisch heute – diachron betrachtet
 
