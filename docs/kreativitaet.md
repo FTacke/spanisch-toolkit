@@ -2,9 +2,9 @@
 
 ## ¿Cómo se dice *Fernweh* en español?
 
-Wer versucht, das deutsche Wort *Fernweh* ins Spanische zu übersetzen, merkt schnell: So einfach ist das nicht. Zwar lässt sich die Bedeutung umschreiben – etwa mit *deseo de viajar* oder *ansias de ver el mundo* –, doch eine direkte Entsprechung gibt es nicht. Dieses Beispiel zeigt: Sprache ist immer Ausdruck von Weltwahrnehmung, kulturellen Erfahrungen und kreativen Prozessen. Sie entsteht und verändert sich ständig im Gebrauch. Und darum, wie dabei kreativ neue Wörter entstehen, geht es in diesem Kapitel.
+Wer versucht, das deutsche Wort *Fernweh* ins Spanische zu übersetzen, merkt schnell: So einfach ist das nicht. Zwar lässt sich die Bedeutung umschreiben – etwa mit *deseo de viajar* oder *ansias de ver el mundo* –, doch eine direkte Entsprechung gibt es nicht. Dieses Beispiel zeigt: Sprache ist immer Ausdruck von Weltwahrnehmung, kulturellen Erfahrungen und kreativen Prozessen, in denen auch ständig neue Wörter entstehen.
 
-Im Spanischen entstehen laufend neue Wörter. Selbst scheinbar spontane Neuschöpfungen wie [*balconear*](https://www.lavanguardia.com/cultura/culturas/20210130/6207320/pandemia-covid-diccionario.html){:target="_blank" rel="noopener noreferrer"} (auf dem Balkon verweilen oder mit anderen kommunizieren) oder [*zoompleaños*](https://www.lavanguardia.com/cultura/culturas/20210130/6207320/pandemia-covid-diccionario.html){:target="_blank" rel="noopener noreferrer"} (‘Geburtstagsfeier über Zoom’), entstanden während der COVID-19-Pandemie, zeigen, wie flexibel Sprache auf neue gesellschaftliche Realitäten reagiert. Diese und viele weitere sogenannte *palabras pandémicas* dokumentieren die kreative Anpassungsfähigkeit des Spanischen an neue Lebenssituationen.
+Im Spanischen ist das nicht anders als im Deutschen. So entstanden während der COVID-19-Pandemie scheinbar spontan Neuschöpfungen wie [*balconear*](https://www.lavanguardia.com/cultura/culturas/20210130/6207320/pandemia-covid-diccionario.html){:target="_blank" rel="noopener noreferrer"} (auf dem Balkon verweilen oder mit anderen kommunizieren) oder [*zoompleaños*](https://www.lavanguardia.com/cultura/culturas/20210130/6207320/pandemia-covid-diccionario.html){:target="_blank" rel="noopener noreferrer"} (‘Geburtstagsfeier über Zoom’), die zeigen, wie flexibel Sprache auf neue gesellschaftliche Realitäten reagiert. Diese und viele weitere sogenannte *palabras pandémicas* dokumentieren die kreative Anpassungsfähigkeit des Spanischen an neue Lebenssituationen.
 
 Wortbildung folgt dabei bestimmten Strukturen. Zwar gibt es vereinzelt Fälle sogenannter *creación ex nihilo* – Wörter, die scheinbar aus dem Nichts entstehen, wie [*gas*](https://dle.rae.es/gas){:target="_blank" rel="noopener noreferrer"} (ursprünglich aus dem Niederländischen *chaos*, ‘Luft, Dampf, unsichtbarer Stoff’) oder [*jitanjáfora*](https://dle.rae.es/jitanjáfora){:target="_blank" rel="noopener noreferrer"} (lautspielerischer Ausdruck ohne reale Bedeutung) –, doch in der Regel entstehen neue Wörter nach erkennbaren Mustern. Wer diese Muster kennt, versteht besser, wie Sprache funktioniert, und kann sich neue Wörter leichter erschließen oder eigene bilden.
 
@@ -18,16 +18,16 @@ Gerade im Fremdsprachenunterricht eröffnet das Thema Wortbildung wichtige Poten
 <p>Die kleinsten bedeutungstragenden Einheiten heißen <b>Morpheme</b>. Man unterscheidet:</p>
 
 <ul>
-  <li><b>Wortstämme oder Wurzeln</b> – tragen die Grundbedeutung, z. B. <i>habl-</i> in <i>hablar</i></li>
+  <li><b>Wortstämme oder Wurzeln</b> – tragen die Grundbedeutung, z.B. <i>habl-</i> in <i>hablar</i></li>
   <li><b>Affixe</b> – werden an den Stamm angefügt und verändern Bedeutung oder Wortart:
     <ul>
-      <li><b>Präfixe</b> (Vorsilben), z. B. <i>in-</i> in <i>infeliz</i></li>
-      <li><b>Suffixe</b> (Nachsilben), z. B. <i>-dor</i> in <i>trabajador</i></li>
+      <li><b>Präfixe</b> (Vorsilben), z.B. <i>in-</i> in <i>infeliz</i></li>
+      <li><b>Suffixe</b> (Nachsilben), z.B. <i>-dor</i> in <i>trabajador</i></li>
     </ul>
   </li>
 </ul>
 
-<p>Die Wortbildung unterscheidet sich von der Flexion: Während Flexion grammatische Formen verändert – etwa Person, Numerus oder bei Verben auch Tempus und Modus (z. B. <i>niño – niños</i>, <i>hablo – hablábamos</i>) –, schafft Wortbildung neue Ausdrücke mit neuer Bedeutung (z. B. <i>trabajar → trabajador</i>).</p>
+<p>Die Wortbildung unterscheidet sich von der Flexion: Während Flexion grammatische Formen verändert – etwa Person, Numerus oder bei Verben auch Tempus und Modus (z.B. <i>niño – niños</i>, <i>hablo – hablábamos</i>) –, schafft Wortbildung neue Ausdrücke mit neuer Bedeutung (z.B. <i>trabajar → trabajador</i>).</p>
 
 <p>Für den Unterricht ist das durchaus relevant, weil Lernende durch das Erkennen solcher Bausteine die Bedeutung vieler Wörter selbst ableiten können. So wird Wortschatzlernen nachhaltiger und das Sprachbewusstsein gestärkt.</p>
 
@@ -37,7 +37,7 @@ Gerade im Fremdsprachenunterricht eröffnet das Thema Wortbildung wichtige Poten
 
 Wortbildung ist mehr als ein technischer Teilbereich der Grammatik – sie ist ein Fenster in den Wortschatz und die Struktur der Zielsprache. Im Unterricht bietet sie einen systematischen Zugang zu Morphologie und Lexik zugleich.
 
-Gerade für Lernende ist dies besonders hilfreich: Wer Wortbildungsregeln kennt, kann die Bedeutung unbekannter Wörter oft ableiten, statt sie auswendig lernen zu müssen. Dies stärkt die **Sprachbewusstheit** und regt dazu an, mit Sprache kreativ umzugehen – etwa durch das Bilden eigener, verständlicher oder regelkonformer Wortneuschöpfungen.
+Gerade für Lernende ist dies besonders hilfreich: Wer Wortbildungsregeln kennt, kann die Bedeutung unbekannter Wörter oft ableiten, statt sie auswendig lernen zu müssen. Dies stärkt die Sprachbewusstheit und regt dazu an, mit Sprache kreativ umzugehen – etwa durch das Bilden eigener, verständlicher oder regelkonformer Wortneuschöpfungen.
 
 Auch aus didaktischer Perspektive bietet das Thema zahlreiche Vorteile:
 
@@ -45,7 +45,7 @@ Auch aus didaktischer Perspektive bietet das Thema zahlreiche Vorteile:
 * Es fördert die Sprachbewusstheit und das Verständnis für den Aufbau und die Funktion von Wörtern.
 * Es hilft, Fehler zu analysieren und zu erklären – etwa bei der Verwendung von Präfixen oder Suffixen.
 * Es stärkt die aktive Wortproduktion, da Lernende Werkzeuge erhalten, um sich präziser und vielfältiger auszudrücken.
-* Es eröffnet sprachvergleichende Perspektiven, z. B. beim Gegenüberstellen spanischer und deutscher Wortbildungsprozesse, was besonders im mehrsprachigen Unterricht gewinnbringend ist.
+* Es eröffnet sprachvergleichende Perspektiven, z.B. beim Gegenüberstellen spanischer und deutscher Wortbildungsprozesse, was besonders im mehrsprachigen Unterricht gewinnbringend ist.
 
 !!! info "Lehrplanbezug (Deutschlandweit)"
     Zwar ist Wortbildung in den Bildungs- und Kerncurricula aller Bundesländer nicht als eigener Themenbereich ausgewiesen, sie ist aber fester Bestandteil der Kompetenzfelder **Sprachbewusstheit**, **Grammatik** und **Wortschatzarbeit**.
@@ -115,7 +115,7 @@ Lexem + Affix → neues Lexem</p>
   – <i>sub-</i> → Unterordnung (<a href="https://dle.rae.es/subterráneo" target="_blank" rel="noopener noreferrer"><i>subterráneo</i></a>)<br>
   – <i>pre-</i> → Vorzeitigkeit (<a href="https://dle.rae.es/predecir" target="_blank" rel="noopener noreferrer"><i>predecir</i></a>)</li>
 
-  <li><b>Infixe</b> (selten): z. B. <a href="https://dle.rae.es/canturrear" target="_blank" rel="noopener noreferrer"><i>canturrear</i></a> (‘vor sich hinsingen’)</li>
+  <li><b>Infixe</b> (selten): z.B. <a href="https://dle.rae.es/canturrear" target="_blank" rel="noopener noreferrer"><i>canturrear</i></a> (‘vor sich hinsingen’)</li>
 </ul>
 
 <p><b>Semantik &amp; Produktivität:</b></p>
@@ -127,7 +127,7 @@ Lexem + Affix → neues Lexem</p>
   <li><i>Antonymisch:</i> <i>motivar → </i><a href="https://dle.rae.es/desmotivar" target="_blank" rel="noopener noreferrer"><i>desmotivar</i></a></li>
 </ul>
 
-<p>Nicht alle Affixe sind gleich produktiv (z. B. <i>-ción</i>, <i>re-</i> häufig), und die Transparenz variiert (<i>panadero</i> ist unmittelbarer als <i>hermoso → hermosura</i>).</p>
+<p>Nicht alle Affixe sind gleich produktiv (z.B. <i>-ción</i>, <i>re-</i> häufig), und die Transparenz variiert (<i>panadero</i> ist unmittelbarer als <i>hermoso → hermosura</i>).</p>
 </details>
 
 !!! tip "Affix-Plakat im Unterricht"
@@ -154,10 +154,10 @@ Lexem + Lexem → neues Lexem</p>
 
 <p><b>Typen der Komposition:</b></p>
 <ul>
-  <li><b>Asyndetisch:</b> ohne Bindewort, z. B. <i>ciudad dormitorio</i> (‘Schlafstadt’), <i>rascacielos</i></li>
-  <li><b>Syntagmatisch:</b> mit Bindewort, meist <i>de</i>, z. B. <i>máquina de escribir</i> (‘Schreibmaschine’), <i>perro de caza</i> (‘Jagdhund’)</li>
+  <li><b>Asyndetisch:</b> ohne Bindewort, z.B. <i>ciudad dormitorio</i> (‘Schlafstadt’), <i>rascacielos</i></li>
+  <li><b>Syntagmatisch:</b> mit Bindewort, meist <i>de</i>, z.B. <i>máquina de escribir</i> (‘Schreibmaschine’), <i>perro de caza</i> (‘Jagdhund’)</li>
   <li><b>Rekursiv:</b> bestehende Komposita dienen als Basis für neue: <a href="https://dle.rae.es/parabrisas" target="_blank" rel="noopener noreferrer"><i>parabrisas</i></a> (‘Windschutz’) → <a href="https://dle.rae.es/limpiaparabrisas" target="_blank" rel="noopener noreferrer"><i>limpiaparabrisas</i></a> (‘Scheibenwischer’)</li>
-  <li><b>Formales Merkmal:</b> meist ohne Bindeelement; selten mit <i>-o-</i>, wie in <a href="https://dle.rae.es/germano-francés" target="_blank" rel="noopener noreferrer"><i>germano-francés</i></a> (‘deutsch-französisch’)</li>
+  <li><b>Formales Merkmal:</b> meist ohne Bindeelement; selten mit <i>-o-</i>, wie in <i>germano-francés</i> (‘deutsch-französisch’)</li>
 </ul>
 
 <p><b>Determinierung:</b></p>
@@ -177,7 +177,7 @@ Lexem + Lexem → neues Lexem</p>
 
 Die Verkürzung von Wörtern ist ein häufiges Mittel, um Kommunikation ökonomischer zu gestalten. Besonders in Medien- und Jugendsprache werden längere Formen abgekürzt, ohne dass die Verständlichkeit leidet. Beispiele sind [*autobús*](https://dle.rae.es/autobús){:target="_blank" rel="noopener noreferrer"} → *bus*, [*bicicleta*](https://dle.rae.es/bicicleta){:target="_blank" rel="noopener noreferrer"} → *bici* oder [*ferrocarril metropolitano*](https://dle.rae.es/ferrocarril){:target="_blank" rel="noopener noreferrer"} → [*metro*](https://dle.rae.es/metro){:target="_blank" rel="noopener noreferrer"} (‘U-Bahn’). Solche Kürzungen übernehmen meist das Genus des Ursprungsworts, manchmal jedoch nicht (*el servicio militar → la mili* ‘Wehrdienst’).
 
-Daneben entstehen durch **Akronyme** neue Wortformen aus Anfangsbuchstaben: [*ONU*](https://dle.rae.es/ONU){:target="_blank" rel="noopener noreferrer"} (‘Organización de las Naciones Unidas’), [*sida*](https://dle.rae.es/sida){:target="_blank" rel="noopener noreferrer"} (‘Síndrome de Inmunodeficiencia Adquirida’). Einige werden zu eigenständigen Lexemen weitergebildet, z. B. [*sidoso*](https://dle.rae.es/sidoso){:target="_blank" rel="noopener noreferrer"} (‘an AIDS erkrankt’) oder *betetista* – eine informelle Neubildung aus dem Akronym *BTT* (‘bicicleta todo terreno’) und dem Suffix *-ista*, im Sinne von ‘jemand, der Mountainbike fährt’. Das Wort ist nicht standardsprachlich und im DLE nicht verzeichnet, zeigt aber die Produktivität solcher Bildungen.
+Daneben entstehen durch **Akronyme** neue Wortformen aus Anfangsbuchstaben: [*ONU*](https://dle.rae.es/ONU){:target="_blank" rel="noopener noreferrer"} (‘Organización de las Naciones Unidas’), [*sida*](https://dle.rae.es/sida){:target="_blank" rel="noopener noreferrer"} (‘Síndrome de Inmunodeficiencia Adquirida’). Einige werden zu eigenständigen Lexemen weitergebildet, z.B. [*sidoso*](https://dle.rae.es/sidoso){:target="_blank" rel="noopener noreferrer"} (‘an AIDS erkrankt’) oder *betetista* – eine informelle Neubildung aus dem Akronym *BTT* (‘bicicleta todo terreno’) und dem Suffix *-ista*, im Sinne von ‘jemand, der Mountainbike fährt’. Das Wort ist nicht standardsprachlich und im DLE nicht verzeichnet, zeigt aber die Produktivität solcher Bildungen.
 
 Diese Formen zeigen, wie flexibel Sprache auf neue Kommunikationssituationen reagiert. Lernende können daran nachvollziehen, dass Wortbildung auch Vereinfachung und Anpassung bedeutet.
 
@@ -229,7 +229,7 @@ Im Spanischen wird der Wortartwechsel meist durch den Artikel markiert, während
 
 ### 5. Kontamination (Kofferwortbildung)
 
-Die Kontamination – auch **Kofferwortbildung** – verschmilzt zwei bestehende Wörter zu einem neuen Ausdruck. Sie dient oft der sprachlichen Verdichtung oder dem humorvollen Effekt. Beispiele sind [*motel*](https://dle.rae.es/motel){:target="_blank" rel="noopener noreferrer"} (aus *motor* + *hotel*), [*emoticono*](https://dle.rae.es/emoticono){:target="_blank" rel="noopener noreferrer"} (aus *emoción* + *icono*) oder *almuerzayuno* (‘Brunch’, aus *almuerzo* + *desayuno*). Das Wort *motel* wurde ursprünglich aus dem Englischen übernommen, wo die Kontamination entstand, bevor sie ins Spanische Eingang fand.
+Die Kontamination – auch Kofferwortbildung – verschmilzt zwei bestehende Wörter zu einem neuen Ausdruck. Sie dient oft der sprachlichen Verdichtung oder dem humorvollen Effekt. Beispiele sind [*motel*](https://dle.rae.es/motel){:target="_blank" rel="noopener noreferrer"} (aus *motor* + *hotel*), [*emoticono*](https://dle.rae.es/emoticono){:target="_blank" rel="noopener noreferrer"} (aus *emoción* + *icono*) oder *almuerzayuno* (‘Brunch’, aus *almuerzo* + *desayuno*). Das Wort *motel* wurde ursprünglich aus dem Englischen übernommen, wo die Kontamination entstand, bevor sie ins Spanische Eingang fand.
 
 Diese Wortbildungsart illustriert besonders deutlich sprachliche Kreativität: Sprecher:innen kombinieren bekannte Elemente neu, um etwas Eigenes zu schaffen.
 
@@ -273,7 +273,7 @@ Lehnübersetzungen wie [*rascacielos*](https://dle.rae.es/rascacielos){:target="
   <li><i>hotdog → perro caliente</i> (‘Hotdog’)</li>
 </ul>
 
-<p>Beide Prozesse zeigen den ständigen Austausch zwischen Sprachen. Manche Lehnwörter werden vollständig integriert (*fútbol*), andere bleiben als Fremdwörter markiert (*software*).</p>
+<p>Beide Prozesse zeigen den ständigen Austausch zwischen Sprachen. Manche Lehnwörter werden vollständig integriert (<i>fútbol</i>), andere bleiben als Fremdwörter markiert (<i>software</i>).</p>
 </details>
 
 !!! tip "Sprachkontakt erfahrbar machen"
@@ -345,7 +345,7 @@ Dabei gilt außerdem: Das DLE dokumentiert den Kern des allgemeinen Wortschatzes
 
 [^*]: **Autor:innen:** Büşra Özen, Teodora Teodorescu, Felix Tacke
 
-      **Beiträge & Peer Review:** Lea-Marie Domin, Jamaa Khodja
+      **Beiträge & Peer Review:** Gloria Gabriel, Lea-Marie Domin, Jamaa Khodja
         
-      **Letzte Änderung:** 07.11.2025
+      **Letzte Änderung:** 15.11.2025
 

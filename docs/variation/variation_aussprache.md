@@ -4,7 +4,7 @@
 
 Wer Spanisch unterrichtet, begegnet früher oder später einer sehr konkreten Frage: Welche Aussprache lehre ich eigentlich – und muss ich mich für eine bestimmte entscheiden?
 
-Das Spanische ist in über zwanzig Ländern Amtssprache und weist eine enorme lautliche Vielfalt auf. Schon beim ersten Hören fällt auf: Der Buchstabe *c* wird in Madrid anders ausgesprochen als in Mexiko, und auch das *s* klingt in Buenos Aires anders als in Bogotá (wenn man es überhaupt hört). Ausspracheunterschiede sind für Lernende meist das hörbarste Zeichen sprachlicher Variation, noch bevor Unterschiede im Wortschatz oder in der Grammatik auffallen.
+Das Spanische ist in über zwanzig Ländern Amtssprache und weist eine enorme lautliche Vielfalt auf. Schon beim ersten Hören fällt auf: Das *z* (und *c* vor *e/i*) wird in Madrid anders ausgesprochen als in Mexiko, und auch das *s* klingt in Buenos Aires anders als in Bogotá (wenn man es überhaupt hört). Ausspracheunterschiede sind für Lernende meist das hörbarste Zeichen sprachlicher Variation, noch bevor Unterschiede im Wortschatz oder in der Grammatik auffallen.
 
 Doch welche Aussprache ist nun die „beste“ oder die geeignetste für den Unterricht? Eine allgemeingültige Antwort darauf gibt es nicht. Im Sinne der sprachlichen Plurizentrik – die im Kapitel [Variation & Plurizentrik](./variation_plurizentrik.md) ausführlicher erläutert wird – haben sich in verschiedenen Regionen eigene Normen der Aussprache herausgebildet. Diese sind Ausdruck der sozialen und kulturellen Vielfalt der spanischsprachigen Welt und stehen nicht in einem Hierarchieverhältnis, sondern gleichberechtigt nebeneinander. Allein für die Aussprache ergeben sich viele ganz praktische Fragen für Lehrende und Lernende:
 
