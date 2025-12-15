@@ -42,7 +42,7 @@ Die folgenden Kapitel sind in der ersten vorläufigen Version enthalten:
 ---
 
 !!! info "Dieses Kapitel zitieren" 
-    Tacke, Felix (2025): „Einleitung“. In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg. Online: [https://linguistik.online.uni-marburg.de/](https://linguistik.online.uni-marburg.de/) DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
+    Tacke, Felix (2025): „Einleitung". In: Tacke, Felix (Koord.): *Spanische Linguistik @ School*. Marburg: Universität Marburg. Online: [https://school.hispanistica.com/](https://school.hispanistica.com/) DOI: [10.5281/zenodo.15348687](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
 
     <span class="cc-text">Auch nutzbar nach <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>-Lizenzregeln.</span>
 

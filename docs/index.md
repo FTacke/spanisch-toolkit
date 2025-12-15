@@ -55,7 +55,7 @@ Klingt kompliziert? Ist es (im Jahr 2025) nicht – lass Dir einfach von der gen
 
 
 !!! info "Dieses Buch zitieren"  
-    Tacke, Felix (Koord.) (2025–): *Spanische Linguistik @ School*. Marburg: Universität Marburg. Online: [https://linguistik.online.uni-marburg.de/](https://linguistik.online.uni-marburg.de/){target="_blank" rel="noopener noreferrer"}  
+    Tacke, Felix (Koord.) (2025–): *Spanische Linguistik @ School*. Marburg: Universität Marburg. Online: [https://school.hispanistica.com/](https://school.hispanistica.com/){target="_blank" rel="noopener noreferrer"}  
       
     [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15348687.svg)](https://doi.org/10.5281/zenodo.15348687){target="_blank" rel="noopener noreferrer"}
     
