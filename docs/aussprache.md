@@ -1,6 +1,6 @@
 # 2 Aussprache[^*]
 
-## Es geht um mehr als „das rollende R"
+## Es geht um mehr als „das rollende R“
 
 „He aprendido español en la escuela.“ – Klingt gut auf dem Papier, aber hört es sich auch gut an? Anders als im Fall des Französischen gilt die Aussprache des Spanischen als leicht und wird dennoch – oder gerade deswegen? – häufig vernachlässigt. Dabei kennt jeder den Unterschied zwischen einer guten Aussprache und einer ‚typisch deutschen‘ Aussprache des Spanischen. Wer zielsprachennah ausspricht, wirkt dabei kompetenter, intelligenter – und täuscht sogar über manchen Fehler in Grammatik oder Wortschatz hinweg. Schließlich kann sich ein fundiertes Wissen über die Lautartikulation auch auf das Hörverständnis auswirken. Wer besser bei der Aussprache wird, ist meist auch motivierter und weniger gehemmt, die Fremdsprache auch außerhalb des Klassenraums anzuwenden. Da die Vermittlung von Aussprachekompetenzen nicht nur praxisnah ist, sondern auch sehr anschaulich sein kann und Lehrenden wie Lernenden meist besonders viel Spaß macht, spricht eigentlich nichts dagegen, etwas mehr Wert (und ein wenig Zeit) auf sie zu verwenden. Ob nun leicht oder schwer, die spanische Aussprache weist natürlich auch einige Schwierigkeiten und Herausforderungen auf.  
 
