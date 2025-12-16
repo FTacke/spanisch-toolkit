@@ -1,6 +1,6 @@
 // docs/assets/javascripts/map_variation_tempora.js
 
-// --- Vollbild-Handling für variation_tempora Map ---
+// --- Vollbild-Handling & Map für Variation Tempora ---
 // Initialisiert nur, wenn die Seite ein entsprechendes data-map="variation_tempora" Container hat
 
 // Warten, bis das DOM und Leaflet geladen sind
@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function toggleFullscreenTempora() {
     const container = temporaContainer;
-    const btn = container.querySelector('#fullscreen-btn-tempora');
+    const btn = container.querySelector('#fullscreen-btn');
     container.classList.toggle('fullscreen');
     btn.innerHTML = container.classList.contains('fullscreen')
       ? '<span class="material-icons">fullscreen_exit</span>'
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
   window.toggleFullscreenTempora = toggleFullscreenTempora;
 
   // --- Leaflet Map ---
-  const mapEl = document.getElementById('variation-tempora-map');
+  const mapEl = temporaContainer.querySelector('#mapid');
   if (mapEl) {
     // Zentriere auf Lateinamerika + Spanien
     const map = L.map(mapEl);
