@@ -189,27 +189,69 @@ Wenn eine **neue Karte** hinzugefügt wird:
 
 ## Z-Index-Hierarchie und Material for MkDocs Navigation
 
-### Leaflet-Layer (innerhalb der Karte)
+### Globale Layer-Hierarchie (Page-Level)
+
 ```
-200  - Tiles (Kartenkacheln)
-400  - Controls (Zoom, Attribution)
-600  - Markers
-800  - Popup Pane
-850  - Popups
+Page-Level (Material for MkDocs UI):
+  3000 - Header (.md-header) - IMMER OBERSTE SCHICHT
+  2900 - Navigation Drawer + Overlay (.md-sidebar, .md-nav, .md-overlay)
+  1000 - Map Container (auch Fullscreen)
+
+Leaflet-Level (innerhalb Map):
+   850 - Popups (höchste Leaflet-Ebene)
+   800 - Popup Pane
+   600 - Marker Pane
+   400 - Control Container
+   200 - Tile Pane (unterste Leaflet-Ebene)
 ```
 
-### Page-Level Z-Index (Material for MkDocs)
+**⚠️ KRITISCHES DESIGN-PRINZIP:**
+
+Die Material for MkDocs Top App Bar (`.md-header`) und der Navigation Drawer (`.md-sidebar`, `.md-nav`) liegen auf z-index **3000** bzw. **2900** und damit **immer über allen Karten-Elementen** – auch wenn Leaflet-Controls visuell "unter" die Top Bar ragen.
+
+**Keine Layout-Verschiebung:** Leaflet-Controls werden **nicht** mit `margin-top` oder `padding-top` verschoben. Stattdessen liegt die Material UI-Schicht einfach darüber. Das ist bewusst so gewählt, um:
+1. Karten-Layout nicht zu verändern
+2. Keine Responsive-Probleme zu erzeugen
+3. Material UI konsistent über allem zu halten
+
+### Implementierung in maps.css
+
+```css
+/* Material for MkDocs Header - IMMER OBERSTE SCHICHT */
+.md-header {
+  z-index: 3000 !important;
+}
+
+/* Material for MkDocs Navigation + Overlay - über Karten */
+.md-overlay,
+.md-sidebar,
+.md-nav,
+.md-drawer {
+  z-index: 2900 !important;
+}
+
+/* Map Container - unter Material UI */
+#map-container,
+[data-map] {
+  z-index: 1000 !important;
+}
+
+/* Fullscreen-Container - maximal 1000 */
+.fullscreen {
+  z-index: 1000 !important; /* NIEMALS über Material Header/Drawer */
+}
+
+/* Leaflet intern - maximal 850 */
+.leaflet-popup { z-index: 850 !important; }
+.leaflet-popup-pane { z-index: 800 !important; }
+.leaflet-marker-pane { z-index: 600 !important; }
+.leaflet-control-container { z-index: 400 !important; }
+.leaflet-tile-pane { z-index: 200 !important; }
 ```
-1000 - Header (.md-header)
-1200 - Fullscreen Map Container
-2000 - Navigation Drawer + Overlay (.md-sidebar, .md-nav, .md-overlay)
-```
 
-**⚠️ KRITISCH:** Der Material for MkDocs Navigation-Drawer (`.md-nav`, `.md-sidebar`) muss auf Mobile einen sehr hohen z-index haben (`2000 !important`), um **garantiert** über allen Karten-Elementen zu liegen.
+### Stacking-Context-Fallen (KRITISCH!)
 
-### Stacking-Context-Fallen (WICHTIG!)
-
-Selbst mit korrektem z-index kann der Drawer hinter Karten verschwinden, wenn ein Parent-Element einen neuen **Stacking-Context** erstellt. Häufige Ursachen:
+Selbst mit korrektem z-index kann Material UI hinter Karten verschwinden, wenn ein Parent-Element einen neuen **Stacking-Context** erstellt. Häufige Ursachen:
 
 - `transform` (z.B. für Animationen)
 - `filter` (z.B. für Effekte)
@@ -227,46 +269,21 @@ Selbst mit korrektem z-index kann der Drawer hinter Karten verschwinden, wenn ei
 }
 ```
 
-### Implementierte Lösung
+**Wichtig:** Wenn Animationen benötigt werden (z.B. für Leaflet-Controls), animiere ein **inneres Element** wie `.leaflet-control-capture`, nicht den Container, der mit Material UI stacken muss.
 
-**In `overrides.css` am Ende:**
+### Implementierte Lösung (Finale Version)
 
-```css
-/* Material for MkDocs Navigation + Overlay IMMER über Fullscreen-Karten */
-.md-sidebar,
-.md-nav,
-.md-overlay,
-.md-drawer {
-  z-index: 2000 !important;
-}
+**In `maps.css` (zentral):**
+- Material Header: `z-index: 3000`
+- Material Drawer/Overlay: `z-index: 2900`
+- Map Container (inkl. Fullscreen): `z-index: 1000`
+- Leaflet-Layer: `z-index: 200-850` (intern)
+- Stacking-Context-Fallen entfernt: `transform: none !important`
 
-/* Verhindere Stacking-Context-Fallen bei Karten-Containern */
-.map-container,
-.map-container.fullscreen,
-#map-container,
-#map-container.fullscreen,
-[data-map="herkunft"],
-[data-map="variation"],
-[data-map="variation_tempora"] {
-  transform: none !important;
-  filter: none !important;
-  perspective: none !important;
-}
-```
-
-**Geändert in Fullscreen-Containern:**
-```css
-/* ALT (FALSCH): */
-#map-container.fullscreen {
-  z-index: 9999 !important; /* Verdeckt Nav-Drawer! */
-}
-
-/* NEU (RICHTIG): */
-#map-container.fullscreen {
-  z-index: 1200 !important; /* Unter Nav-Drawer */
-  transform: none !important; /* Kein neuer Stacking-Context */
-}
-```
+**In `overrides.css`:**
+- Alle Fullscreen-Container auf `z-index: 1000` gedeckelt (vorher 1200)
+- Drawer/Nav z-index entfernt (wird jetzt zentral in maps.css geregelt)
+- Kommentar-Verweis auf maps.css für Z-Index-Hierarchie
 
 ## Referenzen
 
