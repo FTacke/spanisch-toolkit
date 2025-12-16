@@ -51,10 +51,10 @@ Trotz der beschriebenen Unterschiede gibt es Verwendungen des *Perfecto Compuest
 Diese gemeinsamen Verwendungen zeigen, dass das *Perfecto Compuesto* auch dort, wo andere Vergangenheitsformen dominieren, feste und klar umrissene Funktionen behält.
 
 <div id="map-container" data-map="variation_tempora">
-  <button id="fullscreen-btn" onclick="toggleFullscreenTempora()">
+  <button id="fullscreen-btn-tempora" onclick="toggleFullscreenTempora()">
     <span class="material-icons">fullscreen</span>
   </button>
-  <div id="mapid"></div>
+  <div id="variation-tempora-map"></div>
 </div>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
