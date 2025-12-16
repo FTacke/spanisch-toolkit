@@ -3,12 +3,16 @@
 // --- Vollbild-Handling & Map für Variation Tempora ---
 // Initialisiert nur, wenn die Seite ein entsprechendes data-map="variation_tempora" Container hat
 
-// Warten, bis das DOM und Leaflet geladen sind
-document.addEventListener('DOMContentLoaded', () => {
+function initTemporaMap() {
   const temporaContainer = document.querySelector('[data-map="variation_tempora"]');
   
   if (!temporaContainer) {
     return; // Kein Container auf dieser Seite, nichts zu tun
+  }
+
+  // Verhindere doppelte Initialisierung
+  if (window.MapUI && window.MapUI.isMapInitialized(temporaContainer)) {
+    return;
   }
 
   function toggleFullscreenTempora() {
@@ -31,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const map = L.map(mapEl);
     
     // Setze initiale Ansicht abhängig von der Bildschirmbreite
-    const isMobile = window.matchMedia && window.matchMedia('(max-width: 640px)').matches;
+    const isMobile = window.MapUI ? window.MapUI.isMobileViewport() : window.matchMedia('(max-width: 599px)').matches;
     if (isMobile) {
       // Mobile: zentriere auf Lateinamerika
       map.setView([-10, -65], 3);
@@ -45,6 +49,12 @@ document.addEventListener('DOMContentLoaded', () => {
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: 'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a>'
     }).addTo(map);
+
+    // Aktiviere UX-Funktionen (Popup-Schließen, Responsive Invalidation)
+    if (window.MapUI) {
+      window.MapUI.enablePopupCloseUX(map);
+      window.MapUI.enableResponsiveInvalidation(map);
+    }
 
     // Daten laden und Marker setzen
     fetch('/assets/maps/variation_tempora.json')
@@ -87,7 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
               weight: 2
             }).addTo(markerLayer);
 
-            // Popup (als tooltip-ähnliches Verhalten)
+            // Popup HTML
             const popupHtml = `
               <div class="popup-sprachenkarte">
                 <div class="popup-title">${eintrag.Land ?? ''}</div>
@@ -97,15 +107,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 ${eintrag['Verwendung der Tempora'] ? `<div class="popup-line"><span class="popup-label">Verwendung:</span> <span class="popup-value">${eintrag['Verwendung der Tempora']}</span></div>` : ''}
               </div>`;
 
-            marker.bindPopup(popupHtml, {autoPan: true, keepInView: true, offset: [0, -radius], maxWidth: 300});
-            
-            // Öffne Popup beim Hover, schließe beim Verlassen (tooltip-ähnliches Verhalten)
-            marker.on('mouseover', function() { this.openPopup(); });
-            marker.on('mouseout', function() { this.closePopup(); });
-            // Allow click to toggle persistent popup
-            marker.on('click', function() {
-              if (this.isPopupOpen()) this.closePopup(); else this.openPopup();
-            });
+            // Nutze MapUI für konsistentes Click-Popup-Verhalten (KEIN HOVER!)
+            if (window.MapUI) {
+              window.MapUI.bindClickPopup(map, marker, popupHtml, 'corapan-popup');
+            } else {
+              // Fallback wenn MapUI nicht geladen
+              marker.bindPopup(popupHtml);
+            }
 
             bounds.extend(coord);
           });
@@ -117,6 +125,25 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       })
       .catch(err => console.error('Fehler beim Laden der Variation-Tempora-Daten:', err));
+
+    // Markiere als initialisiert
+    if (window.MapUI) {
+      window.MapUI.markMapInitialized(temporaContainer);
+    }
   }
-});
+}
+
+// Initialisiere bei DOMContentLoaded
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initTemporaMap);
+} else {
+  initTemporaMap();
+}
+
+// Material for MkDocs: Instant Navigation Support
+if (typeof document$ !== 'undefined') {
+  document$.subscribe(() => {
+    initTemporaMap();
+  });
+}
 
