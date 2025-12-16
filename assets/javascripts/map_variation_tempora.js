@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function toggleFullscreenTempora() {
     const container = temporaContainer;
-    const btn = container.querySelector('#fullscreen-btn');
+    const btn = container.querySelector('#fullscreen-btn-tempora');
     container.classList.toggle('fullscreen');
     btn.innerHTML = container.classList.contains('fullscreen')
       ? '<span class="material-icons">fullscreen_exit</span>'
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
   window.toggleFullscreenTempora = toggleFullscreenTempora;
 
   // --- Leaflet Map ---
-  const mapEl = temporaContainer.querySelector('#mapid');
+  const mapEl = document.getElementById('variation-tempora-map');
   if (mapEl) {
     // Zentriere auf Lateinamerika + Spanien
     const map = L.map(mapEl);
