@@ -464,6 +464,28 @@
       
     </span>
 </a>
+<nav aria-label="Z-Index-Hierarchie" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#leaflet-layer-innerhalb-der-karte">
+<span class="md-ellipsis">
+      
+        Leaflet-Layer (innerhalb der Karte)
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#page-level-z-index-material-for-mkdocs">
+<span class="md-ellipsis">
+      
+        Page-Level Z-Index (Material for MkDocs)
+      
+    </span>
+</a>
+</li>
+</ul>
+</nav>
 </li>
 <li class="md-nav__item">
 <a class="md-nav__link" href="#dark-mode-support">
@@ -686,12 +708,25 @@
 <span class="p">}</span>
 </code></pre></div>
 <h2 id="z-index-hierarchie">Z-Index-Hierarchie<a class="headerlink" href="#z-index-hierarchie" title="Permanent link">¶</a></h2>
+<h3 id="leaflet-layer-innerhalb-der-karte">Leaflet-Layer (innerhalb der Karte)<a class="headerlink" href="#leaflet-layer-innerhalb-der-karte" title="Permanent link">¶</a></h3>
 <div class="highlight"><pre><span></span><code>200  - Leaflet Tile Pane (Kartenkacheln)
 400  - Leaflet Control Container (Zoom, Attribution)
 600  - Leaflet Marker Pane (Marker)
 800  - Leaflet Popup Pane (Popup-Container)
 850  - Leaflet Popup (Popup selbst)
 </code></pre></div>
+<h3 id="page-level-z-index-material-for-mkdocs">Page-Level Z-Index (Material for MkDocs)<a class="headerlink" href="#page-level-z-index-material-for-mkdocs" title="Permanent link">¶</a></h3>
+<div class="highlight"><pre><span></span><code>1000 - Header (.md-header)
+1200 - Fullscreen Map Container
+2000 - Navigation Drawer + Overlay (.md-sidebar, .md-nav, .md-overlay)
+</code></pre></div>
+<p><strong>⚠️ KRITISCH:</strong> 
+1. Material for MkDocs Navigation-Drawer muss <code>z-index: 2000</code> haben
+2. Fullscreen-Container dürfen maximal <code>z-index: 1200</code> haben
+3. Karten-Container dürfen <strong>keine</strong> Stacking-Context-Fallen haben:
+   - Kein <code>transform</code> (außer auf inneren Controls)
+   - Kein <code>filter</code>
+   - Kein <code>perspective</code></p>
 <p><strong>Wichtig:</strong> <code>overflow: visible</code> auf Map-Containern, damit Popups nicht abgeschnitten werden!</p>
 <h2 id="dark-mode-support">Dark Mode Support<a class="headerlink" href="#dark-mode-support" title="Permanent link">¶</a></h2>
 <p>Alle Popup-Styles sind Dark-Mode-kompatibel:</p>
