@@ -202,12 +202,59 @@ Wenn eine **neue Karte** hinzugefügt wird:
 ```
 1000 - Header (.md-header)
 1200 - Fullscreen Map Container
-3+   - Navigation Drawer (HÖCHSTE PRIORITÄT auf Mobile!)
+2000 - Navigation Drawer + Overlay (.md-sidebar, .md-nav, .md-overlay)
 ```
 
-**⚠️ KRITISCH:** Der Material for MkDocs Navigation-Drawer (`.md-nav`) hat auf Mobile einen sehr hohen z-index (Standard: 3 oder höher je nach Theme-Konfiguration). Fullscreen-Container dürfen **niemals** `z-index: 9999` haben, da sonst der Nav-Drawer auf Mobile hinter den Karten verschwindet. Maximaler z-index für Fullscreen: `1200`.
+**⚠️ KRITISCH:** Der Material for MkDocs Navigation-Drawer (`.md-nav`, `.md-sidebar`) muss auf Mobile einen sehr hohen z-index haben (`2000 !important`), um **garantiert** über allen Karten-Elementen zu liegen.
 
-**Geändert in `overrides.css`:**
+### Stacking-Context-Fallen (WICHTIG!)
+
+Selbst mit korrektem z-index kann der Drawer hinter Karten verschwinden, wenn ein Parent-Element einen neuen **Stacking-Context** erstellt. Häufige Ursachen:
+
+- `transform` (z.B. für Animationen)
+- `filter` (z.B. für Effekte)
+- `perspective` (z.B. für 3D)
+
+**Fix:** Diese Eigenschaften auf Karten-Containern explizit entfernen:
+
+```css
+.map-container,
+#map-container,
+[data-map] {
+  transform: none !important;
+  filter: none !important;
+  perspective: none !important;
+}
+```
+
+### Implementierte Lösung
+
+**In `overrides.css` am Ende:**
+
+```css
+/* Material for MkDocs Navigation + Overlay IMMER über Fullscreen-Karten */
+.md-sidebar,
+.md-nav,
+.md-overlay,
+.md-drawer {
+  z-index: 2000 !important;
+}
+
+/* Verhindere Stacking-Context-Fallen bei Karten-Containern */
+.map-container,
+.map-container.fullscreen,
+#map-container,
+#map-container.fullscreen,
+[data-map="herkunft"],
+[data-map="variation"],
+[data-map="variation_tempora"] {
+  transform: none !important;
+  filter: none !important;
+  perspective: none !important;
+}
+```
+
+**Geändert in Fullscreen-Containern:**
 ```css
 /* ALT (FALSCH): */
 #map-container.fullscreen {
@@ -217,6 +264,7 @@ Wenn eine **neue Karte** hinzugefügt wird:
 /* NEU (RICHTIG): */
 #map-container.fullscreen {
   z-index: 1200 !important; /* Unter Nav-Drawer */
+  transform: none !important; /* Kein neuer Stacking-Context */
 }
 ```
 

@@ -277,12 +277,6 @@ body[data-md-color-scheme="slate"] .audio-source {
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   }
   
-  /* Leaflet Capture kleiner machen */
-  .leaflet-control-capture {
-    transform: scale(0.7);
-    transform-origin: bottom right;
-  }
-
   /* Im Fullscreen-Modus */
   #map-container.fullscreen {
     position: fixed !important;
@@ -632,4 +626,37 @@ body[data-md-color-scheme="slate"] .md-content a.map-button {
   .md-typeset .admonition.tip .map-admonition, .md-content .admonition.tip .map-admonition {
     padding-bottom: 3.4rem; /* enough space for the absolutely-positioned button */
   }
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   CRITICAL FIX: Material for MkDocs Navigation Drawer
+   Drawer MUSS über allen Karten-Elementen liegen (Mobile!)
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* Material for MkDocs Navigation + Overlay IMMER über Fullscreen-Karten */
+.md-sidebar,
+.md-nav,
+.md-overlay,
+.md-drawer {
+  z-index: 2000 !important;
+}
+
+/* Verhindere Stacking-Context-Fallen bei Karten-Containern */
+.map-container,
+.map-container.fullscreen,
+#map-container,
+#map-container.fullscreen,
+[data-map="herkunft"],
+[data-map="variation"],
+[data-map="variation_tempora"] {
+  transform: none !important;
+  filter: none !important;
+  perspective: none !important;
+}
+
+/* Leaflet Controls (Capture etc.) dürfen Stacking-Context erstellen */
+.leaflet-control-capture {
+  /* transform ist OK hier, weil es NUR das Control betrifft, nicht den Container */
+  transform: scale(0.7);
+  transform-origin: bottom right;
 }

@@ -222,6 +222,7 @@ if (typeof document$ !== 'undefined') {
 
 ## Z-Index-Hierarchie
 
+### Leaflet-Layer (innerhalb der Karte)
 ```
 200  - Leaflet Tile Pane (Kartenkacheln)
 400  - Leaflet Control Container (Zoom, Attribution)
@@ -229,6 +230,21 @@ if (typeof document$ !== 'undefined') {
 800  - Leaflet Popup Pane (Popup-Container)
 850  - Leaflet Popup (Popup selbst)
 ```
+
+### Page-Level Z-Index (Material for MkDocs)
+```
+1000 - Header (.md-header)
+1200 - Fullscreen Map Container
+2000 - Navigation Drawer + Overlay (.md-sidebar, .md-nav, .md-overlay)
+```
+
+**⚠️ KRITISCH:** 
+1. Material for MkDocs Navigation-Drawer muss `z-index: 2000` haben
+2. Fullscreen-Container dürfen maximal `z-index: 1200` haben
+3. Karten-Container dürfen **keine** Stacking-Context-Fallen haben:
+   - Kein `transform` (außer auf inneren Controls)
+   - Kein `filter`
+   - Kein `perspective`
 
 **Wichtig:** `overflow: visible` auf Map-Containern, damit Popups nicht abgeschnitten werden!
 
