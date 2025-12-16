@@ -60,8 +60,6 @@ Diese gemeinsamen Verwendungen zeigen, dass das *Perfecto Compuesto* auch dort, 
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-<script src="/assets/javascripts/map_variation_tempora.js"></script>
-
 ### Variation als Normalfall
 
 Der Vergleich von *Perfecto Compuesto* und *Perfecto Simple* zeigt exemplarisch, dass grammatische Variation im Spanischen der Normalfall ist. Es gibt weder „die“ eine richtige Lösung noch einen einfachen Gegensatz zwischen Spanien und Lateinamerika, sondern mehrere regional verankerte Systeme, die jeweils konsistent funktionieren. Für den Unterricht bedeutet das, dass unterschiedliche Verwendungen nicht als Fehler oder Abweichungen zu bewerten sind, unabhängig davon, welche Variante im Klassenzimmer vermittelt wird.

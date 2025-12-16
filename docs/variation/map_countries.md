@@ -51,8 +51,6 @@ Die größten spanischsprachigen Bevölkerungen leben in Mexiko, Kolumbien, Span
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-<script src="/assets/javascripts/map_countries.js"></script>
-
 <!-- Styles for the map have been moved to `assets/stylesheets/overrides.css` and are scoped to the container via `data-map="variation"`. -->
 
 
