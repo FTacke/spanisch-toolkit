@@ -2,8 +2,15 @@
 
 // --- Vollbild-Handling für variation_tempora Map ---
 // Initialisiert nur, wenn die Seite ein entsprechendes data-map="variation_tempora" Container hat
-const temporaContainer = document.querySelector('[data-map="variation_tempora"]');
-if (temporaContainer) {
+
+// Warten, bis das DOM und Leaflet geladen sind
+document.addEventListener('DOMContentLoaded', () => {
+  const temporaContainer = document.querySelector('[data-map="variation_tempora"]');
+  
+  if (!temporaContainer) {
+    return; // Kein Container auf dieser Seite, nichts zu tun
+  }
+
   function toggleFullscreenTempora() {
     const container = temporaContainer;
     const btn = container.querySelector('#fullscreen-btn');
@@ -111,4 +118,5 @@ if (temporaContainer) {
       })
       .catch(err => console.error('Fehler beim Laden der Variation-Tempora-Daten:', err));
   }
-}
+});
+
