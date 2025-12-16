@@ -17,6 +17,33 @@
   overflow: visible !important; /* Kritisch: Popups dürfen nicht abgeschnitten werden */
 }
 
+/* Mobile: Safe Space unter Material for MkDocs Header (Top App Bar) */
+@media (max-width: 599px) {
+  #map-container,
+  [data-map="herkunft"],
+  [data-map="variation"],
+  [data-map="variation_tempora"] {
+    padding-top: 64px; /* Höhe der Material Top App Bar auf Mobile */
+    box-sizing: border-box;
+  }
+
+  /* Leaflet Container soll die verfügbare Fläche nutzen */
+  #map-container #mapid,
+  [data-map="herkunft"] #mapid,
+  [data-map="variation"] #mapid,
+  [data-map="variation_tempora"] #mapid {
+    height: calc(100% - 64px);
+  }
+}
+
+/* Leaflet Controls: Verschiebe nach unten, damit sie nicht von App Bar verdeckt werden */
+@media (max-width: 599px) {
+  .leaflet-top.leaflet-left,
+  .leaflet-top.leaflet-right {
+    margin-top: 72px !important; /* Etwas mehr als padding-top für sicheren Abstand */
+  }
+}
+
 /* ───────────────────────────────────────────────────────────────────
    2. Z-INDEX HIERARCHIE (wie CO.RA.PAN)
    Stabile Layer-Reihenfolge für Leaflet-Komponenten

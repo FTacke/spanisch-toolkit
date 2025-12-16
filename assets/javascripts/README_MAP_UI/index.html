@@ -559,7 +559,7 @@
 <span class="w">  </span><span class="nx">keepInView</span><span class="o">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
 <span class="w">  </span><span class="nx">maxWidth</span><span class="o">:</span><span class="w"> </span><span class="nx">mobile</span><span class="w"> </span><span class="o">?</span><span class="w"> </span><span class="mf">280</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="mf">320</span><span class="p">,</span>
 <span class="w">  </span><span class="nx">minWidth</span><span class="o">:</span><span class="w"> </span><span class="nx">mobile</span><span class="w"> </span><span class="o">?</span><span class="w"> </span><span class="mf">180</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="mf">200</span><span class="p">,</span>
-<span class="w">  </span><span class="nx">autoPanPaddingTopLeft</span><span class="o">:</span><span class="w"> </span><span class="nx">mobile</span><span class="w"> </span><span class="o">?</span><span class="w"> </span><span class="p">[</span><span class="mf">20</span><span class="p">,</span><span class="w"> </span><span class="mf">80</span><span class="p">]</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="p">[</span><span class="mf">50</span><span class="p">,</span><span class="w"> </span><span class="mf">100</span><span class="p">],</span>
+<span class="w">  </span><span class="nx">autoPanPaddingTopLeft</span><span class="o">:</span><span class="w"> </span><span class="nx">mobile</span><span class="w"> </span><span class="o">?</span><span class="w"> </span><span class="p">[</span><span class="mf">20</span><span class="p">,</span><span class="w"> </span><span class="mf">100</span><span class="p">]</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="p">[</span><span class="mf">50</span><span class="p">,</span><span class="w"> </span><span class="mf">100</span><span class="p">],</span><span class="w"> </span><span class="c1">// Mobile: 100px wegen Top App Bar</span>
 <span class="w">  </span><span class="nx">autoPanPaddingBottomRight</span><span class="o">:</span><span class="w"> </span><span class="nx">mobile</span><span class="w"> </span><span class="o">?</span><span class="w"> </span><span class="p">[</span><span class="mf">20</span><span class="p">,</span><span class="w"> </span><span class="mf">20</span><span class="p">]</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="p">[</span><span class="mf">50</span><span class="p">,</span><span class="w"> </span><span class="mf">50</span><span class="p">]</span>
 <span class="p">}</span>
 </code></pre></div>
@@ -726,7 +726,9 @@
 3. Karten-Container dürfen <strong>keine</strong> Stacking-Context-Fallen haben:
    - Kein <code>transform</code> (außer auf inneren Controls)
    - Kein <code>filter</code>
-   - Kein <code>perspective</code></p>
+   - Kein <code>perspective</code>
+4. <strong>Mobile Safe Space:</strong> Auf Mobile (max-width: 599px) benötigen Karten oben <strong>64px padding</strong> wegen der Material Top App Bar
+5. <strong>Leaflet Controls:</strong> Auf Mobile müssen Controls <code>margin-top: 72px</code> haben, um nicht von der App Bar verdeckt zu werden</p>
 <p><strong>Wichtig:</strong> <code>overflow: visible</code> auf Map-Containern, damit Popups nicht abgeschnitten werden!</p>
 <h2 id="dark-mode-support">Dark Mode Support<a class="headerlink" href="#dark-mode-support" title="Permanent link">¶</a></h2>
 <p>Alle Popup-Styles sind Dark-Mode-kompatibel:</p>
