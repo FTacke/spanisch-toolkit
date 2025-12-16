@@ -4,8 +4,40 @@
    ═══════════════════════════════════════════════════════════════════ */
 
 /* ───────────────────────────────────────────────────────────────────
+   0. GLOBALE Z-INDEX HIERARCHIE (Material for MkDocs + Leaflet)
+   
+   Page-Level Layer (Material for MkDocs UI):
+     3000 - Header (.md-header) - IMMER OBERSTE SCHICHT
+     2900 - Navigation Drawer + Overlay (.md-sidebar, .md-nav, .md-overlay)
+     1000 - Map Container (auch Fullscreen)
+   
+   Leaflet-Level Layer (innerhalb Map):
+      850 - Popups (höchste Leaflet-Ebene)
+      800 - Popup Pane
+      600 - Marker Pane
+      400 - Control Container
+      200 - Tile Pane (unterste Leaflet-Ebene)
+   
+   KRITISCH: Material Header/Drawer MÜSSEN über allen Leaflet-Elementen
+   liegen, auch wenn Leaflet-Controls visuell "unter" die Top Bar ragen.
+   ─────────────────────────────────────────────────────────────────── */
+
+/* Material for MkDocs Header - IMMER OBERSTE SCHICHT */
+.md-header {
+  z-index: 3000 !important;
+}
+
+/* Material for MkDocs Navigation + Overlay - über Karten */
+.md-overlay,
+.md-sidebar,
+.md-nav,
+.md-drawer {
+  z-index: 2900 !important;
+}
+
+/* ───────────────────────────────────────────────────────────────────
    1. MAP CONTAINER & OVERFLOW
-   Container darf Popups nicht abschneiden
+   Container unter Material UI, aber über normalem Content
    ─────────────────────────────────────────────────────────────────── */
 
 #map-container,
@@ -13,17 +45,41 @@
 [data-map="variation"],
 [data-map="variation_tempora"] {
   position: relative;
-  z-index: auto;
+  z-index: 1000 !important; /* Unter Material Header/Drawer */
   overflow: visible !important; /* Kritisch: Popups dürfen nicht abgeschnitten werden */
 }
 
+/* Fullscreen-Container dürfen NICHT höher als 1000 sein */
+.map-container.fullscreen,
+.variation-map-container.fullscreen,
+.atlas-map-container.fullscreen,
+#map-container.fullscreen,
+[data-map="herkunft"].fullscreen,
+[data-map="variation"].fullscreen,
+[data-map="variation_tempora"].fullscreen {
+  z-index: 1000 !important; /* NIEMALS über Material Header/Drawer */
+}
+
+/* Verhindere Stacking-Context-Fallen (transform, filter, perspective) */
+.map-container,
+.map-container.fullscreen,
+.variation-map-container,
+.variation-map-container.fullscreen,
+.atlas-map-container,
+.atlas-map-container.fullscreen,
+#map-container,
+#map-container.fullscreen,
+[data-map="herkunft"],
+[data-map="variation"],
+[data-map="variation_tempora"] {
+  transform: none !important;
+  filter: none !important;
+  perspective: none !important;
+}
+
 /* ───────────────────────────────────────────────────────────────────
-   2. Z-INDEX HIERARCHIE (wie CO.RA.PAN)
-   Stabile Layer-Reihenfolge für Leaflet-Komponenten
-   
-   WICHTIG: Material for MkDocs Nav-Drawer hat z-index: 3+ (sehr hoch)
-   Fullscreen-Container in overrides.css haben z-index: 1200
-   Die Leaflet-Layer müssen darunter bleiben!
+   2. Z-INDEX HIERARCHIE (Leaflet intern)
+   Leaflet-Layer bleiben IMMER unter 1000 (Map Container z-index)
    ─────────────────────────────────────────────────────────────────── */
 
 .leaflet-tile-pane { 

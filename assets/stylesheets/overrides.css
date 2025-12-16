@@ -287,7 +287,7 @@ body[data-md-color-scheme="slate"] .audio-source {
     max-width: none !important;
     max-height: none !important;
     border-radius: 0 !important;
-    z-index: 1200 !important;       /* Unter Nav-Drawer (Material: 3+) */
+    z-index: 1000 !important;       /* Unter Material Header (3000) und Drawer (2900) */
     margin: 0 !important;
     background: white;
     border: none !important;
@@ -303,7 +303,7 @@ body[data-md-color-scheme="slate"] .audio-source {
     max-width: none !important;
     max-height: none !important;
     border-radius: 0 !important;
-    z-index: 1200 !important;       /* Unter Nav-Drawer (Material: 3+) */
+    z-index: 1000 !important;       /* Unter Material Header (3000) und Drawer (2900) */
     margin: 0 !important;
     background: white;
     border: none !important;
@@ -372,7 +372,7 @@ body[data-md-color-scheme="slate"] .audio-source {
   left: 0;
   width: 100vw;
   height: 100vh;
-  z-index: 1200;  /* Unter Nav-Drawer (Material: 3+) */
+  z-index: 1000;  /* Unter Material Header (3000) und Drawer (2900) */
 }
 
 #map-container[data-map="variation"].fullscreen #mapid {
@@ -471,7 +471,7 @@ body[data-md-color-scheme="slate"] .hoermal summary {
   left: 0;
   width: 100vw;
   height: 100vh;
-  z-index: 1200;  /* Unter Nav-Drawer (Material: 3+) */
+  z-index: 1000;  /* Unter Material Header (3000) und Drawer (2900) */
   margin: 0;
 }
 
@@ -629,30 +629,10 @@ body[data-md-color-scheme="slate"] .md-content a.map-button {
 }
 
 /* ═══════════════════════════════════════════════════════════════════
-   CRITICAL FIX: Material for MkDocs Navigation Drawer
-   Drawer MUSS über allen Karten-Elementen liegen (Mobile!)
+   Z-INDEX HIERARCHIE & STACKING-CONTEXT
+   Zentral in maps.css definiert - siehe dort für Details
+   Material Header: 3000, Drawer: 2900, Maps: 1000, Leaflet: <=850
    ═══════════════════════════════════════════════════════════════════ */
-
-/* Material for MkDocs Navigation + Overlay IMMER über Fullscreen-Karten */
-.md-sidebar,
-.md-nav,
-.md-overlay,
-.md-drawer {
-  z-index: 2000 !important;
-}
-
-/* Verhindere Stacking-Context-Fallen bei Karten-Containern */
-.map-container,
-.map-container.fullscreen,
-#map-container,
-#map-container.fullscreen,
-[data-map="herkunft"],
-[data-map="variation"],
-[data-map="variation_tempora"] {
-  transform: none !important;
-  filter: none !important;
-  perspective: none !important;
-}
 
 /* Leaflet Controls (Capture etc.) dürfen Stacking-Context erstellen */
 .leaflet-control-capture {
