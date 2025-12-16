@@ -187,6 +187,39 @@ Wenn eine **neue Karte** hinzugefügt wird:
 - **Keine Änderungen** an Fullscreen-Funktionalität (bleibt wie bisher)
 - **Keine Änderungen** an Marker-Farben/Radien (bleibt wie bisher)
 
+## Z-Index-Hierarchie und Material for MkDocs Navigation
+
+### Leaflet-Layer (innerhalb der Karte)
+```
+200  - Tiles (Kartenkacheln)
+400  - Controls (Zoom, Attribution)
+600  - Markers
+800  - Popup Pane
+850  - Popups
+```
+
+### Page-Level Z-Index (Material for MkDocs)
+```
+1000 - Header (.md-header)
+1200 - Fullscreen Map Container
+3+   - Navigation Drawer (HÖCHSTE PRIORITÄT auf Mobile!)
+```
+
+**⚠️ KRITISCH:** Der Material for MkDocs Navigation-Drawer (`.md-nav`) hat auf Mobile einen sehr hohen z-index (Standard: 3 oder höher je nach Theme-Konfiguration). Fullscreen-Container dürfen **niemals** `z-index: 9999` haben, da sonst der Nav-Drawer auf Mobile hinter den Karten verschwindet. Maximaler z-index für Fullscreen: `1200`.
+
+**Geändert in `overrides.css`:**
+```css
+/* ALT (FALSCH): */
+#map-container.fullscreen {
+  z-index: 9999 !important; /* Verdeckt Nav-Drawer! */
+}
+
+/* NEU (RICHTIG): */
+#map-container.fullscreen {
+  z-index: 1200 !important; /* Unter Nav-Drawer */
+}
+```
+
 ## Referenzen
 
 - **CO.RA.PAN Projekt** (Referenzimplementierung für responsive Popups)

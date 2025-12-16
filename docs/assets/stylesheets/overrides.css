@@ -293,7 +293,7 @@ body[data-md-color-scheme="slate"] .audio-source {
     max-width: none !important;
     max-height: none !important;
     border-radius: 0 !important;
-    z-index: 9999 !important;
+    z-index: 1200 !important;       /* Unter Nav-Drawer (Material: 3+) */
     margin: 0 !important;
     background: white;
     border: none !important;
@@ -309,7 +309,7 @@ body[data-md-color-scheme="slate"] .audio-source {
     max-width: none !important;
     max-height: none !important;
     border-radius: 0 !important;
-    z-index: 9999 !important;
+    z-index: 1200 !important;       /* Unter Nav-Drawer (Material: 3+) */
     margin: 0 !important;
     background: white;
     border: none !important;
@@ -378,7 +378,7 @@ body[data-md-color-scheme="slate"] .audio-source {
   left: 0;
   width: 100vw;
   height: 100vh;
-  z-index: 9999;
+  z-index: 1200;  /* Unter Nav-Drawer (Material: 3+) */
 }
 
 #map-container[data-map="variation"].fullscreen #mapid {
@@ -477,7 +477,7 @@ body[data-md-color-scheme="slate"] .hoermal summary {
   left: 0;
   width: 100vw;
   height: 100vh;
-  z-index: 9999;
+  z-index: 1200;  /* Unter Nav-Drawer (Material: 3+) */
   margin: 0;
 }
 

@@ -20,6 +20,10 @@
 /* ───────────────────────────────────────────────────────────────────
    2. Z-INDEX HIERARCHIE (wie CO.RA.PAN)
    Stabile Layer-Reihenfolge für Leaflet-Komponenten
+   
+   WICHTIG: Material for MkDocs Nav-Drawer hat z-index: 3+ (sehr hoch)
+   Fullscreen-Container in overrides.css haben z-index: 1200
+   Die Leaflet-Layer müssen darunter bleiben!
    ─────────────────────────────────────────────────────────────────── */
 
 .leaflet-tile-pane { 
