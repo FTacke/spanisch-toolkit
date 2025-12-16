@@ -40,7 +40,7 @@ Gibt standardisierte Popup-Optionen zurück.
   keepInView: true,
   maxWidth: mobile ? 280 : 320,
   minWidth: mobile ? 180 : 200,
-  autoPanPaddingTopLeft: mobile ? [20, 100] : [50, 100], // Mobile: 100px wegen Top App Bar
+  autoPanPaddingTopLeft: mobile ? [20, 80] : [50, 100],
   autoPanPaddingBottomRight: mobile ? [20, 20] : [50, 50]
 }
 ```
@@ -245,8 +245,6 @@ if (typeof document$ !== 'undefined') {
    - Kein `transform` (außer auf inneren Controls)
    - Kein `filter`
    - Kein `perspective`
-4. **Mobile Safe Space:** Auf Mobile (max-width: 599px) benötigen Karten oben **64px padding** wegen der Material Top App Bar
-5. **Leaflet Controls:** Auf Mobile müssen Controls `margin-top: 72px` haben, um nicht von der App Bar verdeckt zu werden
 
 **Wichtig:** `overflow: visible` auf Map-Containern, damit Popups nicht abgeschnitten werden!
 

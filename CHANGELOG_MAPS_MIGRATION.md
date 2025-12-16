@@ -227,38 +227,6 @@ Selbst mit korrektem z-index kann der Drawer hinter Karten verschwinden, wenn ei
 }
 ```
 
-### Mobile Safe Space (Top App Bar)
-
-Auf Mobile liegt die Material for MkDocs Top App Bar (Header) über dem Viewport. Leaflet Controls würden sonst von der App Bar verdeckt.
-
-**Lösung: Safe Space + Control Offset**
-
-```css
-@media (max-width: 599px) {
-  /* Map-Container: Padding oben für App Bar */
-  #map-container,
-  [data-map] {
-    padding-top: 64px; /* Höhe der Material Top App Bar */
-    box-sizing: border-box;
-  }
-
-  /* Leaflet-Container: Höhe anpassen */
-  #mapid {
-    height: calc(100% - 64px);
-  }
-
-  /* Controls: Nach unten verschieben */
-  .leaflet-top.leaflet-left,
-  .leaflet-top.leaflet-right {
-    margin-top: 72px !important; /* Sicherer Abstand */
-  }
-}
-```
-
-**AutoPan Padding angepasst:**
-- Desktop: `autoPanPaddingTopLeft: [50, 100]`
-- Mobile: `autoPanPaddingTopLeft: [20, 100]` (erhöht von 80 auf 100 wegen App Bar)
-
 ### Implementierte Lösung
 
 **In `overrides.css` am Ende:**

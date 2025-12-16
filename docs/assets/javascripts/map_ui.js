@@ -26,7 +26,7 @@ function popupOptions(className) {
     keepInView: true,
     maxWidth: mobile ? 280 : 320,
     minWidth: mobile ? 180 : 200,
-    autoPanPaddingTopLeft: mobile ? [20, 100] : [50, 100], // Mobile: 100px wegen Top App Bar
+    autoPanPaddingTopLeft: mobile ? [20, 80] : [50, 100],
     autoPanPaddingBottomRight: mobile ? [20, 20] : [50, 50],
   };
 }
