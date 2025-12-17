@@ -10,14 +10,14 @@ theme:
     logo: material/library
   palette:
     - scheme: default
-      primary: blue     # Material-Design-Standardfarbe für hellen Modus
-      accent: light blue
+      primary: custom     # Material-Design-Standardfarbe für hellen Modus
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Wechsel zu Dunkelmodus
     - scheme: slate
-      primary: blue 
-      accent: light blue
+      primary: custom 
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Wechsel zu Hellmodus

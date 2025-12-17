@@ -8,16 +8,11 @@
     <div class="author-names">Lea-Marie Domin · Riccarda Falcone<br>Renata Freyre Castro · Gloria Gabriel<br>Laura Hesral Sánchez · Jamaa Khodja<br>Marlon Merte · Büşra Özen<br>Selina Scholz · Selin Sevgi<br>Felix Tacke · Teodora Teodorescu</div>
     <div class="place">Philipps-Universität Marburg, 2025</div>
     <div class="badge">
-      <a href="https://hispanistica.online.uni-marburg.de"
+      <a href="https://hispanistica.com"
       target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Hispanistica-@%20Marburg-4287f5?style=flat"
+      <img src="assets/images/hispanistica_badge.png"
           alt="Hispanistica – @ Marburg"
-          style="vertical-align:middle" />
-      </a>
-    </div>
-    <div class="badge">
-      <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
-      <img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg" alt="License: CC BY-SA 4.0" style="vertical-align:middle;border:0"/>
+          class="hispanistica-badge" />
       </a>
     </div>
   </div>
