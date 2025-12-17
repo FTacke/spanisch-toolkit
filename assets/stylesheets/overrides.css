@@ -1,3 +1,47 @@
+/* Primary (Header, Sidebar, aktive Elemente) */
+[data-md-color-primary="custom"]{
+  --md-primary-fg-color: #3A4F7A;
+  --md-primary-fg-color--light: #4F6BA6; /* heller */
+  --md-primary-fg-color--dark:  #2C3C5D; /* dunkler */
+  --md-primary-bg-color: #fff;
+  --md-primary-bg-color--light: #ffffffb3;
+}
+
+/* Accent (Links, Hover, Buttons) – kannst du gleich lassen oder bewusst absetzen */
+[data-md-color-accent="custom"]{
+  --md-accent-fg-color: #4F6BA6;            /* passend zum Blau */
+  --md-accent-fg-color--transparent: #4F6BA61A; /* ~10% */
+  --md-accent-bg-color: #fff;
+  --md-accent-bg-color--light: #ffffffb3;
+}
+
+/* Darkmode: Link normal */
+[data-md-color-scheme="slate"]{
+  --md-typeset-a-color: #8FA7D9;
+}
+
+/* Darkmode: Link hover/focus noch heller */
+[data-md-color-scheme="slate"] .md-typeset a:hover,
+[data-md-color-scheme="slate"] .md-typeset a:focus{
+  color: #B8C6EE;
+}
+
+/* Darkmode: Navigation normal/active/hover getrennt */
+[data-md-color-scheme="slate"] .md-nav__link{
+  color: rgba(255,255,255,.78);
+}
+
+[data-md-color-scheme="slate"] .md-nav__link--active{
+  color: #8FA7D9;
+}
+
+[data-md-color-scheme="slate"] .md-nav__link:hover,
+[data-md-color-scheme="slate"] .md-nav__link:focus{
+  color: #B8C6EE;
+}
+
+
+
 /* ─────────────────────────
    Farbvorgaben (helles Grau)
    ───────────────────────── */
@@ -28,7 +72,7 @@
   width: 100%;
   max-width: 400px;
   margin: 0 auto;
-  background-color: #2094F3;
+  background-color: #3A4F7A;
 }
 
 .logo-image {
@@ -65,40 +109,56 @@
 }
 
 .cover-caption .subtitle {
-  font-size: 1.25em;
+  font-size: 1.15em;
   margin: 12px 0 32px;
 }
 
 .cover-caption .coordination {
-  font-size: .9em;
+  font-size: .8em;
   font-weight: bold;
   margin-bottom: 6px;
 }
 
 .cover-caption .coordination-name {
-  font-size: .9em;
+  font-size: .8em;
   margin-bottom: 24px;
 }
 
 .cover-caption .authors {
-  font-size: .9em;
+  font-size: .8em;
   font-weight: bold;
   margin-bottom: 6px;
 }
 
 .cover-caption .author-names {
-  font-size: .9em;
+  font-size: .8em;
   line-height: 1.2;
   margin-bottom: 36px;
 }
 
 .cover-caption .place {
   font-size: .7em;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .cover-caption .badge {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+/* Hispánica Badge: lokal gespeichertes Badge-Bild (max. Breite 120px) */
+.hispanistica-badge {
+  max-width: 60px;
+  height: auto;
+  width: auto;
+  vertical-align: middle;
+  border: 0;
+  display: inline-block;
+}
+
+/* Falls das Badge als <img> innerhalb des Cover-Blocks verwendet wird */
+.cover-caption .badge img.hispanistica-badge {
+  max-width: 100px;
+  height: auto;
 }
 
 .cc-text{
