@@ -1,9 +1,9 @@
 <div class="cover-container">
   <img src="assets/images/toolkit_logo.png" alt="Spanisch Toolkit Logo" class="logo-image"/>
   <div class="cover-caption">
-    <div class="subtitle">Ein digitales Sachbuch für Spanischlehrkräfte</div>
+    <div class="subtitle">Ein digitales Lehrbuch für Spanischlehrkräfte</div>
     <div class="coordination">Koordination</div>
-    <div class="coordination-name">Prof. Dr. Felix Tacke</div>
+    <div class="coordination-name">Felix Tacke</div>
     <div class="authors">Autor:innen</div>
     <div class="author-names">Lea-Marie Domin · Riccarda Falcone<br>Renata Freyre Castro · Gloria Gabriel<br>Laura Hesral Sánchez · Jamaa Khodja<br>Marlon Merte · Büşra Özen<br>Selina Scholz · Selin Sevgi<br>Felix Tacke · Teodora Teodorescu</div>
     <div class="place">Philipps-Universität Marburg, 2025</div>
