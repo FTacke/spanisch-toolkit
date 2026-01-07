@@ -6,7 +6,7 @@
     <div class="coordination-name">Felix Tacke</div>
     <div class="authors">Autor:innen</div>
     <div class="author-names">Lea-Marie Domin · Riccarda Falcone<br>Renata Freyre Castro · Gloria Gabriel<br>Laura Hesral Sánchez · Jamaa Khodja<br>Marlon Merte · Büşra Özen<br>Selina Scholz · Selin Sevgi<br>Felix Tacke · Teodora Teodorescu</div>
-    <div class="place">Philipps-Universität Marburg, 2025</div>
+    <div class="place">Philipps-Universität Marburg, 2025–2026</div>
     <div class="badge">
       <a href="https://hispanistica.com"
       target="_blank" rel="noopener noreferrer">
