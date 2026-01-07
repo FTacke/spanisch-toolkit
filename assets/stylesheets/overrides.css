@@ -1,44 +1,49 @@
+/* =========================================================
+   COLOR SYSTEM – PRIMARY UPDATE TO #4E95D9
+   ========================================================= */
+
 /* Primary (Header, Sidebar, aktive Elemente) */
 [data-md-color-primary="custom"]{
-  --md-primary-fg-color: #3A4F7A;
-  --md-primary-fg-color--light: #4F6BA6; /* heller */
-  --md-primary-fg-color--dark:  #2C3C5D; /* dunkler */
-  --md-primary-bg-color: #fff;
+  --md-primary-fg-color: #4E95D9;
+  --md-primary-fg-color--light: #6FAAE3;
+  --md-primary-fg-color--dark:  #3B74AA;
+  --md-primary-bg-color: #ffffff;
   --md-primary-bg-color--light: #ffffffb3;
 }
 
-/* Accent (Links, Hover, Buttons) – kannst du gleich lassen oder bewusst absetzen */
+/* Accent (Links, Hover, Buttons) */
 [data-md-color-accent="custom"]{
-  --md-accent-fg-color: #4F6BA6;            /* passend zum Blau */
-  --md-accent-fg-color--transparent: #4F6BA61A; /* ~10% */
-  --md-accent-bg-color: #fff;
+  --md-accent-fg-color: #6FAAE3;
+  --md-accent-fg-color--transparent: #6FAAE31A;
+  --md-accent-bg-color: #ffffff;
   --md-accent-bg-color--light: #ffffffb3;
 }
 
-/* Darkmode: Link normal */
+/* Darkmode: Base link color */
 [data-md-color-scheme="slate"]{
-  --md-typeset-a-color: #8FA7D9;
+  --md-typeset-a-color: #9EC2EE;
 }
 
-/* Darkmode: Link hover/focus noch heller */
+/* Darkmode: Link hover / focus */
 [data-md-color-scheme="slate"] .md-typeset a:hover,
 [data-md-color-scheme="slate"] .md-typeset a:focus{
-  color: #B8C6EE;
+  color: #C3D9F5;
 }
 
-/* Darkmode: Navigation normal/active/hover getrennt */
+/* Darkmode: Navigation */
 [data-md-color-scheme="slate"] .md-nav__link{
   color: rgba(255,255,255,.78);
 }
 
 [data-md-color-scheme="slate"] .md-nav__link--active{
-  color: #8FA7D9;
+  color: #9EC2EE;
 }
 
 [data-md-color-scheme="slate"] .md-nav__link:hover,
 [data-md-color-scheme="slate"] .md-nav__link:focus{
-  color: #B8C6EE;
+  color: #C3D9F5;
 }
+
 
 
 
@@ -72,7 +77,7 @@
   width: 100%;
   max-width: 400px;
   margin: 0 auto;
-  background-color: #3A4F7A;
+  background-color: #4E95D9;
 }
 
 .logo-image {
