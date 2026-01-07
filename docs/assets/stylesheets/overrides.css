@@ -75,11 +75,40 @@
 .md-sidebar,
 .md-nav__inner,
 .md-nav {
-    z-index: 2900 !important;
+    z-index: 3900 !important;
 }
 
-/* ─────────────────────────
-   Cover-Block auf Startseite
+/* ─────────────────────────   Mobile Navigation Logo
+   ───────────────────────── */
+@media screen and (max-width: 76.2344em) {
+  .md-nav--primary .md-nav__title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  
+  .md-nav--primary .md-nav__title .md-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    position: static;
+  }
+  
+  /* Text "Spanische Linguistik @ School" ausblenden */
+  .md-nav--primary .md-nav__title[for="__drawer"] {
+    font-size: 0;
+    line-height: 0;
+  }
+  
+  /* Logo sichtbar halten */
+  .md-nav--primary .md-nav__title .md-logo img {
+    font-size: initial;
+  }
+}
+
+/* ─────────────────────────   Cover-Block auf Startseite
    ───────────────────────── */
 .cover-container {
   width: 100%;
