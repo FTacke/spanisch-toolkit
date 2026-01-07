@@ -32,7 +32,7 @@
 .md-sidebar,
 .md-nav,
 .md-drawer {
-  z-index: 2900 !important;
+  z-index: 3900 !important;
 }
 
 /* ───────────────────────────────────────────────────────────────────
