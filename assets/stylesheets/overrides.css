@@ -78,6 +78,14 @@
     z-index: 3900 !important;
 }
 
+.md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg {
+  fill: currentcolor;
+  display: block;
+  max-width: 100%;
+  object-fit: contain;
+  width: auto;
+}
+
 /* ─────────────────────────   Mobile Navigation Logo
    ───────────────────────── */
 @media screen and (max-width: 76.2344em) {
