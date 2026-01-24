@@ -67,7 +67,7 @@ extra_javascript:
   - assets/javascripts/map_variation_tempora.js
 
 nav:
-  - Start: index.md
+  - Titel: index.md
   - Einleitung: einleitung.md
   - 1 Fehlerlinguistik: fehlerlinguistik.md
   - 2 Aussprache: aussprache.md

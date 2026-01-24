@@ -18,33 +18,29 @@
   </div>
 </div>
 
-## Worum geht es hier?
+# Vorwort
 
-Du befindest dich auf der Startseite eines digitalen Sachbuchs, das sich an (zukünftige) Spanischlehrer:innen richtet. Es soll die wichtigsten Themen der spanischen Sprachwissenschaft behandeln und dabei – hier liegt der besondere Fokus – die Relevanz und Nützlichkeit linguistischer Kompetenz für den Spanischunterricht beleuchten.
+Dieses digitale Lehrbuch richtet sich an (angehende) Spanischlehrkräfte und geht von einer grundlegenden Beobachtung aus: Sprachunterricht ist immer auch Sprachreflexion. Wer Spanisch unterrichtet, arbeitet fortlaufend mit sprachlichen Strukturen, Normen, Abweichungen und Varianten – häufig implizit, selten systematisch abgesichert. *Spanische Linguistik @ School* setzt genau hier an. Das Buch zeigt, wie linguistisches Wissen gezielt dazu beitragen kann, Unterricht zu reflektieren, Lernendensprache zu verstehen und didaktisch begründete Entscheidungen zu treffen.
 
-Die Idee zu diesem digitalen Sachbuchprojekt ist nicht aus dem Nichts entstanden, sondern wurde inspiriert durch viele Unterhaltungen mit meinem Kollegen **Rolf Kreyer**, Professor für englische Sprachwissenschaft an der Philipps-Universität Marburg und anerkannter Spezialist für eine linguistisch fundierte Lehrkräftebildung. Sein 2023 publiziertes Lehrbuch (sein *Linguistic Toolkit*, s.u.) ist das Vorbild und bildet den Hintergrund, vor dem hier an einem digitalen "Toolkit" für (angehende) Spanischlehrkräfte gearbeitet wird.
+Die Kapitel behandeln unter anderem Aussprache und Orthographie, Fehlerlinguistik, Sprachvariation und Sprachwandel sowie den Umgang mit Herkunftssprachen im Fremdsprachenunterricht. Einen besonderen Schwerpunkt bilden dabei Variation und Plurizentrik – Bereiche, zu denen sich in den letzten Jahren besonders viele Fragen aus der Unterrichtspraxis ergeben haben. Lehrkräfte sehen sich hier mit einer komplexen sprachlichen Realität konfrontiert, die in Lehrwerken und Curricula nie vollständig abgebildet werden kann. Ziel des Lehrbuchs ist es daher nicht, diese Vielfalt erschöpfend zu katalogisieren, sondern die linguistische Kompetenz zu vermitteln, mit der Lehrkräfte sich solche Komplexität bei Bedarf gezielt erschließen, einordnen und didaktisch reflektieren können.
 
-!!! tip "Referenzwerk für das Englische"
-    **Rolf Kreyer (2023):** *The Linguistic Toolkit for Teachers of English: Discovering the Value of Linguistics for Foreign Language Teaching.*  Tübingen: Narr Francke Attempto Verlag. [Zum eBook](https://www.narr.de/the-linguistic-toolkit-for-teachers-of-english-18611/){target="_blank" rel="noopener noreferrer"}
+Entstanden ist dieses Lehrbuch im Rahmen eines umfassenden hochschuldidaktischen Konzepts, das Hochschullehre, Forschung und schulischen Transfer eng miteinander verzahnt. Zentrales Element dieses Konzepts ist die aktive Rolle der **Studierenden (Mit-)Autor:innen**. Die Kapitel dieses Buches gehen maßgeblich auf studentische Beiträge zurück, die im Rahmen universitärer Lehrveranstaltungen entwickelt wurden. Durch das eigenständige Schreiben von Lehrbuchtexten setzen sich Studierende besonders intensiv mit linguistischen Inhalten auseinander: Fachbegriffe müssen präzise verstanden, theoretische Konzepte didaktisch übersetzt und sprachliche Phänomene für einen schulischen Kontext verständlich aufbereitet werden. Diese produktive Auseinandersetzung führt zu einer deutlich vertieften fachlichen Durchdringung, die weit über eine rein rezipierende Beschäftigung hinausgeht.
 
-Eine ausführlichere Darstellung der Grundidee findest Du in der [Einleitung](einleitung.md). Wenn Du sofort starten möchtest, kannst Du über die Navigation auch direkt in eines der Kapitel springen.
+Die Texterstellung erfolgt in einem mehrstufigen Arbeitsprozess. Auf der Grundlage einer konzeptionellen Rahmung entstehen zunächst studentische Entwürfe, die im Seminar diskutiert und in einem strukturierten Peer-Review-Verfahren von Studierenden für Studierende weiterentwickelt werden. Auf dieser Basis erfolgt anschließend die abschließende redaktionelle und fachliche Bearbeitung durch mich, die die stilistische Vereinheitlichung, die fachliche Absicherung sowie die finale Durchsicht aller Beiträge umfasst. Die studentische Autor:innenschaft bleibt dabei transparent sichtbar – sowohl auf dem Titelblatt des Buches als auch in den Zitierangaben unter den einzelnen Kapiteln.
 
-Bei diesem digitalen Buch handelt es sich um „work in progress“. Die sich jeweils in Arbeit befindlichen Kapitel tragen daher den Zusatz „(Beta)“, um darauf hinzuweisen, dass es sich zunächst noch um zur (internen) Diskussion stehende Texte handelt.
+Das Lehrbuch ist eingebettet in ein größeres Digital-Humanities-Ökosystem, das auf [Hispanistica @ Marburg](https://hispanistica.com). Zahlreiche Beispiele, Datengrundlagen und Materialien stammen direkt aus dort angesiedelten Forschungs- und Entwicklungsprojekten. Ergänzend dazu entstehen auf [Games.Hispanistica](https://games.hispanistica.com) seit Ende 2025 gamifizierte Lernformate, die inhaltlich unmittelbar an die Kapitel dieses Lehrbuchs anknüpfen. Lehrbuch, Forschung und digitale Lernangebote sind damit nicht nebeneinander gestellt, sondern systematisch miteinander verschränkt.  
 
-## Offen lizenziert: *Spanische Linguistik @ School* als OER
+Die Arbeit an diesem Lehrbuch begann im April 2025 als offenes Projekt im Rahmen der Hochschullehre. Über zwei aufeinanderfolgende Semester hinweg wurden Konzeption, Inhalte und Formate kontinuierlich weiterentwickelt, erprobt und geschärft. Aus ersten Entwürfen entstand schrittweise ein konsistentes digitales Lehrbuch, dessen Kapitel fachlich, didaktisch und redaktionell aufeinander abgestimmt sind. Die vorliegende Fassung dokumentiert damit nicht einen Abschluss, sondern den erreichten Stand eines gewachsenen Arbeitsprozesses.  
 
-Dieses digitale Buch ist eine *Open Educational Resource (OER)*. Du darfst die Inhalte *frei nutzen, anpassen und weitergeben*, auch im Unterricht und in eigenen Publikationen – Voraussetzung sind *Namensnennung, Lizenzlink* und ein Hinweis auf *Änderungen*. Wir nutzen dafür **CC BY-SA 4.0**, damit Bearbeitungen wieder offen bleiben. Siehe Lizenzhinweise im Footer.
+Auch wenn *Spanische Linguistik @ School* grundsätzlich offen konzipiert ist und weiter ergänzt werden soll, markiert die vorliegende Fassung einen wichtigen **Meilenstein**. Mit Abschluss aller zentralen Kapitel liegt erstmals eine **Version 1.0** vor – eine in sich geschlossene, zitierfähige Publikation. Das Buch ist versioniert und dauerhaft über **Zenodo** archiviert, sodass einzelne Fassungen transparent nachvollziehbar referenziert werden können.
 
-Die technische Basis ist **Material for MkDocs**. Der *Code* dieses Projekts stammt aus diesem Template, wurde punktuell angepasst und steht bei uns unter der *MIT-Lizenz*. Das Repository ist öffentlich: <https://github.com/FTacke/spanisch-toolkit>.
+Dieses Lehrbuch versteht sich damit nicht nur als Beitrag zur Spanischdidaktik, sondern auch als Impuls, Hochschullehre neu zu denken: als einen Raum, in dem Studierende nicht nur Inhalte rezipieren, sondern Wissen produzieren; in dem Forschung, Lehre und Transfer systematisch zusammengedacht werden; und in dem digitale Formate didaktisch begründet eingesetzt werden.
 
-Wenn Du ein eigenes offenes Lehrbuch entwickeln möchtest, kannst Du unser Setup als *Vorlage* verwenden: Repository forken, Inhalte in `docs/` anpassen, `mkdocs.yml` konfigurieren und über *GitHub Pages* veröffentlichen. So entstehen mit wenig Aufwand weitere frei zugängliche OER-Lehrbücher.  
+Der konzeptionelle Ausgangspunkt dieses Projekts liegt in der Arbeit von **Rolf Kreyer**, dessen Buch *The Linguistic Toolkit for Teachers of English: Discovering the Value of Linguistics for Foreign Language Teaching* (Tübingen: Narr Francke Attempto, 2023) eindrucksvoll gezeigt hat, wie Linguistik als relevantes, praxisnahes Werkzeug für die Ausbildung angehender Fremdsprachenlehrkräfte vermittelt werden kann. Sein Ansatz, linguistische Kompetenz konsequent auf schulische Handlungssituationen zu beziehen, war die entscheidende Inspiration für *Spanische Linguistik @ School*, das diesen Gedanken für den Spanischunterricht aufgreift und im digitalen Raum weiterentwickelt.
 
-Klingt kompliziert? Ist es (im Jahr 2025) nicht – lass Dir einfach von der generativen KI Deiner Wahl Schritt für Schritt helfen!
+*Marburg, Januar 2026*  
+*Felix Tacke*
 
-
-*Marburg, im April 2025*
-
-*Prof. Dr. Felix Tacke*
 
 
 
