@@ -136,6 +136,7 @@
   margin: 0;
   padding: 0;
   border: none;
+  border-radius: 20px;
 }
 
 /* ─────────────────────────
@@ -152,6 +153,7 @@
   line-height: 1;
   background-color: inherit;
   text-shadow: 1px 1px 1px rgba(0,0,0,.18);
+  border-radius: 20px;
 }
 
 .cover-caption .subtitle,
@@ -211,8 +213,9 @@
 
 /* Falls das Badge als <img> innerhalb des Cover-Blocks verwendet wird */
 .cover-caption .badge img.hispanistica-badge {
-  max-width: 100px;
+  max-width: 95px;
   height: auto;
+  border-radius: 8px;
 }
 
 .cc-text{
